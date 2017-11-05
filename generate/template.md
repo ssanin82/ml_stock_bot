@@ -39,10 +39,14 @@
 - good evening
 - dear sir
 
-## intent:show_volume
-{% for s in list_show_volume %}- {{s}}
+## intent:list_stocks
+{% for s in list_all %}- {{s}}
 {% endfor %}
 
-## intent: chart_data
+## intent:show_price
+{% for s in list_show_stocks %}- {{s}}
+{% endfor %}
+
+## intent: show_compare
 - chart data for symbol [xyz](symbol)
 - chart [last year] data for symbol [xyz](symbol)

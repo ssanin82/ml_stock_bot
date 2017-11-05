@@ -7,3 +7,6 @@
 * _show_compare
    - action_show_compare
    - utter_ask_helpmore
+* _list_stocks
+   - action_list_stocks
+   - utter_ask_helpmore

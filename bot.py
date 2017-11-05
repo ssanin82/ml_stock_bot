@@ -41,13 +41,13 @@ class ActionShowPrice(Action):
     def run(self, dispatcher, tracker, domain):
         sym = tracker.slots['symbol'].value
         if sym:
-            load_price_data()
             sym = sym.upper()
-            if sym in prices.keys():
-                pass  # TODO
-                dispatcher.utter_message("Here you go!")
+            df = load_price_data()
+            if sym in df.symbol.unique():
+                img = generate_price_plot(sym)
+                dispatcher.utter_message({"text": "Here you go!", "image": img})
             else:
-                dispatcher.utter_message("No data for symbol %s" % sym)
+                dispatcher.utter_message("No price for symbol %s" % sym)
         else:
             dispatcher.utter_message("Symbol not recognized. Please try again")
         return []
@@ -58,17 +58,36 @@ class ActionShowCompare(Action):
         return 'action_show_compare'
 
     def run(self, dispatcher, tracker, domain):
-        sym = tracker.slots['symbol'].value
-        if sym:
-            c = generate_price_data()
-            sym = sym.upper()
-            if sym in prices.keys():
-                pass  # TODO
-                dispatcher.utter_response("Here you go!")
-            else:
-                dispatcher.utter_message("No data for symbol %s" % sym)
+        sym1, sym2 = tracker.slots['symbol'].value, racker.slots['symbol_compare'].value
+        if not sym1 or not sym2:
+            dispatcher.utter_message("Can't compare")
+            if not sym1:
+                dispatcher.utter_message("First symbol not found")
+            if not sym2:
+                dispatcher.utter_message("Seconf symbol not found")
         else:
-            dispatcher.utter_message("Symbol not recognized. Please try again")
+            sym1, sym2 = sym1.upper(), sym2.upper()
+            df = load_price_data()
+            syms = df.symbol.unique()
+            if not sym1 in syms or not sym2 in syms:
+                dispatcher.utter_message("I failed to recognize necessary symbols")
+                if not sym1 in  syms:
+                    dispatcher.utter_message("I have no information about symbol %s" % sym1)
+                if not sym2:
+                    dispatcher.utter_message("I have no information about symbol %s" % sym2)
+            else:
+                img = generate_compare_plot(sym1, sym2)
+                dispatcher.utter_message({"text": "Here you go!", "image": img})
+        return []
+
+
+class ActionListStocks(Action):
+    def name(self):
+        return 'action_list_stocks'
+
+    def run(self, dispatcher, tracker, domain):
+        df = load_price_data()
+        dispatcher.utter_message("Stock list: %s" % df.symbol.unique())
         return []
 
 
@@ -127,25 +146,32 @@ def run(serve_forever=True):
     return agent
 
 
-def generate_show_volume(df):
+def _permute_chunks(chunks):
+    assert len(chunks) == 3
+    return [' '.join([c1, c2, c3]).replace('  ', ' ').strip()
+            for p in permutations([0, 1, 2])
+            for c3 in chunks[p[2]] for c2 in chunks[p[1]] for c1 in chunks[p[0]]]
+
+
+def _generate_list_stocks():
+    articles = ["", "the"]
+    syms_synonyms = ["instruments", "stocks", "symbols", "tickers"]
+    action = ["list", "show me", "i want to see", "i want you to show me", "show me", "please list", "what are",
+              "what are the", "can i see", "how about"]
+    return _permute_chunks([action, articles, syms_synonyms])
+
+
+def _generate_show_stocks(df):
     articles = ["", "the", "a"]
     chunks = list()
     chunks.append(["show me", "can i see", "what is", "what's", "show"])
-    chunks.append([("%s volume" % a).strip() for a in articles])
+    chunks.append([("%s price" % a).strip() for a in articles])
     chunks.append([("%s %s %s [%s](symbol)" % (prep, a, w, s)).strip()
                    for prep in ["", "for"]
                    for a in articles
                    for w in ["stock", "symbol", "instrument", "ticker"]
                    for s in df.symbol.unique()])
-
-    lines = list()
-    for p in permutations([0, 1, 2]):
-        for c1 in chunks[p[0]]:
-            for c2 in chunks[p[1]]:
-                for c3 in chunks[p[2]]:
-                    lines.append(' '.join([c1, c2, c3]).replace('  ', ' '))
-
-    return lines
+    return _permute_chunks(chunks)
 
 
 def generate_data(df):
@@ -155,18 +181,18 @@ def generate_data(df):
     if not os.path.exists(models_dir):
         os.makedirs(models_dir)
     open(os.path.join(models_dir, 'data.md'), 'w').write(template.render(
-        list_show_volume=generate_show_volume(df)))
+        list_all=_generate_list_stocks(),
+        list_show_stocks=_generate_show_stocks(df)))
 
 
 def load_price_data(syms=None):
-    # items = ['open', 'close', 'low', 'high'] if not items else items
-    items = ['open']  # XXX only 1 price for now
-    syms = ["AMZN", "BBBY", "CAG", "DHI", "EBAY", "FITB",
-            "GOOGL", "HST", "ILMN", "JPM", "KMB", "LUK"] if not syms else syms
+    # items = ['symbol'] + (['open', 'close', 'low', 'high'] if not items else items)
+    items = ['symbol', 'open']  # XXX only 1 price for now
+    syms = ["AMZN", "BK", "CSCO", "DOW", "EBAY", "FOX",
+            "GOOGL", "HP", "IBM", "JPM", "KMB", "NDAQ"] if not syms else syms
     assert(isinstance(syms, list) or isinstance(syms, set) or isinstance(syms, tuple))
     df = pd.read_csv('./stock_data/prices.csv')
-    df = df.loc[df['symbol'].isin(syms)]
-    df = df.loc[df['symbol'] in syms].filter(items=(['date'] + items)).head(100)  # XXX 100 last values
+    df = df.loc[df['symbol'].isin(syms)].filter(items=(['date'] + items)).head(100)  # XXX 100 last values
     df['date'] = pd.to_datetime(df['date'])
     df.set_index('date', inplace=True)
     return df
@@ -207,7 +233,7 @@ if __name__ == '__main__':
     elif "run" == task:
         run()
     elif "generate-data" == task:
-        pass  #  TODO generate_data(load_price_data())
+        generate_data(load_price_data())
     else:
         warnings.warn("Wrong command line argument")
         exit(1)

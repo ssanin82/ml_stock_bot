@@ -6,8 +6,9 @@ slots:
 
 intents:
  - greet
- - show_chart
+ - show_price
  - show_compare
+ - list_stocks
 
 entities:
  - stock
@@ -15,8 +16,8 @@ entities:
  - symbol_compare
 
 templates:
-  greet:
-    - "Good day, sir"
+  utter_greet:
+    - "Good day!"
   action_ask_howcanhelp:
     - "How can I help you?"
     - "What would you like to know?"
@@ -26,8 +27,9 @@ templates:
     - "Any more questions?"
 
 actions:
-  - greet
+  - utter_greet
   - utter_ask_helpmore
   - action_ask_howcanhelp
+  - bot.ActionListStocks
   - bot.ActionShowPrice
   - bot.ActionShowCompare
