@@ -1,0 +1,22 @@
+{
+  "features": [
+    "intent_greet",
+    "intent_show_price",
+    "intent_show_compare",
+    "intent_list_stocks",
+    "entity_stock",
+    "entity_symbol",
+    "entity_symbol_compare",
+    "slot_symbol_0",
+    "slot_symbol_compare_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_default",
+    "prev_utter_greet",
+    "prev_utter_restart",
+    "prev_action_ask_howcanhelp",
+    "prev_action_list_stocks",
+    "prev_action_show_price",
+    "prev_action_show_compare"
+  ]
+}

@@ -1,0 +1,38 @@
+action_factory: null
+actions:
+- utter_default
+- utter_greet
+- utter_restart
+- action_ask_howcanhelp
+- bot.ActionListStocks
+- bot.ActionShowPrice
+- bot.ActionShowCompare
+config:
+  store_entities_as_slots: true
+entities:
+- stock
+- symbol
+- symbol_compare
+intents:
+- greet
+- show_price
+- show_compare
+- list_stocks
+slots:
+  symbol:
+    type: text
+  symbol_compare:
+    type: text
+templates:
+  action_ask_howcanhelp:
+  - text: How can I help you?
+  - text: What would you like to know?
+  utter_default:
+  - text: Not quite clear yet, but please go on...
+  utter_greet:
+  - text: Good day!
+  utter_restart:
+  - text: Is there anything more that I can help with?
+  - text: Ask me more
+  - text: Any more questions?
+topics: []

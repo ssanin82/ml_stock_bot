@@ -21,7 +21,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 import time
-# import numpy as np
 
 from itertools import permutations
 
@@ -31,9 +30,7 @@ from rasa_core.channels.console import ConsoleInputChannel
 from rasa_core.interpreter import RasaNLUInterpreter
 from rasa_core.policies.keras_policy import KerasPolicy
 from rasa_core.policies.memoization import MemoizationPolicy
-# from rasa_core.policies import Policy
-# from rasa_core.actions.action import ACTION_LISTEN_NAME
-# from rasa_core import utils
+from rasa_core.server import RasaCoreServer
 
 logger = logging.getLogger(__name__)
 pd.set_option('display.height', 1000)
@@ -56,6 +53,7 @@ class ActionShowPrice(Action):
 
     def run(self, dispatcher, tracker, domain):
         sym = tracker.slots['symbol'].value
+        sym = tracker.slots['symbol_compare'].value if not sym else sym
         if sym:
             sym = sym.upper()
             df = load_price_data()
@@ -255,8 +253,13 @@ def generate_compare_plot(syms):
     return img
 
 
+class BotServer(RasaCoreServer):
+    def __init__(self, model_directory, nlu_model, verbose, log_file):
+        super(BotServer, self).__init__(model_directory, nlu_model, verbose, log_file)
+
+
 if __name__ == '__main__':
-    #logging.basicConfig(level="DEBUG")
+    # logging.basicConfig(level="DEBUG")
     logging.basicConfig(level="INFO")
     parser = argparse.ArgumentParser(description='starts the bot')
     parser.add_argument('task', help="what the bot should do - e.g. run or train?")
@@ -271,6 +274,11 @@ if __name__ == '__main__':
         run()
     elif "generate-data" == task:
         generate_data(load_price_data())
+    elif "server" == task:
+        port = 8888
+        rasa = BotServer('./models/dialogue', './models/nlu/default/current', True, "./bot.log")
+        logger.info("Started http server on port %s" % port)
+        rasa.app.run("0.0.0.0", port)
     else:
         warnings.warn("Wrong command line argument")
         exit(1)

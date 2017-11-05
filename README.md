@@ -18,7 +18,7 @@ Restrictions:
 TODO:
 1. Need to implement "I don't understand" case, otherwise whatever is told is mapped to one of existing actions
 2. Stock names are case-sensitive. Need to find out how to handle this
-3. Need to disable all predictions for now - sometimes it may cause infinite loop. Only direct mapping of dialogue states
+3. Need to disable all predictions for now - sometimes it may cause infinite loop. Only direct mapping of dialogue states (maybe I need to disable memoization)
 
 ---
 Stock data loaded from [kaggle](https://www.kaggle.com/dgawlik/nyse/data)
