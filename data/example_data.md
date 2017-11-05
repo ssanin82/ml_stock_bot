@@ -47,8 +47,3 @@
 - show stock [xyz](symbol) volume
 - what is the volume for stock [xyz](symbol)
 - what is volume for stock [xyz](symbol)
-
-## synonym:stock
-- symbol
-- instrument
-- ticker

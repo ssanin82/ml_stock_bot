@@ -43,7 +43,6 @@
 {% for s in list_show_volume %}- {{s}}
 {% endfor %}
 
-## synonym:stock
-- symbol
-- instrument
-- ticker
+## intent: chart_data
+- chart data for symbol [xyz](symbol)
+- chart [last year] data for symbol [xyz](symbol)

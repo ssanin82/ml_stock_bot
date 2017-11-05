@@ -1,83 +1,33 @@
 slots:
-  cuisine:
+  symbol:
     type: text
-  people:
+  symbol_compare:
     type: text
-  location:
-    type: text
-  price:
-    type: text
-  info:
-    type: text
-  matches:
-    type: list
 
 intents:
  - greet
- - affirm
- - deny
- - inform
- - thankyou
- - request_info
+ - show_chart
+ - show_compare
 
 entities:
- - location
- - info
- - people
- - price
- - cuisine
+ - stock
+ - symbol
+ - symbol_compare
 
 templates:
-  utter_greet:
-    - "hey there!"
-  utter_goodbye:
-    - "goodbye :("
-    - "Bye-bye"
-  utter_default:
-    - "default message"
-  utter_ack_dosearch: 
-    - "ok let me see what I can find"
-  utter_ack_findalternatives:
-    - "ok let me see what else there is"
-  utter_ack_makereservation:
-    - "ok making a reservation"
-  utter_ask_cuisine: 
-    - "what kind of cuisine would you like?"
+  greet:
+    - "Good day, sir"
+  action_ask_howcanhelp:
+    - "How can I help you?"
+    - "What would you like to know?"
   utter_ask_helpmore:
-    - "is there anything more that I can help with?"
-  utter_ask_howcanhelp:
-    - "how can I help you?"
-  utter_ask_location:
-    - "in which city?"
-  utter_ask_moreupdates: 
-    - "anything else you'd like to modify?"
-  utter_ask_numpeople:
-    - "for how many people?"
-  utter_ask_price: 
-    - text: "in which price range?"
-      buttons:
-      - title: "cheap"
-        payload: "cheap"
-      - title: "expensive"
-        payload: "expensive"
-
-  utter_on_it: 
-    - "I'm on it"
+    - "Is there anything more that I can help with?"
+    - "Ask me more"
+    - "Any more questions?"
 
 actions:
-  - utter_greet
-  - utter_goodbye
-  - utter_default
-  - utter_ack_dosearch
-  - utter_ack_findalternatives
-  - utter_ack_makereservation
-  - utter_ask_cuisine
+  - greet
   - utter_ask_helpmore
-  - utter_ask_howcanhelp
-  - utter_ask_location
-  - utter_ask_moreupdates
-  - utter_ask_numpeople
-  - utter_ask_price
-  - utter_on_it
-  - bot.ActionSearchRestaurants
-  - bot.ActionSuggest
+  - action_ask_howcanhelp
+  - bot.ActionShowPrice
+  - bot.ActionShowCompare
