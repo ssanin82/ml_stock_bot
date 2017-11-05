@@ -16,19 +16,22 @@ entities:
  - symbol_compare
 
 templates:
+  utter_default:
+    - "Not quite clear yet, but please go on..."
   utter_greet:
     - "Good day!"
   action_ask_howcanhelp:
     - "How can I help you?"
     - "What would you like to know?"
-  utter_ask_helpmore:
+  utter_restart:
     - "Is there anything more that I can help with?"
     - "Ask me more"
     - "Any more questions?"
 
 actions:
+  - utter_default
   - utter_greet
-  - utter_ask_helpmore
+  - utter_restart
   - action_ask_howcanhelp
   - bot.ActionListStocks
   - bot.ActionShowPrice

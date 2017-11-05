@@ -1,12 +1,13 @@
 ## story_1
 * _greet
+   - utter_greet
    - action_ask_howcanhelp
 * _show_price
    - action_show_price
-   - utter_ask_helpmore
+   - utter_restart
 * _show_compare
    - action_show_compare
-   - utter_ask_helpmore
+   - utter_restart
 * _list_stocks
    - action_list_stocks
-   - utter_ask_helpmore
+   - utter_restart
