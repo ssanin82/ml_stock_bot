@@ -27,10 +27,36 @@ templates:
   action_ask_howcanhelp:
   - text: How can I help you?
   - text: What would you like to know?
+  - text: Please, ask me
+  - text: I'm listening for your requests
+  - text: Any questions?
+  - text: Shoot your query!
+  - text: Ask please
+  - text: Anything you're interested in?
+  - text: Need some help?
+  - text: Ready to answer
   utter_default:
   - text: Not quite clear yet, but please go on...
+  - text: I do not understand. Please be clear
+  - text: Not sure about what you just said
+  - text: Can you please clarify?
+  - text: I missed the point. Please rephrase your question
+  - text: Failed to understand. Try again please
+  - text: Can you try different wording please?
+  - text: What did you mean?
+  - text: It's not clear. Please, type your request differently
+  - text: What was that again?
   utter_greet:
   - text: Good day!
+  - text: Hello!
+  - text: Nice to see you!
+  - text: I hope you're doing well
+  - text: Greetings!
+  - text: Welcome!
+  - text: Long time no see!
+  - text: Come talk to me!
+  - text: I'm listening
+  - text: Ready to serve you!
   utter_restart:
   - text: Is there anything more that I can help with?
   - text: Ask me more

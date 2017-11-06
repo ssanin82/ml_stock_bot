@@ -2,10 +2,13 @@
 - hey
 - howdy
 - hey there
+- hi there
+- hello there
 - hello
 - hi
 - good morning
 - good evening
+- good day
 - dear sir
 
 ## intent:list_stocks

@@ -107,7 +107,13 @@ class ActionListStocks(Action):
 
     def run(self, dispatcher, tracker, domain):
         df = load_price_data()
-        dispatcher.utter_message("Stock list: %s" % list(df.symbol.unique()))
+        ll = list(df.symbol.unique())
+        assert ll, "No stock information was loaded"
+        if len(ll) > 1:
+            dispatcher.utter_message("I have information about following stocks: %s and %s" %
+                                     (', '.join(ll[:-1]), ll[-1]))
+        else:
+            dispatcher.utter_message("I only know about stock %s" % ll[0])
         return []
 
 
@@ -158,17 +164,23 @@ def train_nlu():
     return model_directory
 
 
+def message_preprocessor(msg):
+    logger.debug('Preprocessing message: %s' % msg)
+    msg = msg.lower()
+    logger.debug('Preprocessed message: %s' % msg)
+    return msg
+
+
 def run(serve_forever=True):
-    agent = Agent.load("models/dialogue",
-                       interpreter=RasaNLUInterpreter("models/nlu/default/current"))
+    agent = Agent.load("models/dialogue", interpreter=RasaNLUInterpreter("models/nlu/default/current"))
     if serve_forever:
-        agent.handle_channel(ConsoleInputChannel())
+        agent.handle_channel(ConsoleInputChannel(), message_preprocessor)
     return agent
 
 
 def _permute_chunks(chunks):
     assert len(chunks) == 3
-    return [' '.join([c1, c2, c3]).replace('  ', ' ').strip()
+    return [' '.join([c1, c2, c3]).replace('  ', ' ').strip().lower()
             for p in permutations([0, 1, 2])
             for c3 in chunks[p[2]] for c2 in chunks[p[1]] for c1 in chunks[p[0]]]
 
@@ -207,7 +219,7 @@ def _generate_cmp_stocks(df):
 
 
 def generate_data(df):
-    env = jinja2.Environment(loader=jinja2.FileSystemLoader('./generate'))
+    env = jinja2.Environment(loader=jinja2.FileSystemLoader('.'))
     template = env.get_template('template.md')
     models_dir = "./models"
     if not os.path.exists(models_dir):
