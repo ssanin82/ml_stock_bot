@@ -2319,6 +2319,342 @@
 - what is a price ticker [ndaq](symbol)
 - what's a price ticker [ndaq](symbol)
 - show a price ticker [ndaq](symbol)
+- tell me [amzn](symbol)
+- tell me about [amzn](symbol)
+- show me [amzn](symbol)
+- can i see [amzn](symbol)
+- what is [amzn](symbol)
+- what's [amzn](symbol)
+- show [amzn](symbol)
+- tell me price [amzn](symbol)
+- tell me about price [amzn](symbol)
+- show me price [amzn](symbol)
+- can i see price [amzn](symbol)
+- what is price [amzn](symbol)
+- what's price [amzn](symbol)
+- show price [amzn](symbol)
+- tell me the price [amzn](symbol)
+- tell me about the price [amzn](symbol)
+- show me the price [amzn](symbol)
+- can i see the price [amzn](symbol)
+- what is the price [amzn](symbol)
+- what's the price [amzn](symbol)
+- show the price [amzn](symbol)
+- tell me a price [amzn](symbol)
+- tell me about a price [amzn](symbol)
+- show me a price [amzn](symbol)
+- can i see a price [amzn](symbol)
+- what is a price [amzn](symbol)
+- what's a price [amzn](symbol)
+- show a price [amzn](symbol)
+- tell me [bk](symbol)
+- tell me about [bk](symbol)
+- show me [bk](symbol)
+- can i see [bk](symbol)
+- what is [bk](symbol)
+- what's [bk](symbol)
+- show [bk](symbol)
+- tell me price [bk](symbol)
+- tell me about price [bk](symbol)
+- show me price [bk](symbol)
+- can i see price [bk](symbol)
+- what is price [bk](symbol)
+- what's price [bk](symbol)
+- show price [bk](symbol)
+- tell me the price [bk](symbol)
+- tell me about the price [bk](symbol)
+- show me the price [bk](symbol)
+- can i see the price [bk](symbol)
+- what is the price [bk](symbol)
+- what's the price [bk](symbol)
+- show the price [bk](symbol)
+- tell me a price [bk](symbol)
+- tell me about a price [bk](symbol)
+- show me a price [bk](symbol)
+- can i see a price [bk](symbol)
+- what is a price [bk](symbol)
+- what's a price [bk](symbol)
+- show a price [bk](symbol)
+- tell me [csco](symbol)
+- tell me about [csco](symbol)
+- show me [csco](symbol)
+- can i see [csco](symbol)
+- what is [csco](symbol)
+- what's [csco](symbol)
+- show [csco](symbol)
+- tell me price [csco](symbol)
+- tell me about price [csco](symbol)
+- show me price [csco](symbol)
+- can i see price [csco](symbol)
+- what is price [csco](symbol)
+- what's price [csco](symbol)
+- show price [csco](symbol)
+- tell me the price [csco](symbol)
+- tell me about the price [csco](symbol)
+- show me the price [csco](symbol)
+- can i see the price [csco](symbol)
+- what is the price [csco](symbol)
+- what's the price [csco](symbol)
+- show the price [csco](symbol)
+- tell me a price [csco](symbol)
+- tell me about a price [csco](symbol)
+- show me a price [csco](symbol)
+- can i see a price [csco](symbol)
+- what is a price [csco](symbol)
+- what's a price [csco](symbol)
+- show a price [csco](symbol)
+- tell me [dow](symbol)
+- tell me about [dow](symbol)
+- show me [dow](symbol)
+- can i see [dow](symbol)
+- what is [dow](symbol)
+- what's [dow](symbol)
+- show [dow](symbol)
+- tell me price [dow](symbol)
+- tell me about price [dow](symbol)
+- show me price [dow](symbol)
+- can i see price [dow](symbol)
+- what is price [dow](symbol)
+- what's price [dow](symbol)
+- show price [dow](symbol)
+- tell me the price [dow](symbol)
+- tell me about the price [dow](symbol)
+- show me the price [dow](symbol)
+- can i see the price [dow](symbol)
+- what is the price [dow](symbol)
+- what's the price [dow](symbol)
+- show the price [dow](symbol)
+- tell me a price [dow](symbol)
+- tell me about a price [dow](symbol)
+- show me a price [dow](symbol)
+- can i see a price [dow](symbol)
+- what is a price [dow](symbol)
+- what's a price [dow](symbol)
+- show a price [dow](symbol)
+- tell me [ebay](symbol)
+- tell me about [ebay](symbol)
+- show me [ebay](symbol)
+- can i see [ebay](symbol)
+- what is [ebay](symbol)
+- what's [ebay](symbol)
+- show [ebay](symbol)
+- tell me price [ebay](symbol)
+- tell me about price [ebay](symbol)
+- show me price [ebay](symbol)
+- can i see price [ebay](symbol)
+- what is price [ebay](symbol)
+- what's price [ebay](symbol)
+- show price [ebay](symbol)
+- tell me the price [ebay](symbol)
+- tell me about the price [ebay](symbol)
+- show me the price [ebay](symbol)
+- can i see the price [ebay](symbol)
+- what is the price [ebay](symbol)
+- what's the price [ebay](symbol)
+- show the price [ebay](symbol)
+- tell me a price [ebay](symbol)
+- tell me about a price [ebay](symbol)
+- show me a price [ebay](symbol)
+- can i see a price [ebay](symbol)
+- what is a price [ebay](symbol)
+- what's a price [ebay](symbol)
+- show a price [ebay](symbol)
+- tell me [fox](symbol)
+- tell me about [fox](symbol)
+- show me [fox](symbol)
+- can i see [fox](symbol)
+- what is [fox](symbol)
+- what's [fox](symbol)
+- show [fox](symbol)
+- tell me price [fox](symbol)
+- tell me about price [fox](symbol)
+- show me price [fox](symbol)
+- can i see price [fox](symbol)
+- what is price [fox](symbol)
+- what's price [fox](symbol)
+- show price [fox](symbol)
+- tell me the price [fox](symbol)
+- tell me about the price [fox](symbol)
+- show me the price [fox](symbol)
+- can i see the price [fox](symbol)
+- what is the price [fox](symbol)
+- what's the price [fox](symbol)
+- show the price [fox](symbol)
+- tell me a price [fox](symbol)
+- tell me about a price [fox](symbol)
+- show me a price [fox](symbol)
+- can i see a price [fox](symbol)
+- what is a price [fox](symbol)
+- what's a price [fox](symbol)
+- show a price [fox](symbol)
+- tell me [googl](symbol)
+- tell me about [googl](symbol)
+- show me [googl](symbol)
+- can i see [googl](symbol)
+- what is [googl](symbol)
+- what's [googl](symbol)
+- show [googl](symbol)
+- tell me price [googl](symbol)
+- tell me about price [googl](symbol)
+- show me price [googl](symbol)
+- can i see price [googl](symbol)
+- what is price [googl](symbol)
+- what's price [googl](symbol)
+- show price [googl](symbol)
+- tell me the price [googl](symbol)
+- tell me about the price [googl](symbol)
+- show me the price [googl](symbol)
+- can i see the price [googl](symbol)
+- what is the price [googl](symbol)
+- what's the price [googl](symbol)
+- show the price [googl](symbol)
+- tell me a price [googl](symbol)
+- tell me about a price [googl](symbol)
+- show me a price [googl](symbol)
+- can i see a price [googl](symbol)
+- what is a price [googl](symbol)
+- what's a price [googl](symbol)
+- show a price [googl](symbol)
+- tell me [hp](symbol)
+- tell me about [hp](symbol)
+- show me [hp](symbol)
+- can i see [hp](symbol)
+- what is [hp](symbol)
+- what's [hp](symbol)
+- show [hp](symbol)
+- tell me price [hp](symbol)
+- tell me about price [hp](symbol)
+- show me price [hp](symbol)
+- can i see price [hp](symbol)
+- what is price [hp](symbol)
+- what's price [hp](symbol)
+- show price [hp](symbol)
+- tell me the price [hp](symbol)
+- tell me about the price [hp](symbol)
+- show me the price [hp](symbol)
+- can i see the price [hp](symbol)
+- what is the price [hp](symbol)
+- what's the price [hp](symbol)
+- show the price [hp](symbol)
+- tell me a price [hp](symbol)
+- tell me about a price [hp](symbol)
+- show me a price [hp](symbol)
+- can i see a price [hp](symbol)
+- what is a price [hp](symbol)
+- what's a price [hp](symbol)
+- show a price [hp](symbol)
+- tell me [ibm](symbol)
+- tell me about [ibm](symbol)
+- show me [ibm](symbol)
+- can i see [ibm](symbol)
+- what is [ibm](symbol)
+- what's [ibm](symbol)
+- show [ibm](symbol)
+- tell me price [ibm](symbol)
+- tell me about price [ibm](symbol)
+- show me price [ibm](symbol)
+- can i see price [ibm](symbol)
+- what is price [ibm](symbol)
+- what's price [ibm](symbol)
+- show price [ibm](symbol)
+- tell me the price [ibm](symbol)
+- tell me about the price [ibm](symbol)
+- show me the price [ibm](symbol)
+- can i see the price [ibm](symbol)
+- what is the price [ibm](symbol)
+- what's the price [ibm](symbol)
+- show the price [ibm](symbol)
+- tell me a price [ibm](symbol)
+- tell me about a price [ibm](symbol)
+- show me a price [ibm](symbol)
+- can i see a price [ibm](symbol)
+- what is a price [ibm](symbol)
+- what's a price [ibm](symbol)
+- show a price [ibm](symbol)
+- tell me [jpm](symbol)
+- tell me about [jpm](symbol)
+- show me [jpm](symbol)
+- can i see [jpm](symbol)
+- what is [jpm](symbol)
+- what's [jpm](symbol)
+- show [jpm](symbol)
+- tell me price [jpm](symbol)
+- tell me about price [jpm](symbol)
+- show me price [jpm](symbol)
+- can i see price [jpm](symbol)
+- what is price [jpm](symbol)
+- what's price [jpm](symbol)
+- show price [jpm](symbol)
+- tell me the price [jpm](symbol)
+- tell me about the price [jpm](symbol)
+- show me the price [jpm](symbol)
+- can i see the price [jpm](symbol)
+- what is the price [jpm](symbol)
+- what's the price [jpm](symbol)
+- show the price [jpm](symbol)
+- tell me a price [jpm](symbol)
+- tell me about a price [jpm](symbol)
+- show me a price [jpm](symbol)
+- can i see a price [jpm](symbol)
+- what is a price [jpm](symbol)
+- what's a price [jpm](symbol)
+- show a price [jpm](symbol)
+- tell me [kmb](symbol)
+- tell me about [kmb](symbol)
+- show me [kmb](symbol)
+- can i see [kmb](symbol)
+- what is [kmb](symbol)
+- what's [kmb](symbol)
+- show [kmb](symbol)
+- tell me price [kmb](symbol)
+- tell me about price [kmb](symbol)
+- show me price [kmb](symbol)
+- can i see price [kmb](symbol)
+- what is price [kmb](symbol)
+- what's price [kmb](symbol)
+- show price [kmb](symbol)
+- tell me the price [kmb](symbol)
+- tell me about the price [kmb](symbol)
+- show me the price [kmb](symbol)
+- can i see the price [kmb](symbol)
+- what is the price [kmb](symbol)
+- what's the price [kmb](symbol)
+- show the price [kmb](symbol)
+- tell me a price [kmb](symbol)
+- tell me about a price [kmb](symbol)
+- show me a price [kmb](symbol)
+- can i see a price [kmb](symbol)
+- what is a price [kmb](symbol)
+- what's a price [kmb](symbol)
+- show a price [kmb](symbol)
+- tell me [ndaq](symbol)
+- tell me about [ndaq](symbol)
+- show me [ndaq](symbol)
+- can i see [ndaq](symbol)
+- what is [ndaq](symbol)
+- what's [ndaq](symbol)
+- show [ndaq](symbol)
+- tell me price [ndaq](symbol)
+- tell me about price [ndaq](symbol)
+- show me price [ndaq](symbol)
+- can i see price [ndaq](symbol)
+- what is price [ndaq](symbol)
+- what's price [ndaq](symbol)
+- show price [ndaq](symbol)
+- tell me the price [ndaq](symbol)
+- tell me about the price [ndaq](symbol)
+- show me the price [ndaq](symbol)
+- can i see the price [ndaq](symbol)
+- what is the price [ndaq](symbol)
+- what's the price [ndaq](symbol)
+- show the price [ndaq](symbol)
+- tell me a price [ndaq](symbol)
+- tell me about a price [ndaq](symbol)
+- show me a price [ndaq](symbol)
+- can i see a price [ndaq](symbol)
+- what is a price [ndaq](symbol)
+- what's a price [ndaq](symbol)
+- show a price [ndaq](symbol)
 - tell me the stock [amzn](symbol)
 - tell me about the stock [amzn](symbol)
 - show me the stock [amzn](symbol)
@@ -3663,6 +3999,342 @@
 - what is a price the ticker [ndaq](symbol)
 - what's a price the ticker [ndaq](symbol)
 - show a price the ticker [ndaq](symbol)
+- tell me the [amzn](symbol)
+- tell me about the [amzn](symbol)
+- show me the [amzn](symbol)
+- can i see the [amzn](symbol)
+- what is the [amzn](symbol)
+- what's the [amzn](symbol)
+- show the [amzn](symbol)
+- tell me price the [amzn](symbol)
+- tell me about price the [amzn](symbol)
+- show me price the [amzn](symbol)
+- can i see price the [amzn](symbol)
+- what is price the [amzn](symbol)
+- what's price the [amzn](symbol)
+- show price the [amzn](symbol)
+- tell me the price the [amzn](symbol)
+- tell me about the price the [amzn](symbol)
+- show me the price the [amzn](symbol)
+- can i see the price the [amzn](symbol)
+- what is the price the [amzn](symbol)
+- what's the price the [amzn](symbol)
+- show the price the [amzn](symbol)
+- tell me a price the [amzn](symbol)
+- tell me about a price the [amzn](symbol)
+- show me a price the [amzn](symbol)
+- can i see a price the [amzn](symbol)
+- what is a price the [amzn](symbol)
+- what's a price the [amzn](symbol)
+- show a price the [amzn](symbol)
+- tell me the [bk](symbol)
+- tell me about the [bk](symbol)
+- show me the [bk](symbol)
+- can i see the [bk](symbol)
+- what is the [bk](symbol)
+- what's the [bk](symbol)
+- show the [bk](symbol)
+- tell me price the [bk](symbol)
+- tell me about price the [bk](symbol)
+- show me price the [bk](symbol)
+- can i see price the [bk](symbol)
+- what is price the [bk](symbol)
+- what's price the [bk](symbol)
+- show price the [bk](symbol)
+- tell me the price the [bk](symbol)
+- tell me about the price the [bk](symbol)
+- show me the price the [bk](symbol)
+- can i see the price the [bk](symbol)
+- what is the price the [bk](symbol)
+- what's the price the [bk](symbol)
+- show the price the [bk](symbol)
+- tell me a price the [bk](symbol)
+- tell me about a price the [bk](symbol)
+- show me a price the [bk](symbol)
+- can i see a price the [bk](symbol)
+- what is a price the [bk](symbol)
+- what's a price the [bk](symbol)
+- show a price the [bk](symbol)
+- tell me the [csco](symbol)
+- tell me about the [csco](symbol)
+- show me the [csco](symbol)
+- can i see the [csco](symbol)
+- what is the [csco](symbol)
+- what's the [csco](symbol)
+- show the [csco](symbol)
+- tell me price the [csco](symbol)
+- tell me about price the [csco](symbol)
+- show me price the [csco](symbol)
+- can i see price the [csco](symbol)
+- what is price the [csco](symbol)
+- what's price the [csco](symbol)
+- show price the [csco](symbol)
+- tell me the price the [csco](symbol)
+- tell me about the price the [csco](symbol)
+- show me the price the [csco](symbol)
+- can i see the price the [csco](symbol)
+- what is the price the [csco](symbol)
+- what's the price the [csco](symbol)
+- show the price the [csco](symbol)
+- tell me a price the [csco](symbol)
+- tell me about a price the [csco](symbol)
+- show me a price the [csco](symbol)
+- can i see a price the [csco](symbol)
+- what is a price the [csco](symbol)
+- what's a price the [csco](symbol)
+- show a price the [csco](symbol)
+- tell me the [dow](symbol)
+- tell me about the [dow](symbol)
+- show me the [dow](symbol)
+- can i see the [dow](symbol)
+- what is the [dow](symbol)
+- what's the [dow](symbol)
+- show the [dow](symbol)
+- tell me price the [dow](symbol)
+- tell me about price the [dow](symbol)
+- show me price the [dow](symbol)
+- can i see price the [dow](symbol)
+- what is price the [dow](symbol)
+- what's price the [dow](symbol)
+- show price the [dow](symbol)
+- tell me the price the [dow](symbol)
+- tell me about the price the [dow](symbol)
+- show me the price the [dow](symbol)
+- can i see the price the [dow](symbol)
+- what is the price the [dow](symbol)
+- what's the price the [dow](symbol)
+- show the price the [dow](symbol)
+- tell me a price the [dow](symbol)
+- tell me about a price the [dow](symbol)
+- show me a price the [dow](symbol)
+- can i see a price the [dow](symbol)
+- what is a price the [dow](symbol)
+- what's a price the [dow](symbol)
+- show a price the [dow](symbol)
+- tell me the [ebay](symbol)
+- tell me about the [ebay](symbol)
+- show me the [ebay](symbol)
+- can i see the [ebay](symbol)
+- what is the [ebay](symbol)
+- what's the [ebay](symbol)
+- show the [ebay](symbol)
+- tell me price the [ebay](symbol)
+- tell me about price the [ebay](symbol)
+- show me price the [ebay](symbol)
+- can i see price the [ebay](symbol)
+- what is price the [ebay](symbol)
+- what's price the [ebay](symbol)
+- show price the [ebay](symbol)
+- tell me the price the [ebay](symbol)
+- tell me about the price the [ebay](symbol)
+- show me the price the [ebay](symbol)
+- can i see the price the [ebay](symbol)
+- what is the price the [ebay](symbol)
+- what's the price the [ebay](symbol)
+- show the price the [ebay](symbol)
+- tell me a price the [ebay](symbol)
+- tell me about a price the [ebay](symbol)
+- show me a price the [ebay](symbol)
+- can i see a price the [ebay](symbol)
+- what is a price the [ebay](symbol)
+- what's a price the [ebay](symbol)
+- show a price the [ebay](symbol)
+- tell me the [fox](symbol)
+- tell me about the [fox](symbol)
+- show me the [fox](symbol)
+- can i see the [fox](symbol)
+- what is the [fox](symbol)
+- what's the [fox](symbol)
+- show the [fox](symbol)
+- tell me price the [fox](symbol)
+- tell me about price the [fox](symbol)
+- show me price the [fox](symbol)
+- can i see price the [fox](symbol)
+- what is price the [fox](symbol)
+- what's price the [fox](symbol)
+- show price the [fox](symbol)
+- tell me the price the [fox](symbol)
+- tell me about the price the [fox](symbol)
+- show me the price the [fox](symbol)
+- can i see the price the [fox](symbol)
+- what is the price the [fox](symbol)
+- what's the price the [fox](symbol)
+- show the price the [fox](symbol)
+- tell me a price the [fox](symbol)
+- tell me about a price the [fox](symbol)
+- show me a price the [fox](symbol)
+- can i see a price the [fox](symbol)
+- what is a price the [fox](symbol)
+- what's a price the [fox](symbol)
+- show a price the [fox](symbol)
+- tell me the [googl](symbol)
+- tell me about the [googl](symbol)
+- show me the [googl](symbol)
+- can i see the [googl](symbol)
+- what is the [googl](symbol)
+- what's the [googl](symbol)
+- show the [googl](symbol)
+- tell me price the [googl](symbol)
+- tell me about price the [googl](symbol)
+- show me price the [googl](symbol)
+- can i see price the [googl](symbol)
+- what is price the [googl](symbol)
+- what's price the [googl](symbol)
+- show price the [googl](symbol)
+- tell me the price the [googl](symbol)
+- tell me about the price the [googl](symbol)
+- show me the price the [googl](symbol)
+- can i see the price the [googl](symbol)
+- what is the price the [googl](symbol)
+- what's the price the [googl](symbol)
+- show the price the [googl](symbol)
+- tell me a price the [googl](symbol)
+- tell me about a price the [googl](symbol)
+- show me a price the [googl](symbol)
+- can i see a price the [googl](symbol)
+- what is a price the [googl](symbol)
+- what's a price the [googl](symbol)
+- show a price the [googl](symbol)
+- tell me the [hp](symbol)
+- tell me about the [hp](symbol)
+- show me the [hp](symbol)
+- can i see the [hp](symbol)
+- what is the [hp](symbol)
+- what's the [hp](symbol)
+- show the [hp](symbol)
+- tell me price the [hp](symbol)
+- tell me about price the [hp](symbol)
+- show me price the [hp](symbol)
+- can i see price the [hp](symbol)
+- what is price the [hp](symbol)
+- what's price the [hp](symbol)
+- show price the [hp](symbol)
+- tell me the price the [hp](symbol)
+- tell me about the price the [hp](symbol)
+- show me the price the [hp](symbol)
+- can i see the price the [hp](symbol)
+- what is the price the [hp](symbol)
+- what's the price the [hp](symbol)
+- show the price the [hp](symbol)
+- tell me a price the [hp](symbol)
+- tell me about a price the [hp](symbol)
+- show me a price the [hp](symbol)
+- can i see a price the [hp](symbol)
+- what is a price the [hp](symbol)
+- what's a price the [hp](symbol)
+- show a price the [hp](symbol)
+- tell me the [ibm](symbol)
+- tell me about the [ibm](symbol)
+- show me the [ibm](symbol)
+- can i see the [ibm](symbol)
+- what is the [ibm](symbol)
+- what's the [ibm](symbol)
+- show the [ibm](symbol)
+- tell me price the [ibm](symbol)
+- tell me about price the [ibm](symbol)
+- show me price the [ibm](symbol)
+- can i see price the [ibm](symbol)
+- what is price the [ibm](symbol)
+- what's price the [ibm](symbol)
+- show price the [ibm](symbol)
+- tell me the price the [ibm](symbol)
+- tell me about the price the [ibm](symbol)
+- show me the price the [ibm](symbol)
+- can i see the price the [ibm](symbol)
+- what is the price the [ibm](symbol)
+- what's the price the [ibm](symbol)
+- show the price the [ibm](symbol)
+- tell me a price the [ibm](symbol)
+- tell me about a price the [ibm](symbol)
+- show me a price the [ibm](symbol)
+- can i see a price the [ibm](symbol)
+- what is a price the [ibm](symbol)
+- what's a price the [ibm](symbol)
+- show a price the [ibm](symbol)
+- tell me the [jpm](symbol)
+- tell me about the [jpm](symbol)
+- show me the [jpm](symbol)
+- can i see the [jpm](symbol)
+- what is the [jpm](symbol)
+- what's the [jpm](symbol)
+- show the [jpm](symbol)
+- tell me price the [jpm](symbol)
+- tell me about price the [jpm](symbol)
+- show me price the [jpm](symbol)
+- can i see price the [jpm](symbol)
+- what is price the [jpm](symbol)
+- what's price the [jpm](symbol)
+- show price the [jpm](symbol)
+- tell me the price the [jpm](symbol)
+- tell me about the price the [jpm](symbol)
+- show me the price the [jpm](symbol)
+- can i see the price the [jpm](symbol)
+- what is the price the [jpm](symbol)
+- what's the price the [jpm](symbol)
+- show the price the [jpm](symbol)
+- tell me a price the [jpm](symbol)
+- tell me about a price the [jpm](symbol)
+- show me a price the [jpm](symbol)
+- can i see a price the [jpm](symbol)
+- what is a price the [jpm](symbol)
+- what's a price the [jpm](symbol)
+- show a price the [jpm](symbol)
+- tell me the [kmb](symbol)
+- tell me about the [kmb](symbol)
+- show me the [kmb](symbol)
+- can i see the [kmb](symbol)
+- what is the [kmb](symbol)
+- what's the [kmb](symbol)
+- show the [kmb](symbol)
+- tell me price the [kmb](symbol)
+- tell me about price the [kmb](symbol)
+- show me price the [kmb](symbol)
+- can i see price the [kmb](symbol)
+- what is price the [kmb](symbol)
+- what's price the [kmb](symbol)
+- show price the [kmb](symbol)
+- tell me the price the [kmb](symbol)
+- tell me about the price the [kmb](symbol)
+- show me the price the [kmb](symbol)
+- can i see the price the [kmb](symbol)
+- what is the price the [kmb](symbol)
+- what's the price the [kmb](symbol)
+- show the price the [kmb](symbol)
+- tell me a price the [kmb](symbol)
+- tell me about a price the [kmb](symbol)
+- show me a price the [kmb](symbol)
+- can i see a price the [kmb](symbol)
+- what is a price the [kmb](symbol)
+- what's a price the [kmb](symbol)
+- show a price the [kmb](symbol)
+- tell me the [ndaq](symbol)
+- tell me about the [ndaq](symbol)
+- show me the [ndaq](symbol)
+- can i see the [ndaq](symbol)
+- what is the [ndaq](symbol)
+- what's the [ndaq](symbol)
+- show the [ndaq](symbol)
+- tell me price the [ndaq](symbol)
+- tell me about price the [ndaq](symbol)
+- show me price the [ndaq](symbol)
+- can i see price the [ndaq](symbol)
+- what is price the [ndaq](symbol)
+- what's price the [ndaq](symbol)
+- show price the [ndaq](symbol)
+- tell me the price the [ndaq](symbol)
+- tell me about the price the [ndaq](symbol)
+- show me the price the [ndaq](symbol)
+- can i see the price the [ndaq](symbol)
+- what is the price the [ndaq](symbol)
+- what's the price the [ndaq](symbol)
+- show the price the [ndaq](symbol)
+- tell me a price the [ndaq](symbol)
+- tell me about a price the [ndaq](symbol)
+- show me a price the [ndaq](symbol)
+- can i see a price the [ndaq](symbol)
+- what is a price the [ndaq](symbol)
+- what's a price the [ndaq](symbol)
+- show a price the [ndaq](symbol)
 - tell me a stock [amzn](symbol)
 - tell me about a stock [amzn](symbol)
 - show me a stock [amzn](symbol)
@@ -5007,6 +5679,342 @@
 - what is a price a ticker [ndaq](symbol)
 - what's a price a ticker [ndaq](symbol)
 - show a price a ticker [ndaq](symbol)
+- tell me a [amzn](symbol)
+- tell me about a [amzn](symbol)
+- show me a [amzn](symbol)
+- can i see a [amzn](symbol)
+- what is a [amzn](symbol)
+- what's a [amzn](symbol)
+- show a [amzn](symbol)
+- tell me price a [amzn](symbol)
+- tell me about price a [amzn](symbol)
+- show me price a [amzn](symbol)
+- can i see price a [amzn](symbol)
+- what is price a [amzn](symbol)
+- what's price a [amzn](symbol)
+- show price a [amzn](symbol)
+- tell me the price a [amzn](symbol)
+- tell me about the price a [amzn](symbol)
+- show me the price a [amzn](symbol)
+- can i see the price a [amzn](symbol)
+- what is the price a [amzn](symbol)
+- what's the price a [amzn](symbol)
+- show the price a [amzn](symbol)
+- tell me a price a [amzn](symbol)
+- tell me about a price a [amzn](symbol)
+- show me a price a [amzn](symbol)
+- can i see a price a [amzn](symbol)
+- what is a price a [amzn](symbol)
+- what's a price a [amzn](symbol)
+- show a price a [amzn](symbol)
+- tell me a [bk](symbol)
+- tell me about a [bk](symbol)
+- show me a [bk](symbol)
+- can i see a [bk](symbol)
+- what is a [bk](symbol)
+- what's a [bk](symbol)
+- show a [bk](symbol)
+- tell me price a [bk](symbol)
+- tell me about price a [bk](symbol)
+- show me price a [bk](symbol)
+- can i see price a [bk](symbol)
+- what is price a [bk](symbol)
+- what's price a [bk](symbol)
+- show price a [bk](symbol)
+- tell me the price a [bk](symbol)
+- tell me about the price a [bk](symbol)
+- show me the price a [bk](symbol)
+- can i see the price a [bk](symbol)
+- what is the price a [bk](symbol)
+- what's the price a [bk](symbol)
+- show the price a [bk](symbol)
+- tell me a price a [bk](symbol)
+- tell me about a price a [bk](symbol)
+- show me a price a [bk](symbol)
+- can i see a price a [bk](symbol)
+- what is a price a [bk](symbol)
+- what's a price a [bk](symbol)
+- show a price a [bk](symbol)
+- tell me a [csco](symbol)
+- tell me about a [csco](symbol)
+- show me a [csco](symbol)
+- can i see a [csco](symbol)
+- what is a [csco](symbol)
+- what's a [csco](symbol)
+- show a [csco](symbol)
+- tell me price a [csco](symbol)
+- tell me about price a [csco](symbol)
+- show me price a [csco](symbol)
+- can i see price a [csco](symbol)
+- what is price a [csco](symbol)
+- what's price a [csco](symbol)
+- show price a [csco](symbol)
+- tell me the price a [csco](symbol)
+- tell me about the price a [csco](symbol)
+- show me the price a [csco](symbol)
+- can i see the price a [csco](symbol)
+- what is the price a [csco](symbol)
+- what's the price a [csco](symbol)
+- show the price a [csco](symbol)
+- tell me a price a [csco](symbol)
+- tell me about a price a [csco](symbol)
+- show me a price a [csco](symbol)
+- can i see a price a [csco](symbol)
+- what is a price a [csco](symbol)
+- what's a price a [csco](symbol)
+- show a price a [csco](symbol)
+- tell me a [dow](symbol)
+- tell me about a [dow](symbol)
+- show me a [dow](symbol)
+- can i see a [dow](symbol)
+- what is a [dow](symbol)
+- what's a [dow](symbol)
+- show a [dow](symbol)
+- tell me price a [dow](symbol)
+- tell me about price a [dow](symbol)
+- show me price a [dow](symbol)
+- can i see price a [dow](symbol)
+- what is price a [dow](symbol)
+- what's price a [dow](symbol)
+- show price a [dow](symbol)
+- tell me the price a [dow](symbol)
+- tell me about the price a [dow](symbol)
+- show me the price a [dow](symbol)
+- can i see the price a [dow](symbol)
+- what is the price a [dow](symbol)
+- what's the price a [dow](symbol)
+- show the price a [dow](symbol)
+- tell me a price a [dow](symbol)
+- tell me about a price a [dow](symbol)
+- show me a price a [dow](symbol)
+- can i see a price a [dow](symbol)
+- what is a price a [dow](symbol)
+- what's a price a [dow](symbol)
+- show a price a [dow](symbol)
+- tell me a [ebay](symbol)
+- tell me about a [ebay](symbol)
+- show me a [ebay](symbol)
+- can i see a [ebay](symbol)
+- what is a [ebay](symbol)
+- what's a [ebay](symbol)
+- show a [ebay](symbol)
+- tell me price a [ebay](symbol)
+- tell me about price a [ebay](symbol)
+- show me price a [ebay](symbol)
+- can i see price a [ebay](symbol)
+- what is price a [ebay](symbol)
+- what's price a [ebay](symbol)
+- show price a [ebay](symbol)
+- tell me the price a [ebay](symbol)
+- tell me about the price a [ebay](symbol)
+- show me the price a [ebay](symbol)
+- can i see the price a [ebay](symbol)
+- what is the price a [ebay](symbol)
+- what's the price a [ebay](symbol)
+- show the price a [ebay](symbol)
+- tell me a price a [ebay](symbol)
+- tell me about a price a [ebay](symbol)
+- show me a price a [ebay](symbol)
+- can i see a price a [ebay](symbol)
+- what is a price a [ebay](symbol)
+- what's a price a [ebay](symbol)
+- show a price a [ebay](symbol)
+- tell me a [fox](symbol)
+- tell me about a [fox](symbol)
+- show me a [fox](symbol)
+- can i see a [fox](symbol)
+- what is a [fox](symbol)
+- what's a [fox](symbol)
+- show a [fox](symbol)
+- tell me price a [fox](symbol)
+- tell me about price a [fox](symbol)
+- show me price a [fox](symbol)
+- can i see price a [fox](symbol)
+- what is price a [fox](symbol)
+- what's price a [fox](symbol)
+- show price a [fox](symbol)
+- tell me the price a [fox](symbol)
+- tell me about the price a [fox](symbol)
+- show me the price a [fox](symbol)
+- can i see the price a [fox](symbol)
+- what is the price a [fox](symbol)
+- what's the price a [fox](symbol)
+- show the price a [fox](symbol)
+- tell me a price a [fox](symbol)
+- tell me about a price a [fox](symbol)
+- show me a price a [fox](symbol)
+- can i see a price a [fox](symbol)
+- what is a price a [fox](symbol)
+- what's a price a [fox](symbol)
+- show a price a [fox](symbol)
+- tell me a [googl](symbol)
+- tell me about a [googl](symbol)
+- show me a [googl](symbol)
+- can i see a [googl](symbol)
+- what is a [googl](symbol)
+- what's a [googl](symbol)
+- show a [googl](symbol)
+- tell me price a [googl](symbol)
+- tell me about price a [googl](symbol)
+- show me price a [googl](symbol)
+- can i see price a [googl](symbol)
+- what is price a [googl](symbol)
+- what's price a [googl](symbol)
+- show price a [googl](symbol)
+- tell me the price a [googl](symbol)
+- tell me about the price a [googl](symbol)
+- show me the price a [googl](symbol)
+- can i see the price a [googl](symbol)
+- what is the price a [googl](symbol)
+- what's the price a [googl](symbol)
+- show the price a [googl](symbol)
+- tell me a price a [googl](symbol)
+- tell me about a price a [googl](symbol)
+- show me a price a [googl](symbol)
+- can i see a price a [googl](symbol)
+- what is a price a [googl](symbol)
+- what's a price a [googl](symbol)
+- show a price a [googl](symbol)
+- tell me a [hp](symbol)
+- tell me about a [hp](symbol)
+- show me a [hp](symbol)
+- can i see a [hp](symbol)
+- what is a [hp](symbol)
+- what's a [hp](symbol)
+- show a [hp](symbol)
+- tell me price a [hp](symbol)
+- tell me about price a [hp](symbol)
+- show me price a [hp](symbol)
+- can i see price a [hp](symbol)
+- what is price a [hp](symbol)
+- what's price a [hp](symbol)
+- show price a [hp](symbol)
+- tell me the price a [hp](symbol)
+- tell me about the price a [hp](symbol)
+- show me the price a [hp](symbol)
+- can i see the price a [hp](symbol)
+- what is the price a [hp](symbol)
+- what's the price a [hp](symbol)
+- show the price a [hp](symbol)
+- tell me a price a [hp](symbol)
+- tell me about a price a [hp](symbol)
+- show me a price a [hp](symbol)
+- can i see a price a [hp](symbol)
+- what is a price a [hp](symbol)
+- what's a price a [hp](symbol)
+- show a price a [hp](symbol)
+- tell me a [ibm](symbol)
+- tell me about a [ibm](symbol)
+- show me a [ibm](symbol)
+- can i see a [ibm](symbol)
+- what is a [ibm](symbol)
+- what's a [ibm](symbol)
+- show a [ibm](symbol)
+- tell me price a [ibm](symbol)
+- tell me about price a [ibm](symbol)
+- show me price a [ibm](symbol)
+- can i see price a [ibm](symbol)
+- what is price a [ibm](symbol)
+- what's price a [ibm](symbol)
+- show price a [ibm](symbol)
+- tell me the price a [ibm](symbol)
+- tell me about the price a [ibm](symbol)
+- show me the price a [ibm](symbol)
+- can i see the price a [ibm](symbol)
+- what is the price a [ibm](symbol)
+- what's the price a [ibm](symbol)
+- show the price a [ibm](symbol)
+- tell me a price a [ibm](symbol)
+- tell me about a price a [ibm](symbol)
+- show me a price a [ibm](symbol)
+- can i see a price a [ibm](symbol)
+- what is a price a [ibm](symbol)
+- what's a price a [ibm](symbol)
+- show a price a [ibm](symbol)
+- tell me a [jpm](symbol)
+- tell me about a [jpm](symbol)
+- show me a [jpm](symbol)
+- can i see a [jpm](symbol)
+- what is a [jpm](symbol)
+- what's a [jpm](symbol)
+- show a [jpm](symbol)
+- tell me price a [jpm](symbol)
+- tell me about price a [jpm](symbol)
+- show me price a [jpm](symbol)
+- can i see price a [jpm](symbol)
+- what is price a [jpm](symbol)
+- what's price a [jpm](symbol)
+- show price a [jpm](symbol)
+- tell me the price a [jpm](symbol)
+- tell me about the price a [jpm](symbol)
+- show me the price a [jpm](symbol)
+- can i see the price a [jpm](symbol)
+- what is the price a [jpm](symbol)
+- what's the price a [jpm](symbol)
+- show the price a [jpm](symbol)
+- tell me a price a [jpm](symbol)
+- tell me about a price a [jpm](symbol)
+- show me a price a [jpm](symbol)
+- can i see a price a [jpm](symbol)
+- what is a price a [jpm](symbol)
+- what's a price a [jpm](symbol)
+- show a price a [jpm](symbol)
+- tell me a [kmb](symbol)
+- tell me about a [kmb](symbol)
+- show me a [kmb](symbol)
+- can i see a [kmb](symbol)
+- what is a [kmb](symbol)
+- what's a [kmb](symbol)
+- show a [kmb](symbol)
+- tell me price a [kmb](symbol)
+- tell me about price a [kmb](symbol)
+- show me price a [kmb](symbol)
+- can i see price a [kmb](symbol)
+- what is price a [kmb](symbol)
+- what's price a [kmb](symbol)
+- show price a [kmb](symbol)
+- tell me the price a [kmb](symbol)
+- tell me about the price a [kmb](symbol)
+- show me the price a [kmb](symbol)
+- can i see the price a [kmb](symbol)
+- what is the price a [kmb](symbol)
+- what's the price a [kmb](symbol)
+- show the price a [kmb](symbol)
+- tell me a price a [kmb](symbol)
+- tell me about a price a [kmb](symbol)
+- show me a price a [kmb](symbol)
+- can i see a price a [kmb](symbol)
+- what is a price a [kmb](symbol)
+- what's a price a [kmb](symbol)
+- show a price a [kmb](symbol)
+- tell me a [ndaq](symbol)
+- tell me about a [ndaq](symbol)
+- show me a [ndaq](symbol)
+- can i see a [ndaq](symbol)
+- what is a [ndaq](symbol)
+- what's a [ndaq](symbol)
+- show a [ndaq](symbol)
+- tell me price a [ndaq](symbol)
+- tell me about price a [ndaq](symbol)
+- show me price a [ndaq](symbol)
+- can i see price a [ndaq](symbol)
+- what is price a [ndaq](symbol)
+- what's price a [ndaq](symbol)
+- show price a [ndaq](symbol)
+- tell me the price a [ndaq](symbol)
+- tell me about the price a [ndaq](symbol)
+- show me the price a [ndaq](symbol)
+- can i see the price a [ndaq](symbol)
+- what is the price a [ndaq](symbol)
+- what's the price a [ndaq](symbol)
+- show the price a [ndaq](symbol)
+- tell me a price a [ndaq](symbol)
+- tell me about a price a [ndaq](symbol)
+- show me a price a [ndaq](symbol)
+- can i see a price a [ndaq](symbol)
+- what is a price a [ndaq](symbol)
+- what's a price a [ndaq](symbol)
+- show a price a [ndaq](symbol)
 - tell me for stock [amzn](symbol)
 - tell me about for stock [amzn](symbol)
 - show me for stock [amzn](symbol)
@@ -6351,6 +7359,342 @@
 - what is a price for ticker [ndaq](symbol)
 - what's a price for ticker [ndaq](symbol)
 - show a price for ticker [ndaq](symbol)
+- tell me for  [amzn](symbol)
+- tell me about for  [amzn](symbol)
+- show me for  [amzn](symbol)
+- can i see for  [amzn](symbol)
+- what is for  [amzn](symbol)
+- what's for  [amzn](symbol)
+- show for  [amzn](symbol)
+- tell me price for  [amzn](symbol)
+- tell me about price for  [amzn](symbol)
+- show me price for  [amzn](symbol)
+- can i see price for  [amzn](symbol)
+- what is price for  [amzn](symbol)
+- what's price for  [amzn](symbol)
+- show price for  [amzn](symbol)
+- tell me the price for  [amzn](symbol)
+- tell me about the price for  [amzn](symbol)
+- show me the price for  [amzn](symbol)
+- can i see the price for  [amzn](symbol)
+- what is the price for  [amzn](symbol)
+- what's the price for  [amzn](symbol)
+- show the price for  [amzn](symbol)
+- tell me a price for  [amzn](symbol)
+- tell me about a price for  [amzn](symbol)
+- show me a price for  [amzn](symbol)
+- can i see a price for  [amzn](symbol)
+- what is a price for  [amzn](symbol)
+- what's a price for  [amzn](symbol)
+- show a price for  [amzn](symbol)
+- tell me for  [bk](symbol)
+- tell me about for  [bk](symbol)
+- show me for  [bk](symbol)
+- can i see for  [bk](symbol)
+- what is for  [bk](symbol)
+- what's for  [bk](symbol)
+- show for  [bk](symbol)
+- tell me price for  [bk](symbol)
+- tell me about price for  [bk](symbol)
+- show me price for  [bk](symbol)
+- can i see price for  [bk](symbol)
+- what is price for  [bk](symbol)
+- what's price for  [bk](symbol)
+- show price for  [bk](symbol)
+- tell me the price for  [bk](symbol)
+- tell me about the price for  [bk](symbol)
+- show me the price for  [bk](symbol)
+- can i see the price for  [bk](symbol)
+- what is the price for  [bk](symbol)
+- what's the price for  [bk](symbol)
+- show the price for  [bk](symbol)
+- tell me a price for  [bk](symbol)
+- tell me about a price for  [bk](symbol)
+- show me a price for  [bk](symbol)
+- can i see a price for  [bk](symbol)
+- what is a price for  [bk](symbol)
+- what's a price for  [bk](symbol)
+- show a price for  [bk](symbol)
+- tell me for  [csco](symbol)
+- tell me about for  [csco](symbol)
+- show me for  [csco](symbol)
+- can i see for  [csco](symbol)
+- what is for  [csco](symbol)
+- what's for  [csco](symbol)
+- show for  [csco](symbol)
+- tell me price for  [csco](symbol)
+- tell me about price for  [csco](symbol)
+- show me price for  [csco](symbol)
+- can i see price for  [csco](symbol)
+- what is price for  [csco](symbol)
+- what's price for  [csco](symbol)
+- show price for  [csco](symbol)
+- tell me the price for  [csco](symbol)
+- tell me about the price for  [csco](symbol)
+- show me the price for  [csco](symbol)
+- can i see the price for  [csco](symbol)
+- what is the price for  [csco](symbol)
+- what's the price for  [csco](symbol)
+- show the price for  [csco](symbol)
+- tell me a price for  [csco](symbol)
+- tell me about a price for  [csco](symbol)
+- show me a price for  [csco](symbol)
+- can i see a price for  [csco](symbol)
+- what is a price for  [csco](symbol)
+- what's a price for  [csco](symbol)
+- show a price for  [csco](symbol)
+- tell me for  [dow](symbol)
+- tell me about for  [dow](symbol)
+- show me for  [dow](symbol)
+- can i see for  [dow](symbol)
+- what is for  [dow](symbol)
+- what's for  [dow](symbol)
+- show for  [dow](symbol)
+- tell me price for  [dow](symbol)
+- tell me about price for  [dow](symbol)
+- show me price for  [dow](symbol)
+- can i see price for  [dow](symbol)
+- what is price for  [dow](symbol)
+- what's price for  [dow](symbol)
+- show price for  [dow](symbol)
+- tell me the price for  [dow](symbol)
+- tell me about the price for  [dow](symbol)
+- show me the price for  [dow](symbol)
+- can i see the price for  [dow](symbol)
+- what is the price for  [dow](symbol)
+- what's the price for  [dow](symbol)
+- show the price for  [dow](symbol)
+- tell me a price for  [dow](symbol)
+- tell me about a price for  [dow](symbol)
+- show me a price for  [dow](symbol)
+- can i see a price for  [dow](symbol)
+- what is a price for  [dow](symbol)
+- what's a price for  [dow](symbol)
+- show a price for  [dow](symbol)
+- tell me for  [ebay](symbol)
+- tell me about for  [ebay](symbol)
+- show me for  [ebay](symbol)
+- can i see for  [ebay](symbol)
+- what is for  [ebay](symbol)
+- what's for  [ebay](symbol)
+- show for  [ebay](symbol)
+- tell me price for  [ebay](symbol)
+- tell me about price for  [ebay](symbol)
+- show me price for  [ebay](symbol)
+- can i see price for  [ebay](symbol)
+- what is price for  [ebay](symbol)
+- what's price for  [ebay](symbol)
+- show price for  [ebay](symbol)
+- tell me the price for  [ebay](symbol)
+- tell me about the price for  [ebay](symbol)
+- show me the price for  [ebay](symbol)
+- can i see the price for  [ebay](symbol)
+- what is the price for  [ebay](symbol)
+- what's the price for  [ebay](symbol)
+- show the price for  [ebay](symbol)
+- tell me a price for  [ebay](symbol)
+- tell me about a price for  [ebay](symbol)
+- show me a price for  [ebay](symbol)
+- can i see a price for  [ebay](symbol)
+- what is a price for  [ebay](symbol)
+- what's a price for  [ebay](symbol)
+- show a price for  [ebay](symbol)
+- tell me for  [fox](symbol)
+- tell me about for  [fox](symbol)
+- show me for  [fox](symbol)
+- can i see for  [fox](symbol)
+- what is for  [fox](symbol)
+- what's for  [fox](symbol)
+- show for  [fox](symbol)
+- tell me price for  [fox](symbol)
+- tell me about price for  [fox](symbol)
+- show me price for  [fox](symbol)
+- can i see price for  [fox](symbol)
+- what is price for  [fox](symbol)
+- what's price for  [fox](symbol)
+- show price for  [fox](symbol)
+- tell me the price for  [fox](symbol)
+- tell me about the price for  [fox](symbol)
+- show me the price for  [fox](symbol)
+- can i see the price for  [fox](symbol)
+- what is the price for  [fox](symbol)
+- what's the price for  [fox](symbol)
+- show the price for  [fox](symbol)
+- tell me a price for  [fox](symbol)
+- tell me about a price for  [fox](symbol)
+- show me a price for  [fox](symbol)
+- can i see a price for  [fox](symbol)
+- what is a price for  [fox](symbol)
+- what's a price for  [fox](symbol)
+- show a price for  [fox](symbol)
+- tell me for  [googl](symbol)
+- tell me about for  [googl](symbol)
+- show me for  [googl](symbol)
+- can i see for  [googl](symbol)
+- what is for  [googl](symbol)
+- what's for  [googl](symbol)
+- show for  [googl](symbol)
+- tell me price for  [googl](symbol)
+- tell me about price for  [googl](symbol)
+- show me price for  [googl](symbol)
+- can i see price for  [googl](symbol)
+- what is price for  [googl](symbol)
+- what's price for  [googl](symbol)
+- show price for  [googl](symbol)
+- tell me the price for  [googl](symbol)
+- tell me about the price for  [googl](symbol)
+- show me the price for  [googl](symbol)
+- can i see the price for  [googl](symbol)
+- what is the price for  [googl](symbol)
+- what's the price for  [googl](symbol)
+- show the price for  [googl](symbol)
+- tell me a price for  [googl](symbol)
+- tell me about a price for  [googl](symbol)
+- show me a price for  [googl](symbol)
+- can i see a price for  [googl](symbol)
+- what is a price for  [googl](symbol)
+- what's a price for  [googl](symbol)
+- show a price for  [googl](symbol)
+- tell me for  [hp](symbol)
+- tell me about for  [hp](symbol)
+- show me for  [hp](symbol)
+- can i see for  [hp](symbol)
+- what is for  [hp](symbol)
+- what's for  [hp](symbol)
+- show for  [hp](symbol)
+- tell me price for  [hp](symbol)
+- tell me about price for  [hp](symbol)
+- show me price for  [hp](symbol)
+- can i see price for  [hp](symbol)
+- what is price for  [hp](symbol)
+- what's price for  [hp](symbol)
+- show price for  [hp](symbol)
+- tell me the price for  [hp](symbol)
+- tell me about the price for  [hp](symbol)
+- show me the price for  [hp](symbol)
+- can i see the price for  [hp](symbol)
+- what is the price for  [hp](symbol)
+- what's the price for  [hp](symbol)
+- show the price for  [hp](symbol)
+- tell me a price for  [hp](symbol)
+- tell me about a price for  [hp](symbol)
+- show me a price for  [hp](symbol)
+- can i see a price for  [hp](symbol)
+- what is a price for  [hp](symbol)
+- what's a price for  [hp](symbol)
+- show a price for  [hp](symbol)
+- tell me for  [ibm](symbol)
+- tell me about for  [ibm](symbol)
+- show me for  [ibm](symbol)
+- can i see for  [ibm](symbol)
+- what is for  [ibm](symbol)
+- what's for  [ibm](symbol)
+- show for  [ibm](symbol)
+- tell me price for  [ibm](symbol)
+- tell me about price for  [ibm](symbol)
+- show me price for  [ibm](symbol)
+- can i see price for  [ibm](symbol)
+- what is price for  [ibm](symbol)
+- what's price for  [ibm](symbol)
+- show price for  [ibm](symbol)
+- tell me the price for  [ibm](symbol)
+- tell me about the price for  [ibm](symbol)
+- show me the price for  [ibm](symbol)
+- can i see the price for  [ibm](symbol)
+- what is the price for  [ibm](symbol)
+- what's the price for  [ibm](symbol)
+- show the price for  [ibm](symbol)
+- tell me a price for  [ibm](symbol)
+- tell me about a price for  [ibm](symbol)
+- show me a price for  [ibm](symbol)
+- can i see a price for  [ibm](symbol)
+- what is a price for  [ibm](symbol)
+- what's a price for  [ibm](symbol)
+- show a price for  [ibm](symbol)
+- tell me for  [jpm](symbol)
+- tell me about for  [jpm](symbol)
+- show me for  [jpm](symbol)
+- can i see for  [jpm](symbol)
+- what is for  [jpm](symbol)
+- what's for  [jpm](symbol)
+- show for  [jpm](symbol)
+- tell me price for  [jpm](symbol)
+- tell me about price for  [jpm](symbol)
+- show me price for  [jpm](symbol)
+- can i see price for  [jpm](symbol)
+- what is price for  [jpm](symbol)
+- what's price for  [jpm](symbol)
+- show price for  [jpm](symbol)
+- tell me the price for  [jpm](symbol)
+- tell me about the price for  [jpm](symbol)
+- show me the price for  [jpm](symbol)
+- can i see the price for  [jpm](symbol)
+- what is the price for  [jpm](symbol)
+- what's the price for  [jpm](symbol)
+- show the price for  [jpm](symbol)
+- tell me a price for  [jpm](symbol)
+- tell me about a price for  [jpm](symbol)
+- show me a price for  [jpm](symbol)
+- can i see a price for  [jpm](symbol)
+- what is a price for  [jpm](symbol)
+- what's a price for  [jpm](symbol)
+- show a price for  [jpm](symbol)
+- tell me for  [kmb](symbol)
+- tell me about for  [kmb](symbol)
+- show me for  [kmb](symbol)
+- can i see for  [kmb](symbol)
+- what is for  [kmb](symbol)
+- what's for  [kmb](symbol)
+- show for  [kmb](symbol)
+- tell me price for  [kmb](symbol)
+- tell me about price for  [kmb](symbol)
+- show me price for  [kmb](symbol)
+- can i see price for  [kmb](symbol)
+- what is price for  [kmb](symbol)
+- what's price for  [kmb](symbol)
+- show price for  [kmb](symbol)
+- tell me the price for  [kmb](symbol)
+- tell me about the price for  [kmb](symbol)
+- show me the price for  [kmb](symbol)
+- can i see the price for  [kmb](symbol)
+- what is the price for  [kmb](symbol)
+- what's the price for  [kmb](symbol)
+- show the price for  [kmb](symbol)
+- tell me a price for  [kmb](symbol)
+- tell me about a price for  [kmb](symbol)
+- show me a price for  [kmb](symbol)
+- can i see a price for  [kmb](symbol)
+- what is a price for  [kmb](symbol)
+- what's a price for  [kmb](symbol)
+- show a price for  [kmb](symbol)
+- tell me for  [ndaq](symbol)
+- tell me about for  [ndaq](symbol)
+- show me for  [ndaq](symbol)
+- can i see for  [ndaq](symbol)
+- what is for  [ndaq](symbol)
+- what's for  [ndaq](symbol)
+- show for  [ndaq](symbol)
+- tell me price for  [ndaq](symbol)
+- tell me about price for  [ndaq](symbol)
+- show me price for  [ndaq](symbol)
+- can i see price for  [ndaq](symbol)
+- what is price for  [ndaq](symbol)
+- what's price for  [ndaq](symbol)
+- show price for  [ndaq](symbol)
+- tell me the price for  [ndaq](symbol)
+- tell me about the price for  [ndaq](symbol)
+- show me the price for  [ndaq](symbol)
+- can i see the price for  [ndaq](symbol)
+- what is the price for  [ndaq](symbol)
+- what's the price for  [ndaq](symbol)
+- show the price for  [ndaq](symbol)
+- tell me a price for  [ndaq](symbol)
+- tell me about a price for  [ndaq](symbol)
+- show me a price for  [ndaq](symbol)
+- can i see a price for  [ndaq](symbol)
+- what is a price for  [ndaq](symbol)
+- what's a price for  [ndaq](symbol)
+- show a price for  [ndaq](symbol)
 - tell me for the stock [amzn](symbol)
 - tell me about for the stock [amzn](symbol)
 - show me for the stock [amzn](symbol)
@@ -7695,6 +9039,342 @@
 - what is a price for the ticker [ndaq](symbol)
 - what's a price for the ticker [ndaq](symbol)
 - show a price for the ticker [ndaq](symbol)
+- tell me for the [amzn](symbol)
+- tell me about for the [amzn](symbol)
+- show me for the [amzn](symbol)
+- can i see for the [amzn](symbol)
+- what is for the [amzn](symbol)
+- what's for the [amzn](symbol)
+- show for the [amzn](symbol)
+- tell me price for the [amzn](symbol)
+- tell me about price for the [amzn](symbol)
+- show me price for the [amzn](symbol)
+- can i see price for the [amzn](symbol)
+- what is price for the [amzn](symbol)
+- what's price for the [amzn](symbol)
+- show price for the [amzn](symbol)
+- tell me the price for the [amzn](symbol)
+- tell me about the price for the [amzn](symbol)
+- show me the price for the [amzn](symbol)
+- can i see the price for the [amzn](symbol)
+- what is the price for the [amzn](symbol)
+- what's the price for the [amzn](symbol)
+- show the price for the [amzn](symbol)
+- tell me a price for the [amzn](symbol)
+- tell me about a price for the [amzn](symbol)
+- show me a price for the [amzn](symbol)
+- can i see a price for the [amzn](symbol)
+- what is a price for the [amzn](symbol)
+- what's a price for the [amzn](symbol)
+- show a price for the [amzn](symbol)
+- tell me for the [bk](symbol)
+- tell me about for the [bk](symbol)
+- show me for the [bk](symbol)
+- can i see for the [bk](symbol)
+- what is for the [bk](symbol)
+- what's for the [bk](symbol)
+- show for the [bk](symbol)
+- tell me price for the [bk](symbol)
+- tell me about price for the [bk](symbol)
+- show me price for the [bk](symbol)
+- can i see price for the [bk](symbol)
+- what is price for the [bk](symbol)
+- what's price for the [bk](symbol)
+- show price for the [bk](symbol)
+- tell me the price for the [bk](symbol)
+- tell me about the price for the [bk](symbol)
+- show me the price for the [bk](symbol)
+- can i see the price for the [bk](symbol)
+- what is the price for the [bk](symbol)
+- what's the price for the [bk](symbol)
+- show the price for the [bk](symbol)
+- tell me a price for the [bk](symbol)
+- tell me about a price for the [bk](symbol)
+- show me a price for the [bk](symbol)
+- can i see a price for the [bk](symbol)
+- what is a price for the [bk](symbol)
+- what's a price for the [bk](symbol)
+- show a price for the [bk](symbol)
+- tell me for the [csco](symbol)
+- tell me about for the [csco](symbol)
+- show me for the [csco](symbol)
+- can i see for the [csco](symbol)
+- what is for the [csco](symbol)
+- what's for the [csco](symbol)
+- show for the [csco](symbol)
+- tell me price for the [csco](symbol)
+- tell me about price for the [csco](symbol)
+- show me price for the [csco](symbol)
+- can i see price for the [csco](symbol)
+- what is price for the [csco](symbol)
+- what's price for the [csco](symbol)
+- show price for the [csco](symbol)
+- tell me the price for the [csco](symbol)
+- tell me about the price for the [csco](symbol)
+- show me the price for the [csco](symbol)
+- can i see the price for the [csco](symbol)
+- what is the price for the [csco](symbol)
+- what's the price for the [csco](symbol)
+- show the price for the [csco](symbol)
+- tell me a price for the [csco](symbol)
+- tell me about a price for the [csco](symbol)
+- show me a price for the [csco](symbol)
+- can i see a price for the [csco](symbol)
+- what is a price for the [csco](symbol)
+- what's a price for the [csco](symbol)
+- show a price for the [csco](symbol)
+- tell me for the [dow](symbol)
+- tell me about for the [dow](symbol)
+- show me for the [dow](symbol)
+- can i see for the [dow](symbol)
+- what is for the [dow](symbol)
+- what's for the [dow](symbol)
+- show for the [dow](symbol)
+- tell me price for the [dow](symbol)
+- tell me about price for the [dow](symbol)
+- show me price for the [dow](symbol)
+- can i see price for the [dow](symbol)
+- what is price for the [dow](symbol)
+- what's price for the [dow](symbol)
+- show price for the [dow](symbol)
+- tell me the price for the [dow](symbol)
+- tell me about the price for the [dow](symbol)
+- show me the price for the [dow](symbol)
+- can i see the price for the [dow](symbol)
+- what is the price for the [dow](symbol)
+- what's the price for the [dow](symbol)
+- show the price for the [dow](symbol)
+- tell me a price for the [dow](symbol)
+- tell me about a price for the [dow](symbol)
+- show me a price for the [dow](symbol)
+- can i see a price for the [dow](symbol)
+- what is a price for the [dow](symbol)
+- what's a price for the [dow](symbol)
+- show a price for the [dow](symbol)
+- tell me for the [ebay](symbol)
+- tell me about for the [ebay](symbol)
+- show me for the [ebay](symbol)
+- can i see for the [ebay](symbol)
+- what is for the [ebay](symbol)
+- what's for the [ebay](symbol)
+- show for the [ebay](symbol)
+- tell me price for the [ebay](symbol)
+- tell me about price for the [ebay](symbol)
+- show me price for the [ebay](symbol)
+- can i see price for the [ebay](symbol)
+- what is price for the [ebay](symbol)
+- what's price for the [ebay](symbol)
+- show price for the [ebay](symbol)
+- tell me the price for the [ebay](symbol)
+- tell me about the price for the [ebay](symbol)
+- show me the price for the [ebay](symbol)
+- can i see the price for the [ebay](symbol)
+- what is the price for the [ebay](symbol)
+- what's the price for the [ebay](symbol)
+- show the price for the [ebay](symbol)
+- tell me a price for the [ebay](symbol)
+- tell me about a price for the [ebay](symbol)
+- show me a price for the [ebay](symbol)
+- can i see a price for the [ebay](symbol)
+- what is a price for the [ebay](symbol)
+- what's a price for the [ebay](symbol)
+- show a price for the [ebay](symbol)
+- tell me for the [fox](symbol)
+- tell me about for the [fox](symbol)
+- show me for the [fox](symbol)
+- can i see for the [fox](symbol)
+- what is for the [fox](symbol)
+- what's for the [fox](symbol)
+- show for the [fox](symbol)
+- tell me price for the [fox](symbol)
+- tell me about price for the [fox](symbol)
+- show me price for the [fox](symbol)
+- can i see price for the [fox](symbol)
+- what is price for the [fox](symbol)
+- what's price for the [fox](symbol)
+- show price for the [fox](symbol)
+- tell me the price for the [fox](symbol)
+- tell me about the price for the [fox](symbol)
+- show me the price for the [fox](symbol)
+- can i see the price for the [fox](symbol)
+- what is the price for the [fox](symbol)
+- what's the price for the [fox](symbol)
+- show the price for the [fox](symbol)
+- tell me a price for the [fox](symbol)
+- tell me about a price for the [fox](symbol)
+- show me a price for the [fox](symbol)
+- can i see a price for the [fox](symbol)
+- what is a price for the [fox](symbol)
+- what's a price for the [fox](symbol)
+- show a price for the [fox](symbol)
+- tell me for the [googl](symbol)
+- tell me about for the [googl](symbol)
+- show me for the [googl](symbol)
+- can i see for the [googl](symbol)
+- what is for the [googl](symbol)
+- what's for the [googl](symbol)
+- show for the [googl](symbol)
+- tell me price for the [googl](symbol)
+- tell me about price for the [googl](symbol)
+- show me price for the [googl](symbol)
+- can i see price for the [googl](symbol)
+- what is price for the [googl](symbol)
+- what's price for the [googl](symbol)
+- show price for the [googl](symbol)
+- tell me the price for the [googl](symbol)
+- tell me about the price for the [googl](symbol)
+- show me the price for the [googl](symbol)
+- can i see the price for the [googl](symbol)
+- what is the price for the [googl](symbol)
+- what's the price for the [googl](symbol)
+- show the price for the [googl](symbol)
+- tell me a price for the [googl](symbol)
+- tell me about a price for the [googl](symbol)
+- show me a price for the [googl](symbol)
+- can i see a price for the [googl](symbol)
+- what is a price for the [googl](symbol)
+- what's a price for the [googl](symbol)
+- show a price for the [googl](symbol)
+- tell me for the [hp](symbol)
+- tell me about for the [hp](symbol)
+- show me for the [hp](symbol)
+- can i see for the [hp](symbol)
+- what is for the [hp](symbol)
+- what's for the [hp](symbol)
+- show for the [hp](symbol)
+- tell me price for the [hp](symbol)
+- tell me about price for the [hp](symbol)
+- show me price for the [hp](symbol)
+- can i see price for the [hp](symbol)
+- what is price for the [hp](symbol)
+- what's price for the [hp](symbol)
+- show price for the [hp](symbol)
+- tell me the price for the [hp](symbol)
+- tell me about the price for the [hp](symbol)
+- show me the price for the [hp](symbol)
+- can i see the price for the [hp](symbol)
+- what is the price for the [hp](symbol)
+- what's the price for the [hp](symbol)
+- show the price for the [hp](symbol)
+- tell me a price for the [hp](symbol)
+- tell me about a price for the [hp](symbol)
+- show me a price for the [hp](symbol)
+- can i see a price for the [hp](symbol)
+- what is a price for the [hp](symbol)
+- what's a price for the [hp](symbol)
+- show a price for the [hp](symbol)
+- tell me for the [ibm](symbol)
+- tell me about for the [ibm](symbol)
+- show me for the [ibm](symbol)
+- can i see for the [ibm](symbol)
+- what is for the [ibm](symbol)
+- what's for the [ibm](symbol)
+- show for the [ibm](symbol)
+- tell me price for the [ibm](symbol)
+- tell me about price for the [ibm](symbol)
+- show me price for the [ibm](symbol)
+- can i see price for the [ibm](symbol)
+- what is price for the [ibm](symbol)
+- what's price for the [ibm](symbol)
+- show price for the [ibm](symbol)
+- tell me the price for the [ibm](symbol)
+- tell me about the price for the [ibm](symbol)
+- show me the price for the [ibm](symbol)
+- can i see the price for the [ibm](symbol)
+- what is the price for the [ibm](symbol)
+- what's the price for the [ibm](symbol)
+- show the price for the [ibm](symbol)
+- tell me a price for the [ibm](symbol)
+- tell me about a price for the [ibm](symbol)
+- show me a price for the [ibm](symbol)
+- can i see a price for the [ibm](symbol)
+- what is a price for the [ibm](symbol)
+- what's a price for the [ibm](symbol)
+- show a price for the [ibm](symbol)
+- tell me for the [jpm](symbol)
+- tell me about for the [jpm](symbol)
+- show me for the [jpm](symbol)
+- can i see for the [jpm](symbol)
+- what is for the [jpm](symbol)
+- what's for the [jpm](symbol)
+- show for the [jpm](symbol)
+- tell me price for the [jpm](symbol)
+- tell me about price for the [jpm](symbol)
+- show me price for the [jpm](symbol)
+- can i see price for the [jpm](symbol)
+- what is price for the [jpm](symbol)
+- what's price for the [jpm](symbol)
+- show price for the [jpm](symbol)
+- tell me the price for the [jpm](symbol)
+- tell me about the price for the [jpm](symbol)
+- show me the price for the [jpm](symbol)
+- can i see the price for the [jpm](symbol)
+- what is the price for the [jpm](symbol)
+- what's the price for the [jpm](symbol)
+- show the price for the [jpm](symbol)
+- tell me a price for the [jpm](symbol)
+- tell me about a price for the [jpm](symbol)
+- show me a price for the [jpm](symbol)
+- can i see a price for the [jpm](symbol)
+- what is a price for the [jpm](symbol)
+- what's a price for the [jpm](symbol)
+- show a price for the [jpm](symbol)
+- tell me for the [kmb](symbol)
+- tell me about for the [kmb](symbol)
+- show me for the [kmb](symbol)
+- can i see for the [kmb](symbol)
+- what is for the [kmb](symbol)
+- what's for the [kmb](symbol)
+- show for the [kmb](symbol)
+- tell me price for the [kmb](symbol)
+- tell me about price for the [kmb](symbol)
+- show me price for the [kmb](symbol)
+- can i see price for the [kmb](symbol)
+- what is price for the [kmb](symbol)
+- what's price for the [kmb](symbol)
+- show price for the [kmb](symbol)
+- tell me the price for the [kmb](symbol)
+- tell me about the price for the [kmb](symbol)
+- show me the price for the [kmb](symbol)
+- can i see the price for the [kmb](symbol)
+- what is the price for the [kmb](symbol)
+- what's the price for the [kmb](symbol)
+- show the price for the [kmb](symbol)
+- tell me a price for the [kmb](symbol)
+- tell me about a price for the [kmb](symbol)
+- show me a price for the [kmb](symbol)
+- can i see a price for the [kmb](symbol)
+- what is a price for the [kmb](symbol)
+- what's a price for the [kmb](symbol)
+- show a price for the [kmb](symbol)
+- tell me for the [ndaq](symbol)
+- tell me about for the [ndaq](symbol)
+- show me for the [ndaq](symbol)
+- can i see for the [ndaq](symbol)
+- what is for the [ndaq](symbol)
+- what's for the [ndaq](symbol)
+- show for the [ndaq](symbol)
+- tell me price for the [ndaq](symbol)
+- tell me about price for the [ndaq](symbol)
+- show me price for the [ndaq](symbol)
+- can i see price for the [ndaq](symbol)
+- what is price for the [ndaq](symbol)
+- what's price for the [ndaq](symbol)
+- show price for the [ndaq](symbol)
+- tell me the price for the [ndaq](symbol)
+- tell me about the price for the [ndaq](symbol)
+- show me the price for the [ndaq](symbol)
+- can i see the price for the [ndaq](symbol)
+- what is the price for the [ndaq](symbol)
+- what's the price for the [ndaq](symbol)
+- show the price for the [ndaq](symbol)
+- tell me a price for the [ndaq](symbol)
+- tell me about a price for the [ndaq](symbol)
+- show me a price for the [ndaq](symbol)
+- can i see a price for the [ndaq](symbol)
+- what is a price for the [ndaq](symbol)
+- what's a price for the [ndaq](symbol)
+- show a price for the [ndaq](symbol)
 - tell me for a stock [amzn](symbol)
 - tell me about for a stock [amzn](symbol)
 - show me for a stock [amzn](symbol)
@@ -9039,6 +10719,342 @@
 - what is a price for a ticker [ndaq](symbol)
 - what's a price for a ticker [ndaq](symbol)
 - show a price for a ticker [ndaq](symbol)
+- tell me for a [amzn](symbol)
+- tell me about for a [amzn](symbol)
+- show me for a [amzn](symbol)
+- can i see for a [amzn](symbol)
+- what is for a [amzn](symbol)
+- what's for a [amzn](symbol)
+- show for a [amzn](symbol)
+- tell me price for a [amzn](symbol)
+- tell me about price for a [amzn](symbol)
+- show me price for a [amzn](symbol)
+- can i see price for a [amzn](symbol)
+- what is price for a [amzn](symbol)
+- what's price for a [amzn](symbol)
+- show price for a [amzn](symbol)
+- tell me the price for a [amzn](symbol)
+- tell me about the price for a [amzn](symbol)
+- show me the price for a [amzn](symbol)
+- can i see the price for a [amzn](symbol)
+- what is the price for a [amzn](symbol)
+- what's the price for a [amzn](symbol)
+- show the price for a [amzn](symbol)
+- tell me a price for a [amzn](symbol)
+- tell me about a price for a [amzn](symbol)
+- show me a price for a [amzn](symbol)
+- can i see a price for a [amzn](symbol)
+- what is a price for a [amzn](symbol)
+- what's a price for a [amzn](symbol)
+- show a price for a [amzn](symbol)
+- tell me for a [bk](symbol)
+- tell me about for a [bk](symbol)
+- show me for a [bk](symbol)
+- can i see for a [bk](symbol)
+- what is for a [bk](symbol)
+- what's for a [bk](symbol)
+- show for a [bk](symbol)
+- tell me price for a [bk](symbol)
+- tell me about price for a [bk](symbol)
+- show me price for a [bk](symbol)
+- can i see price for a [bk](symbol)
+- what is price for a [bk](symbol)
+- what's price for a [bk](symbol)
+- show price for a [bk](symbol)
+- tell me the price for a [bk](symbol)
+- tell me about the price for a [bk](symbol)
+- show me the price for a [bk](symbol)
+- can i see the price for a [bk](symbol)
+- what is the price for a [bk](symbol)
+- what's the price for a [bk](symbol)
+- show the price for a [bk](symbol)
+- tell me a price for a [bk](symbol)
+- tell me about a price for a [bk](symbol)
+- show me a price for a [bk](symbol)
+- can i see a price for a [bk](symbol)
+- what is a price for a [bk](symbol)
+- what's a price for a [bk](symbol)
+- show a price for a [bk](symbol)
+- tell me for a [csco](symbol)
+- tell me about for a [csco](symbol)
+- show me for a [csco](symbol)
+- can i see for a [csco](symbol)
+- what is for a [csco](symbol)
+- what's for a [csco](symbol)
+- show for a [csco](symbol)
+- tell me price for a [csco](symbol)
+- tell me about price for a [csco](symbol)
+- show me price for a [csco](symbol)
+- can i see price for a [csco](symbol)
+- what is price for a [csco](symbol)
+- what's price for a [csco](symbol)
+- show price for a [csco](symbol)
+- tell me the price for a [csco](symbol)
+- tell me about the price for a [csco](symbol)
+- show me the price for a [csco](symbol)
+- can i see the price for a [csco](symbol)
+- what is the price for a [csco](symbol)
+- what's the price for a [csco](symbol)
+- show the price for a [csco](symbol)
+- tell me a price for a [csco](symbol)
+- tell me about a price for a [csco](symbol)
+- show me a price for a [csco](symbol)
+- can i see a price for a [csco](symbol)
+- what is a price for a [csco](symbol)
+- what's a price for a [csco](symbol)
+- show a price for a [csco](symbol)
+- tell me for a [dow](symbol)
+- tell me about for a [dow](symbol)
+- show me for a [dow](symbol)
+- can i see for a [dow](symbol)
+- what is for a [dow](symbol)
+- what's for a [dow](symbol)
+- show for a [dow](symbol)
+- tell me price for a [dow](symbol)
+- tell me about price for a [dow](symbol)
+- show me price for a [dow](symbol)
+- can i see price for a [dow](symbol)
+- what is price for a [dow](symbol)
+- what's price for a [dow](symbol)
+- show price for a [dow](symbol)
+- tell me the price for a [dow](symbol)
+- tell me about the price for a [dow](symbol)
+- show me the price for a [dow](symbol)
+- can i see the price for a [dow](symbol)
+- what is the price for a [dow](symbol)
+- what's the price for a [dow](symbol)
+- show the price for a [dow](symbol)
+- tell me a price for a [dow](symbol)
+- tell me about a price for a [dow](symbol)
+- show me a price for a [dow](symbol)
+- can i see a price for a [dow](symbol)
+- what is a price for a [dow](symbol)
+- what's a price for a [dow](symbol)
+- show a price for a [dow](symbol)
+- tell me for a [ebay](symbol)
+- tell me about for a [ebay](symbol)
+- show me for a [ebay](symbol)
+- can i see for a [ebay](symbol)
+- what is for a [ebay](symbol)
+- what's for a [ebay](symbol)
+- show for a [ebay](symbol)
+- tell me price for a [ebay](symbol)
+- tell me about price for a [ebay](symbol)
+- show me price for a [ebay](symbol)
+- can i see price for a [ebay](symbol)
+- what is price for a [ebay](symbol)
+- what's price for a [ebay](symbol)
+- show price for a [ebay](symbol)
+- tell me the price for a [ebay](symbol)
+- tell me about the price for a [ebay](symbol)
+- show me the price for a [ebay](symbol)
+- can i see the price for a [ebay](symbol)
+- what is the price for a [ebay](symbol)
+- what's the price for a [ebay](symbol)
+- show the price for a [ebay](symbol)
+- tell me a price for a [ebay](symbol)
+- tell me about a price for a [ebay](symbol)
+- show me a price for a [ebay](symbol)
+- can i see a price for a [ebay](symbol)
+- what is a price for a [ebay](symbol)
+- what's a price for a [ebay](symbol)
+- show a price for a [ebay](symbol)
+- tell me for a [fox](symbol)
+- tell me about for a [fox](symbol)
+- show me for a [fox](symbol)
+- can i see for a [fox](symbol)
+- what is for a [fox](symbol)
+- what's for a [fox](symbol)
+- show for a [fox](symbol)
+- tell me price for a [fox](symbol)
+- tell me about price for a [fox](symbol)
+- show me price for a [fox](symbol)
+- can i see price for a [fox](symbol)
+- what is price for a [fox](symbol)
+- what's price for a [fox](symbol)
+- show price for a [fox](symbol)
+- tell me the price for a [fox](symbol)
+- tell me about the price for a [fox](symbol)
+- show me the price for a [fox](symbol)
+- can i see the price for a [fox](symbol)
+- what is the price for a [fox](symbol)
+- what's the price for a [fox](symbol)
+- show the price for a [fox](symbol)
+- tell me a price for a [fox](symbol)
+- tell me about a price for a [fox](symbol)
+- show me a price for a [fox](symbol)
+- can i see a price for a [fox](symbol)
+- what is a price for a [fox](symbol)
+- what's a price for a [fox](symbol)
+- show a price for a [fox](symbol)
+- tell me for a [googl](symbol)
+- tell me about for a [googl](symbol)
+- show me for a [googl](symbol)
+- can i see for a [googl](symbol)
+- what is for a [googl](symbol)
+- what's for a [googl](symbol)
+- show for a [googl](symbol)
+- tell me price for a [googl](symbol)
+- tell me about price for a [googl](symbol)
+- show me price for a [googl](symbol)
+- can i see price for a [googl](symbol)
+- what is price for a [googl](symbol)
+- what's price for a [googl](symbol)
+- show price for a [googl](symbol)
+- tell me the price for a [googl](symbol)
+- tell me about the price for a [googl](symbol)
+- show me the price for a [googl](symbol)
+- can i see the price for a [googl](symbol)
+- what is the price for a [googl](symbol)
+- what's the price for a [googl](symbol)
+- show the price for a [googl](symbol)
+- tell me a price for a [googl](symbol)
+- tell me about a price for a [googl](symbol)
+- show me a price for a [googl](symbol)
+- can i see a price for a [googl](symbol)
+- what is a price for a [googl](symbol)
+- what's a price for a [googl](symbol)
+- show a price for a [googl](symbol)
+- tell me for a [hp](symbol)
+- tell me about for a [hp](symbol)
+- show me for a [hp](symbol)
+- can i see for a [hp](symbol)
+- what is for a [hp](symbol)
+- what's for a [hp](symbol)
+- show for a [hp](symbol)
+- tell me price for a [hp](symbol)
+- tell me about price for a [hp](symbol)
+- show me price for a [hp](symbol)
+- can i see price for a [hp](symbol)
+- what is price for a [hp](symbol)
+- what's price for a [hp](symbol)
+- show price for a [hp](symbol)
+- tell me the price for a [hp](symbol)
+- tell me about the price for a [hp](symbol)
+- show me the price for a [hp](symbol)
+- can i see the price for a [hp](symbol)
+- what is the price for a [hp](symbol)
+- what's the price for a [hp](symbol)
+- show the price for a [hp](symbol)
+- tell me a price for a [hp](symbol)
+- tell me about a price for a [hp](symbol)
+- show me a price for a [hp](symbol)
+- can i see a price for a [hp](symbol)
+- what is a price for a [hp](symbol)
+- what's a price for a [hp](symbol)
+- show a price for a [hp](symbol)
+- tell me for a [ibm](symbol)
+- tell me about for a [ibm](symbol)
+- show me for a [ibm](symbol)
+- can i see for a [ibm](symbol)
+- what is for a [ibm](symbol)
+- what's for a [ibm](symbol)
+- show for a [ibm](symbol)
+- tell me price for a [ibm](symbol)
+- tell me about price for a [ibm](symbol)
+- show me price for a [ibm](symbol)
+- can i see price for a [ibm](symbol)
+- what is price for a [ibm](symbol)
+- what's price for a [ibm](symbol)
+- show price for a [ibm](symbol)
+- tell me the price for a [ibm](symbol)
+- tell me about the price for a [ibm](symbol)
+- show me the price for a [ibm](symbol)
+- can i see the price for a [ibm](symbol)
+- what is the price for a [ibm](symbol)
+- what's the price for a [ibm](symbol)
+- show the price for a [ibm](symbol)
+- tell me a price for a [ibm](symbol)
+- tell me about a price for a [ibm](symbol)
+- show me a price for a [ibm](symbol)
+- can i see a price for a [ibm](symbol)
+- what is a price for a [ibm](symbol)
+- what's a price for a [ibm](symbol)
+- show a price for a [ibm](symbol)
+- tell me for a [jpm](symbol)
+- tell me about for a [jpm](symbol)
+- show me for a [jpm](symbol)
+- can i see for a [jpm](symbol)
+- what is for a [jpm](symbol)
+- what's for a [jpm](symbol)
+- show for a [jpm](symbol)
+- tell me price for a [jpm](symbol)
+- tell me about price for a [jpm](symbol)
+- show me price for a [jpm](symbol)
+- can i see price for a [jpm](symbol)
+- what is price for a [jpm](symbol)
+- what's price for a [jpm](symbol)
+- show price for a [jpm](symbol)
+- tell me the price for a [jpm](symbol)
+- tell me about the price for a [jpm](symbol)
+- show me the price for a [jpm](symbol)
+- can i see the price for a [jpm](symbol)
+- what is the price for a [jpm](symbol)
+- what's the price for a [jpm](symbol)
+- show the price for a [jpm](symbol)
+- tell me a price for a [jpm](symbol)
+- tell me about a price for a [jpm](symbol)
+- show me a price for a [jpm](symbol)
+- can i see a price for a [jpm](symbol)
+- what is a price for a [jpm](symbol)
+- what's a price for a [jpm](symbol)
+- show a price for a [jpm](symbol)
+- tell me for a [kmb](symbol)
+- tell me about for a [kmb](symbol)
+- show me for a [kmb](symbol)
+- can i see for a [kmb](symbol)
+- what is for a [kmb](symbol)
+- what's for a [kmb](symbol)
+- show for a [kmb](symbol)
+- tell me price for a [kmb](symbol)
+- tell me about price for a [kmb](symbol)
+- show me price for a [kmb](symbol)
+- can i see price for a [kmb](symbol)
+- what is price for a [kmb](symbol)
+- what's price for a [kmb](symbol)
+- show price for a [kmb](symbol)
+- tell me the price for a [kmb](symbol)
+- tell me about the price for a [kmb](symbol)
+- show me the price for a [kmb](symbol)
+- can i see the price for a [kmb](symbol)
+- what is the price for a [kmb](symbol)
+- what's the price for a [kmb](symbol)
+- show the price for a [kmb](symbol)
+- tell me a price for a [kmb](symbol)
+- tell me about a price for a [kmb](symbol)
+- show me a price for a [kmb](symbol)
+- can i see a price for a [kmb](symbol)
+- what is a price for a [kmb](symbol)
+- what's a price for a [kmb](symbol)
+- show a price for a [kmb](symbol)
+- tell me for a [ndaq](symbol)
+- tell me about for a [ndaq](symbol)
+- show me for a [ndaq](symbol)
+- can i see for a [ndaq](symbol)
+- what is for a [ndaq](symbol)
+- what's for a [ndaq](symbol)
+- show for a [ndaq](symbol)
+- tell me price for a [ndaq](symbol)
+- tell me about price for a [ndaq](symbol)
+- show me price for a [ndaq](symbol)
+- can i see price for a [ndaq](symbol)
+- what is price for a [ndaq](symbol)
+- what's price for a [ndaq](symbol)
+- show price for a [ndaq](symbol)
+- tell me the price for a [ndaq](symbol)
+- tell me about the price for a [ndaq](symbol)
+- show me the price for a [ndaq](symbol)
+- can i see the price for a [ndaq](symbol)
+- what is the price for a [ndaq](symbol)
+- what's the price for a [ndaq](symbol)
+- show the price for a [ndaq](symbol)
+- tell me a price for a [ndaq](symbol)
+- tell me about a price for a [ndaq](symbol)
+- show me a price for a [ndaq](symbol)
+- can i see a price for a [ndaq](symbol)
+- what is a price for a [ndaq](symbol)
+- what's a price for a [ndaq](symbol)
+- show a price for a [ndaq](symbol)
 - tell me stock [amzn](symbol)
 - tell me about stock [amzn](symbol)
 - show me stock [amzn](symbol)
@@ -9375,6 +11391,90 @@
 - what is ticker [ndaq](symbol)
 - what's ticker [ndaq](symbol)
 - show ticker [ndaq](symbol)
+- tell me [amzn](symbol)
+- tell me about [amzn](symbol)
+- show me [amzn](symbol)
+- can i see [amzn](symbol)
+- what is [amzn](symbol)
+- what's [amzn](symbol)
+- show [amzn](symbol)
+- tell me [bk](symbol)
+- tell me about [bk](symbol)
+- show me [bk](symbol)
+- can i see [bk](symbol)
+- what is [bk](symbol)
+- what's [bk](symbol)
+- show [bk](symbol)
+- tell me [csco](symbol)
+- tell me about [csco](symbol)
+- show me [csco](symbol)
+- can i see [csco](symbol)
+- what is [csco](symbol)
+- what's [csco](symbol)
+- show [csco](symbol)
+- tell me [dow](symbol)
+- tell me about [dow](symbol)
+- show me [dow](symbol)
+- can i see [dow](symbol)
+- what is [dow](symbol)
+- what's [dow](symbol)
+- show [dow](symbol)
+- tell me [ebay](symbol)
+- tell me about [ebay](symbol)
+- show me [ebay](symbol)
+- can i see [ebay](symbol)
+- what is [ebay](symbol)
+- what's [ebay](symbol)
+- show [ebay](symbol)
+- tell me [fox](symbol)
+- tell me about [fox](symbol)
+- show me [fox](symbol)
+- can i see [fox](symbol)
+- what is [fox](symbol)
+- what's [fox](symbol)
+- show [fox](symbol)
+- tell me [googl](symbol)
+- tell me about [googl](symbol)
+- show me [googl](symbol)
+- can i see [googl](symbol)
+- what is [googl](symbol)
+- what's [googl](symbol)
+- show [googl](symbol)
+- tell me [hp](symbol)
+- tell me about [hp](symbol)
+- show me [hp](symbol)
+- can i see [hp](symbol)
+- what is [hp](symbol)
+- what's [hp](symbol)
+- show [hp](symbol)
+- tell me [ibm](symbol)
+- tell me about [ibm](symbol)
+- show me [ibm](symbol)
+- can i see [ibm](symbol)
+- what is [ibm](symbol)
+- what's [ibm](symbol)
+- show [ibm](symbol)
+- tell me [jpm](symbol)
+- tell me about [jpm](symbol)
+- show me [jpm](symbol)
+- can i see [jpm](symbol)
+- what is [jpm](symbol)
+- what's [jpm](symbol)
+- show [jpm](symbol)
+- tell me [kmb](symbol)
+- tell me about [kmb](symbol)
+- show me [kmb](symbol)
+- can i see [kmb](symbol)
+- what is [kmb](symbol)
+- what's [kmb](symbol)
+- show [kmb](symbol)
+- tell me [ndaq](symbol)
+- tell me about [ndaq](symbol)
+- show me [ndaq](symbol)
+- can i see [ndaq](symbol)
+- what is [ndaq](symbol)
+- what's [ndaq](symbol)
+- show [ndaq](symbol)
 - tell me the stock [amzn](symbol)
 - tell me about the stock [amzn](symbol)
 - show me the stock [amzn](symbol)
@@ -9711,6 +11811,90 @@
 - what is the ticker [ndaq](symbol)
 - what's the ticker [ndaq](symbol)
 - show the ticker [ndaq](symbol)
+- tell me the [amzn](symbol)
+- tell me about the [amzn](symbol)
+- show me the [amzn](symbol)
+- can i see the [amzn](symbol)
+- what is the [amzn](symbol)
+- what's the [amzn](symbol)
+- show the [amzn](symbol)
+- tell me the [bk](symbol)
+- tell me about the [bk](symbol)
+- show me the [bk](symbol)
+- can i see the [bk](symbol)
+- what is the [bk](symbol)
+- what's the [bk](symbol)
+- show the [bk](symbol)
+- tell me the [csco](symbol)
+- tell me about the [csco](symbol)
+- show me the [csco](symbol)
+- can i see the [csco](symbol)
+- what is the [csco](symbol)
+- what's the [csco](symbol)
+- show the [csco](symbol)
+- tell me the [dow](symbol)
+- tell me about the [dow](symbol)
+- show me the [dow](symbol)
+- can i see the [dow](symbol)
+- what is the [dow](symbol)
+- what's the [dow](symbol)
+- show the [dow](symbol)
+- tell me the [ebay](symbol)
+- tell me about the [ebay](symbol)
+- show me the [ebay](symbol)
+- can i see the [ebay](symbol)
+- what is the [ebay](symbol)
+- what's the [ebay](symbol)
+- show the [ebay](symbol)
+- tell me the [fox](symbol)
+- tell me about the [fox](symbol)
+- show me the [fox](symbol)
+- can i see the [fox](symbol)
+- what is the [fox](symbol)
+- what's the [fox](symbol)
+- show the [fox](symbol)
+- tell me the [googl](symbol)
+- tell me about the [googl](symbol)
+- show me the [googl](symbol)
+- can i see the [googl](symbol)
+- what is the [googl](symbol)
+- what's the [googl](symbol)
+- show the [googl](symbol)
+- tell me the [hp](symbol)
+- tell me about the [hp](symbol)
+- show me the [hp](symbol)
+- can i see the [hp](symbol)
+- what is the [hp](symbol)
+- what's the [hp](symbol)
+- show the [hp](symbol)
+- tell me the [ibm](symbol)
+- tell me about the [ibm](symbol)
+- show me the [ibm](symbol)
+- can i see the [ibm](symbol)
+- what is the [ibm](symbol)
+- what's the [ibm](symbol)
+- show the [ibm](symbol)
+- tell me the [jpm](symbol)
+- tell me about the [jpm](symbol)
+- show me the [jpm](symbol)
+- can i see the [jpm](symbol)
+- what is the [jpm](symbol)
+- what's the [jpm](symbol)
+- show the [jpm](symbol)
+- tell me the [kmb](symbol)
+- tell me about the [kmb](symbol)
+- show me the [kmb](symbol)
+- can i see the [kmb](symbol)
+- what is the [kmb](symbol)
+- what's the [kmb](symbol)
+- show the [kmb](symbol)
+- tell me the [ndaq](symbol)
+- tell me about the [ndaq](symbol)
+- show me the [ndaq](symbol)
+- can i see the [ndaq](symbol)
+- what is the [ndaq](symbol)
+- what's the [ndaq](symbol)
+- show the [ndaq](symbol)
 - tell me a stock [amzn](symbol)
 - tell me about a stock [amzn](symbol)
 - show me a stock [amzn](symbol)
@@ -10047,6 +12231,90 @@
 - what is a ticker [ndaq](symbol)
 - what's a ticker [ndaq](symbol)
 - show a ticker [ndaq](symbol)
+- tell me a [amzn](symbol)
+- tell me about a [amzn](symbol)
+- show me a [amzn](symbol)
+- can i see a [amzn](symbol)
+- what is a [amzn](symbol)
+- what's a [amzn](symbol)
+- show a [amzn](symbol)
+- tell me a [bk](symbol)
+- tell me about a [bk](symbol)
+- show me a [bk](symbol)
+- can i see a [bk](symbol)
+- what is a [bk](symbol)
+- what's a [bk](symbol)
+- show a [bk](symbol)
+- tell me a [csco](symbol)
+- tell me about a [csco](symbol)
+- show me a [csco](symbol)
+- can i see a [csco](symbol)
+- what is a [csco](symbol)
+- what's a [csco](symbol)
+- show a [csco](symbol)
+- tell me a [dow](symbol)
+- tell me about a [dow](symbol)
+- show me a [dow](symbol)
+- can i see a [dow](symbol)
+- what is a [dow](symbol)
+- what's a [dow](symbol)
+- show a [dow](symbol)
+- tell me a [ebay](symbol)
+- tell me about a [ebay](symbol)
+- show me a [ebay](symbol)
+- can i see a [ebay](symbol)
+- what is a [ebay](symbol)
+- what's a [ebay](symbol)
+- show a [ebay](symbol)
+- tell me a [fox](symbol)
+- tell me about a [fox](symbol)
+- show me a [fox](symbol)
+- can i see a [fox](symbol)
+- what is a [fox](symbol)
+- what's a [fox](symbol)
+- show a [fox](symbol)
+- tell me a [googl](symbol)
+- tell me about a [googl](symbol)
+- show me a [googl](symbol)
+- can i see a [googl](symbol)
+- what is a [googl](symbol)
+- what's a [googl](symbol)
+- show a [googl](symbol)
+- tell me a [hp](symbol)
+- tell me about a [hp](symbol)
+- show me a [hp](symbol)
+- can i see a [hp](symbol)
+- what is a [hp](symbol)
+- what's a [hp](symbol)
+- show a [hp](symbol)
+- tell me a [ibm](symbol)
+- tell me about a [ibm](symbol)
+- show me a [ibm](symbol)
+- can i see a [ibm](symbol)
+- what is a [ibm](symbol)
+- what's a [ibm](symbol)
+- show a [ibm](symbol)
+- tell me a [jpm](symbol)
+- tell me about a [jpm](symbol)
+- show me a [jpm](symbol)
+- can i see a [jpm](symbol)
+- what is a [jpm](symbol)
+- what's a [jpm](symbol)
+- show a [jpm](symbol)
+- tell me a [kmb](symbol)
+- tell me about a [kmb](symbol)
+- show me a [kmb](symbol)
+- can i see a [kmb](symbol)
+- what is a [kmb](symbol)
+- what's a [kmb](symbol)
+- show a [kmb](symbol)
+- tell me a [ndaq](symbol)
+- tell me about a [ndaq](symbol)
+- show me a [ndaq](symbol)
+- can i see a [ndaq](symbol)
+- what is a [ndaq](symbol)
+- what's a [ndaq](symbol)
+- show a [ndaq](symbol)
 - tell me for stock [amzn](symbol)
 - tell me about for stock [amzn](symbol)
 - show me for stock [amzn](symbol)
@@ -10383,6 +12651,90 @@
 - what is for ticker [ndaq](symbol)
 - what's for ticker [ndaq](symbol)
 - show for ticker [ndaq](symbol)
+- tell me for  [amzn](symbol)
+- tell me about for  [amzn](symbol)
+- show me for  [amzn](symbol)
+- can i see for  [amzn](symbol)
+- what is for  [amzn](symbol)
+- what's for  [amzn](symbol)
+- show for  [amzn](symbol)
+- tell me for  [bk](symbol)
+- tell me about for  [bk](symbol)
+- show me for  [bk](symbol)
+- can i see for  [bk](symbol)
+- what is for  [bk](symbol)
+- what's for  [bk](symbol)
+- show for  [bk](symbol)
+- tell me for  [csco](symbol)
+- tell me about for  [csco](symbol)
+- show me for  [csco](symbol)
+- can i see for  [csco](symbol)
+- what is for  [csco](symbol)
+- what's for  [csco](symbol)
+- show for  [csco](symbol)
+- tell me for  [dow](symbol)
+- tell me about for  [dow](symbol)
+- show me for  [dow](symbol)
+- can i see for  [dow](symbol)
+- what is for  [dow](symbol)
+- what's for  [dow](symbol)
+- show for  [dow](symbol)
+- tell me for  [ebay](symbol)
+- tell me about for  [ebay](symbol)
+- show me for  [ebay](symbol)
+- can i see for  [ebay](symbol)
+- what is for  [ebay](symbol)
+- what's for  [ebay](symbol)
+- show for  [ebay](symbol)
+- tell me for  [fox](symbol)
+- tell me about for  [fox](symbol)
+- show me for  [fox](symbol)
+- can i see for  [fox](symbol)
+- what is for  [fox](symbol)
+- what's for  [fox](symbol)
+- show for  [fox](symbol)
+- tell me for  [googl](symbol)
+- tell me about for  [googl](symbol)
+- show me for  [googl](symbol)
+- can i see for  [googl](symbol)
+- what is for  [googl](symbol)
+- what's for  [googl](symbol)
+- show for  [googl](symbol)
+- tell me for  [hp](symbol)
+- tell me about for  [hp](symbol)
+- show me for  [hp](symbol)
+- can i see for  [hp](symbol)
+- what is for  [hp](symbol)
+- what's for  [hp](symbol)
+- show for  [hp](symbol)
+- tell me for  [ibm](symbol)
+- tell me about for  [ibm](symbol)
+- show me for  [ibm](symbol)
+- can i see for  [ibm](symbol)
+- what is for  [ibm](symbol)
+- what's for  [ibm](symbol)
+- show for  [ibm](symbol)
+- tell me for  [jpm](symbol)
+- tell me about for  [jpm](symbol)
+- show me for  [jpm](symbol)
+- can i see for  [jpm](symbol)
+- what is for  [jpm](symbol)
+- what's for  [jpm](symbol)
+- show for  [jpm](symbol)
+- tell me for  [kmb](symbol)
+- tell me about for  [kmb](symbol)
+- show me for  [kmb](symbol)
+- can i see for  [kmb](symbol)
+- what is for  [kmb](symbol)
+- what's for  [kmb](symbol)
+- show for  [kmb](symbol)
+- tell me for  [ndaq](symbol)
+- tell me about for  [ndaq](symbol)
+- show me for  [ndaq](symbol)
+- can i see for  [ndaq](symbol)
+- what is for  [ndaq](symbol)
+- what's for  [ndaq](symbol)
+- show for  [ndaq](symbol)
 - tell me for the stock [amzn](symbol)
 - tell me about for the stock [amzn](symbol)
 - show me for the stock [amzn](symbol)
@@ -10719,6 +13071,90 @@
 - what is for the ticker [ndaq](symbol)
 - what's for the ticker [ndaq](symbol)
 - show for the ticker [ndaq](symbol)
+- tell me for the [amzn](symbol)
+- tell me about for the [amzn](symbol)
+- show me for the [amzn](symbol)
+- can i see for the [amzn](symbol)
+- what is for the [amzn](symbol)
+- what's for the [amzn](symbol)
+- show for the [amzn](symbol)
+- tell me for the [bk](symbol)
+- tell me about for the [bk](symbol)
+- show me for the [bk](symbol)
+- can i see for the [bk](symbol)
+- what is for the [bk](symbol)
+- what's for the [bk](symbol)
+- show for the [bk](symbol)
+- tell me for the [csco](symbol)
+- tell me about for the [csco](symbol)
+- show me for the [csco](symbol)
+- can i see for the [csco](symbol)
+- what is for the [csco](symbol)
+- what's for the [csco](symbol)
+- show for the [csco](symbol)
+- tell me for the [dow](symbol)
+- tell me about for the [dow](symbol)
+- show me for the [dow](symbol)
+- can i see for the [dow](symbol)
+- what is for the [dow](symbol)
+- what's for the [dow](symbol)
+- show for the [dow](symbol)
+- tell me for the [ebay](symbol)
+- tell me about for the [ebay](symbol)
+- show me for the [ebay](symbol)
+- can i see for the [ebay](symbol)
+- what is for the [ebay](symbol)
+- what's for the [ebay](symbol)
+- show for the [ebay](symbol)
+- tell me for the [fox](symbol)
+- tell me about for the [fox](symbol)
+- show me for the [fox](symbol)
+- can i see for the [fox](symbol)
+- what is for the [fox](symbol)
+- what's for the [fox](symbol)
+- show for the [fox](symbol)
+- tell me for the [googl](symbol)
+- tell me about for the [googl](symbol)
+- show me for the [googl](symbol)
+- can i see for the [googl](symbol)
+- what is for the [googl](symbol)
+- what's for the [googl](symbol)
+- show for the [googl](symbol)
+- tell me for the [hp](symbol)
+- tell me about for the [hp](symbol)
+- show me for the [hp](symbol)
+- can i see for the [hp](symbol)
+- what is for the [hp](symbol)
+- what's for the [hp](symbol)
+- show for the [hp](symbol)
+- tell me for the [ibm](symbol)
+- tell me about for the [ibm](symbol)
+- show me for the [ibm](symbol)
+- can i see for the [ibm](symbol)
+- what is for the [ibm](symbol)
+- what's for the [ibm](symbol)
+- show for the [ibm](symbol)
+- tell me for the [jpm](symbol)
+- tell me about for the [jpm](symbol)
+- show me for the [jpm](symbol)
+- can i see for the [jpm](symbol)
+- what is for the [jpm](symbol)
+- what's for the [jpm](symbol)
+- show for the [jpm](symbol)
+- tell me for the [kmb](symbol)
+- tell me about for the [kmb](symbol)
+- show me for the [kmb](symbol)
+- can i see for the [kmb](symbol)
+- what is for the [kmb](symbol)
+- what's for the [kmb](symbol)
+- show for the [kmb](symbol)
+- tell me for the [ndaq](symbol)
+- tell me about for the [ndaq](symbol)
+- show me for the [ndaq](symbol)
+- can i see for the [ndaq](symbol)
+- what is for the [ndaq](symbol)
+- what's for the [ndaq](symbol)
+- show for the [ndaq](symbol)
 - tell me for a stock [amzn](symbol)
 - tell me about for a stock [amzn](symbol)
 - show me for a stock [amzn](symbol)
@@ -11055,6 +13491,90 @@
 - what is for a ticker [ndaq](symbol)
 - what's for a ticker [ndaq](symbol)
 - show for a ticker [ndaq](symbol)
+- tell me for a [amzn](symbol)
+- tell me about for a [amzn](symbol)
+- show me for a [amzn](symbol)
+- can i see for a [amzn](symbol)
+- what is for a [amzn](symbol)
+- what's for a [amzn](symbol)
+- show for a [amzn](symbol)
+- tell me for a [bk](symbol)
+- tell me about for a [bk](symbol)
+- show me for a [bk](symbol)
+- can i see for a [bk](symbol)
+- what is for a [bk](symbol)
+- what's for a [bk](symbol)
+- show for a [bk](symbol)
+- tell me for a [csco](symbol)
+- tell me about for a [csco](symbol)
+- show me for a [csco](symbol)
+- can i see for a [csco](symbol)
+- what is for a [csco](symbol)
+- what's for a [csco](symbol)
+- show for a [csco](symbol)
+- tell me for a [dow](symbol)
+- tell me about for a [dow](symbol)
+- show me for a [dow](symbol)
+- can i see for a [dow](symbol)
+- what is for a [dow](symbol)
+- what's for a [dow](symbol)
+- show for a [dow](symbol)
+- tell me for a [ebay](symbol)
+- tell me about for a [ebay](symbol)
+- show me for a [ebay](symbol)
+- can i see for a [ebay](symbol)
+- what is for a [ebay](symbol)
+- what's for a [ebay](symbol)
+- show for a [ebay](symbol)
+- tell me for a [fox](symbol)
+- tell me about for a [fox](symbol)
+- show me for a [fox](symbol)
+- can i see for a [fox](symbol)
+- what is for a [fox](symbol)
+- what's for a [fox](symbol)
+- show for a [fox](symbol)
+- tell me for a [googl](symbol)
+- tell me about for a [googl](symbol)
+- show me for a [googl](symbol)
+- can i see for a [googl](symbol)
+- what is for a [googl](symbol)
+- what's for a [googl](symbol)
+- show for a [googl](symbol)
+- tell me for a [hp](symbol)
+- tell me about for a [hp](symbol)
+- show me for a [hp](symbol)
+- can i see for a [hp](symbol)
+- what is for a [hp](symbol)
+- what's for a [hp](symbol)
+- show for a [hp](symbol)
+- tell me for a [ibm](symbol)
+- tell me about for a [ibm](symbol)
+- show me for a [ibm](symbol)
+- can i see for a [ibm](symbol)
+- what is for a [ibm](symbol)
+- what's for a [ibm](symbol)
+- show for a [ibm](symbol)
+- tell me for a [jpm](symbol)
+- tell me about for a [jpm](symbol)
+- show me for a [jpm](symbol)
+- can i see for a [jpm](symbol)
+- what is for a [jpm](symbol)
+- what's for a [jpm](symbol)
+- show for a [jpm](symbol)
+- tell me for a [kmb](symbol)
+- tell me about for a [kmb](symbol)
+- show me for a [kmb](symbol)
+- can i see for a [kmb](symbol)
+- what is for a [kmb](symbol)
+- what's for a [kmb](symbol)
+- show for a [kmb](symbol)
+- tell me for a [ndaq](symbol)
+- tell me about for a [ndaq](symbol)
+- show me for a [ndaq](symbol)
+- can i see for a [ndaq](symbol)
+- what is for a [ndaq](symbol)
+- what's for a [ndaq](symbol)
+- show for a [ndaq](symbol)
 - tell me stock [amzn](symbol) price
 - tell me about stock [amzn](symbol) price
 - show me stock [amzn](symbol) price
@@ -11391,6 +13911,90 @@
 - what is ticker [ndaq](symbol) price
 - what's ticker [ndaq](symbol) price
 - show ticker [ndaq](symbol) price
+- tell me [amzn](symbol) price
+- tell me about [amzn](symbol) price
+- show me [amzn](symbol) price
+- can i see [amzn](symbol) price
+- what is [amzn](symbol) price
+- what's [amzn](symbol) price
+- show [amzn](symbol) price
+- tell me [bk](symbol) price
+- tell me about [bk](symbol) price
+- show me [bk](symbol) price
+- can i see [bk](symbol) price
+- what is [bk](symbol) price
+- what's [bk](symbol) price
+- show [bk](symbol) price
+- tell me [csco](symbol) price
+- tell me about [csco](symbol) price
+- show me [csco](symbol) price
+- can i see [csco](symbol) price
+- what is [csco](symbol) price
+- what's [csco](symbol) price
+- show [csco](symbol) price
+- tell me [dow](symbol) price
+- tell me about [dow](symbol) price
+- show me [dow](symbol) price
+- can i see [dow](symbol) price
+- what is [dow](symbol) price
+- what's [dow](symbol) price
+- show [dow](symbol) price
+- tell me [ebay](symbol) price
+- tell me about [ebay](symbol) price
+- show me [ebay](symbol) price
+- can i see [ebay](symbol) price
+- what is [ebay](symbol) price
+- what's [ebay](symbol) price
+- show [ebay](symbol) price
+- tell me [fox](symbol) price
+- tell me about [fox](symbol) price
+- show me [fox](symbol) price
+- can i see [fox](symbol) price
+- what is [fox](symbol) price
+- what's [fox](symbol) price
+- show [fox](symbol) price
+- tell me [googl](symbol) price
+- tell me about [googl](symbol) price
+- show me [googl](symbol) price
+- can i see [googl](symbol) price
+- what is [googl](symbol) price
+- what's [googl](symbol) price
+- show [googl](symbol) price
+- tell me [hp](symbol) price
+- tell me about [hp](symbol) price
+- show me [hp](symbol) price
+- can i see [hp](symbol) price
+- what is [hp](symbol) price
+- what's [hp](symbol) price
+- show [hp](symbol) price
+- tell me [ibm](symbol) price
+- tell me about [ibm](symbol) price
+- show me [ibm](symbol) price
+- can i see [ibm](symbol) price
+- what is [ibm](symbol) price
+- what's [ibm](symbol) price
+- show [ibm](symbol) price
+- tell me [jpm](symbol) price
+- tell me about [jpm](symbol) price
+- show me [jpm](symbol) price
+- can i see [jpm](symbol) price
+- what is [jpm](symbol) price
+- what's [jpm](symbol) price
+- show [jpm](symbol) price
+- tell me [kmb](symbol) price
+- tell me about [kmb](symbol) price
+- show me [kmb](symbol) price
+- can i see [kmb](symbol) price
+- what is [kmb](symbol) price
+- what's [kmb](symbol) price
+- show [kmb](symbol) price
+- tell me [ndaq](symbol) price
+- tell me about [ndaq](symbol) price
+- show me [ndaq](symbol) price
+- can i see [ndaq](symbol) price
+- what is [ndaq](symbol) price
+- what's [ndaq](symbol) price
+- show [ndaq](symbol) price
 - tell me the stock [amzn](symbol) price
 - tell me about the stock [amzn](symbol) price
 - show me the stock [amzn](symbol) price
@@ -11727,6 +14331,90 @@
 - what is the ticker [ndaq](symbol) price
 - what's the ticker [ndaq](symbol) price
 - show the ticker [ndaq](symbol) price
+- tell me the [amzn](symbol) price
+- tell me about the [amzn](symbol) price
+- show me the [amzn](symbol) price
+- can i see the [amzn](symbol) price
+- what is the [amzn](symbol) price
+- what's the [amzn](symbol) price
+- show the [amzn](symbol) price
+- tell me the [bk](symbol) price
+- tell me about the [bk](symbol) price
+- show me the [bk](symbol) price
+- can i see the [bk](symbol) price
+- what is the [bk](symbol) price
+- what's the [bk](symbol) price
+- show the [bk](symbol) price
+- tell me the [csco](symbol) price
+- tell me about the [csco](symbol) price
+- show me the [csco](symbol) price
+- can i see the [csco](symbol) price
+- what is the [csco](symbol) price
+- what's the [csco](symbol) price
+- show the [csco](symbol) price
+- tell me the [dow](symbol) price
+- tell me about the [dow](symbol) price
+- show me the [dow](symbol) price
+- can i see the [dow](symbol) price
+- what is the [dow](symbol) price
+- what's the [dow](symbol) price
+- show the [dow](symbol) price
+- tell me the [ebay](symbol) price
+- tell me about the [ebay](symbol) price
+- show me the [ebay](symbol) price
+- can i see the [ebay](symbol) price
+- what is the [ebay](symbol) price
+- what's the [ebay](symbol) price
+- show the [ebay](symbol) price
+- tell me the [fox](symbol) price
+- tell me about the [fox](symbol) price
+- show me the [fox](symbol) price
+- can i see the [fox](symbol) price
+- what is the [fox](symbol) price
+- what's the [fox](symbol) price
+- show the [fox](symbol) price
+- tell me the [googl](symbol) price
+- tell me about the [googl](symbol) price
+- show me the [googl](symbol) price
+- can i see the [googl](symbol) price
+- what is the [googl](symbol) price
+- what's the [googl](symbol) price
+- show the [googl](symbol) price
+- tell me the [hp](symbol) price
+- tell me about the [hp](symbol) price
+- show me the [hp](symbol) price
+- can i see the [hp](symbol) price
+- what is the [hp](symbol) price
+- what's the [hp](symbol) price
+- show the [hp](symbol) price
+- tell me the [ibm](symbol) price
+- tell me about the [ibm](symbol) price
+- show me the [ibm](symbol) price
+- can i see the [ibm](symbol) price
+- what is the [ibm](symbol) price
+- what's the [ibm](symbol) price
+- show the [ibm](symbol) price
+- tell me the [jpm](symbol) price
+- tell me about the [jpm](symbol) price
+- show me the [jpm](symbol) price
+- can i see the [jpm](symbol) price
+- what is the [jpm](symbol) price
+- what's the [jpm](symbol) price
+- show the [jpm](symbol) price
+- tell me the [kmb](symbol) price
+- tell me about the [kmb](symbol) price
+- show me the [kmb](symbol) price
+- can i see the [kmb](symbol) price
+- what is the [kmb](symbol) price
+- what's the [kmb](symbol) price
+- show the [kmb](symbol) price
+- tell me the [ndaq](symbol) price
+- tell me about the [ndaq](symbol) price
+- show me the [ndaq](symbol) price
+- can i see the [ndaq](symbol) price
+- what is the [ndaq](symbol) price
+- what's the [ndaq](symbol) price
+- show the [ndaq](symbol) price
 - tell me a stock [amzn](symbol) price
 - tell me about a stock [amzn](symbol) price
 - show me a stock [amzn](symbol) price
@@ -12063,6 +14751,90 @@
 - what is a ticker [ndaq](symbol) price
 - what's a ticker [ndaq](symbol) price
 - show a ticker [ndaq](symbol) price
+- tell me a [amzn](symbol) price
+- tell me about a [amzn](symbol) price
+- show me a [amzn](symbol) price
+- can i see a [amzn](symbol) price
+- what is a [amzn](symbol) price
+- what's a [amzn](symbol) price
+- show a [amzn](symbol) price
+- tell me a [bk](symbol) price
+- tell me about a [bk](symbol) price
+- show me a [bk](symbol) price
+- can i see a [bk](symbol) price
+- what is a [bk](symbol) price
+- what's a [bk](symbol) price
+- show a [bk](symbol) price
+- tell me a [csco](symbol) price
+- tell me about a [csco](symbol) price
+- show me a [csco](symbol) price
+- can i see a [csco](symbol) price
+- what is a [csco](symbol) price
+- what's a [csco](symbol) price
+- show a [csco](symbol) price
+- tell me a [dow](symbol) price
+- tell me about a [dow](symbol) price
+- show me a [dow](symbol) price
+- can i see a [dow](symbol) price
+- what is a [dow](symbol) price
+- what's a [dow](symbol) price
+- show a [dow](symbol) price
+- tell me a [ebay](symbol) price
+- tell me about a [ebay](symbol) price
+- show me a [ebay](symbol) price
+- can i see a [ebay](symbol) price
+- what is a [ebay](symbol) price
+- what's a [ebay](symbol) price
+- show a [ebay](symbol) price
+- tell me a [fox](symbol) price
+- tell me about a [fox](symbol) price
+- show me a [fox](symbol) price
+- can i see a [fox](symbol) price
+- what is a [fox](symbol) price
+- what's a [fox](symbol) price
+- show a [fox](symbol) price
+- tell me a [googl](symbol) price
+- tell me about a [googl](symbol) price
+- show me a [googl](symbol) price
+- can i see a [googl](symbol) price
+- what is a [googl](symbol) price
+- what's a [googl](symbol) price
+- show a [googl](symbol) price
+- tell me a [hp](symbol) price
+- tell me about a [hp](symbol) price
+- show me a [hp](symbol) price
+- can i see a [hp](symbol) price
+- what is a [hp](symbol) price
+- what's a [hp](symbol) price
+- show a [hp](symbol) price
+- tell me a [ibm](symbol) price
+- tell me about a [ibm](symbol) price
+- show me a [ibm](symbol) price
+- can i see a [ibm](symbol) price
+- what is a [ibm](symbol) price
+- what's a [ibm](symbol) price
+- show a [ibm](symbol) price
+- tell me a [jpm](symbol) price
+- tell me about a [jpm](symbol) price
+- show me a [jpm](symbol) price
+- can i see a [jpm](symbol) price
+- what is a [jpm](symbol) price
+- what's a [jpm](symbol) price
+- show a [jpm](symbol) price
+- tell me a [kmb](symbol) price
+- tell me about a [kmb](symbol) price
+- show me a [kmb](symbol) price
+- can i see a [kmb](symbol) price
+- what is a [kmb](symbol) price
+- what's a [kmb](symbol) price
+- show a [kmb](symbol) price
+- tell me a [ndaq](symbol) price
+- tell me about a [ndaq](symbol) price
+- show me a [ndaq](symbol) price
+- can i see a [ndaq](symbol) price
+- what is a [ndaq](symbol) price
+- what's a [ndaq](symbol) price
+- show a [ndaq](symbol) price
 - tell me for stock [amzn](symbol) price
 - tell me about for stock [amzn](symbol) price
 - show me for stock [amzn](symbol) price
@@ -12399,6 +15171,90 @@
 - what is for ticker [ndaq](symbol) price
 - what's for ticker [ndaq](symbol) price
 - show for ticker [ndaq](symbol) price
+- tell me for  [amzn](symbol) price
+- tell me about for  [amzn](symbol) price
+- show me for  [amzn](symbol) price
+- can i see for  [amzn](symbol) price
+- what is for  [amzn](symbol) price
+- what's for  [amzn](symbol) price
+- show for  [amzn](symbol) price
+- tell me for  [bk](symbol) price
+- tell me about for  [bk](symbol) price
+- show me for  [bk](symbol) price
+- can i see for  [bk](symbol) price
+- what is for  [bk](symbol) price
+- what's for  [bk](symbol) price
+- show for  [bk](symbol) price
+- tell me for  [csco](symbol) price
+- tell me about for  [csco](symbol) price
+- show me for  [csco](symbol) price
+- can i see for  [csco](symbol) price
+- what is for  [csco](symbol) price
+- what's for  [csco](symbol) price
+- show for  [csco](symbol) price
+- tell me for  [dow](symbol) price
+- tell me about for  [dow](symbol) price
+- show me for  [dow](symbol) price
+- can i see for  [dow](symbol) price
+- what is for  [dow](symbol) price
+- what's for  [dow](symbol) price
+- show for  [dow](symbol) price
+- tell me for  [ebay](symbol) price
+- tell me about for  [ebay](symbol) price
+- show me for  [ebay](symbol) price
+- can i see for  [ebay](symbol) price
+- what is for  [ebay](symbol) price
+- what's for  [ebay](symbol) price
+- show for  [ebay](symbol) price
+- tell me for  [fox](symbol) price
+- tell me about for  [fox](symbol) price
+- show me for  [fox](symbol) price
+- can i see for  [fox](symbol) price
+- what is for  [fox](symbol) price
+- what's for  [fox](symbol) price
+- show for  [fox](symbol) price
+- tell me for  [googl](symbol) price
+- tell me about for  [googl](symbol) price
+- show me for  [googl](symbol) price
+- can i see for  [googl](symbol) price
+- what is for  [googl](symbol) price
+- what's for  [googl](symbol) price
+- show for  [googl](symbol) price
+- tell me for  [hp](symbol) price
+- tell me about for  [hp](symbol) price
+- show me for  [hp](symbol) price
+- can i see for  [hp](symbol) price
+- what is for  [hp](symbol) price
+- what's for  [hp](symbol) price
+- show for  [hp](symbol) price
+- tell me for  [ibm](symbol) price
+- tell me about for  [ibm](symbol) price
+- show me for  [ibm](symbol) price
+- can i see for  [ibm](symbol) price
+- what is for  [ibm](symbol) price
+- what's for  [ibm](symbol) price
+- show for  [ibm](symbol) price
+- tell me for  [jpm](symbol) price
+- tell me about for  [jpm](symbol) price
+- show me for  [jpm](symbol) price
+- can i see for  [jpm](symbol) price
+- what is for  [jpm](symbol) price
+- what's for  [jpm](symbol) price
+- show for  [jpm](symbol) price
+- tell me for  [kmb](symbol) price
+- tell me about for  [kmb](symbol) price
+- show me for  [kmb](symbol) price
+- can i see for  [kmb](symbol) price
+- what is for  [kmb](symbol) price
+- what's for  [kmb](symbol) price
+- show for  [kmb](symbol) price
+- tell me for  [ndaq](symbol) price
+- tell me about for  [ndaq](symbol) price
+- show me for  [ndaq](symbol) price
+- can i see for  [ndaq](symbol) price
+- what is for  [ndaq](symbol) price
+- what's for  [ndaq](symbol) price
+- show for  [ndaq](symbol) price
 - tell me for the stock [amzn](symbol) price
 - tell me about for the stock [amzn](symbol) price
 - show me for the stock [amzn](symbol) price
@@ -12735,6 +15591,90 @@
 - what is for the ticker [ndaq](symbol) price
 - what's for the ticker [ndaq](symbol) price
 - show for the ticker [ndaq](symbol) price
+- tell me for the [amzn](symbol) price
+- tell me about for the [amzn](symbol) price
+- show me for the [amzn](symbol) price
+- can i see for the [amzn](symbol) price
+- what is for the [amzn](symbol) price
+- what's for the [amzn](symbol) price
+- show for the [amzn](symbol) price
+- tell me for the [bk](symbol) price
+- tell me about for the [bk](symbol) price
+- show me for the [bk](symbol) price
+- can i see for the [bk](symbol) price
+- what is for the [bk](symbol) price
+- what's for the [bk](symbol) price
+- show for the [bk](symbol) price
+- tell me for the [csco](symbol) price
+- tell me about for the [csco](symbol) price
+- show me for the [csco](symbol) price
+- can i see for the [csco](symbol) price
+- what is for the [csco](symbol) price
+- what's for the [csco](symbol) price
+- show for the [csco](symbol) price
+- tell me for the [dow](symbol) price
+- tell me about for the [dow](symbol) price
+- show me for the [dow](symbol) price
+- can i see for the [dow](symbol) price
+- what is for the [dow](symbol) price
+- what's for the [dow](symbol) price
+- show for the [dow](symbol) price
+- tell me for the [ebay](symbol) price
+- tell me about for the [ebay](symbol) price
+- show me for the [ebay](symbol) price
+- can i see for the [ebay](symbol) price
+- what is for the [ebay](symbol) price
+- what's for the [ebay](symbol) price
+- show for the [ebay](symbol) price
+- tell me for the [fox](symbol) price
+- tell me about for the [fox](symbol) price
+- show me for the [fox](symbol) price
+- can i see for the [fox](symbol) price
+- what is for the [fox](symbol) price
+- what's for the [fox](symbol) price
+- show for the [fox](symbol) price
+- tell me for the [googl](symbol) price
+- tell me about for the [googl](symbol) price
+- show me for the [googl](symbol) price
+- can i see for the [googl](symbol) price
+- what is for the [googl](symbol) price
+- what's for the [googl](symbol) price
+- show for the [googl](symbol) price
+- tell me for the [hp](symbol) price
+- tell me about for the [hp](symbol) price
+- show me for the [hp](symbol) price
+- can i see for the [hp](symbol) price
+- what is for the [hp](symbol) price
+- what's for the [hp](symbol) price
+- show for the [hp](symbol) price
+- tell me for the [ibm](symbol) price
+- tell me about for the [ibm](symbol) price
+- show me for the [ibm](symbol) price
+- can i see for the [ibm](symbol) price
+- what is for the [ibm](symbol) price
+- what's for the [ibm](symbol) price
+- show for the [ibm](symbol) price
+- tell me for the [jpm](symbol) price
+- tell me about for the [jpm](symbol) price
+- show me for the [jpm](symbol) price
+- can i see for the [jpm](symbol) price
+- what is for the [jpm](symbol) price
+- what's for the [jpm](symbol) price
+- show for the [jpm](symbol) price
+- tell me for the [kmb](symbol) price
+- tell me about for the [kmb](symbol) price
+- show me for the [kmb](symbol) price
+- can i see for the [kmb](symbol) price
+- what is for the [kmb](symbol) price
+- what's for the [kmb](symbol) price
+- show for the [kmb](symbol) price
+- tell me for the [ndaq](symbol) price
+- tell me about for the [ndaq](symbol) price
+- show me for the [ndaq](symbol) price
+- can i see for the [ndaq](symbol) price
+- what is for the [ndaq](symbol) price
+- what's for the [ndaq](symbol) price
+- show for the [ndaq](symbol) price
 - tell me for a stock [amzn](symbol) price
 - tell me about for a stock [amzn](symbol) price
 - show me for a stock [amzn](symbol) price
@@ -13071,6 +16011,90 @@
 - what is for a ticker [ndaq](symbol) price
 - what's for a ticker [ndaq](symbol) price
 - show for a ticker [ndaq](symbol) price
+- tell me for a [amzn](symbol) price
+- tell me about for a [amzn](symbol) price
+- show me for a [amzn](symbol) price
+- can i see for a [amzn](symbol) price
+- what is for a [amzn](symbol) price
+- what's for a [amzn](symbol) price
+- show for a [amzn](symbol) price
+- tell me for a [bk](symbol) price
+- tell me about for a [bk](symbol) price
+- show me for a [bk](symbol) price
+- can i see for a [bk](symbol) price
+- what is for a [bk](symbol) price
+- what's for a [bk](symbol) price
+- show for a [bk](symbol) price
+- tell me for a [csco](symbol) price
+- tell me about for a [csco](symbol) price
+- show me for a [csco](symbol) price
+- can i see for a [csco](symbol) price
+- what is for a [csco](symbol) price
+- what's for a [csco](symbol) price
+- show for a [csco](symbol) price
+- tell me for a [dow](symbol) price
+- tell me about for a [dow](symbol) price
+- show me for a [dow](symbol) price
+- can i see for a [dow](symbol) price
+- what is for a [dow](symbol) price
+- what's for a [dow](symbol) price
+- show for a [dow](symbol) price
+- tell me for a [ebay](symbol) price
+- tell me about for a [ebay](symbol) price
+- show me for a [ebay](symbol) price
+- can i see for a [ebay](symbol) price
+- what is for a [ebay](symbol) price
+- what's for a [ebay](symbol) price
+- show for a [ebay](symbol) price
+- tell me for a [fox](symbol) price
+- tell me about for a [fox](symbol) price
+- show me for a [fox](symbol) price
+- can i see for a [fox](symbol) price
+- what is for a [fox](symbol) price
+- what's for a [fox](symbol) price
+- show for a [fox](symbol) price
+- tell me for a [googl](symbol) price
+- tell me about for a [googl](symbol) price
+- show me for a [googl](symbol) price
+- can i see for a [googl](symbol) price
+- what is for a [googl](symbol) price
+- what's for a [googl](symbol) price
+- show for a [googl](symbol) price
+- tell me for a [hp](symbol) price
+- tell me about for a [hp](symbol) price
+- show me for a [hp](symbol) price
+- can i see for a [hp](symbol) price
+- what is for a [hp](symbol) price
+- what's for a [hp](symbol) price
+- show for a [hp](symbol) price
+- tell me for a [ibm](symbol) price
+- tell me about for a [ibm](symbol) price
+- show me for a [ibm](symbol) price
+- can i see for a [ibm](symbol) price
+- what is for a [ibm](symbol) price
+- what's for a [ibm](symbol) price
+- show for a [ibm](symbol) price
+- tell me for a [jpm](symbol) price
+- tell me about for a [jpm](symbol) price
+- show me for a [jpm](symbol) price
+- can i see for a [jpm](symbol) price
+- what is for a [jpm](symbol) price
+- what's for a [jpm](symbol) price
+- show for a [jpm](symbol) price
+- tell me for a [kmb](symbol) price
+- tell me about for a [kmb](symbol) price
+- show me for a [kmb](symbol) price
+- can i see for a [kmb](symbol) price
+- what is for a [kmb](symbol) price
+- what's for a [kmb](symbol) price
+- show for a [kmb](symbol) price
+- tell me for a [ndaq](symbol) price
+- tell me about for a [ndaq](symbol) price
+- show me for a [ndaq](symbol) price
+- can i see for a [ndaq](symbol) price
+- what is for a [ndaq](symbol) price
+- what's for a [ndaq](symbol) price
+- show for a [ndaq](symbol) price
 - tell me stock [amzn](symbol) the price
 - tell me about stock [amzn](symbol) the price
 - show me stock [amzn](symbol) the price
@@ -13407,6 +16431,90 @@
 - what is ticker [ndaq](symbol) the price
 - what's ticker [ndaq](symbol) the price
 - show ticker [ndaq](symbol) the price
+- tell me [amzn](symbol) the price
+- tell me about [amzn](symbol) the price
+- show me [amzn](symbol) the price
+- can i see [amzn](symbol) the price
+- what is [amzn](symbol) the price
+- what's [amzn](symbol) the price
+- show [amzn](symbol) the price
+- tell me [bk](symbol) the price
+- tell me about [bk](symbol) the price
+- show me [bk](symbol) the price
+- can i see [bk](symbol) the price
+- what is [bk](symbol) the price
+- what's [bk](symbol) the price
+- show [bk](symbol) the price
+- tell me [csco](symbol) the price
+- tell me about [csco](symbol) the price
+- show me [csco](symbol) the price
+- can i see [csco](symbol) the price
+- what is [csco](symbol) the price
+- what's [csco](symbol) the price
+- show [csco](symbol) the price
+- tell me [dow](symbol) the price
+- tell me about [dow](symbol) the price
+- show me [dow](symbol) the price
+- can i see [dow](symbol) the price
+- what is [dow](symbol) the price
+- what's [dow](symbol) the price
+- show [dow](symbol) the price
+- tell me [ebay](symbol) the price
+- tell me about [ebay](symbol) the price
+- show me [ebay](symbol) the price
+- can i see [ebay](symbol) the price
+- what is [ebay](symbol) the price
+- what's [ebay](symbol) the price
+- show [ebay](symbol) the price
+- tell me [fox](symbol) the price
+- tell me about [fox](symbol) the price
+- show me [fox](symbol) the price
+- can i see [fox](symbol) the price
+- what is [fox](symbol) the price
+- what's [fox](symbol) the price
+- show [fox](symbol) the price
+- tell me [googl](symbol) the price
+- tell me about [googl](symbol) the price
+- show me [googl](symbol) the price
+- can i see [googl](symbol) the price
+- what is [googl](symbol) the price
+- what's [googl](symbol) the price
+- show [googl](symbol) the price
+- tell me [hp](symbol) the price
+- tell me about [hp](symbol) the price
+- show me [hp](symbol) the price
+- can i see [hp](symbol) the price
+- what is [hp](symbol) the price
+- what's [hp](symbol) the price
+- show [hp](symbol) the price
+- tell me [ibm](symbol) the price
+- tell me about [ibm](symbol) the price
+- show me [ibm](symbol) the price
+- can i see [ibm](symbol) the price
+- what is [ibm](symbol) the price
+- what's [ibm](symbol) the price
+- show [ibm](symbol) the price
+- tell me [jpm](symbol) the price
+- tell me about [jpm](symbol) the price
+- show me [jpm](symbol) the price
+- can i see [jpm](symbol) the price
+- what is [jpm](symbol) the price
+- what's [jpm](symbol) the price
+- show [jpm](symbol) the price
+- tell me [kmb](symbol) the price
+- tell me about [kmb](symbol) the price
+- show me [kmb](symbol) the price
+- can i see [kmb](symbol) the price
+- what is [kmb](symbol) the price
+- what's [kmb](symbol) the price
+- show [kmb](symbol) the price
+- tell me [ndaq](symbol) the price
+- tell me about [ndaq](symbol) the price
+- show me [ndaq](symbol) the price
+- can i see [ndaq](symbol) the price
+- what is [ndaq](symbol) the price
+- what's [ndaq](symbol) the price
+- show [ndaq](symbol) the price
 - tell me the stock [amzn](symbol) the price
 - tell me about the stock [amzn](symbol) the price
 - show me the stock [amzn](symbol) the price
@@ -13743,6 +16851,90 @@
 - what is the ticker [ndaq](symbol) the price
 - what's the ticker [ndaq](symbol) the price
 - show the ticker [ndaq](symbol) the price
+- tell me the [amzn](symbol) the price
+- tell me about the [amzn](symbol) the price
+- show me the [amzn](symbol) the price
+- can i see the [amzn](symbol) the price
+- what is the [amzn](symbol) the price
+- what's the [amzn](symbol) the price
+- show the [amzn](symbol) the price
+- tell me the [bk](symbol) the price
+- tell me about the [bk](symbol) the price
+- show me the [bk](symbol) the price
+- can i see the [bk](symbol) the price
+- what is the [bk](symbol) the price
+- what's the [bk](symbol) the price
+- show the [bk](symbol) the price
+- tell me the [csco](symbol) the price
+- tell me about the [csco](symbol) the price
+- show me the [csco](symbol) the price
+- can i see the [csco](symbol) the price
+- what is the [csco](symbol) the price
+- what's the [csco](symbol) the price
+- show the [csco](symbol) the price
+- tell me the [dow](symbol) the price
+- tell me about the [dow](symbol) the price
+- show me the [dow](symbol) the price
+- can i see the [dow](symbol) the price
+- what is the [dow](symbol) the price
+- what's the [dow](symbol) the price
+- show the [dow](symbol) the price
+- tell me the [ebay](symbol) the price
+- tell me about the [ebay](symbol) the price
+- show me the [ebay](symbol) the price
+- can i see the [ebay](symbol) the price
+- what is the [ebay](symbol) the price
+- what's the [ebay](symbol) the price
+- show the [ebay](symbol) the price
+- tell me the [fox](symbol) the price
+- tell me about the [fox](symbol) the price
+- show me the [fox](symbol) the price
+- can i see the [fox](symbol) the price
+- what is the [fox](symbol) the price
+- what's the [fox](symbol) the price
+- show the [fox](symbol) the price
+- tell me the [googl](symbol) the price
+- tell me about the [googl](symbol) the price
+- show me the [googl](symbol) the price
+- can i see the [googl](symbol) the price
+- what is the [googl](symbol) the price
+- what's the [googl](symbol) the price
+- show the [googl](symbol) the price
+- tell me the [hp](symbol) the price
+- tell me about the [hp](symbol) the price
+- show me the [hp](symbol) the price
+- can i see the [hp](symbol) the price
+- what is the [hp](symbol) the price
+- what's the [hp](symbol) the price
+- show the [hp](symbol) the price
+- tell me the [ibm](symbol) the price
+- tell me about the [ibm](symbol) the price
+- show me the [ibm](symbol) the price
+- can i see the [ibm](symbol) the price
+- what is the [ibm](symbol) the price
+- what's the [ibm](symbol) the price
+- show the [ibm](symbol) the price
+- tell me the [jpm](symbol) the price
+- tell me about the [jpm](symbol) the price
+- show me the [jpm](symbol) the price
+- can i see the [jpm](symbol) the price
+- what is the [jpm](symbol) the price
+- what's the [jpm](symbol) the price
+- show the [jpm](symbol) the price
+- tell me the [kmb](symbol) the price
+- tell me about the [kmb](symbol) the price
+- show me the [kmb](symbol) the price
+- can i see the [kmb](symbol) the price
+- what is the [kmb](symbol) the price
+- what's the [kmb](symbol) the price
+- show the [kmb](symbol) the price
+- tell me the [ndaq](symbol) the price
+- tell me about the [ndaq](symbol) the price
+- show me the [ndaq](symbol) the price
+- can i see the [ndaq](symbol) the price
+- what is the [ndaq](symbol) the price
+- what's the [ndaq](symbol) the price
+- show the [ndaq](symbol) the price
 - tell me a stock [amzn](symbol) the price
 - tell me about a stock [amzn](symbol) the price
 - show me a stock [amzn](symbol) the price
@@ -14079,6 +17271,90 @@
 - what is a ticker [ndaq](symbol) the price
 - what's a ticker [ndaq](symbol) the price
 - show a ticker [ndaq](symbol) the price
+- tell me a [amzn](symbol) the price
+- tell me about a [amzn](symbol) the price
+- show me a [amzn](symbol) the price
+- can i see a [amzn](symbol) the price
+- what is a [amzn](symbol) the price
+- what's a [amzn](symbol) the price
+- show a [amzn](symbol) the price
+- tell me a [bk](symbol) the price
+- tell me about a [bk](symbol) the price
+- show me a [bk](symbol) the price
+- can i see a [bk](symbol) the price
+- what is a [bk](symbol) the price
+- what's a [bk](symbol) the price
+- show a [bk](symbol) the price
+- tell me a [csco](symbol) the price
+- tell me about a [csco](symbol) the price
+- show me a [csco](symbol) the price
+- can i see a [csco](symbol) the price
+- what is a [csco](symbol) the price
+- what's a [csco](symbol) the price
+- show a [csco](symbol) the price
+- tell me a [dow](symbol) the price
+- tell me about a [dow](symbol) the price
+- show me a [dow](symbol) the price
+- can i see a [dow](symbol) the price
+- what is a [dow](symbol) the price
+- what's a [dow](symbol) the price
+- show a [dow](symbol) the price
+- tell me a [ebay](symbol) the price
+- tell me about a [ebay](symbol) the price
+- show me a [ebay](symbol) the price
+- can i see a [ebay](symbol) the price
+- what is a [ebay](symbol) the price
+- what's a [ebay](symbol) the price
+- show a [ebay](symbol) the price
+- tell me a [fox](symbol) the price
+- tell me about a [fox](symbol) the price
+- show me a [fox](symbol) the price
+- can i see a [fox](symbol) the price
+- what is a [fox](symbol) the price
+- what's a [fox](symbol) the price
+- show a [fox](symbol) the price
+- tell me a [googl](symbol) the price
+- tell me about a [googl](symbol) the price
+- show me a [googl](symbol) the price
+- can i see a [googl](symbol) the price
+- what is a [googl](symbol) the price
+- what's a [googl](symbol) the price
+- show a [googl](symbol) the price
+- tell me a [hp](symbol) the price
+- tell me about a [hp](symbol) the price
+- show me a [hp](symbol) the price
+- can i see a [hp](symbol) the price
+- what is a [hp](symbol) the price
+- what's a [hp](symbol) the price
+- show a [hp](symbol) the price
+- tell me a [ibm](symbol) the price
+- tell me about a [ibm](symbol) the price
+- show me a [ibm](symbol) the price
+- can i see a [ibm](symbol) the price
+- what is a [ibm](symbol) the price
+- what's a [ibm](symbol) the price
+- show a [ibm](symbol) the price
+- tell me a [jpm](symbol) the price
+- tell me about a [jpm](symbol) the price
+- show me a [jpm](symbol) the price
+- can i see a [jpm](symbol) the price
+- what is a [jpm](symbol) the price
+- what's a [jpm](symbol) the price
+- show a [jpm](symbol) the price
+- tell me a [kmb](symbol) the price
+- tell me about a [kmb](symbol) the price
+- show me a [kmb](symbol) the price
+- can i see a [kmb](symbol) the price
+- what is a [kmb](symbol) the price
+- what's a [kmb](symbol) the price
+- show a [kmb](symbol) the price
+- tell me a [ndaq](symbol) the price
+- tell me about a [ndaq](symbol) the price
+- show me a [ndaq](symbol) the price
+- can i see a [ndaq](symbol) the price
+- what is a [ndaq](symbol) the price
+- what's a [ndaq](symbol) the price
+- show a [ndaq](symbol) the price
 - tell me for stock [amzn](symbol) the price
 - tell me about for stock [amzn](symbol) the price
 - show me for stock [amzn](symbol) the price
@@ -14415,6 +17691,90 @@
 - what is for ticker [ndaq](symbol) the price
 - what's for ticker [ndaq](symbol) the price
 - show for ticker [ndaq](symbol) the price
+- tell me for  [amzn](symbol) the price
+- tell me about for  [amzn](symbol) the price
+- show me for  [amzn](symbol) the price
+- can i see for  [amzn](symbol) the price
+- what is for  [amzn](symbol) the price
+- what's for  [amzn](symbol) the price
+- show for  [amzn](symbol) the price
+- tell me for  [bk](symbol) the price
+- tell me about for  [bk](symbol) the price
+- show me for  [bk](symbol) the price
+- can i see for  [bk](symbol) the price
+- what is for  [bk](symbol) the price
+- what's for  [bk](symbol) the price
+- show for  [bk](symbol) the price
+- tell me for  [csco](symbol) the price
+- tell me about for  [csco](symbol) the price
+- show me for  [csco](symbol) the price
+- can i see for  [csco](symbol) the price
+- what is for  [csco](symbol) the price
+- what's for  [csco](symbol) the price
+- show for  [csco](symbol) the price
+- tell me for  [dow](symbol) the price
+- tell me about for  [dow](symbol) the price
+- show me for  [dow](symbol) the price
+- can i see for  [dow](symbol) the price
+- what is for  [dow](symbol) the price
+- what's for  [dow](symbol) the price
+- show for  [dow](symbol) the price
+- tell me for  [ebay](symbol) the price
+- tell me about for  [ebay](symbol) the price
+- show me for  [ebay](symbol) the price
+- can i see for  [ebay](symbol) the price
+- what is for  [ebay](symbol) the price
+- what's for  [ebay](symbol) the price
+- show for  [ebay](symbol) the price
+- tell me for  [fox](symbol) the price
+- tell me about for  [fox](symbol) the price
+- show me for  [fox](symbol) the price
+- can i see for  [fox](symbol) the price
+- what is for  [fox](symbol) the price
+- what's for  [fox](symbol) the price
+- show for  [fox](symbol) the price
+- tell me for  [googl](symbol) the price
+- tell me about for  [googl](symbol) the price
+- show me for  [googl](symbol) the price
+- can i see for  [googl](symbol) the price
+- what is for  [googl](symbol) the price
+- what's for  [googl](symbol) the price
+- show for  [googl](symbol) the price
+- tell me for  [hp](symbol) the price
+- tell me about for  [hp](symbol) the price
+- show me for  [hp](symbol) the price
+- can i see for  [hp](symbol) the price
+- what is for  [hp](symbol) the price
+- what's for  [hp](symbol) the price
+- show for  [hp](symbol) the price
+- tell me for  [ibm](symbol) the price
+- tell me about for  [ibm](symbol) the price
+- show me for  [ibm](symbol) the price
+- can i see for  [ibm](symbol) the price
+- what is for  [ibm](symbol) the price
+- what's for  [ibm](symbol) the price
+- show for  [ibm](symbol) the price
+- tell me for  [jpm](symbol) the price
+- tell me about for  [jpm](symbol) the price
+- show me for  [jpm](symbol) the price
+- can i see for  [jpm](symbol) the price
+- what is for  [jpm](symbol) the price
+- what's for  [jpm](symbol) the price
+- show for  [jpm](symbol) the price
+- tell me for  [kmb](symbol) the price
+- tell me about for  [kmb](symbol) the price
+- show me for  [kmb](symbol) the price
+- can i see for  [kmb](symbol) the price
+- what is for  [kmb](symbol) the price
+- what's for  [kmb](symbol) the price
+- show for  [kmb](symbol) the price
+- tell me for  [ndaq](symbol) the price
+- tell me about for  [ndaq](symbol) the price
+- show me for  [ndaq](symbol) the price
+- can i see for  [ndaq](symbol) the price
+- what is for  [ndaq](symbol) the price
+- what's for  [ndaq](symbol) the price
+- show for  [ndaq](symbol) the price
 - tell me for the stock [amzn](symbol) the price
 - tell me about for the stock [amzn](symbol) the price
 - show me for the stock [amzn](symbol) the price
@@ -14751,6 +18111,90 @@
 - what is for the ticker [ndaq](symbol) the price
 - what's for the ticker [ndaq](symbol) the price
 - show for the ticker [ndaq](symbol) the price
+- tell me for the [amzn](symbol) the price
+- tell me about for the [amzn](symbol) the price
+- show me for the [amzn](symbol) the price
+- can i see for the [amzn](symbol) the price
+- what is for the [amzn](symbol) the price
+- what's for the [amzn](symbol) the price
+- show for the [amzn](symbol) the price
+- tell me for the [bk](symbol) the price
+- tell me about for the [bk](symbol) the price
+- show me for the [bk](symbol) the price
+- can i see for the [bk](symbol) the price
+- what is for the [bk](symbol) the price
+- what's for the [bk](symbol) the price
+- show for the [bk](symbol) the price
+- tell me for the [csco](symbol) the price
+- tell me about for the [csco](symbol) the price
+- show me for the [csco](symbol) the price
+- can i see for the [csco](symbol) the price
+- what is for the [csco](symbol) the price
+- what's for the [csco](symbol) the price
+- show for the [csco](symbol) the price
+- tell me for the [dow](symbol) the price
+- tell me about for the [dow](symbol) the price
+- show me for the [dow](symbol) the price
+- can i see for the [dow](symbol) the price
+- what is for the [dow](symbol) the price
+- what's for the [dow](symbol) the price
+- show for the [dow](symbol) the price
+- tell me for the [ebay](symbol) the price
+- tell me about for the [ebay](symbol) the price
+- show me for the [ebay](symbol) the price
+- can i see for the [ebay](symbol) the price
+- what is for the [ebay](symbol) the price
+- what's for the [ebay](symbol) the price
+- show for the [ebay](symbol) the price
+- tell me for the [fox](symbol) the price
+- tell me about for the [fox](symbol) the price
+- show me for the [fox](symbol) the price
+- can i see for the [fox](symbol) the price
+- what is for the [fox](symbol) the price
+- what's for the [fox](symbol) the price
+- show for the [fox](symbol) the price
+- tell me for the [googl](symbol) the price
+- tell me about for the [googl](symbol) the price
+- show me for the [googl](symbol) the price
+- can i see for the [googl](symbol) the price
+- what is for the [googl](symbol) the price
+- what's for the [googl](symbol) the price
+- show for the [googl](symbol) the price
+- tell me for the [hp](symbol) the price
+- tell me about for the [hp](symbol) the price
+- show me for the [hp](symbol) the price
+- can i see for the [hp](symbol) the price
+- what is for the [hp](symbol) the price
+- what's for the [hp](symbol) the price
+- show for the [hp](symbol) the price
+- tell me for the [ibm](symbol) the price
+- tell me about for the [ibm](symbol) the price
+- show me for the [ibm](symbol) the price
+- can i see for the [ibm](symbol) the price
+- what is for the [ibm](symbol) the price
+- what's for the [ibm](symbol) the price
+- show for the [ibm](symbol) the price
+- tell me for the [jpm](symbol) the price
+- tell me about for the [jpm](symbol) the price
+- show me for the [jpm](symbol) the price
+- can i see for the [jpm](symbol) the price
+- what is for the [jpm](symbol) the price
+- what's for the [jpm](symbol) the price
+- show for the [jpm](symbol) the price
+- tell me for the [kmb](symbol) the price
+- tell me about for the [kmb](symbol) the price
+- show me for the [kmb](symbol) the price
+- can i see for the [kmb](symbol) the price
+- what is for the [kmb](symbol) the price
+- what's for the [kmb](symbol) the price
+- show for the [kmb](symbol) the price
+- tell me for the [ndaq](symbol) the price
+- tell me about for the [ndaq](symbol) the price
+- show me for the [ndaq](symbol) the price
+- can i see for the [ndaq](symbol) the price
+- what is for the [ndaq](symbol) the price
+- what's for the [ndaq](symbol) the price
+- show for the [ndaq](symbol) the price
 - tell me for a stock [amzn](symbol) the price
 - tell me about for a stock [amzn](symbol) the price
 - show me for a stock [amzn](symbol) the price
@@ -15087,6 +18531,90 @@
 - what is for a ticker [ndaq](symbol) the price
 - what's for a ticker [ndaq](symbol) the price
 - show for a ticker [ndaq](symbol) the price
+- tell me for a [amzn](symbol) the price
+- tell me about for a [amzn](symbol) the price
+- show me for a [amzn](symbol) the price
+- can i see for a [amzn](symbol) the price
+- what is for a [amzn](symbol) the price
+- what's for a [amzn](symbol) the price
+- show for a [amzn](symbol) the price
+- tell me for a [bk](symbol) the price
+- tell me about for a [bk](symbol) the price
+- show me for a [bk](symbol) the price
+- can i see for a [bk](symbol) the price
+- what is for a [bk](symbol) the price
+- what's for a [bk](symbol) the price
+- show for a [bk](symbol) the price
+- tell me for a [csco](symbol) the price
+- tell me about for a [csco](symbol) the price
+- show me for a [csco](symbol) the price
+- can i see for a [csco](symbol) the price
+- what is for a [csco](symbol) the price
+- what's for a [csco](symbol) the price
+- show for a [csco](symbol) the price
+- tell me for a [dow](symbol) the price
+- tell me about for a [dow](symbol) the price
+- show me for a [dow](symbol) the price
+- can i see for a [dow](symbol) the price
+- what is for a [dow](symbol) the price
+- what's for a [dow](symbol) the price
+- show for a [dow](symbol) the price
+- tell me for a [ebay](symbol) the price
+- tell me about for a [ebay](symbol) the price
+- show me for a [ebay](symbol) the price
+- can i see for a [ebay](symbol) the price
+- what is for a [ebay](symbol) the price
+- what's for a [ebay](symbol) the price
+- show for a [ebay](symbol) the price
+- tell me for a [fox](symbol) the price
+- tell me about for a [fox](symbol) the price
+- show me for a [fox](symbol) the price
+- can i see for a [fox](symbol) the price
+- what is for a [fox](symbol) the price
+- what's for a [fox](symbol) the price
+- show for a [fox](symbol) the price
+- tell me for a [googl](symbol) the price
+- tell me about for a [googl](symbol) the price
+- show me for a [googl](symbol) the price
+- can i see for a [googl](symbol) the price
+- what is for a [googl](symbol) the price
+- what's for a [googl](symbol) the price
+- show for a [googl](symbol) the price
+- tell me for a [hp](symbol) the price
+- tell me about for a [hp](symbol) the price
+- show me for a [hp](symbol) the price
+- can i see for a [hp](symbol) the price
+- what is for a [hp](symbol) the price
+- what's for a [hp](symbol) the price
+- show for a [hp](symbol) the price
+- tell me for a [ibm](symbol) the price
+- tell me about for a [ibm](symbol) the price
+- show me for a [ibm](symbol) the price
+- can i see for a [ibm](symbol) the price
+- what is for a [ibm](symbol) the price
+- what's for a [ibm](symbol) the price
+- show for a [ibm](symbol) the price
+- tell me for a [jpm](symbol) the price
+- tell me about for a [jpm](symbol) the price
+- show me for a [jpm](symbol) the price
+- can i see for a [jpm](symbol) the price
+- what is for a [jpm](symbol) the price
+- what's for a [jpm](symbol) the price
+- show for a [jpm](symbol) the price
+- tell me for a [kmb](symbol) the price
+- tell me about for a [kmb](symbol) the price
+- show me for a [kmb](symbol) the price
+- can i see for a [kmb](symbol) the price
+- what is for a [kmb](symbol) the price
+- what's for a [kmb](symbol) the price
+- show for a [kmb](symbol) the price
+- tell me for a [ndaq](symbol) the price
+- tell me about for a [ndaq](symbol) the price
+- show me for a [ndaq](symbol) the price
+- can i see for a [ndaq](symbol) the price
+- what is for a [ndaq](symbol) the price
+- what's for a [ndaq](symbol) the price
+- show for a [ndaq](symbol) the price
 - tell me stock [amzn](symbol) a price
 - tell me about stock [amzn](symbol) a price
 - show me stock [amzn](symbol) a price
@@ -15423,6 +18951,90 @@
 - what is ticker [ndaq](symbol) a price
 - what's ticker [ndaq](symbol) a price
 - show ticker [ndaq](symbol) a price
+- tell me [amzn](symbol) a price
+- tell me about [amzn](symbol) a price
+- show me [amzn](symbol) a price
+- can i see [amzn](symbol) a price
+- what is [amzn](symbol) a price
+- what's [amzn](symbol) a price
+- show [amzn](symbol) a price
+- tell me [bk](symbol) a price
+- tell me about [bk](symbol) a price
+- show me [bk](symbol) a price
+- can i see [bk](symbol) a price
+- what is [bk](symbol) a price
+- what's [bk](symbol) a price
+- show [bk](symbol) a price
+- tell me [csco](symbol) a price
+- tell me about [csco](symbol) a price
+- show me [csco](symbol) a price
+- can i see [csco](symbol) a price
+- what is [csco](symbol) a price
+- what's [csco](symbol) a price
+- show [csco](symbol) a price
+- tell me [dow](symbol) a price
+- tell me about [dow](symbol) a price
+- show me [dow](symbol) a price
+- can i see [dow](symbol) a price
+- what is [dow](symbol) a price
+- what's [dow](symbol) a price
+- show [dow](symbol) a price
+- tell me [ebay](symbol) a price
+- tell me about [ebay](symbol) a price
+- show me [ebay](symbol) a price
+- can i see [ebay](symbol) a price
+- what is [ebay](symbol) a price
+- what's [ebay](symbol) a price
+- show [ebay](symbol) a price
+- tell me [fox](symbol) a price
+- tell me about [fox](symbol) a price
+- show me [fox](symbol) a price
+- can i see [fox](symbol) a price
+- what is [fox](symbol) a price
+- what's [fox](symbol) a price
+- show [fox](symbol) a price
+- tell me [googl](symbol) a price
+- tell me about [googl](symbol) a price
+- show me [googl](symbol) a price
+- can i see [googl](symbol) a price
+- what is [googl](symbol) a price
+- what's [googl](symbol) a price
+- show [googl](symbol) a price
+- tell me [hp](symbol) a price
+- tell me about [hp](symbol) a price
+- show me [hp](symbol) a price
+- can i see [hp](symbol) a price
+- what is [hp](symbol) a price
+- what's [hp](symbol) a price
+- show [hp](symbol) a price
+- tell me [ibm](symbol) a price
+- tell me about [ibm](symbol) a price
+- show me [ibm](symbol) a price
+- can i see [ibm](symbol) a price
+- what is [ibm](symbol) a price
+- what's [ibm](symbol) a price
+- show [ibm](symbol) a price
+- tell me [jpm](symbol) a price
+- tell me about [jpm](symbol) a price
+- show me [jpm](symbol) a price
+- can i see [jpm](symbol) a price
+- what is [jpm](symbol) a price
+- what's [jpm](symbol) a price
+- show [jpm](symbol) a price
+- tell me [kmb](symbol) a price
+- tell me about [kmb](symbol) a price
+- show me [kmb](symbol) a price
+- can i see [kmb](symbol) a price
+- what is [kmb](symbol) a price
+- what's [kmb](symbol) a price
+- show [kmb](symbol) a price
+- tell me [ndaq](symbol) a price
+- tell me about [ndaq](symbol) a price
+- show me [ndaq](symbol) a price
+- can i see [ndaq](symbol) a price
+- what is [ndaq](symbol) a price
+- what's [ndaq](symbol) a price
+- show [ndaq](symbol) a price
 - tell me the stock [amzn](symbol) a price
 - tell me about the stock [amzn](symbol) a price
 - show me the stock [amzn](symbol) a price
@@ -15759,6 +19371,90 @@
 - what is the ticker [ndaq](symbol) a price
 - what's the ticker [ndaq](symbol) a price
 - show the ticker [ndaq](symbol) a price
+- tell me the [amzn](symbol) a price
+- tell me about the [amzn](symbol) a price
+- show me the [amzn](symbol) a price
+- can i see the [amzn](symbol) a price
+- what is the [amzn](symbol) a price
+- what's the [amzn](symbol) a price
+- show the [amzn](symbol) a price
+- tell me the [bk](symbol) a price
+- tell me about the [bk](symbol) a price
+- show me the [bk](symbol) a price
+- can i see the [bk](symbol) a price
+- what is the [bk](symbol) a price
+- what's the [bk](symbol) a price
+- show the [bk](symbol) a price
+- tell me the [csco](symbol) a price
+- tell me about the [csco](symbol) a price
+- show me the [csco](symbol) a price
+- can i see the [csco](symbol) a price
+- what is the [csco](symbol) a price
+- what's the [csco](symbol) a price
+- show the [csco](symbol) a price
+- tell me the [dow](symbol) a price
+- tell me about the [dow](symbol) a price
+- show me the [dow](symbol) a price
+- can i see the [dow](symbol) a price
+- what is the [dow](symbol) a price
+- what's the [dow](symbol) a price
+- show the [dow](symbol) a price
+- tell me the [ebay](symbol) a price
+- tell me about the [ebay](symbol) a price
+- show me the [ebay](symbol) a price
+- can i see the [ebay](symbol) a price
+- what is the [ebay](symbol) a price
+- what's the [ebay](symbol) a price
+- show the [ebay](symbol) a price
+- tell me the [fox](symbol) a price
+- tell me about the [fox](symbol) a price
+- show me the [fox](symbol) a price
+- can i see the [fox](symbol) a price
+- what is the [fox](symbol) a price
+- what's the [fox](symbol) a price
+- show the [fox](symbol) a price
+- tell me the [googl](symbol) a price
+- tell me about the [googl](symbol) a price
+- show me the [googl](symbol) a price
+- can i see the [googl](symbol) a price
+- what is the [googl](symbol) a price
+- what's the [googl](symbol) a price
+- show the [googl](symbol) a price
+- tell me the [hp](symbol) a price
+- tell me about the [hp](symbol) a price
+- show me the [hp](symbol) a price
+- can i see the [hp](symbol) a price
+- what is the [hp](symbol) a price
+- what's the [hp](symbol) a price
+- show the [hp](symbol) a price
+- tell me the [ibm](symbol) a price
+- tell me about the [ibm](symbol) a price
+- show me the [ibm](symbol) a price
+- can i see the [ibm](symbol) a price
+- what is the [ibm](symbol) a price
+- what's the [ibm](symbol) a price
+- show the [ibm](symbol) a price
+- tell me the [jpm](symbol) a price
+- tell me about the [jpm](symbol) a price
+- show me the [jpm](symbol) a price
+- can i see the [jpm](symbol) a price
+- what is the [jpm](symbol) a price
+- what's the [jpm](symbol) a price
+- show the [jpm](symbol) a price
+- tell me the [kmb](symbol) a price
+- tell me about the [kmb](symbol) a price
+- show me the [kmb](symbol) a price
+- can i see the [kmb](symbol) a price
+- what is the [kmb](symbol) a price
+- what's the [kmb](symbol) a price
+- show the [kmb](symbol) a price
+- tell me the [ndaq](symbol) a price
+- tell me about the [ndaq](symbol) a price
+- show me the [ndaq](symbol) a price
+- can i see the [ndaq](symbol) a price
+- what is the [ndaq](symbol) a price
+- what's the [ndaq](symbol) a price
+- show the [ndaq](symbol) a price
 - tell me a stock [amzn](symbol) a price
 - tell me about a stock [amzn](symbol) a price
 - show me a stock [amzn](symbol) a price
@@ -16095,6 +19791,90 @@
 - what is a ticker [ndaq](symbol) a price
 - what's a ticker [ndaq](symbol) a price
 - show a ticker [ndaq](symbol) a price
+- tell me a [amzn](symbol) a price
+- tell me about a [amzn](symbol) a price
+- show me a [amzn](symbol) a price
+- can i see a [amzn](symbol) a price
+- what is a [amzn](symbol) a price
+- what's a [amzn](symbol) a price
+- show a [amzn](symbol) a price
+- tell me a [bk](symbol) a price
+- tell me about a [bk](symbol) a price
+- show me a [bk](symbol) a price
+- can i see a [bk](symbol) a price
+- what is a [bk](symbol) a price
+- what's a [bk](symbol) a price
+- show a [bk](symbol) a price
+- tell me a [csco](symbol) a price
+- tell me about a [csco](symbol) a price
+- show me a [csco](symbol) a price
+- can i see a [csco](symbol) a price
+- what is a [csco](symbol) a price
+- what's a [csco](symbol) a price
+- show a [csco](symbol) a price
+- tell me a [dow](symbol) a price
+- tell me about a [dow](symbol) a price
+- show me a [dow](symbol) a price
+- can i see a [dow](symbol) a price
+- what is a [dow](symbol) a price
+- what's a [dow](symbol) a price
+- show a [dow](symbol) a price
+- tell me a [ebay](symbol) a price
+- tell me about a [ebay](symbol) a price
+- show me a [ebay](symbol) a price
+- can i see a [ebay](symbol) a price
+- what is a [ebay](symbol) a price
+- what's a [ebay](symbol) a price
+- show a [ebay](symbol) a price
+- tell me a [fox](symbol) a price
+- tell me about a [fox](symbol) a price
+- show me a [fox](symbol) a price
+- can i see a [fox](symbol) a price
+- what is a [fox](symbol) a price
+- what's a [fox](symbol) a price
+- show a [fox](symbol) a price
+- tell me a [googl](symbol) a price
+- tell me about a [googl](symbol) a price
+- show me a [googl](symbol) a price
+- can i see a [googl](symbol) a price
+- what is a [googl](symbol) a price
+- what's a [googl](symbol) a price
+- show a [googl](symbol) a price
+- tell me a [hp](symbol) a price
+- tell me about a [hp](symbol) a price
+- show me a [hp](symbol) a price
+- can i see a [hp](symbol) a price
+- what is a [hp](symbol) a price
+- what's a [hp](symbol) a price
+- show a [hp](symbol) a price
+- tell me a [ibm](symbol) a price
+- tell me about a [ibm](symbol) a price
+- show me a [ibm](symbol) a price
+- can i see a [ibm](symbol) a price
+- what is a [ibm](symbol) a price
+- what's a [ibm](symbol) a price
+- show a [ibm](symbol) a price
+- tell me a [jpm](symbol) a price
+- tell me about a [jpm](symbol) a price
+- show me a [jpm](symbol) a price
+- can i see a [jpm](symbol) a price
+- what is a [jpm](symbol) a price
+- what's a [jpm](symbol) a price
+- show a [jpm](symbol) a price
+- tell me a [kmb](symbol) a price
+- tell me about a [kmb](symbol) a price
+- show me a [kmb](symbol) a price
+- can i see a [kmb](symbol) a price
+- what is a [kmb](symbol) a price
+- what's a [kmb](symbol) a price
+- show a [kmb](symbol) a price
+- tell me a [ndaq](symbol) a price
+- tell me about a [ndaq](symbol) a price
+- show me a [ndaq](symbol) a price
+- can i see a [ndaq](symbol) a price
+- what is a [ndaq](symbol) a price
+- what's a [ndaq](symbol) a price
+- show a [ndaq](symbol) a price
 - tell me for stock [amzn](symbol) a price
 - tell me about for stock [amzn](symbol) a price
 - show me for stock [amzn](symbol) a price
@@ -16431,6 +20211,90 @@
 - what is for ticker [ndaq](symbol) a price
 - what's for ticker [ndaq](symbol) a price
 - show for ticker [ndaq](symbol) a price
+- tell me for  [amzn](symbol) a price
+- tell me about for  [amzn](symbol) a price
+- show me for  [amzn](symbol) a price
+- can i see for  [amzn](symbol) a price
+- what is for  [amzn](symbol) a price
+- what's for  [amzn](symbol) a price
+- show for  [amzn](symbol) a price
+- tell me for  [bk](symbol) a price
+- tell me about for  [bk](symbol) a price
+- show me for  [bk](symbol) a price
+- can i see for  [bk](symbol) a price
+- what is for  [bk](symbol) a price
+- what's for  [bk](symbol) a price
+- show for  [bk](symbol) a price
+- tell me for  [csco](symbol) a price
+- tell me about for  [csco](symbol) a price
+- show me for  [csco](symbol) a price
+- can i see for  [csco](symbol) a price
+- what is for  [csco](symbol) a price
+- what's for  [csco](symbol) a price
+- show for  [csco](symbol) a price
+- tell me for  [dow](symbol) a price
+- tell me about for  [dow](symbol) a price
+- show me for  [dow](symbol) a price
+- can i see for  [dow](symbol) a price
+- what is for  [dow](symbol) a price
+- what's for  [dow](symbol) a price
+- show for  [dow](symbol) a price
+- tell me for  [ebay](symbol) a price
+- tell me about for  [ebay](symbol) a price
+- show me for  [ebay](symbol) a price
+- can i see for  [ebay](symbol) a price
+- what is for  [ebay](symbol) a price
+- what's for  [ebay](symbol) a price
+- show for  [ebay](symbol) a price
+- tell me for  [fox](symbol) a price
+- tell me about for  [fox](symbol) a price
+- show me for  [fox](symbol) a price
+- can i see for  [fox](symbol) a price
+- what is for  [fox](symbol) a price
+- what's for  [fox](symbol) a price
+- show for  [fox](symbol) a price
+- tell me for  [googl](symbol) a price
+- tell me about for  [googl](symbol) a price
+- show me for  [googl](symbol) a price
+- can i see for  [googl](symbol) a price
+- what is for  [googl](symbol) a price
+- what's for  [googl](symbol) a price
+- show for  [googl](symbol) a price
+- tell me for  [hp](symbol) a price
+- tell me about for  [hp](symbol) a price
+- show me for  [hp](symbol) a price
+- can i see for  [hp](symbol) a price
+- what is for  [hp](symbol) a price
+- what's for  [hp](symbol) a price
+- show for  [hp](symbol) a price
+- tell me for  [ibm](symbol) a price
+- tell me about for  [ibm](symbol) a price
+- show me for  [ibm](symbol) a price
+- can i see for  [ibm](symbol) a price
+- what is for  [ibm](symbol) a price
+- what's for  [ibm](symbol) a price
+- show for  [ibm](symbol) a price
+- tell me for  [jpm](symbol) a price
+- tell me about for  [jpm](symbol) a price
+- show me for  [jpm](symbol) a price
+- can i see for  [jpm](symbol) a price
+- what is for  [jpm](symbol) a price
+- what's for  [jpm](symbol) a price
+- show for  [jpm](symbol) a price
+- tell me for  [kmb](symbol) a price
+- tell me about for  [kmb](symbol) a price
+- show me for  [kmb](symbol) a price
+- can i see for  [kmb](symbol) a price
+- what is for  [kmb](symbol) a price
+- what's for  [kmb](symbol) a price
+- show for  [kmb](symbol) a price
+- tell me for  [ndaq](symbol) a price
+- tell me about for  [ndaq](symbol) a price
+- show me for  [ndaq](symbol) a price
+- can i see for  [ndaq](symbol) a price
+- what is for  [ndaq](symbol) a price
+- what's for  [ndaq](symbol) a price
+- show for  [ndaq](symbol) a price
 - tell me for the stock [amzn](symbol) a price
 - tell me about for the stock [amzn](symbol) a price
 - show me for the stock [amzn](symbol) a price
@@ -16767,6 +20631,90 @@
 - what is for the ticker [ndaq](symbol) a price
 - what's for the ticker [ndaq](symbol) a price
 - show for the ticker [ndaq](symbol) a price
+- tell me for the [amzn](symbol) a price
+- tell me about for the [amzn](symbol) a price
+- show me for the [amzn](symbol) a price
+- can i see for the [amzn](symbol) a price
+- what is for the [amzn](symbol) a price
+- what's for the [amzn](symbol) a price
+- show for the [amzn](symbol) a price
+- tell me for the [bk](symbol) a price
+- tell me about for the [bk](symbol) a price
+- show me for the [bk](symbol) a price
+- can i see for the [bk](symbol) a price
+- what is for the [bk](symbol) a price
+- what's for the [bk](symbol) a price
+- show for the [bk](symbol) a price
+- tell me for the [csco](symbol) a price
+- tell me about for the [csco](symbol) a price
+- show me for the [csco](symbol) a price
+- can i see for the [csco](symbol) a price
+- what is for the [csco](symbol) a price
+- what's for the [csco](symbol) a price
+- show for the [csco](symbol) a price
+- tell me for the [dow](symbol) a price
+- tell me about for the [dow](symbol) a price
+- show me for the [dow](symbol) a price
+- can i see for the [dow](symbol) a price
+- what is for the [dow](symbol) a price
+- what's for the [dow](symbol) a price
+- show for the [dow](symbol) a price
+- tell me for the [ebay](symbol) a price
+- tell me about for the [ebay](symbol) a price
+- show me for the [ebay](symbol) a price
+- can i see for the [ebay](symbol) a price
+- what is for the [ebay](symbol) a price
+- what's for the [ebay](symbol) a price
+- show for the [ebay](symbol) a price
+- tell me for the [fox](symbol) a price
+- tell me about for the [fox](symbol) a price
+- show me for the [fox](symbol) a price
+- can i see for the [fox](symbol) a price
+- what is for the [fox](symbol) a price
+- what's for the [fox](symbol) a price
+- show for the [fox](symbol) a price
+- tell me for the [googl](symbol) a price
+- tell me about for the [googl](symbol) a price
+- show me for the [googl](symbol) a price
+- can i see for the [googl](symbol) a price
+- what is for the [googl](symbol) a price
+- what's for the [googl](symbol) a price
+- show for the [googl](symbol) a price
+- tell me for the [hp](symbol) a price
+- tell me about for the [hp](symbol) a price
+- show me for the [hp](symbol) a price
+- can i see for the [hp](symbol) a price
+- what is for the [hp](symbol) a price
+- what's for the [hp](symbol) a price
+- show for the [hp](symbol) a price
+- tell me for the [ibm](symbol) a price
+- tell me about for the [ibm](symbol) a price
+- show me for the [ibm](symbol) a price
+- can i see for the [ibm](symbol) a price
+- what is for the [ibm](symbol) a price
+- what's for the [ibm](symbol) a price
+- show for the [ibm](symbol) a price
+- tell me for the [jpm](symbol) a price
+- tell me about for the [jpm](symbol) a price
+- show me for the [jpm](symbol) a price
+- can i see for the [jpm](symbol) a price
+- what is for the [jpm](symbol) a price
+- what's for the [jpm](symbol) a price
+- show for the [jpm](symbol) a price
+- tell me for the [kmb](symbol) a price
+- tell me about for the [kmb](symbol) a price
+- show me for the [kmb](symbol) a price
+- can i see for the [kmb](symbol) a price
+- what is for the [kmb](symbol) a price
+- what's for the [kmb](symbol) a price
+- show for the [kmb](symbol) a price
+- tell me for the [ndaq](symbol) a price
+- tell me about for the [ndaq](symbol) a price
+- show me for the [ndaq](symbol) a price
+- can i see for the [ndaq](symbol) a price
+- what is for the [ndaq](symbol) a price
+- what's for the [ndaq](symbol) a price
+- show for the [ndaq](symbol) a price
 - tell me for a stock [amzn](symbol) a price
 - tell me about for a stock [amzn](symbol) a price
 - show me for a stock [amzn](symbol) a price
@@ -17103,6 +21051,90 @@
 - what is for a ticker [ndaq](symbol) a price
 - what's for a ticker [ndaq](symbol) a price
 - show for a ticker [ndaq](symbol) a price
+- tell me for a [amzn](symbol) a price
+- tell me about for a [amzn](symbol) a price
+- show me for a [amzn](symbol) a price
+- can i see for a [amzn](symbol) a price
+- what is for a [amzn](symbol) a price
+- what's for a [amzn](symbol) a price
+- show for a [amzn](symbol) a price
+- tell me for a [bk](symbol) a price
+- tell me about for a [bk](symbol) a price
+- show me for a [bk](symbol) a price
+- can i see for a [bk](symbol) a price
+- what is for a [bk](symbol) a price
+- what's for a [bk](symbol) a price
+- show for a [bk](symbol) a price
+- tell me for a [csco](symbol) a price
+- tell me about for a [csco](symbol) a price
+- show me for a [csco](symbol) a price
+- can i see for a [csco](symbol) a price
+- what is for a [csco](symbol) a price
+- what's for a [csco](symbol) a price
+- show for a [csco](symbol) a price
+- tell me for a [dow](symbol) a price
+- tell me about for a [dow](symbol) a price
+- show me for a [dow](symbol) a price
+- can i see for a [dow](symbol) a price
+- what is for a [dow](symbol) a price
+- what's for a [dow](symbol) a price
+- show for a [dow](symbol) a price
+- tell me for a [ebay](symbol) a price
+- tell me about for a [ebay](symbol) a price
+- show me for a [ebay](symbol) a price
+- can i see for a [ebay](symbol) a price
+- what is for a [ebay](symbol) a price
+- what's for a [ebay](symbol) a price
+- show for a [ebay](symbol) a price
+- tell me for a [fox](symbol) a price
+- tell me about for a [fox](symbol) a price
+- show me for a [fox](symbol) a price
+- can i see for a [fox](symbol) a price
+- what is for a [fox](symbol) a price
+- what's for a [fox](symbol) a price
+- show for a [fox](symbol) a price
+- tell me for a [googl](symbol) a price
+- tell me about for a [googl](symbol) a price
+- show me for a [googl](symbol) a price
+- can i see for a [googl](symbol) a price
+- what is for a [googl](symbol) a price
+- what's for a [googl](symbol) a price
+- show for a [googl](symbol) a price
+- tell me for a [hp](symbol) a price
+- tell me about for a [hp](symbol) a price
+- show me for a [hp](symbol) a price
+- can i see for a [hp](symbol) a price
+- what is for a [hp](symbol) a price
+- what's for a [hp](symbol) a price
+- show for a [hp](symbol) a price
+- tell me for a [ibm](symbol) a price
+- tell me about for a [ibm](symbol) a price
+- show me for a [ibm](symbol) a price
+- can i see for a [ibm](symbol) a price
+- what is for a [ibm](symbol) a price
+- what's for a [ibm](symbol) a price
+- show for a [ibm](symbol) a price
+- tell me for a [jpm](symbol) a price
+- tell me about for a [jpm](symbol) a price
+- show me for a [jpm](symbol) a price
+- can i see for a [jpm](symbol) a price
+- what is for a [jpm](symbol) a price
+- what's for a [jpm](symbol) a price
+- show for a [jpm](symbol) a price
+- tell me for a [kmb](symbol) a price
+- tell me about for a [kmb](symbol) a price
+- show me for a [kmb](symbol) a price
+- can i see for a [kmb](symbol) a price
+- what is for a [kmb](symbol) a price
+- what's for a [kmb](symbol) a price
+- show for a [kmb](symbol) a price
+- tell me for a [ndaq](symbol) a price
+- tell me about for a [ndaq](symbol) a price
+- show me for a [ndaq](symbol) a price
+- can i see for a [ndaq](symbol) a price
+- what is for a [ndaq](symbol) a price
+- what's for a [ndaq](symbol) a price
+- show for a [ndaq](symbol) a price
 - tell me stock [amzn](symbol)
 - price tell me stock [amzn](symbol)
 - the price tell me stock [amzn](symbol)
@@ -18447,6 +22479,342 @@
 - price show ticker [ndaq](symbol)
 - the price show ticker [ndaq](symbol)
 - a price show ticker [ndaq](symbol)
+- tell me [amzn](symbol)
+- price tell me [amzn](symbol)
+- the price tell me [amzn](symbol)
+- a price tell me [amzn](symbol)
+- tell me about [amzn](symbol)
+- price tell me about [amzn](symbol)
+- the price tell me about [amzn](symbol)
+- a price tell me about [amzn](symbol)
+- show me [amzn](symbol)
+- price show me [amzn](symbol)
+- the price show me [amzn](symbol)
+- a price show me [amzn](symbol)
+- can i see [amzn](symbol)
+- price can i see [amzn](symbol)
+- the price can i see [amzn](symbol)
+- a price can i see [amzn](symbol)
+- what is [amzn](symbol)
+- price what is [amzn](symbol)
+- the price what is [amzn](symbol)
+- a price what is [amzn](symbol)
+- what's [amzn](symbol)
+- price what's [amzn](symbol)
+- the price what's [amzn](symbol)
+- a price what's [amzn](symbol)
+- show [amzn](symbol)
+- price show [amzn](symbol)
+- the price show [amzn](symbol)
+- a price show [amzn](symbol)
+- tell me [bk](symbol)
+- price tell me [bk](symbol)
+- the price tell me [bk](symbol)
+- a price tell me [bk](symbol)
+- tell me about [bk](symbol)
+- price tell me about [bk](symbol)
+- the price tell me about [bk](symbol)
+- a price tell me about [bk](symbol)
+- show me [bk](symbol)
+- price show me [bk](symbol)
+- the price show me [bk](symbol)
+- a price show me [bk](symbol)
+- can i see [bk](symbol)
+- price can i see [bk](symbol)
+- the price can i see [bk](symbol)
+- a price can i see [bk](symbol)
+- what is [bk](symbol)
+- price what is [bk](symbol)
+- the price what is [bk](symbol)
+- a price what is [bk](symbol)
+- what's [bk](symbol)
+- price what's [bk](symbol)
+- the price what's [bk](symbol)
+- a price what's [bk](symbol)
+- show [bk](symbol)
+- price show [bk](symbol)
+- the price show [bk](symbol)
+- a price show [bk](symbol)
+- tell me [csco](symbol)
+- price tell me [csco](symbol)
+- the price tell me [csco](symbol)
+- a price tell me [csco](symbol)
+- tell me about [csco](symbol)
+- price tell me about [csco](symbol)
+- the price tell me about [csco](symbol)
+- a price tell me about [csco](symbol)
+- show me [csco](symbol)
+- price show me [csco](symbol)
+- the price show me [csco](symbol)
+- a price show me [csco](symbol)
+- can i see [csco](symbol)
+- price can i see [csco](symbol)
+- the price can i see [csco](symbol)
+- a price can i see [csco](symbol)
+- what is [csco](symbol)
+- price what is [csco](symbol)
+- the price what is [csco](symbol)
+- a price what is [csco](symbol)
+- what's [csco](symbol)
+- price what's [csco](symbol)
+- the price what's [csco](symbol)
+- a price what's [csco](symbol)
+- show [csco](symbol)
+- price show [csco](symbol)
+- the price show [csco](symbol)
+- a price show [csco](symbol)
+- tell me [dow](symbol)
+- price tell me [dow](symbol)
+- the price tell me [dow](symbol)
+- a price tell me [dow](symbol)
+- tell me about [dow](symbol)
+- price tell me about [dow](symbol)
+- the price tell me about [dow](symbol)
+- a price tell me about [dow](symbol)
+- show me [dow](symbol)
+- price show me [dow](symbol)
+- the price show me [dow](symbol)
+- a price show me [dow](symbol)
+- can i see [dow](symbol)
+- price can i see [dow](symbol)
+- the price can i see [dow](symbol)
+- a price can i see [dow](symbol)
+- what is [dow](symbol)
+- price what is [dow](symbol)
+- the price what is [dow](symbol)
+- a price what is [dow](symbol)
+- what's [dow](symbol)
+- price what's [dow](symbol)
+- the price what's [dow](symbol)
+- a price what's [dow](symbol)
+- show [dow](symbol)
+- price show [dow](symbol)
+- the price show [dow](symbol)
+- a price show [dow](symbol)
+- tell me [ebay](symbol)
+- price tell me [ebay](symbol)
+- the price tell me [ebay](symbol)
+- a price tell me [ebay](symbol)
+- tell me about [ebay](symbol)
+- price tell me about [ebay](symbol)
+- the price tell me about [ebay](symbol)
+- a price tell me about [ebay](symbol)
+- show me [ebay](symbol)
+- price show me [ebay](symbol)
+- the price show me [ebay](symbol)
+- a price show me [ebay](symbol)
+- can i see [ebay](symbol)
+- price can i see [ebay](symbol)
+- the price can i see [ebay](symbol)
+- a price can i see [ebay](symbol)
+- what is [ebay](symbol)
+- price what is [ebay](symbol)
+- the price what is [ebay](symbol)
+- a price what is [ebay](symbol)
+- what's [ebay](symbol)
+- price what's [ebay](symbol)
+- the price what's [ebay](symbol)
+- a price what's [ebay](symbol)
+- show [ebay](symbol)
+- price show [ebay](symbol)
+- the price show [ebay](symbol)
+- a price show [ebay](symbol)
+- tell me [fox](symbol)
+- price tell me [fox](symbol)
+- the price tell me [fox](symbol)
+- a price tell me [fox](symbol)
+- tell me about [fox](symbol)
+- price tell me about [fox](symbol)
+- the price tell me about [fox](symbol)
+- a price tell me about [fox](symbol)
+- show me [fox](symbol)
+- price show me [fox](symbol)
+- the price show me [fox](symbol)
+- a price show me [fox](symbol)
+- can i see [fox](symbol)
+- price can i see [fox](symbol)
+- the price can i see [fox](symbol)
+- a price can i see [fox](symbol)
+- what is [fox](symbol)
+- price what is [fox](symbol)
+- the price what is [fox](symbol)
+- a price what is [fox](symbol)
+- what's [fox](symbol)
+- price what's [fox](symbol)
+- the price what's [fox](symbol)
+- a price what's [fox](symbol)
+- show [fox](symbol)
+- price show [fox](symbol)
+- the price show [fox](symbol)
+- a price show [fox](symbol)
+- tell me [googl](symbol)
+- price tell me [googl](symbol)
+- the price tell me [googl](symbol)
+- a price tell me [googl](symbol)
+- tell me about [googl](symbol)
+- price tell me about [googl](symbol)
+- the price tell me about [googl](symbol)
+- a price tell me about [googl](symbol)
+- show me [googl](symbol)
+- price show me [googl](symbol)
+- the price show me [googl](symbol)
+- a price show me [googl](symbol)
+- can i see [googl](symbol)
+- price can i see [googl](symbol)
+- the price can i see [googl](symbol)
+- a price can i see [googl](symbol)
+- what is [googl](symbol)
+- price what is [googl](symbol)
+- the price what is [googl](symbol)
+- a price what is [googl](symbol)
+- what's [googl](symbol)
+- price what's [googl](symbol)
+- the price what's [googl](symbol)
+- a price what's [googl](symbol)
+- show [googl](symbol)
+- price show [googl](symbol)
+- the price show [googl](symbol)
+- a price show [googl](symbol)
+- tell me [hp](symbol)
+- price tell me [hp](symbol)
+- the price tell me [hp](symbol)
+- a price tell me [hp](symbol)
+- tell me about [hp](symbol)
+- price tell me about [hp](symbol)
+- the price tell me about [hp](symbol)
+- a price tell me about [hp](symbol)
+- show me [hp](symbol)
+- price show me [hp](symbol)
+- the price show me [hp](symbol)
+- a price show me [hp](symbol)
+- can i see [hp](symbol)
+- price can i see [hp](symbol)
+- the price can i see [hp](symbol)
+- a price can i see [hp](symbol)
+- what is [hp](symbol)
+- price what is [hp](symbol)
+- the price what is [hp](symbol)
+- a price what is [hp](symbol)
+- what's [hp](symbol)
+- price what's [hp](symbol)
+- the price what's [hp](symbol)
+- a price what's [hp](symbol)
+- show [hp](symbol)
+- price show [hp](symbol)
+- the price show [hp](symbol)
+- a price show [hp](symbol)
+- tell me [ibm](symbol)
+- price tell me [ibm](symbol)
+- the price tell me [ibm](symbol)
+- a price tell me [ibm](symbol)
+- tell me about [ibm](symbol)
+- price tell me about [ibm](symbol)
+- the price tell me about [ibm](symbol)
+- a price tell me about [ibm](symbol)
+- show me [ibm](symbol)
+- price show me [ibm](symbol)
+- the price show me [ibm](symbol)
+- a price show me [ibm](symbol)
+- can i see [ibm](symbol)
+- price can i see [ibm](symbol)
+- the price can i see [ibm](symbol)
+- a price can i see [ibm](symbol)
+- what is [ibm](symbol)
+- price what is [ibm](symbol)
+- the price what is [ibm](symbol)
+- a price what is [ibm](symbol)
+- what's [ibm](symbol)
+- price what's [ibm](symbol)
+- the price what's [ibm](symbol)
+- a price what's [ibm](symbol)
+- show [ibm](symbol)
+- price show [ibm](symbol)
+- the price show [ibm](symbol)
+- a price show [ibm](symbol)
+- tell me [jpm](symbol)
+- price tell me [jpm](symbol)
+- the price tell me [jpm](symbol)
+- a price tell me [jpm](symbol)
+- tell me about [jpm](symbol)
+- price tell me about [jpm](symbol)
+- the price tell me about [jpm](symbol)
+- a price tell me about [jpm](symbol)
+- show me [jpm](symbol)
+- price show me [jpm](symbol)
+- the price show me [jpm](symbol)
+- a price show me [jpm](symbol)
+- can i see [jpm](symbol)
+- price can i see [jpm](symbol)
+- the price can i see [jpm](symbol)
+- a price can i see [jpm](symbol)
+- what is [jpm](symbol)
+- price what is [jpm](symbol)
+- the price what is [jpm](symbol)
+- a price what is [jpm](symbol)
+- what's [jpm](symbol)
+- price what's [jpm](symbol)
+- the price what's [jpm](symbol)
+- a price what's [jpm](symbol)
+- show [jpm](symbol)
+- price show [jpm](symbol)
+- the price show [jpm](symbol)
+- a price show [jpm](symbol)
+- tell me [kmb](symbol)
+- price tell me [kmb](symbol)
+- the price tell me [kmb](symbol)
+- a price tell me [kmb](symbol)
+- tell me about [kmb](symbol)
+- price tell me about [kmb](symbol)
+- the price tell me about [kmb](symbol)
+- a price tell me about [kmb](symbol)
+- show me [kmb](symbol)
+- price show me [kmb](symbol)
+- the price show me [kmb](symbol)
+- a price show me [kmb](symbol)
+- can i see [kmb](symbol)
+- price can i see [kmb](symbol)
+- the price can i see [kmb](symbol)
+- a price can i see [kmb](symbol)
+- what is [kmb](symbol)
+- price what is [kmb](symbol)
+- the price what is [kmb](symbol)
+- a price what is [kmb](symbol)
+- what's [kmb](symbol)
+- price what's [kmb](symbol)
+- the price what's [kmb](symbol)
+- a price what's [kmb](symbol)
+- show [kmb](symbol)
+- price show [kmb](symbol)
+- the price show [kmb](symbol)
+- a price show [kmb](symbol)
+- tell me [ndaq](symbol)
+- price tell me [ndaq](symbol)
+- the price tell me [ndaq](symbol)
+- a price tell me [ndaq](symbol)
+- tell me about [ndaq](symbol)
+- price tell me about [ndaq](symbol)
+- the price tell me about [ndaq](symbol)
+- a price tell me about [ndaq](symbol)
+- show me [ndaq](symbol)
+- price show me [ndaq](symbol)
+- the price show me [ndaq](symbol)
+- a price show me [ndaq](symbol)
+- can i see [ndaq](symbol)
+- price can i see [ndaq](symbol)
+- the price can i see [ndaq](symbol)
+- a price can i see [ndaq](symbol)
+- what is [ndaq](symbol)
+- price what is [ndaq](symbol)
+- the price what is [ndaq](symbol)
+- a price what is [ndaq](symbol)
+- what's [ndaq](symbol)
+- price what's [ndaq](symbol)
+- the price what's [ndaq](symbol)
+- a price what's [ndaq](symbol)
+- show [ndaq](symbol)
+- price show [ndaq](symbol)
+- the price show [ndaq](symbol)
+- a price show [ndaq](symbol)
 - tell me the stock [amzn](symbol)
 - price tell me the stock [amzn](symbol)
 - the price tell me the stock [amzn](symbol)
@@ -19791,6 +24159,342 @@
 - price show the ticker [ndaq](symbol)
 - the price show the ticker [ndaq](symbol)
 - a price show the ticker [ndaq](symbol)
+- tell me the [amzn](symbol)
+- price tell me the [amzn](symbol)
+- the price tell me the [amzn](symbol)
+- a price tell me the [amzn](symbol)
+- tell me about the [amzn](symbol)
+- price tell me about the [amzn](symbol)
+- the price tell me about the [amzn](symbol)
+- a price tell me about the [amzn](symbol)
+- show me the [amzn](symbol)
+- price show me the [amzn](symbol)
+- the price show me the [amzn](symbol)
+- a price show me the [amzn](symbol)
+- can i see the [amzn](symbol)
+- price can i see the [amzn](symbol)
+- the price can i see the [amzn](symbol)
+- a price can i see the [amzn](symbol)
+- what is the [amzn](symbol)
+- price what is the [amzn](symbol)
+- the price what is the [amzn](symbol)
+- a price what is the [amzn](symbol)
+- what's the [amzn](symbol)
+- price what's the [amzn](symbol)
+- the price what's the [amzn](symbol)
+- a price what's the [amzn](symbol)
+- show the [amzn](symbol)
+- price show the [amzn](symbol)
+- the price show the [amzn](symbol)
+- a price show the [amzn](symbol)
+- tell me the [bk](symbol)
+- price tell me the [bk](symbol)
+- the price tell me the [bk](symbol)
+- a price tell me the [bk](symbol)
+- tell me about the [bk](symbol)
+- price tell me about the [bk](symbol)
+- the price tell me about the [bk](symbol)
+- a price tell me about the [bk](symbol)
+- show me the [bk](symbol)
+- price show me the [bk](symbol)
+- the price show me the [bk](symbol)
+- a price show me the [bk](symbol)
+- can i see the [bk](symbol)
+- price can i see the [bk](symbol)
+- the price can i see the [bk](symbol)
+- a price can i see the [bk](symbol)
+- what is the [bk](symbol)
+- price what is the [bk](symbol)
+- the price what is the [bk](symbol)
+- a price what is the [bk](symbol)
+- what's the [bk](symbol)
+- price what's the [bk](symbol)
+- the price what's the [bk](symbol)
+- a price what's the [bk](symbol)
+- show the [bk](symbol)
+- price show the [bk](symbol)
+- the price show the [bk](symbol)
+- a price show the [bk](symbol)
+- tell me the [csco](symbol)
+- price tell me the [csco](symbol)
+- the price tell me the [csco](symbol)
+- a price tell me the [csco](symbol)
+- tell me about the [csco](symbol)
+- price tell me about the [csco](symbol)
+- the price tell me about the [csco](symbol)
+- a price tell me about the [csco](symbol)
+- show me the [csco](symbol)
+- price show me the [csco](symbol)
+- the price show me the [csco](symbol)
+- a price show me the [csco](symbol)
+- can i see the [csco](symbol)
+- price can i see the [csco](symbol)
+- the price can i see the [csco](symbol)
+- a price can i see the [csco](symbol)
+- what is the [csco](symbol)
+- price what is the [csco](symbol)
+- the price what is the [csco](symbol)
+- a price what is the [csco](symbol)
+- what's the [csco](symbol)
+- price what's the [csco](symbol)
+- the price what's the [csco](symbol)
+- a price what's the [csco](symbol)
+- show the [csco](symbol)
+- price show the [csco](symbol)
+- the price show the [csco](symbol)
+- a price show the [csco](symbol)
+- tell me the [dow](symbol)
+- price tell me the [dow](symbol)
+- the price tell me the [dow](symbol)
+- a price tell me the [dow](symbol)
+- tell me about the [dow](symbol)
+- price tell me about the [dow](symbol)
+- the price tell me about the [dow](symbol)
+- a price tell me about the [dow](symbol)
+- show me the [dow](symbol)
+- price show me the [dow](symbol)
+- the price show me the [dow](symbol)
+- a price show me the [dow](symbol)
+- can i see the [dow](symbol)
+- price can i see the [dow](symbol)
+- the price can i see the [dow](symbol)
+- a price can i see the [dow](symbol)
+- what is the [dow](symbol)
+- price what is the [dow](symbol)
+- the price what is the [dow](symbol)
+- a price what is the [dow](symbol)
+- what's the [dow](symbol)
+- price what's the [dow](symbol)
+- the price what's the [dow](symbol)
+- a price what's the [dow](symbol)
+- show the [dow](symbol)
+- price show the [dow](symbol)
+- the price show the [dow](symbol)
+- a price show the [dow](symbol)
+- tell me the [ebay](symbol)
+- price tell me the [ebay](symbol)
+- the price tell me the [ebay](symbol)
+- a price tell me the [ebay](symbol)
+- tell me about the [ebay](symbol)
+- price tell me about the [ebay](symbol)
+- the price tell me about the [ebay](symbol)
+- a price tell me about the [ebay](symbol)
+- show me the [ebay](symbol)
+- price show me the [ebay](symbol)
+- the price show me the [ebay](symbol)
+- a price show me the [ebay](symbol)
+- can i see the [ebay](symbol)
+- price can i see the [ebay](symbol)
+- the price can i see the [ebay](symbol)
+- a price can i see the [ebay](symbol)
+- what is the [ebay](symbol)
+- price what is the [ebay](symbol)
+- the price what is the [ebay](symbol)
+- a price what is the [ebay](symbol)
+- what's the [ebay](symbol)
+- price what's the [ebay](symbol)
+- the price what's the [ebay](symbol)
+- a price what's the [ebay](symbol)
+- show the [ebay](symbol)
+- price show the [ebay](symbol)
+- the price show the [ebay](symbol)
+- a price show the [ebay](symbol)
+- tell me the [fox](symbol)
+- price tell me the [fox](symbol)
+- the price tell me the [fox](symbol)
+- a price tell me the [fox](symbol)
+- tell me about the [fox](symbol)
+- price tell me about the [fox](symbol)
+- the price tell me about the [fox](symbol)
+- a price tell me about the [fox](symbol)
+- show me the [fox](symbol)
+- price show me the [fox](symbol)
+- the price show me the [fox](symbol)
+- a price show me the [fox](symbol)
+- can i see the [fox](symbol)
+- price can i see the [fox](symbol)
+- the price can i see the [fox](symbol)
+- a price can i see the [fox](symbol)
+- what is the [fox](symbol)
+- price what is the [fox](symbol)
+- the price what is the [fox](symbol)
+- a price what is the [fox](symbol)
+- what's the [fox](symbol)
+- price what's the [fox](symbol)
+- the price what's the [fox](symbol)
+- a price what's the [fox](symbol)
+- show the [fox](symbol)
+- price show the [fox](symbol)
+- the price show the [fox](symbol)
+- a price show the [fox](symbol)
+- tell me the [googl](symbol)
+- price tell me the [googl](symbol)
+- the price tell me the [googl](symbol)
+- a price tell me the [googl](symbol)
+- tell me about the [googl](symbol)
+- price tell me about the [googl](symbol)
+- the price tell me about the [googl](symbol)
+- a price tell me about the [googl](symbol)
+- show me the [googl](symbol)
+- price show me the [googl](symbol)
+- the price show me the [googl](symbol)
+- a price show me the [googl](symbol)
+- can i see the [googl](symbol)
+- price can i see the [googl](symbol)
+- the price can i see the [googl](symbol)
+- a price can i see the [googl](symbol)
+- what is the [googl](symbol)
+- price what is the [googl](symbol)
+- the price what is the [googl](symbol)
+- a price what is the [googl](symbol)
+- what's the [googl](symbol)
+- price what's the [googl](symbol)
+- the price what's the [googl](symbol)
+- a price what's the [googl](symbol)
+- show the [googl](symbol)
+- price show the [googl](symbol)
+- the price show the [googl](symbol)
+- a price show the [googl](symbol)
+- tell me the [hp](symbol)
+- price tell me the [hp](symbol)
+- the price tell me the [hp](symbol)
+- a price tell me the [hp](symbol)
+- tell me about the [hp](symbol)
+- price tell me about the [hp](symbol)
+- the price tell me about the [hp](symbol)
+- a price tell me about the [hp](symbol)
+- show me the [hp](symbol)
+- price show me the [hp](symbol)
+- the price show me the [hp](symbol)
+- a price show me the [hp](symbol)
+- can i see the [hp](symbol)
+- price can i see the [hp](symbol)
+- the price can i see the [hp](symbol)
+- a price can i see the [hp](symbol)
+- what is the [hp](symbol)
+- price what is the [hp](symbol)
+- the price what is the [hp](symbol)
+- a price what is the [hp](symbol)
+- what's the [hp](symbol)
+- price what's the [hp](symbol)
+- the price what's the [hp](symbol)
+- a price what's the [hp](symbol)
+- show the [hp](symbol)
+- price show the [hp](symbol)
+- the price show the [hp](symbol)
+- a price show the [hp](symbol)
+- tell me the [ibm](symbol)
+- price tell me the [ibm](symbol)
+- the price tell me the [ibm](symbol)
+- a price tell me the [ibm](symbol)
+- tell me about the [ibm](symbol)
+- price tell me about the [ibm](symbol)
+- the price tell me about the [ibm](symbol)
+- a price tell me about the [ibm](symbol)
+- show me the [ibm](symbol)
+- price show me the [ibm](symbol)
+- the price show me the [ibm](symbol)
+- a price show me the [ibm](symbol)
+- can i see the [ibm](symbol)
+- price can i see the [ibm](symbol)
+- the price can i see the [ibm](symbol)
+- a price can i see the [ibm](symbol)
+- what is the [ibm](symbol)
+- price what is the [ibm](symbol)
+- the price what is the [ibm](symbol)
+- a price what is the [ibm](symbol)
+- what's the [ibm](symbol)
+- price what's the [ibm](symbol)
+- the price what's the [ibm](symbol)
+- a price what's the [ibm](symbol)
+- show the [ibm](symbol)
+- price show the [ibm](symbol)
+- the price show the [ibm](symbol)
+- a price show the [ibm](symbol)
+- tell me the [jpm](symbol)
+- price tell me the [jpm](symbol)
+- the price tell me the [jpm](symbol)
+- a price tell me the [jpm](symbol)
+- tell me about the [jpm](symbol)
+- price tell me about the [jpm](symbol)
+- the price tell me about the [jpm](symbol)
+- a price tell me about the [jpm](symbol)
+- show me the [jpm](symbol)
+- price show me the [jpm](symbol)
+- the price show me the [jpm](symbol)
+- a price show me the [jpm](symbol)
+- can i see the [jpm](symbol)
+- price can i see the [jpm](symbol)
+- the price can i see the [jpm](symbol)
+- a price can i see the [jpm](symbol)
+- what is the [jpm](symbol)
+- price what is the [jpm](symbol)
+- the price what is the [jpm](symbol)
+- a price what is the [jpm](symbol)
+- what's the [jpm](symbol)
+- price what's the [jpm](symbol)
+- the price what's the [jpm](symbol)
+- a price what's the [jpm](symbol)
+- show the [jpm](symbol)
+- price show the [jpm](symbol)
+- the price show the [jpm](symbol)
+- a price show the [jpm](symbol)
+- tell me the [kmb](symbol)
+- price tell me the [kmb](symbol)
+- the price tell me the [kmb](symbol)
+- a price tell me the [kmb](symbol)
+- tell me about the [kmb](symbol)
+- price tell me about the [kmb](symbol)
+- the price tell me about the [kmb](symbol)
+- a price tell me about the [kmb](symbol)
+- show me the [kmb](symbol)
+- price show me the [kmb](symbol)
+- the price show me the [kmb](symbol)
+- a price show me the [kmb](symbol)
+- can i see the [kmb](symbol)
+- price can i see the [kmb](symbol)
+- the price can i see the [kmb](symbol)
+- a price can i see the [kmb](symbol)
+- what is the [kmb](symbol)
+- price what is the [kmb](symbol)
+- the price what is the [kmb](symbol)
+- a price what is the [kmb](symbol)
+- what's the [kmb](symbol)
+- price what's the [kmb](symbol)
+- the price what's the [kmb](symbol)
+- a price what's the [kmb](symbol)
+- show the [kmb](symbol)
+- price show the [kmb](symbol)
+- the price show the [kmb](symbol)
+- a price show the [kmb](symbol)
+- tell me the [ndaq](symbol)
+- price tell me the [ndaq](symbol)
+- the price tell me the [ndaq](symbol)
+- a price tell me the [ndaq](symbol)
+- tell me about the [ndaq](symbol)
+- price tell me about the [ndaq](symbol)
+- the price tell me about the [ndaq](symbol)
+- a price tell me about the [ndaq](symbol)
+- show me the [ndaq](symbol)
+- price show me the [ndaq](symbol)
+- the price show me the [ndaq](symbol)
+- a price show me the [ndaq](symbol)
+- can i see the [ndaq](symbol)
+- price can i see the [ndaq](symbol)
+- the price can i see the [ndaq](symbol)
+- a price can i see the [ndaq](symbol)
+- what is the [ndaq](symbol)
+- price what is the [ndaq](symbol)
+- the price what is the [ndaq](symbol)
+- a price what is the [ndaq](symbol)
+- what's the [ndaq](symbol)
+- price what's the [ndaq](symbol)
+- the price what's the [ndaq](symbol)
+- a price what's the [ndaq](symbol)
+- show the [ndaq](symbol)
+- price show the [ndaq](symbol)
+- the price show the [ndaq](symbol)
+- a price show the [ndaq](symbol)
 - tell me a stock [amzn](symbol)
 - price tell me a stock [amzn](symbol)
 - the price tell me a stock [amzn](symbol)
@@ -21135,6 +25839,342 @@
 - price show a ticker [ndaq](symbol)
 - the price show a ticker [ndaq](symbol)
 - a price show a ticker [ndaq](symbol)
+- tell me a [amzn](symbol)
+- price tell me a [amzn](symbol)
+- the price tell me a [amzn](symbol)
+- a price tell me a [amzn](symbol)
+- tell me about a [amzn](symbol)
+- price tell me about a [amzn](symbol)
+- the price tell me about a [amzn](symbol)
+- a price tell me about a [amzn](symbol)
+- show me a [amzn](symbol)
+- price show me a [amzn](symbol)
+- the price show me a [amzn](symbol)
+- a price show me a [amzn](symbol)
+- can i see a [amzn](symbol)
+- price can i see a [amzn](symbol)
+- the price can i see a [amzn](symbol)
+- a price can i see a [amzn](symbol)
+- what is a [amzn](symbol)
+- price what is a [amzn](symbol)
+- the price what is a [amzn](symbol)
+- a price what is a [amzn](symbol)
+- what's a [amzn](symbol)
+- price what's a [amzn](symbol)
+- the price what's a [amzn](symbol)
+- a price what's a [amzn](symbol)
+- show a [amzn](symbol)
+- price show a [amzn](symbol)
+- the price show a [amzn](symbol)
+- a price show a [amzn](symbol)
+- tell me a [bk](symbol)
+- price tell me a [bk](symbol)
+- the price tell me a [bk](symbol)
+- a price tell me a [bk](symbol)
+- tell me about a [bk](symbol)
+- price tell me about a [bk](symbol)
+- the price tell me about a [bk](symbol)
+- a price tell me about a [bk](symbol)
+- show me a [bk](symbol)
+- price show me a [bk](symbol)
+- the price show me a [bk](symbol)
+- a price show me a [bk](symbol)
+- can i see a [bk](symbol)
+- price can i see a [bk](symbol)
+- the price can i see a [bk](symbol)
+- a price can i see a [bk](symbol)
+- what is a [bk](symbol)
+- price what is a [bk](symbol)
+- the price what is a [bk](symbol)
+- a price what is a [bk](symbol)
+- what's a [bk](symbol)
+- price what's a [bk](symbol)
+- the price what's a [bk](symbol)
+- a price what's a [bk](symbol)
+- show a [bk](symbol)
+- price show a [bk](symbol)
+- the price show a [bk](symbol)
+- a price show a [bk](symbol)
+- tell me a [csco](symbol)
+- price tell me a [csco](symbol)
+- the price tell me a [csco](symbol)
+- a price tell me a [csco](symbol)
+- tell me about a [csco](symbol)
+- price tell me about a [csco](symbol)
+- the price tell me about a [csco](symbol)
+- a price tell me about a [csco](symbol)
+- show me a [csco](symbol)
+- price show me a [csco](symbol)
+- the price show me a [csco](symbol)
+- a price show me a [csco](symbol)
+- can i see a [csco](symbol)
+- price can i see a [csco](symbol)
+- the price can i see a [csco](symbol)
+- a price can i see a [csco](symbol)
+- what is a [csco](symbol)
+- price what is a [csco](symbol)
+- the price what is a [csco](symbol)
+- a price what is a [csco](symbol)
+- what's a [csco](symbol)
+- price what's a [csco](symbol)
+- the price what's a [csco](symbol)
+- a price what's a [csco](symbol)
+- show a [csco](symbol)
+- price show a [csco](symbol)
+- the price show a [csco](symbol)
+- a price show a [csco](symbol)
+- tell me a [dow](symbol)
+- price tell me a [dow](symbol)
+- the price tell me a [dow](symbol)
+- a price tell me a [dow](symbol)
+- tell me about a [dow](symbol)
+- price tell me about a [dow](symbol)
+- the price tell me about a [dow](symbol)
+- a price tell me about a [dow](symbol)
+- show me a [dow](symbol)
+- price show me a [dow](symbol)
+- the price show me a [dow](symbol)
+- a price show me a [dow](symbol)
+- can i see a [dow](symbol)
+- price can i see a [dow](symbol)
+- the price can i see a [dow](symbol)
+- a price can i see a [dow](symbol)
+- what is a [dow](symbol)
+- price what is a [dow](symbol)
+- the price what is a [dow](symbol)
+- a price what is a [dow](symbol)
+- what's a [dow](symbol)
+- price what's a [dow](symbol)
+- the price what's a [dow](symbol)
+- a price what's a [dow](symbol)
+- show a [dow](symbol)
+- price show a [dow](symbol)
+- the price show a [dow](symbol)
+- a price show a [dow](symbol)
+- tell me a [ebay](symbol)
+- price tell me a [ebay](symbol)
+- the price tell me a [ebay](symbol)
+- a price tell me a [ebay](symbol)
+- tell me about a [ebay](symbol)
+- price tell me about a [ebay](symbol)
+- the price tell me about a [ebay](symbol)
+- a price tell me about a [ebay](symbol)
+- show me a [ebay](symbol)
+- price show me a [ebay](symbol)
+- the price show me a [ebay](symbol)
+- a price show me a [ebay](symbol)
+- can i see a [ebay](symbol)
+- price can i see a [ebay](symbol)
+- the price can i see a [ebay](symbol)
+- a price can i see a [ebay](symbol)
+- what is a [ebay](symbol)
+- price what is a [ebay](symbol)
+- the price what is a [ebay](symbol)
+- a price what is a [ebay](symbol)
+- what's a [ebay](symbol)
+- price what's a [ebay](symbol)
+- the price what's a [ebay](symbol)
+- a price what's a [ebay](symbol)
+- show a [ebay](symbol)
+- price show a [ebay](symbol)
+- the price show a [ebay](symbol)
+- a price show a [ebay](symbol)
+- tell me a [fox](symbol)
+- price tell me a [fox](symbol)
+- the price tell me a [fox](symbol)
+- a price tell me a [fox](symbol)
+- tell me about a [fox](symbol)
+- price tell me about a [fox](symbol)
+- the price tell me about a [fox](symbol)
+- a price tell me about a [fox](symbol)
+- show me a [fox](symbol)
+- price show me a [fox](symbol)
+- the price show me a [fox](symbol)
+- a price show me a [fox](symbol)
+- can i see a [fox](symbol)
+- price can i see a [fox](symbol)
+- the price can i see a [fox](symbol)
+- a price can i see a [fox](symbol)
+- what is a [fox](symbol)
+- price what is a [fox](symbol)
+- the price what is a [fox](symbol)
+- a price what is a [fox](symbol)
+- what's a [fox](symbol)
+- price what's a [fox](symbol)
+- the price what's a [fox](symbol)
+- a price what's a [fox](symbol)
+- show a [fox](symbol)
+- price show a [fox](symbol)
+- the price show a [fox](symbol)
+- a price show a [fox](symbol)
+- tell me a [googl](symbol)
+- price tell me a [googl](symbol)
+- the price tell me a [googl](symbol)
+- a price tell me a [googl](symbol)
+- tell me about a [googl](symbol)
+- price tell me about a [googl](symbol)
+- the price tell me about a [googl](symbol)
+- a price tell me about a [googl](symbol)
+- show me a [googl](symbol)
+- price show me a [googl](symbol)
+- the price show me a [googl](symbol)
+- a price show me a [googl](symbol)
+- can i see a [googl](symbol)
+- price can i see a [googl](symbol)
+- the price can i see a [googl](symbol)
+- a price can i see a [googl](symbol)
+- what is a [googl](symbol)
+- price what is a [googl](symbol)
+- the price what is a [googl](symbol)
+- a price what is a [googl](symbol)
+- what's a [googl](symbol)
+- price what's a [googl](symbol)
+- the price what's a [googl](symbol)
+- a price what's a [googl](symbol)
+- show a [googl](symbol)
+- price show a [googl](symbol)
+- the price show a [googl](symbol)
+- a price show a [googl](symbol)
+- tell me a [hp](symbol)
+- price tell me a [hp](symbol)
+- the price tell me a [hp](symbol)
+- a price tell me a [hp](symbol)
+- tell me about a [hp](symbol)
+- price tell me about a [hp](symbol)
+- the price tell me about a [hp](symbol)
+- a price tell me about a [hp](symbol)
+- show me a [hp](symbol)
+- price show me a [hp](symbol)
+- the price show me a [hp](symbol)
+- a price show me a [hp](symbol)
+- can i see a [hp](symbol)
+- price can i see a [hp](symbol)
+- the price can i see a [hp](symbol)
+- a price can i see a [hp](symbol)
+- what is a [hp](symbol)
+- price what is a [hp](symbol)
+- the price what is a [hp](symbol)
+- a price what is a [hp](symbol)
+- what's a [hp](symbol)
+- price what's a [hp](symbol)
+- the price what's a [hp](symbol)
+- a price what's a [hp](symbol)
+- show a [hp](symbol)
+- price show a [hp](symbol)
+- the price show a [hp](symbol)
+- a price show a [hp](symbol)
+- tell me a [ibm](symbol)
+- price tell me a [ibm](symbol)
+- the price tell me a [ibm](symbol)
+- a price tell me a [ibm](symbol)
+- tell me about a [ibm](symbol)
+- price tell me about a [ibm](symbol)
+- the price tell me about a [ibm](symbol)
+- a price tell me about a [ibm](symbol)
+- show me a [ibm](symbol)
+- price show me a [ibm](symbol)
+- the price show me a [ibm](symbol)
+- a price show me a [ibm](symbol)
+- can i see a [ibm](symbol)
+- price can i see a [ibm](symbol)
+- the price can i see a [ibm](symbol)
+- a price can i see a [ibm](symbol)
+- what is a [ibm](symbol)
+- price what is a [ibm](symbol)
+- the price what is a [ibm](symbol)
+- a price what is a [ibm](symbol)
+- what's a [ibm](symbol)
+- price what's a [ibm](symbol)
+- the price what's a [ibm](symbol)
+- a price what's a [ibm](symbol)
+- show a [ibm](symbol)
+- price show a [ibm](symbol)
+- the price show a [ibm](symbol)
+- a price show a [ibm](symbol)
+- tell me a [jpm](symbol)
+- price tell me a [jpm](symbol)
+- the price tell me a [jpm](symbol)
+- a price tell me a [jpm](symbol)
+- tell me about a [jpm](symbol)
+- price tell me about a [jpm](symbol)
+- the price tell me about a [jpm](symbol)
+- a price tell me about a [jpm](symbol)
+- show me a [jpm](symbol)
+- price show me a [jpm](symbol)
+- the price show me a [jpm](symbol)
+- a price show me a [jpm](symbol)
+- can i see a [jpm](symbol)
+- price can i see a [jpm](symbol)
+- the price can i see a [jpm](symbol)
+- a price can i see a [jpm](symbol)
+- what is a [jpm](symbol)
+- price what is a [jpm](symbol)
+- the price what is a [jpm](symbol)
+- a price what is a [jpm](symbol)
+- what's a [jpm](symbol)
+- price what's a [jpm](symbol)
+- the price what's a [jpm](symbol)
+- a price what's a [jpm](symbol)
+- show a [jpm](symbol)
+- price show a [jpm](symbol)
+- the price show a [jpm](symbol)
+- a price show a [jpm](symbol)
+- tell me a [kmb](symbol)
+- price tell me a [kmb](symbol)
+- the price tell me a [kmb](symbol)
+- a price tell me a [kmb](symbol)
+- tell me about a [kmb](symbol)
+- price tell me about a [kmb](symbol)
+- the price tell me about a [kmb](symbol)
+- a price tell me about a [kmb](symbol)
+- show me a [kmb](symbol)
+- price show me a [kmb](symbol)
+- the price show me a [kmb](symbol)
+- a price show me a [kmb](symbol)
+- can i see a [kmb](symbol)
+- price can i see a [kmb](symbol)
+- the price can i see a [kmb](symbol)
+- a price can i see a [kmb](symbol)
+- what is a [kmb](symbol)
+- price what is a [kmb](symbol)
+- the price what is a [kmb](symbol)
+- a price what is a [kmb](symbol)
+- what's a [kmb](symbol)
+- price what's a [kmb](symbol)
+- the price what's a [kmb](symbol)
+- a price what's a [kmb](symbol)
+- show a [kmb](symbol)
+- price show a [kmb](symbol)
+- the price show a [kmb](symbol)
+- a price show a [kmb](symbol)
+- tell me a [ndaq](symbol)
+- price tell me a [ndaq](symbol)
+- the price tell me a [ndaq](symbol)
+- a price tell me a [ndaq](symbol)
+- tell me about a [ndaq](symbol)
+- price tell me about a [ndaq](symbol)
+- the price tell me about a [ndaq](symbol)
+- a price tell me about a [ndaq](symbol)
+- show me a [ndaq](symbol)
+- price show me a [ndaq](symbol)
+- the price show me a [ndaq](symbol)
+- a price show me a [ndaq](symbol)
+- can i see a [ndaq](symbol)
+- price can i see a [ndaq](symbol)
+- the price can i see a [ndaq](symbol)
+- a price can i see a [ndaq](symbol)
+- what is a [ndaq](symbol)
+- price what is a [ndaq](symbol)
+- the price what is a [ndaq](symbol)
+- a price what is a [ndaq](symbol)
+- what's a [ndaq](symbol)
+- price what's a [ndaq](symbol)
+- the price what's a [ndaq](symbol)
+- a price what's a [ndaq](symbol)
+- show a [ndaq](symbol)
+- price show a [ndaq](symbol)
+- the price show a [ndaq](symbol)
+- a price show a [ndaq](symbol)
 - tell me for stock [amzn](symbol)
 - price tell me for stock [amzn](symbol)
 - the price tell me for stock [amzn](symbol)
@@ -22479,6 +27519,342 @@
 - price show for ticker [ndaq](symbol)
 - the price show for ticker [ndaq](symbol)
 - a price show for ticker [ndaq](symbol)
+- tell me for  [amzn](symbol)
+- price tell me for  [amzn](symbol)
+- the price tell me for  [amzn](symbol)
+- a price tell me for  [amzn](symbol)
+- tell me about for  [amzn](symbol)
+- price tell me about for  [amzn](symbol)
+- the price tell me about for  [amzn](symbol)
+- a price tell me about for  [amzn](symbol)
+- show me for  [amzn](symbol)
+- price show me for  [amzn](symbol)
+- the price show me for  [amzn](symbol)
+- a price show me for  [amzn](symbol)
+- can i see for  [amzn](symbol)
+- price can i see for  [amzn](symbol)
+- the price can i see for  [amzn](symbol)
+- a price can i see for  [amzn](symbol)
+- what is for  [amzn](symbol)
+- price what is for  [amzn](symbol)
+- the price what is for  [amzn](symbol)
+- a price what is for  [amzn](symbol)
+- what's for  [amzn](symbol)
+- price what's for  [amzn](symbol)
+- the price what's for  [amzn](symbol)
+- a price what's for  [amzn](symbol)
+- show for  [amzn](symbol)
+- price show for  [amzn](symbol)
+- the price show for  [amzn](symbol)
+- a price show for  [amzn](symbol)
+- tell me for  [bk](symbol)
+- price tell me for  [bk](symbol)
+- the price tell me for  [bk](symbol)
+- a price tell me for  [bk](symbol)
+- tell me about for  [bk](symbol)
+- price tell me about for  [bk](symbol)
+- the price tell me about for  [bk](symbol)
+- a price tell me about for  [bk](symbol)
+- show me for  [bk](symbol)
+- price show me for  [bk](symbol)
+- the price show me for  [bk](symbol)
+- a price show me for  [bk](symbol)
+- can i see for  [bk](symbol)
+- price can i see for  [bk](symbol)
+- the price can i see for  [bk](symbol)
+- a price can i see for  [bk](symbol)
+- what is for  [bk](symbol)
+- price what is for  [bk](symbol)
+- the price what is for  [bk](symbol)
+- a price what is for  [bk](symbol)
+- what's for  [bk](symbol)
+- price what's for  [bk](symbol)
+- the price what's for  [bk](symbol)
+- a price what's for  [bk](symbol)
+- show for  [bk](symbol)
+- price show for  [bk](symbol)
+- the price show for  [bk](symbol)
+- a price show for  [bk](symbol)
+- tell me for  [csco](symbol)
+- price tell me for  [csco](symbol)
+- the price tell me for  [csco](symbol)
+- a price tell me for  [csco](symbol)
+- tell me about for  [csco](symbol)
+- price tell me about for  [csco](symbol)
+- the price tell me about for  [csco](symbol)
+- a price tell me about for  [csco](symbol)
+- show me for  [csco](symbol)
+- price show me for  [csco](symbol)
+- the price show me for  [csco](symbol)
+- a price show me for  [csco](symbol)
+- can i see for  [csco](symbol)
+- price can i see for  [csco](symbol)
+- the price can i see for  [csco](symbol)
+- a price can i see for  [csco](symbol)
+- what is for  [csco](symbol)
+- price what is for  [csco](symbol)
+- the price what is for  [csco](symbol)
+- a price what is for  [csco](symbol)
+- what's for  [csco](symbol)
+- price what's for  [csco](symbol)
+- the price what's for  [csco](symbol)
+- a price what's for  [csco](symbol)
+- show for  [csco](symbol)
+- price show for  [csco](symbol)
+- the price show for  [csco](symbol)
+- a price show for  [csco](symbol)
+- tell me for  [dow](symbol)
+- price tell me for  [dow](symbol)
+- the price tell me for  [dow](symbol)
+- a price tell me for  [dow](symbol)
+- tell me about for  [dow](symbol)
+- price tell me about for  [dow](symbol)
+- the price tell me about for  [dow](symbol)
+- a price tell me about for  [dow](symbol)
+- show me for  [dow](symbol)
+- price show me for  [dow](symbol)
+- the price show me for  [dow](symbol)
+- a price show me for  [dow](symbol)
+- can i see for  [dow](symbol)
+- price can i see for  [dow](symbol)
+- the price can i see for  [dow](symbol)
+- a price can i see for  [dow](symbol)
+- what is for  [dow](symbol)
+- price what is for  [dow](symbol)
+- the price what is for  [dow](symbol)
+- a price what is for  [dow](symbol)
+- what's for  [dow](symbol)
+- price what's for  [dow](symbol)
+- the price what's for  [dow](symbol)
+- a price what's for  [dow](symbol)
+- show for  [dow](symbol)
+- price show for  [dow](symbol)
+- the price show for  [dow](symbol)
+- a price show for  [dow](symbol)
+- tell me for  [ebay](symbol)
+- price tell me for  [ebay](symbol)
+- the price tell me for  [ebay](symbol)
+- a price tell me for  [ebay](symbol)
+- tell me about for  [ebay](symbol)
+- price tell me about for  [ebay](symbol)
+- the price tell me about for  [ebay](symbol)
+- a price tell me about for  [ebay](symbol)
+- show me for  [ebay](symbol)
+- price show me for  [ebay](symbol)
+- the price show me for  [ebay](symbol)
+- a price show me for  [ebay](symbol)
+- can i see for  [ebay](symbol)
+- price can i see for  [ebay](symbol)
+- the price can i see for  [ebay](symbol)
+- a price can i see for  [ebay](symbol)
+- what is for  [ebay](symbol)
+- price what is for  [ebay](symbol)
+- the price what is for  [ebay](symbol)
+- a price what is for  [ebay](symbol)
+- what's for  [ebay](symbol)
+- price what's for  [ebay](symbol)
+- the price what's for  [ebay](symbol)
+- a price what's for  [ebay](symbol)
+- show for  [ebay](symbol)
+- price show for  [ebay](symbol)
+- the price show for  [ebay](symbol)
+- a price show for  [ebay](symbol)
+- tell me for  [fox](symbol)
+- price tell me for  [fox](symbol)
+- the price tell me for  [fox](symbol)
+- a price tell me for  [fox](symbol)
+- tell me about for  [fox](symbol)
+- price tell me about for  [fox](symbol)
+- the price tell me about for  [fox](symbol)
+- a price tell me about for  [fox](symbol)
+- show me for  [fox](symbol)
+- price show me for  [fox](symbol)
+- the price show me for  [fox](symbol)
+- a price show me for  [fox](symbol)
+- can i see for  [fox](symbol)
+- price can i see for  [fox](symbol)
+- the price can i see for  [fox](symbol)
+- a price can i see for  [fox](symbol)
+- what is for  [fox](symbol)
+- price what is for  [fox](symbol)
+- the price what is for  [fox](symbol)
+- a price what is for  [fox](symbol)
+- what's for  [fox](symbol)
+- price what's for  [fox](symbol)
+- the price what's for  [fox](symbol)
+- a price what's for  [fox](symbol)
+- show for  [fox](symbol)
+- price show for  [fox](symbol)
+- the price show for  [fox](symbol)
+- a price show for  [fox](symbol)
+- tell me for  [googl](symbol)
+- price tell me for  [googl](symbol)
+- the price tell me for  [googl](symbol)
+- a price tell me for  [googl](symbol)
+- tell me about for  [googl](symbol)
+- price tell me about for  [googl](symbol)
+- the price tell me about for  [googl](symbol)
+- a price tell me about for  [googl](symbol)
+- show me for  [googl](symbol)
+- price show me for  [googl](symbol)
+- the price show me for  [googl](symbol)
+- a price show me for  [googl](symbol)
+- can i see for  [googl](symbol)
+- price can i see for  [googl](symbol)
+- the price can i see for  [googl](symbol)
+- a price can i see for  [googl](symbol)
+- what is for  [googl](symbol)
+- price what is for  [googl](symbol)
+- the price what is for  [googl](symbol)
+- a price what is for  [googl](symbol)
+- what's for  [googl](symbol)
+- price what's for  [googl](symbol)
+- the price what's for  [googl](symbol)
+- a price what's for  [googl](symbol)
+- show for  [googl](symbol)
+- price show for  [googl](symbol)
+- the price show for  [googl](symbol)
+- a price show for  [googl](symbol)
+- tell me for  [hp](symbol)
+- price tell me for  [hp](symbol)
+- the price tell me for  [hp](symbol)
+- a price tell me for  [hp](symbol)
+- tell me about for  [hp](symbol)
+- price tell me about for  [hp](symbol)
+- the price tell me about for  [hp](symbol)
+- a price tell me about for  [hp](symbol)
+- show me for  [hp](symbol)
+- price show me for  [hp](symbol)
+- the price show me for  [hp](symbol)
+- a price show me for  [hp](symbol)
+- can i see for  [hp](symbol)
+- price can i see for  [hp](symbol)
+- the price can i see for  [hp](symbol)
+- a price can i see for  [hp](symbol)
+- what is for  [hp](symbol)
+- price what is for  [hp](symbol)
+- the price what is for  [hp](symbol)
+- a price what is for  [hp](symbol)
+- what's for  [hp](symbol)
+- price what's for  [hp](symbol)
+- the price what's for  [hp](symbol)
+- a price what's for  [hp](symbol)
+- show for  [hp](symbol)
+- price show for  [hp](symbol)
+- the price show for  [hp](symbol)
+- a price show for  [hp](symbol)
+- tell me for  [ibm](symbol)
+- price tell me for  [ibm](symbol)
+- the price tell me for  [ibm](symbol)
+- a price tell me for  [ibm](symbol)
+- tell me about for  [ibm](symbol)
+- price tell me about for  [ibm](symbol)
+- the price tell me about for  [ibm](symbol)
+- a price tell me about for  [ibm](symbol)
+- show me for  [ibm](symbol)
+- price show me for  [ibm](symbol)
+- the price show me for  [ibm](symbol)
+- a price show me for  [ibm](symbol)
+- can i see for  [ibm](symbol)
+- price can i see for  [ibm](symbol)
+- the price can i see for  [ibm](symbol)
+- a price can i see for  [ibm](symbol)
+- what is for  [ibm](symbol)
+- price what is for  [ibm](symbol)
+- the price what is for  [ibm](symbol)
+- a price what is for  [ibm](symbol)
+- what's for  [ibm](symbol)
+- price what's for  [ibm](symbol)
+- the price what's for  [ibm](symbol)
+- a price what's for  [ibm](symbol)
+- show for  [ibm](symbol)
+- price show for  [ibm](symbol)
+- the price show for  [ibm](symbol)
+- a price show for  [ibm](symbol)
+- tell me for  [jpm](symbol)
+- price tell me for  [jpm](symbol)
+- the price tell me for  [jpm](symbol)
+- a price tell me for  [jpm](symbol)
+- tell me about for  [jpm](symbol)
+- price tell me about for  [jpm](symbol)
+- the price tell me about for  [jpm](symbol)
+- a price tell me about for  [jpm](symbol)
+- show me for  [jpm](symbol)
+- price show me for  [jpm](symbol)
+- the price show me for  [jpm](symbol)
+- a price show me for  [jpm](symbol)
+- can i see for  [jpm](symbol)
+- price can i see for  [jpm](symbol)
+- the price can i see for  [jpm](symbol)
+- a price can i see for  [jpm](symbol)
+- what is for  [jpm](symbol)
+- price what is for  [jpm](symbol)
+- the price what is for  [jpm](symbol)
+- a price what is for  [jpm](symbol)
+- what's for  [jpm](symbol)
+- price what's for  [jpm](symbol)
+- the price what's for  [jpm](symbol)
+- a price what's for  [jpm](symbol)
+- show for  [jpm](symbol)
+- price show for  [jpm](symbol)
+- the price show for  [jpm](symbol)
+- a price show for  [jpm](symbol)
+- tell me for  [kmb](symbol)
+- price tell me for  [kmb](symbol)
+- the price tell me for  [kmb](symbol)
+- a price tell me for  [kmb](symbol)
+- tell me about for  [kmb](symbol)
+- price tell me about for  [kmb](symbol)
+- the price tell me about for  [kmb](symbol)
+- a price tell me about for  [kmb](symbol)
+- show me for  [kmb](symbol)
+- price show me for  [kmb](symbol)
+- the price show me for  [kmb](symbol)
+- a price show me for  [kmb](symbol)
+- can i see for  [kmb](symbol)
+- price can i see for  [kmb](symbol)
+- the price can i see for  [kmb](symbol)
+- a price can i see for  [kmb](symbol)
+- what is for  [kmb](symbol)
+- price what is for  [kmb](symbol)
+- the price what is for  [kmb](symbol)
+- a price what is for  [kmb](symbol)
+- what's for  [kmb](symbol)
+- price what's for  [kmb](symbol)
+- the price what's for  [kmb](symbol)
+- a price what's for  [kmb](symbol)
+- show for  [kmb](symbol)
+- price show for  [kmb](symbol)
+- the price show for  [kmb](symbol)
+- a price show for  [kmb](symbol)
+- tell me for  [ndaq](symbol)
+- price tell me for  [ndaq](symbol)
+- the price tell me for  [ndaq](symbol)
+- a price tell me for  [ndaq](symbol)
+- tell me about for  [ndaq](symbol)
+- price tell me about for  [ndaq](symbol)
+- the price tell me about for  [ndaq](symbol)
+- a price tell me about for  [ndaq](symbol)
+- show me for  [ndaq](symbol)
+- price show me for  [ndaq](symbol)
+- the price show me for  [ndaq](symbol)
+- a price show me for  [ndaq](symbol)
+- can i see for  [ndaq](symbol)
+- price can i see for  [ndaq](symbol)
+- the price can i see for  [ndaq](symbol)
+- a price can i see for  [ndaq](symbol)
+- what is for  [ndaq](symbol)
+- price what is for  [ndaq](symbol)
+- the price what is for  [ndaq](symbol)
+- a price what is for  [ndaq](symbol)
+- what's for  [ndaq](symbol)
+- price what's for  [ndaq](symbol)
+- the price what's for  [ndaq](symbol)
+- a price what's for  [ndaq](symbol)
+- show for  [ndaq](symbol)
+- price show for  [ndaq](symbol)
+- the price show for  [ndaq](symbol)
+- a price show for  [ndaq](symbol)
 - tell me for the stock [amzn](symbol)
 - price tell me for the stock [amzn](symbol)
 - the price tell me for the stock [amzn](symbol)
@@ -23823,6 +29199,342 @@
 - price show for the ticker [ndaq](symbol)
 - the price show for the ticker [ndaq](symbol)
 - a price show for the ticker [ndaq](symbol)
+- tell me for the [amzn](symbol)
+- price tell me for the [amzn](symbol)
+- the price tell me for the [amzn](symbol)
+- a price tell me for the [amzn](symbol)
+- tell me about for the [amzn](symbol)
+- price tell me about for the [amzn](symbol)
+- the price tell me about for the [amzn](symbol)
+- a price tell me about for the [amzn](symbol)
+- show me for the [amzn](symbol)
+- price show me for the [amzn](symbol)
+- the price show me for the [amzn](symbol)
+- a price show me for the [amzn](symbol)
+- can i see for the [amzn](symbol)
+- price can i see for the [amzn](symbol)
+- the price can i see for the [amzn](symbol)
+- a price can i see for the [amzn](symbol)
+- what is for the [amzn](symbol)
+- price what is for the [amzn](symbol)
+- the price what is for the [amzn](symbol)
+- a price what is for the [amzn](symbol)
+- what's for the [amzn](symbol)
+- price what's for the [amzn](symbol)
+- the price what's for the [amzn](symbol)
+- a price what's for the [amzn](symbol)
+- show for the [amzn](symbol)
+- price show for the [amzn](symbol)
+- the price show for the [amzn](symbol)
+- a price show for the [amzn](symbol)
+- tell me for the [bk](symbol)
+- price tell me for the [bk](symbol)
+- the price tell me for the [bk](symbol)
+- a price tell me for the [bk](symbol)
+- tell me about for the [bk](symbol)
+- price tell me about for the [bk](symbol)
+- the price tell me about for the [bk](symbol)
+- a price tell me about for the [bk](symbol)
+- show me for the [bk](symbol)
+- price show me for the [bk](symbol)
+- the price show me for the [bk](symbol)
+- a price show me for the [bk](symbol)
+- can i see for the [bk](symbol)
+- price can i see for the [bk](symbol)
+- the price can i see for the [bk](symbol)
+- a price can i see for the [bk](symbol)
+- what is for the [bk](symbol)
+- price what is for the [bk](symbol)
+- the price what is for the [bk](symbol)
+- a price what is for the [bk](symbol)
+- what's for the [bk](symbol)
+- price what's for the [bk](symbol)
+- the price what's for the [bk](symbol)
+- a price what's for the [bk](symbol)
+- show for the [bk](symbol)
+- price show for the [bk](symbol)
+- the price show for the [bk](symbol)
+- a price show for the [bk](symbol)
+- tell me for the [csco](symbol)
+- price tell me for the [csco](symbol)
+- the price tell me for the [csco](symbol)
+- a price tell me for the [csco](symbol)
+- tell me about for the [csco](symbol)
+- price tell me about for the [csco](symbol)
+- the price tell me about for the [csco](symbol)
+- a price tell me about for the [csco](symbol)
+- show me for the [csco](symbol)
+- price show me for the [csco](symbol)
+- the price show me for the [csco](symbol)
+- a price show me for the [csco](symbol)
+- can i see for the [csco](symbol)
+- price can i see for the [csco](symbol)
+- the price can i see for the [csco](symbol)
+- a price can i see for the [csco](symbol)
+- what is for the [csco](symbol)
+- price what is for the [csco](symbol)
+- the price what is for the [csco](symbol)
+- a price what is for the [csco](symbol)
+- what's for the [csco](symbol)
+- price what's for the [csco](symbol)
+- the price what's for the [csco](symbol)
+- a price what's for the [csco](symbol)
+- show for the [csco](symbol)
+- price show for the [csco](symbol)
+- the price show for the [csco](symbol)
+- a price show for the [csco](symbol)
+- tell me for the [dow](symbol)
+- price tell me for the [dow](symbol)
+- the price tell me for the [dow](symbol)
+- a price tell me for the [dow](symbol)
+- tell me about for the [dow](symbol)
+- price tell me about for the [dow](symbol)
+- the price tell me about for the [dow](symbol)
+- a price tell me about for the [dow](symbol)
+- show me for the [dow](symbol)
+- price show me for the [dow](symbol)
+- the price show me for the [dow](symbol)
+- a price show me for the [dow](symbol)
+- can i see for the [dow](symbol)
+- price can i see for the [dow](symbol)
+- the price can i see for the [dow](symbol)
+- a price can i see for the [dow](symbol)
+- what is for the [dow](symbol)
+- price what is for the [dow](symbol)
+- the price what is for the [dow](symbol)
+- a price what is for the [dow](symbol)
+- what's for the [dow](symbol)
+- price what's for the [dow](symbol)
+- the price what's for the [dow](symbol)
+- a price what's for the [dow](symbol)
+- show for the [dow](symbol)
+- price show for the [dow](symbol)
+- the price show for the [dow](symbol)
+- a price show for the [dow](symbol)
+- tell me for the [ebay](symbol)
+- price tell me for the [ebay](symbol)
+- the price tell me for the [ebay](symbol)
+- a price tell me for the [ebay](symbol)
+- tell me about for the [ebay](symbol)
+- price tell me about for the [ebay](symbol)
+- the price tell me about for the [ebay](symbol)
+- a price tell me about for the [ebay](symbol)
+- show me for the [ebay](symbol)
+- price show me for the [ebay](symbol)
+- the price show me for the [ebay](symbol)
+- a price show me for the [ebay](symbol)
+- can i see for the [ebay](symbol)
+- price can i see for the [ebay](symbol)
+- the price can i see for the [ebay](symbol)
+- a price can i see for the [ebay](symbol)
+- what is for the [ebay](symbol)
+- price what is for the [ebay](symbol)
+- the price what is for the [ebay](symbol)
+- a price what is for the [ebay](symbol)
+- what's for the [ebay](symbol)
+- price what's for the [ebay](symbol)
+- the price what's for the [ebay](symbol)
+- a price what's for the [ebay](symbol)
+- show for the [ebay](symbol)
+- price show for the [ebay](symbol)
+- the price show for the [ebay](symbol)
+- a price show for the [ebay](symbol)
+- tell me for the [fox](symbol)
+- price tell me for the [fox](symbol)
+- the price tell me for the [fox](symbol)
+- a price tell me for the [fox](symbol)
+- tell me about for the [fox](symbol)
+- price tell me about for the [fox](symbol)
+- the price tell me about for the [fox](symbol)
+- a price tell me about for the [fox](symbol)
+- show me for the [fox](symbol)
+- price show me for the [fox](symbol)
+- the price show me for the [fox](symbol)
+- a price show me for the [fox](symbol)
+- can i see for the [fox](symbol)
+- price can i see for the [fox](symbol)
+- the price can i see for the [fox](symbol)
+- a price can i see for the [fox](symbol)
+- what is for the [fox](symbol)
+- price what is for the [fox](symbol)
+- the price what is for the [fox](symbol)
+- a price what is for the [fox](symbol)
+- what's for the [fox](symbol)
+- price what's for the [fox](symbol)
+- the price what's for the [fox](symbol)
+- a price what's for the [fox](symbol)
+- show for the [fox](symbol)
+- price show for the [fox](symbol)
+- the price show for the [fox](symbol)
+- a price show for the [fox](symbol)
+- tell me for the [googl](symbol)
+- price tell me for the [googl](symbol)
+- the price tell me for the [googl](symbol)
+- a price tell me for the [googl](symbol)
+- tell me about for the [googl](symbol)
+- price tell me about for the [googl](symbol)
+- the price tell me about for the [googl](symbol)
+- a price tell me about for the [googl](symbol)
+- show me for the [googl](symbol)
+- price show me for the [googl](symbol)
+- the price show me for the [googl](symbol)
+- a price show me for the [googl](symbol)
+- can i see for the [googl](symbol)
+- price can i see for the [googl](symbol)
+- the price can i see for the [googl](symbol)
+- a price can i see for the [googl](symbol)
+- what is for the [googl](symbol)
+- price what is for the [googl](symbol)
+- the price what is for the [googl](symbol)
+- a price what is for the [googl](symbol)
+- what's for the [googl](symbol)
+- price what's for the [googl](symbol)
+- the price what's for the [googl](symbol)
+- a price what's for the [googl](symbol)
+- show for the [googl](symbol)
+- price show for the [googl](symbol)
+- the price show for the [googl](symbol)
+- a price show for the [googl](symbol)
+- tell me for the [hp](symbol)
+- price tell me for the [hp](symbol)
+- the price tell me for the [hp](symbol)
+- a price tell me for the [hp](symbol)
+- tell me about for the [hp](symbol)
+- price tell me about for the [hp](symbol)
+- the price tell me about for the [hp](symbol)
+- a price tell me about for the [hp](symbol)
+- show me for the [hp](symbol)
+- price show me for the [hp](symbol)
+- the price show me for the [hp](symbol)
+- a price show me for the [hp](symbol)
+- can i see for the [hp](symbol)
+- price can i see for the [hp](symbol)
+- the price can i see for the [hp](symbol)
+- a price can i see for the [hp](symbol)
+- what is for the [hp](symbol)
+- price what is for the [hp](symbol)
+- the price what is for the [hp](symbol)
+- a price what is for the [hp](symbol)
+- what's for the [hp](symbol)
+- price what's for the [hp](symbol)
+- the price what's for the [hp](symbol)
+- a price what's for the [hp](symbol)
+- show for the [hp](symbol)
+- price show for the [hp](symbol)
+- the price show for the [hp](symbol)
+- a price show for the [hp](symbol)
+- tell me for the [ibm](symbol)
+- price tell me for the [ibm](symbol)
+- the price tell me for the [ibm](symbol)
+- a price tell me for the [ibm](symbol)
+- tell me about for the [ibm](symbol)
+- price tell me about for the [ibm](symbol)
+- the price tell me about for the [ibm](symbol)
+- a price tell me about for the [ibm](symbol)
+- show me for the [ibm](symbol)
+- price show me for the [ibm](symbol)
+- the price show me for the [ibm](symbol)
+- a price show me for the [ibm](symbol)
+- can i see for the [ibm](symbol)
+- price can i see for the [ibm](symbol)
+- the price can i see for the [ibm](symbol)
+- a price can i see for the [ibm](symbol)
+- what is for the [ibm](symbol)
+- price what is for the [ibm](symbol)
+- the price what is for the [ibm](symbol)
+- a price what is for the [ibm](symbol)
+- what's for the [ibm](symbol)
+- price what's for the [ibm](symbol)
+- the price what's for the [ibm](symbol)
+- a price what's for the [ibm](symbol)
+- show for the [ibm](symbol)
+- price show for the [ibm](symbol)
+- the price show for the [ibm](symbol)
+- a price show for the [ibm](symbol)
+- tell me for the [jpm](symbol)
+- price tell me for the [jpm](symbol)
+- the price tell me for the [jpm](symbol)
+- a price tell me for the [jpm](symbol)
+- tell me about for the [jpm](symbol)
+- price tell me about for the [jpm](symbol)
+- the price tell me about for the [jpm](symbol)
+- a price tell me about for the [jpm](symbol)
+- show me for the [jpm](symbol)
+- price show me for the [jpm](symbol)
+- the price show me for the [jpm](symbol)
+- a price show me for the [jpm](symbol)
+- can i see for the [jpm](symbol)
+- price can i see for the [jpm](symbol)
+- the price can i see for the [jpm](symbol)
+- a price can i see for the [jpm](symbol)
+- what is for the [jpm](symbol)
+- price what is for the [jpm](symbol)
+- the price what is for the [jpm](symbol)
+- a price what is for the [jpm](symbol)
+- what's for the [jpm](symbol)
+- price what's for the [jpm](symbol)
+- the price what's for the [jpm](symbol)
+- a price what's for the [jpm](symbol)
+- show for the [jpm](symbol)
+- price show for the [jpm](symbol)
+- the price show for the [jpm](symbol)
+- a price show for the [jpm](symbol)
+- tell me for the [kmb](symbol)
+- price tell me for the [kmb](symbol)
+- the price tell me for the [kmb](symbol)
+- a price tell me for the [kmb](symbol)
+- tell me about for the [kmb](symbol)
+- price tell me about for the [kmb](symbol)
+- the price tell me about for the [kmb](symbol)
+- a price tell me about for the [kmb](symbol)
+- show me for the [kmb](symbol)
+- price show me for the [kmb](symbol)
+- the price show me for the [kmb](symbol)
+- a price show me for the [kmb](symbol)
+- can i see for the [kmb](symbol)
+- price can i see for the [kmb](symbol)
+- the price can i see for the [kmb](symbol)
+- a price can i see for the [kmb](symbol)
+- what is for the [kmb](symbol)
+- price what is for the [kmb](symbol)
+- the price what is for the [kmb](symbol)
+- a price what is for the [kmb](symbol)
+- what's for the [kmb](symbol)
+- price what's for the [kmb](symbol)
+- the price what's for the [kmb](symbol)
+- a price what's for the [kmb](symbol)
+- show for the [kmb](symbol)
+- price show for the [kmb](symbol)
+- the price show for the [kmb](symbol)
+- a price show for the [kmb](symbol)
+- tell me for the [ndaq](symbol)
+- price tell me for the [ndaq](symbol)
+- the price tell me for the [ndaq](symbol)
+- a price tell me for the [ndaq](symbol)
+- tell me about for the [ndaq](symbol)
+- price tell me about for the [ndaq](symbol)
+- the price tell me about for the [ndaq](symbol)
+- a price tell me about for the [ndaq](symbol)
+- show me for the [ndaq](symbol)
+- price show me for the [ndaq](symbol)
+- the price show me for the [ndaq](symbol)
+- a price show me for the [ndaq](symbol)
+- can i see for the [ndaq](symbol)
+- price can i see for the [ndaq](symbol)
+- the price can i see for the [ndaq](symbol)
+- a price can i see for the [ndaq](symbol)
+- what is for the [ndaq](symbol)
+- price what is for the [ndaq](symbol)
+- the price what is for the [ndaq](symbol)
+- a price what is for the [ndaq](symbol)
+- what's for the [ndaq](symbol)
+- price what's for the [ndaq](symbol)
+- the price what's for the [ndaq](symbol)
+- a price what's for the [ndaq](symbol)
+- show for the [ndaq](symbol)
+- price show for the [ndaq](symbol)
+- the price show for the [ndaq](symbol)
+- a price show for the [ndaq](symbol)
 - tell me for a stock [amzn](symbol)
 - price tell me for a stock [amzn](symbol)
 - the price tell me for a stock [amzn](symbol)
@@ -25167,6 +30879,342 @@
 - price show for a ticker [ndaq](symbol)
 - the price show for a ticker [ndaq](symbol)
 - a price show for a ticker [ndaq](symbol)
+- tell me for a [amzn](symbol)
+- price tell me for a [amzn](symbol)
+- the price tell me for a [amzn](symbol)
+- a price tell me for a [amzn](symbol)
+- tell me about for a [amzn](symbol)
+- price tell me about for a [amzn](symbol)
+- the price tell me about for a [amzn](symbol)
+- a price tell me about for a [amzn](symbol)
+- show me for a [amzn](symbol)
+- price show me for a [amzn](symbol)
+- the price show me for a [amzn](symbol)
+- a price show me for a [amzn](symbol)
+- can i see for a [amzn](symbol)
+- price can i see for a [amzn](symbol)
+- the price can i see for a [amzn](symbol)
+- a price can i see for a [amzn](symbol)
+- what is for a [amzn](symbol)
+- price what is for a [amzn](symbol)
+- the price what is for a [amzn](symbol)
+- a price what is for a [amzn](symbol)
+- what's for a [amzn](symbol)
+- price what's for a [amzn](symbol)
+- the price what's for a [amzn](symbol)
+- a price what's for a [amzn](symbol)
+- show for a [amzn](symbol)
+- price show for a [amzn](symbol)
+- the price show for a [amzn](symbol)
+- a price show for a [amzn](symbol)
+- tell me for a [bk](symbol)
+- price tell me for a [bk](symbol)
+- the price tell me for a [bk](symbol)
+- a price tell me for a [bk](symbol)
+- tell me about for a [bk](symbol)
+- price tell me about for a [bk](symbol)
+- the price tell me about for a [bk](symbol)
+- a price tell me about for a [bk](symbol)
+- show me for a [bk](symbol)
+- price show me for a [bk](symbol)
+- the price show me for a [bk](symbol)
+- a price show me for a [bk](symbol)
+- can i see for a [bk](symbol)
+- price can i see for a [bk](symbol)
+- the price can i see for a [bk](symbol)
+- a price can i see for a [bk](symbol)
+- what is for a [bk](symbol)
+- price what is for a [bk](symbol)
+- the price what is for a [bk](symbol)
+- a price what is for a [bk](symbol)
+- what's for a [bk](symbol)
+- price what's for a [bk](symbol)
+- the price what's for a [bk](symbol)
+- a price what's for a [bk](symbol)
+- show for a [bk](symbol)
+- price show for a [bk](symbol)
+- the price show for a [bk](symbol)
+- a price show for a [bk](symbol)
+- tell me for a [csco](symbol)
+- price tell me for a [csco](symbol)
+- the price tell me for a [csco](symbol)
+- a price tell me for a [csco](symbol)
+- tell me about for a [csco](symbol)
+- price tell me about for a [csco](symbol)
+- the price tell me about for a [csco](symbol)
+- a price tell me about for a [csco](symbol)
+- show me for a [csco](symbol)
+- price show me for a [csco](symbol)
+- the price show me for a [csco](symbol)
+- a price show me for a [csco](symbol)
+- can i see for a [csco](symbol)
+- price can i see for a [csco](symbol)
+- the price can i see for a [csco](symbol)
+- a price can i see for a [csco](symbol)
+- what is for a [csco](symbol)
+- price what is for a [csco](symbol)
+- the price what is for a [csco](symbol)
+- a price what is for a [csco](symbol)
+- what's for a [csco](symbol)
+- price what's for a [csco](symbol)
+- the price what's for a [csco](symbol)
+- a price what's for a [csco](symbol)
+- show for a [csco](symbol)
+- price show for a [csco](symbol)
+- the price show for a [csco](symbol)
+- a price show for a [csco](symbol)
+- tell me for a [dow](symbol)
+- price tell me for a [dow](symbol)
+- the price tell me for a [dow](symbol)
+- a price tell me for a [dow](symbol)
+- tell me about for a [dow](symbol)
+- price tell me about for a [dow](symbol)
+- the price tell me about for a [dow](symbol)
+- a price tell me about for a [dow](symbol)
+- show me for a [dow](symbol)
+- price show me for a [dow](symbol)
+- the price show me for a [dow](symbol)
+- a price show me for a [dow](symbol)
+- can i see for a [dow](symbol)
+- price can i see for a [dow](symbol)
+- the price can i see for a [dow](symbol)
+- a price can i see for a [dow](symbol)
+- what is for a [dow](symbol)
+- price what is for a [dow](symbol)
+- the price what is for a [dow](symbol)
+- a price what is for a [dow](symbol)
+- what's for a [dow](symbol)
+- price what's for a [dow](symbol)
+- the price what's for a [dow](symbol)
+- a price what's for a [dow](symbol)
+- show for a [dow](symbol)
+- price show for a [dow](symbol)
+- the price show for a [dow](symbol)
+- a price show for a [dow](symbol)
+- tell me for a [ebay](symbol)
+- price tell me for a [ebay](symbol)
+- the price tell me for a [ebay](symbol)
+- a price tell me for a [ebay](symbol)
+- tell me about for a [ebay](symbol)
+- price tell me about for a [ebay](symbol)
+- the price tell me about for a [ebay](symbol)
+- a price tell me about for a [ebay](symbol)
+- show me for a [ebay](symbol)
+- price show me for a [ebay](symbol)
+- the price show me for a [ebay](symbol)
+- a price show me for a [ebay](symbol)
+- can i see for a [ebay](symbol)
+- price can i see for a [ebay](symbol)
+- the price can i see for a [ebay](symbol)
+- a price can i see for a [ebay](symbol)
+- what is for a [ebay](symbol)
+- price what is for a [ebay](symbol)
+- the price what is for a [ebay](symbol)
+- a price what is for a [ebay](symbol)
+- what's for a [ebay](symbol)
+- price what's for a [ebay](symbol)
+- the price what's for a [ebay](symbol)
+- a price what's for a [ebay](symbol)
+- show for a [ebay](symbol)
+- price show for a [ebay](symbol)
+- the price show for a [ebay](symbol)
+- a price show for a [ebay](symbol)
+- tell me for a [fox](symbol)
+- price tell me for a [fox](symbol)
+- the price tell me for a [fox](symbol)
+- a price tell me for a [fox](symbol)
+- tell me about for a [fox](symbol)
+- price tell me about for a [fox](symbol)
+- the price tell me about for a [fox](symbol)
+- a price tell me about for a [fox](symbol)
+- show me for a [fox](symbol)
+- price show me for a [fox](symbol)
+- the price show me for a [fox](symbol)
+- a price show me for a [fox](symbol)
+- can i see for a [fox](symbol)
+- price can i see for a [fox](symbol)
+- the price can i see for a [fox](symbol)
+- a price can i see for a [fox](symbol)
+- what is for a [fox](symbol)
+- price what is for a [fox](symbol)
+- the price what is for a [fox](symbol)
+- a price what is for a [fox](symbol)
+- what's for a [fox](symbol)
+- price what's for a [fox](symbol)
+- the price what's for a [fox](symbol)
+- a price what's for a [fox](symbol)
+- show for a [fox](symbol)
+- price show for a [fox](symbol)
+- the price show for a [fox](symbol)
+- a price show for a [fox](symbol)
+- tell me for a [googl](symbol)
+- price tell me for a [googl](symbol)
+- the price tell me for a [googl](symbol)
+- a price tell me for a [googl](symbol)
+- tell me about for a [googl](symbol)
+- price tell me about for a [googl](symbol)
+- the price tell me about for a [googl](symbol)
+- a price tell me about for a [googl](symbol)
+- show me for a [googl](symbol)
+- price show me for a [googl](symbol)
+- the price show me for a [googl](symbol)
+- a price show me for a [googl](symbol)
+- can i see for a [googl](symbol)
+- price can i see for a [googl](symbol)
+- the price can i see for a [googl](symbol)
+- a price can i see for a [googl](symbol)
+- what is for a [googl](symbol)
+- price what is for a [googl](symbol)
+- the price what is for a [googl](symbol)
+- a price what is for a [googl](symbol)
+- what's for a [googl](symbol)
+- price what's for a [googl](symbol)
+- the price what's for a [googl](symbol)
+- a price what's for a [googl](symbol)
+- show for a [googl](symbol)
+- price show for a [googl](symbol)
+- the price show for a [googl](symbol)
+- a price show for a [googl](symbol)
+- tell me for a [hp](symbol)
+- price tell me for a [hp](symbol)
+- the price tell me for a [hp](symbol)
+- a price tell me for a [hp](symbol)
+- tell me about for a [hp](symbol)
+- price tell me about for a [hp](symbol)
+- the price tell me about for a [hp](symbol)
+- a price tell me about for a [hp](symbol)
+- show me for a [hp](symbol)
+- price show me for a [hp](symbol)
+- the price show me for a [hp](symbol)
+- a price show me for a [hp](symbol)
+- can i see for a [hp](symbol)
+- price can i see for a [hp](symbol)
+- the price can i see for a [hp](symbol)
+- a price can i see for a [hp](symbol)
+- what is for a [hp](symbol)
+- price what is for a [hp](symbol)
+- the price what is for a [hp](symbol)
+- a price what is for a [hp](symbol)
+- what's for a [hp](symbol)
+- price what's for a [hp](symbol)
+- the price what's for a [hp](symbol)
+- a price what's for a [hp](symbol)
+- show for a [hp](symbol)
+- price show for a [hp](symbol)
+- the price show for a [hp](symbol)
+- a price show for a [hp](symbol)
+- tell me for a [ibm](symbol)
+- price tell me for a [ibm](symbol)
+- the price tell me for a [ibm](symbol)
+- a price tell me for a [ibm](symbol)
+- tell me about for a [ibm](symbol)
+- price tell me about for a [ibm](symbol)
+- the price tell me about for a [ibm](symbol)
+- a price tell me about for a [ibm](symbol)
+- show me for a [ibm](symbol)
+- price show me for a [ibm](symbol)
+- the price show me for a [ibm](symbol)
+- a price show me for a [ibm](symbol)
+- can i see for a [ibm](symbol)
+- price can i see for a [ibm](symbol)
+- the price can i see for a [ibm](symbol)
+- a price can i see for a [ibm](symbol)
+- what is for a [ibm](symbol)
+- price what is for a [ibm](symbol)
+- the price what is for a [ibm](symbol)
+- a price what is for a [ibm](symbol)
+- what's for a [ibm](symbol)
+- price what's for a [ibm](symbol)
+- the price what's for a [ibm](symbol)
+- a price what's for a [ibm](symbol)
+- show for a [ibm](symbol)
+- price show for a [ibm](symbol)
+- the price show for a [ibm](symbol)
+- a price show for a [ibm](symbol)
+- tell me for a [jpm](symbol)
+- price tell me for a [jpm](symbol)
+- the price tell me for a [jpm](symbol)
+- a price tell me for a [jpm](symbol)
+- tell me about for a [jpm](symbol)
+- price tell me about for a [jpm](symbol)
+- the price tell me about for a [jpm](symbol)
+- a price tell me about for a [jpm](symbol)
+- show me for a [jpm](symbol)
+- price show me for a [jpm](symbol)
+- the price show me for a [jpm](symbol)
+- a price show me for a [jpm](symbol)
+- can i see for a [jpm](symbol)
+- price can i see for a [jpm](symbol)
+- the price can i see for a [jpm](symbol)
+- a price can i see for a [jpm](symbol)
+- what is for a [jpm](symbol)
+- price what is for a [jpm](symbol)
+- the price what is for a [jpm](symbol)
+- a price what is for a [jpm](symbol)
+- what's for a [jpm](symbol)
+- price what's for a [jpm](symbol)
+- the price what's for a [jpm](symbol)
+- a price what's for a [jpm](symbol)
+- show for a [jpm](symbol)
+- price show for a [jpm](symbol)
+- the price show for a [jpm](symbol)
+- a price show for a [jpm](symbol)
+- tell me for a [kmb](symbol)
+- price tell me for a [kmb](symbol)
+- the price tell me for a [kmb](symbol)
+- a price tell me for a [kmb](symbol)
+- tell me about for a [kmb](symbol)
+- price tell me about for a [kmb](symbol)
+- the price tell me about for a [kmb](symbol)
+- a price tell me about for a [kmb](symbol)
+- show me for a [kmb](symbol)
+- price show me for a [kmb](symbol)
+- the price show me for a [kmb](symbol)
+- a price show me for a [kmb](symbol)
+- can i see for a [kmb](symbol)
+- price can i see for a [kmb](symbol)
+- the price can i see for a [kmb](symbol)
+- a price can i see for a [kmb](symbol)
+- what is for a [kmb](symbol)
+- price what is for a [kmb](symbol)
+- the price what is for a [kmb](symbol)
+- a price what is for a [kmb](symbol)
+- what's for a [kmb](symbol)
+- price what's for a [kmb](symbol)
+- the price what's for a [kmb](symbol)
+- a price what's for a [kmb](symbol)
+- show for a [kmb](symbol)
+- price show for a [kmb](symbol)
+- the price show for a [kmb](symbol)
+- a price show for a [kmb](symbol)
+- tell me for a [ndaq](symbol)
+- price tell me for a [ndaq](symbol)
+- the price tell me for a [ndaq](symbol)
+- a price tell me for a [ndaq](symbol)
+- tell me about for a [ndaq](symbol)
+- price tell me about for a [ndaq](symbol)
+- the price tell me about for a [ndaq](symbol)
+- a price tell me about for a [ndaq](symbol)
+- show me for a [ndaq](symbol)
+- price show me for a [ndaq](symbol)
+- the price show me for a [ndaq](symbol)
+- a price show me for a [ndaq](symbol)
+- can i see for a [ndaq](symbol)
+- price can i see for a [ndaq](symbol)
+- the price can i see for a [ndaq](symbol)
+- a price can i see for a [ndaq](symbol)
+- what is for a [ndaq](symbol)
+- price what is for a [ndaq](symbol)
+- the price what is for a [ndaq](symbol)
+- a price what is for a [ndaq](symbol)
+- what's for a [ndaq](symbol)
+- price what's for a [ndaq](symbol)
+- the price what's for a [ndaq](symbol)
+- a price what's for a [ndaq](symbol)
+- show for a [ndaq](symbol)
+- price show for a [ndaq](symbol)
+- the price show for a [ndaq](symbol)
+- a price show for a [ndaq](symbol)
 - stock [amzn](symbol) tell me
 - price stock [amzn](symbol) tell me
 - the price stock [amzn](symbol) tell me
@@ -25359,6 +31407,54 @@
 - price ticker [ndaq](symbol) tell me
 - the price ticker [ndaq](symbol) tell me
 - a price ticker [ndaq](symbol) tell me
+- [amzn](symbol) tell me
+- price [amzn](symbol) tell me
+- the price [amzn](symbol) tell me
+- a price [amzn](symbol) tell me
+- [bk](symbol) tell me
+- price [bk](symbol) tell me
+- the price [bk](symbol) tell me
+- a price [bk](symbol) tell me
+- [csco](symbol) tell me
+- price [csco](symbol) tell me
+- the price [csco](symbol) tell me
+- a price [csco](symbol) tell me
+- [dow](symbol) tell me
+- price [dow](symbol) tell me
+- the price [dow](symbol) tell me
+- a price [dow](symbol) tell me
+- [ebay](symbol) tell me
+- price [ebay](symbol) tell me
+- the price [ebay](symbol) tell me
+- a price [ebay](symbol) tell me
+- [fox](symbol) tell me
+- price [fox](symbol) tell me
+- the price [fox](symbol) tell me
+- a price [fox](symbol) tell me
+- [googl](symbol) tell me
+- price [googl](symbol) tell me
+- the price [googl](symbol) tell me
+- a price [googl](symbol) tell me
+- [hp](symbol) tell me
+- price [hp](symbol) tell me
+- the price [hp](symbol) tell me
+- a price [hp](symbol) tell me
+- [ibm](symbol) tell me
+- price [ibm](symbol) tell me
+- the price [ibm](symbol) tell me
+- a price [ibm](symbol) tell me
+- [jpm](symbol) tell me
+- price [jpm](symbol) tell me
+- the price [jpm](symbol) tell me
+- a price [jpm](symbol) tell me
+- [kmb](symbol) tell me
+- price [kmb](symbol) tell me
+- the price [kmb](symbol) tell me
+- a price [kmb](symbol) tell me
+- [ndaq](symbol) tell me
+- price [ndaq](symbol) tell me
+- the price [ndaq](symbol) tell me
+- a price [ndaq](symbol) tell me
 - the stock [amzn](symbol) tell me
 - price the stock [amzn](symbol) tell me
 - the price the stock [amzn](symbol) tell me
@@ -25551,6 +31647,54 @@
 - price the ticker [ndaq](symbol) tell me
 - the price the ticker [ndaq](symbol) tell me
 - a price the ticker [ndaq](symbol) tell me
+- the [amzn](symbol) tell me
+- price the [amzn](symbol) tell me
+- the price the [amzn](symbol) tell me
+- a price the [amzn](symbol) tell me
+- the [bk](symbol) tell me
+- price the [bk](symbol) tell me
+- the price the [bk](symbol) tell me
+- a price the [bk](symbol) tell me
+- the [csco](symbol) tell me
+- price the [csco](symbol) tell me
+- the price the [csco](symbol) tell me
+- a price the [csco](symbol) tell me
+- the [dow](symbol) tell me
+- price the [dow](symbol) tell me
+- the price the [dow](symbol) tell me
+- a price the [dow](symbol) tell me
+- the [ebay](symbol) tell me
+- price the [ebay](symbol) tell me
+- the price the [ebay](symbol) tell me
+- a price the [ebay](symbol) tell me
+- the [fox](symbol) tell me
+- price the [fox](symbol) tell me
+- the price the [fox](symbol) tell me
+- a price the [fox](symbol) tell me
+- the [googl](symbol) tell me
+- price the [googl](symbol) tell me
+- the price the [googl](symbol) tell me
+- a price the [googl](symbol) tell me
+- the [hp](symbol) tell me
+- price the [hp](symbol) tell me
+- the price the [hp](symbol) tell me
+- a price the [hp](symbol) tell me
+- the [ibm](symbol) tell me
+- price the [ibm](symbol) tell me
+- the price the [ibm](symbol) tell me
+- a price the [ibm](symbol) tell me
+- the [jpm](symbol) tell me
+- price the [jpm](symbol) tell me
+- the price the [jpm](symbol) tell me
+- a price the [jpm](symbol) tell me
+- the [kmb](symbol) tell me
+- price the [kmb](symbol) tell me
+- the price the [kmb](symbol) tell me
+- a price the [kmb](symbol) tell me
+- the [ndaq](symbol) tell me
+- price the [ndaq](symbol) tell me
+- the price the [ndaq](symbol) tell me
+- a price the [ndaq](symbol) tell me
 - a stock [amzn](symbol) tell me
 - price a stock [amzn](symbol) tell me
 - the price a stock [amzn](symbol) tell me
@@ -25743,6 +31887,54 @@
 - price a ticker [ndaq](symbol) tell me
 - the price a ticker [ndaq](symbol) tell me
 - a price a ticker [ndaq](symbol) tell me
+- a [amzn](symbol) tell me
+- price a [amzn](symbol) tell me
+- the price a [amzn](symbol) tell me
+- a price a [amzn](symbol) tell me
+- a [bk](symbol) tell me
+- price a [bk](symbol) tell me
+- the price a [bk](symbol) tell me
+- a price a [bk](symbol) tell me
+- a [csco](symbol) tell me
+- price a [csco](symbol) tell me
+- the price a [csco](symbol) tell me
+- a price a [csco](symbol) tell me
+- a [dow](symbol) tell me
+- price a [dow](symbol) tell me
+- the price a [dow](symbol) tell me
+- a price a [dow](symbol) tell me
+- a [ebay](symbol) tell me
+- price a [ebay](symbol) tell me
+- the price a [ebay](symbol) tell me
+- a price a [ebay](symbol) tell me
+- a [fox](symbol) tell me
+- price a [fox](symbol) tell me
+- the price a [fox](symbol) tell me
+- a price a [fox](symbol) tell me
+- a [googl](symbol) tell me
+- price a [googl](symbol) tell me
+- the price a [googl](symbol) tell me
+- a price a [googl](symbol) tell me
+- a [hp](symbol) tell me
+- price a [hp](symbol) tell me
+- the price a [hp](symbol) tell me
+- a price a [hp](symbol) tell me
+- a [ibm](symbol) tell me
+- price a [ibm](symbol) tell me
+- the price a [ibm](symbol) tell me
+- a price a [ibm](symbol) tell me
+- a [jpm](symbol) tell me
+- price a [jpm](symbol) tell me
+- the price a [jpm](symbol) tell me
+- a price a [jpm](symbol) tell me
+- a [kmb](symbol) tell me
+- price a [kmb](symbol) tell me
+- the price a [kmb](symbol) tell me
+- a price a [kmb](symbol) tell me
+- a [ndaq](symbol) tell me
+- price a [ndaq](symbol) tell me
+- the price a [ndaq](symbol) tell me
+- a price a [ndaq](symbol) tell me
 - for stock [amzn](symbol) tell me
 - price for stock [amzn](symbol) tell me
 - the price for stock [amzn](symbol) tell me
@@ -25935,6 +32127,54 @@
 - price for ticker [ndaq](symbol) tell me
 - the price for ticker [ndaq](symbol) tell me
 - a price for ticker [ndaq](symbol) tell me
+- for  [amzn](symbol) tell me
+- price for  [amzn](symbol) tell me
+- the price for  [amzn](symbol) tell me
+- a price for  [amzn](symbol) tell me
+- for  [bk](symbol) tell me
+- price for  [bk](symbol) tell me
+- the price for  [bk](symbol) tell me
+- a price for  [bk](symbol) tell me
+- for  [csco](symbol) tell me
+- price for  [csco](symbol) tell me
+- the price for  [csco](symbol) tell me
+- a price for  [csco](symbol) tell me
+- for  [dow](symbol) tell me
+- price for  [dow](symbol) tell me
+- the price for  [dow](symbol) tell me
+- a price for  [dow](symbol) tell me
+- for  [ebay](symbol) tell me
+- price for  [ebay](symbol) tell me
+- the price for  [ebay](symbol) tell me
+- a price for  [ebay](symbol) tell me
+- for  [fox](symbol) tell me
+- price for  [fox](symbol) tell me
+- the price for  [fox](symbol) tell me
+- a price for  [fox](symbol) tell me
+- for  [googl](symbol) tell me
+- price for  [googl](symbol) tell me
+- the price for  [googl](symbol) tell me
+- a price for  [googl](symbol) tell me
+- for  [hp](symbol) tell me
+- price for  [hp](symbol) tell me
+- the price for  [hp](symbol) tell me
+- a price for  [hp](symbol) tell me
+- for  [ibm](symbol) tell me
+- price for  [ibm](symbol) tell me
+- the price for  [ibm](symbol) tell me
+- a price for  [ibm](symbol) tell me
+- for  [jpm](symbol) tell me
+- price for  [jpm](symbol) tell me
+- the price for  [jpm](symbol) tell me
+- a price for  [jpm](symbol) tell me
+- for  [kmb](symbol) tell me
+- price for  [kmb](symbol) tell me
+- the price for  [kmb](symbol) tell me
+- a price for  [kmb](symbol) tell me
+- for  [ndaq](symbol) tell me
+- price for  [ndaq](symbol) tell me
+- the price for  [ndaq](symbol) tell me
+- a price for  [ndaq](symbol) tell me
 - for the stock [amzn](symbol) tell me
 - price for the stock [amzn](symbol) tell me
 - the price for the stock [amzn](symbol) tell me
@@ -26127,6 +32367,54 @@
 - price for the ticker [ndaq](symbol) tell me
 - the price for the ticker [ndaq](symbol) tell me
 - a price for the ticker [ndaq](symbol) tell me
+- for the [amzn](symbol) tell me
+- price for the [amzn](symbol) tell me
+- the price for the [amzn](symbol) tell me
+- a price for the [amzn](symbol) tell me
+- for the [bk](symbol) tell me
+- price for the [bk](symbol) tell me
+- the price for the [bk](symbol) tell me
+- a price for the [bk](symbol) tell me
+- for the [csco](symbol) tell me
+- price for the [csco](symbol) tell me
+- the price for the [csco](symbol) tell me
+- a price for the [csco](symbol) tell me
+- for the [dow](symbol) tell me
+- price for the [dow](symbol) tell me
+- the price for the [dow](symbol) tell me
+- a price for the [dow](symbol) tell me
+- for the [ebay](symbol) tell me
+- price for the [ebay](symbol) tell me
+- the price for the [ebay](symbol) tell me
+- a price for the [ebay](symbol) tell me
+- for the [fox](symbol) tell me
+- price for the [fox](symbol) tell me
+- the price for the [fox](symbol) tell me
+- a price for the [fox](symbol) tell me
+- for the [googl](symbol) tell me
+- price for the [googl](symbol) tell me
+- the price for the [googl](symbol) tell me
+- a price for the [googl](symbol) tell me
+- for the [hp](symbol) tell me
+- price for the [hp](symbol) tell me
+- the price for the [hp](symbol) tell me
+- a price for the [hp](symbol) tell me
+- for the [ibm](symbol) tell me
+- price for the [ibm](symbol) tell me
+- the price for the [ibm](symbol) tell me
+- a price for the [ibm](symbol) tell me
+- for the [jpm](symbol) tell me
+- price for the [jpm](symbol) tell me
+- the price for the [jpm](symbol) tell me
+- a price for the [jpm](symbol) tell me
+- for the [kmb](symbol) tell me
+- price for the [kmb](symbol) tell me
+- the price for the [kmb](symbol) tell me
+- a price for the [kmb](symbol) tell me
+- for the [ndaq](symbol) tell me
+- price for the [ndaq](symbol) tell me
+- the price for the [ndaq](symbol) tell me
+- a price for the [ndaq](symbol) tell me
 - for a stock [amzn](symbol) tell me
 - price for a stock [amzn](symbol) tell me
 - the price for a stock [amzn](symbol) tell me
@@ -26319,6 +32607,54 @@
 - price for a ticker [ndaq](symbol) tell me
 - the price for a ticker [ndaq](symbol) tell me
 - a price for a ticker [ndaq](symbol) tell me
+- for a [amzn](symbol) tell me
+- price for a [amzn](symbol) tell me
+- the price for a [amzn](symbol) tell me
+- a price for a [amzn](symbol) tell me
+- for a [bk](symbol) tell me
+- price for a [bk](symbol) tell me
+- the price for a [bk](symbol) tell me
+- a price for a [bk](symbol) tell me
+- for a [csco](symbol) tell me
+- price for a [csco](symbol) tell me
+- the price for a [csco](symbol) tell me
+- a price for a [csco](symbol) tell me
+- for a [dow](symbol) tell me
+- price for a [dow](symbol) tell me
+- the price for a [dow](symbol) tell me
+- a price for a [dow](symbol) tell me
+- for a [ebay](symbol) tell me
+- price for a [ebay](symbol) tell me
+- the price for a [ebay](symbol) tell me
+- a price for a [ebay](symbol) tell me
+- for a [fox](symbol) tell me
+- price for a [fox](symbol) tell me
+- the price for a [fox](symbol) tell me
+- a price for a [fox](symbol) tell me
+- for a [googl](symbol) tell me
+- price for a [googl](symbol) tell me
+- the price for a [googl](symbol) tell me
+- a price for a [googl](symbol) tell me
+- for a [hp](symbol) tell me
+- price for a [hp](symbol) tell me
+- the price for a [hp](symbol) tell me
+- a price for a [hp](symbol) tell me
+- for a [ibm](symbol) tell me
+- price for a [ibm](symbol) tell me
+- the price for a [ibm](symbol) tell me
+- a price for a [ibm](symbol) tell me
+- for a [jpm](symbol) tell me
+- price for a [jpm](symbol) tell me
+- the price for a [jpm](symbol) tell me
+- a price for a [jpm](symbol) tell me
+- for a [kmb](symbol) tell me
+- price for a [kmb](symbol) tell me
+- the price for a [kmb](symbol) tell me
+- a price for a [kmb](symbol) tell me
+- for a [ndaq](symbol) tell me
+- price for a [ndaq](symbol) tell me
+- the price for a [ndaq](symbol) tell me
+- a price for a [ndaq](symbol) tell me
 - stock [amzn](symbol) tell me about
 - price stock [amzn](symbol) tell me about
 - the price stock [amzn](symbol) tell me about
@@ -26511,6 +32847,54 @@
 - price ticker [ndaq](symbol) tell me about
 - the price ticker [ndaq](symbol) tell me about
 - a price ticker [ndaq](symbol) tell me about
+- [amzn](symbol) tell me about
+- price [amzn](symbol) tell me about
+- the price [amzn](symbol) tell me about
+- a price [amzn](symbol) tell me about
+- [bk](symbol) tell me about
+- price [bk](symbol) tell me about
+- the price [bk](symbol) tell me about
+- a price [bk](symbol) tell me about
+- [csco](symbol) tell me about
+- price [csco](symbol) tell me about
+- the price [csco](symbol) tell me about
+- a price [csco](symbol) tell me about
+- [dow](symbol) tell me about
+- price [dow](symbol) tell me about
+- the price [dow](symbol) tell me about
+- a price [dow](symbol) tell me about
+- [ebay](symbol) tell me about
+- price [ebay](symbol) tell me about
+- the price [ebay](symbol) tell me about
+- a price [ebay](symbol) tell me about
+- [fox](symbol) tell me about
+- price [fox](symbol) tell me about
+- the price [fox](symbol) tell me about
+- a price [fox](symbol) tell me about
+- [googl](symbol) tell me about
+- price [googl](symbol) tell me about
+- the price [googl](symbol) tell me about
+- a price [googl](symbol) tell me about
+- [hp](symbol) tell me about
+- price [hp](symbol) tell me about
+- the price [hp](symbol) tell me about
+- a price [hp](symbol) tell me about
+- [ibm](symbol) tell me about
+- price [ibm](symbol) tell me about
+- the price [ibm](symbol) tell me about
+- a price [ibm](symbol) tell me about
+- [jpm](symbol) tell me about
+- price [jpm](symbol) tell me about
+- the price [jpm](symbol) tell me about
+- a price [jpm](symbol) tell me about
+- [kmb](symbol) tell me about
+- price [kmb](symbol) tell me about
+- the price [kmb](symbol) tell me about
+- a price [kmb](symbol) tell me about
+- [ndaq](symbol) tell me about
+- price [ndaq](symbol) tell me about
+- the price [ndaq](symbol) tell me about
+- a price [ndaq](symbol) tell me about
 - the stock [amzn](symbol) tell me about
 - price the stock [amzn](symbol) tell me about
 - the price the stock [amzn](symbol) tell me about
@@ -26703,6 +33087,54 @@
 - price the ticker [ndaq](symbol) tell me about
 - the price the ticker [ndaq](symbol) tell me about
 - a price the ticker [ndaq](symbol) tell me about
+- the [amzn](symbol) tell me about
+- price the [amzn](symbol) tell me about
+- the price the [amzn](symbol) tell me about
+- a price the [amzn](symbol) tell me about
+- the [bk](symbol) tell me about
+- price the [bk](symbol) tell me about
+- the price the [bk](symbol) tell me about
+- a price the [bk](symbol) tell me about
+- the [csco](symbol) tell me about
+- price the [csco](symbol) tell me about
+- the price the [csco](symbol) tell me about
+- a price the [csco](symbol) tell me about
+- the [dow](symbol) tell me about
+- price the [dow](symbol) tell me about
+- the price the [dow](symbol) tell me about
+- a price the [dow](symbol) tell me about
+- the [ebay](symbol) tell me about
+- price the [ebay](symbol) tell me about
+- the price the [ebay](symbol) tell me about
+- a price the [ebay](symbol) tell me about
+- the [fox](symbol) tell me about
+- price the [fox](symbol) tell me about
+- the price the [fox](symbol) tell me about
+- a price the [fox](symbol) tell me about
+- the [googl](symbol) tell me about
+- price the [googl](symbol) tell me about
+- the price the [googl](symbol) tell me about
+- a price the [googl](symbol) tell me about
+- the [hp](symbol) tell me about
+- price the [hp](symbol) tell me about
+- the price the [hp](symbol) tell me about
+- a price the [hp](symbol) tell me about
+- the [ibm](symbol) tell me about
+- price the [ibm](symbol) tell me about
+- the price the [ibm](symbol) tell me about
+- a price the [ibm](symbol) tell me about
+- the [jpm](symbol) tell me about
+- price the [jpm](symbol) tell me about
+- the price the [jpm](symbol) tell me about
+- a price the [jpm](symbol) tell me about
+- the [kmb](symbol) tell me about
+- price the [kmb](symbol) tell me about
+- the price the [kmb](symbol) tell me about
+- a price the [kmb](symbol) tell me about
+- the [ndaq](symbol) tell me about
+- price the [ndaq](symbol) tell me about
+- the price the [ndaq](symbol) tell me about
+- a price the [ndaq](symbol) tell me about
 - a stock [amzn](symbol) tell me about
 - price a stock [amzn](symbol) tell me about
 - the price a stock [amzn](symbol) tell me about
@@ -26895,6 +33327,54 @@
 - price a ticker [ndaq](symbol) tell me about
 - the price a ticker [ndaq](symbol) tell me about
 - a price a ticker [ndaq](symbol) tell me about
+- a [amzn](symbol) tell me about
+- price a [amzn](symbol) tell me about
+- the price a [amzn](symbol) tell me about
+- a price a [amzn](symbol) tell me about
+- a [bk](symbol) tell me about
+- price a [bk](symbol) tell me about
+- the price a [bk](symbol) tell me about
+- a price a [bk](symbol) tell me about
+- a [csco](symbol) tell me about
+- price a [csco](symbol) tell me about
+- the price a [csco](symbol) tell me about
+- a price a [csco](symbol) tell me about
+- a [dow](symbol) tell me about
+- price a [dow](symbol) tell me about
+- the price a [dow](symbol) tell me about
+- a price a [dow](symbol) tell me about
+- a [ebay](symbol) tell me about
+- price a [ebay](symbol) tell me about
+- the price a [ebay](symbol) tell me about
+- a price a [ebay](symbol) tell me about
+- a [fox](symbol) tell me about
+- price a [fox](symbol) tell me about
+- the price a [fox](symbol) tell me about
+- a price a [fox](symbol) tell me about
+- a [googl](symbol) tell me about
+- price a [googl](symbol) tell me about
+- the price a [googl](symbol) tell me about
+- a price a [googl](symbol) tell me about
+- a [hp](symbol) tell me about
+- price a [hp](symbol) tell me about
+- the price a [hp](symbol) tell me about
+- a price a [hp](symbol) tell me about
+- a [ibm](symbol) tell me about
+- price a [ibm](symbol) tell me about
+- the price a [ibm](symbol) tell me about
+- a price a [ibm](symbol) tell me about
+- a [jpm](symbol) tell me about
+- price a [jpm](symbol) tell me about
+- the price a [jpm](symbol) tell me about
+- a price a [jpm](symbol) tell me about
+- a [kmb](symbol) tell me about
+- price a [kmb](symbol) tell me about
+- the price a [kmb](symbol) tell me about
+- a price a [kmb](symbol) tell me about
+- a [ndaq](symbol) tell me about
+- price a [ndaq](symbol) tell me about
+- the price a [ndaq](symbol) tell me about
+- a price a [ndaq](symbol) tell me about
 - for stock [amzn](symbol) tell me about
 - price for stock [amzn](symbol) tell me about
 - the price for stock [amzn](symbol) tell me about
@@ -27087,6 +33567,54 @@
 - price for ticker [ndaq](symbol) tell me about
 - the price for ticker [ndaq](symbol) tell me about
 - a price for ticker [ndaq](symbol) tell me about
+- for  [amzn](symbol) tell me about
+- price for  [amzn](symbol) tell me about
+- the price for  [amzn](symbol) tell me about
+- a price for  [amzn](symbol) tell me about
+- for  [bk](symbol) tell me about
+- price for  [bk](symbol) tell me about
+- the price for  [bk](symbol) tell me about
+- a price for  [bk](symbol) tell me about
+- for  [csco](symbol) tell me about
+- price for  [csco](symbol) tell me about
+- the price for  [csco](symbol) tell me about
+- a price for  [csco](symbol) tell me about
+- for  [dow](symbol) tell me about
+- price for  [dow](symbol) tell me about
+- the price for  [dow](symbol) tell me about
+- a price for  [dow](symbol) tell me about
+- for  [ebay](symbol) tell me about
+- price for  [ebay](symbol) tell me about
+- the price for  [ebay](symbol) tell me about
+- a price for  [ebay](symbol) tell me about
+- for  [fox](symbol) tell me about
+- price for  [fox](symbol) tell me about
+- the price for  [fox](symbol) tell me about
+- a price for  [fox](symbol) tell me about
+- for  [googl](symbol) tell me about
+- price for  [googl](symbol) tell me about
+- the price for  [googl](symbol) tell me about
+- a price for  [googl](symbol) tell me about
+- for  [hp](symbol) tell me about
+- price for  [hp](symbol) tell me about
+- the price for  [hp](symbol) tell me about
+- a price for  [hp](symbol) tell me about
+- for  [ibm](symbol) tell me about
+- price for  [ibm](symbol) tell me about
+- the price for  [ibm](symbol) tell me about
+- a price for  [ibm](symbol) tell me about
+- for  [jpm](symbol) tell me about
+- price for  [jpm](symbol) tell me about
+- the price for  [jpm](symbol) tell me about
+- a price for  [jpm](symbol) tell me about
+- for  [kmb](symbol) tell me about
+- price for  [kmb](symbol) tell me about
+- the price for  [kmb](symbol) tell me about
+- a price for  [kmb](symbol) tell me about
+- for  [ndaq](symbol) tell me about
+- price for  [ndaq](symbol) tell me about
+- the price for  [ndaq](symbol) tell me about
+- a price for  [ndaq](symbol) tell me about
 - for the stock [amzn](symbol) tell me about
 - price for the stock [amzn](symbol) tell me about
 - the price for the stock [amzn](symbol) tell me about
@@ -27279,6 +33807,54 @@
 - price for the ticker [ndaq](symbol) tell me about
 - the price for the ticker [ndaq](symbol) tell me about
 - a price for the ticker [ndaq](symbol) tell me about
+- for the [amzn](symbol) tell me about
+- price for the [amzn](symbol) tell me about
+- the price for the [amzn](symbol) tell me about
+- a price for the [amzn](symbol) tell me about
+- for the [bk](symbol) tell me about
+- price for the [bk](symbol) tell me about
+- the price for the [bk](symbol) tell me about
+- a price for the [bk](symbol) tell me about
+- for the [csco](symbol) tell me about
+- price for the [csco](symbol) tell me about
+- the price for the [csco](symbol) tell me about
+- a price for the [csco](symbol) tell me about
+- for the [dow](symbol) tell me about
+- price for the [dow](symbol) tell me about
+- the price for the [dow](symbol) tell me about
+- a price for the [dow](symbol) tell me about
+- for the [ebay](symbol) tell me about
+- price for the [ebay](symbol) tell me about
+- the price for the [ebay](symbol) tell me about
+- a price for the [ebay](symbol) tell me about
+- for the [fox](symbol) tell me about
+- price for the [fox](symbol) tell me about
+- the price for the [fox](symbol) tell me about
+- a price for the [fox](symbol) tell me about
+- for the [googl](symbol) tell me about
+- price for the [googl](symbol) tell me about
+- the price for the [googl](symbol) tell me about
+- a price for the [googl](symbol) tell me about
+- for the [hp](symbol) tell me about
+- price for the [hp](symbol) tell me about
+- the price for the [hp](symbol) tell me about
+- a price for the [hp](symbol) tell me about
+- for the [ibm](symbol) tell me about
+- price for the [ibm](symbol) tell me about
+- the price for the [ibm](symbol) tell me about
+- a price for the [ibm](symbol) tell me about
+- for the [jpm](symbol) tell me about
+- price for the [jpm](symbol) tell me about
+- the price for the [jpm](symbol) tell me about
+- a price for the [jpm](symbol) tell me about
+- for the [kmb](symbol) tell me about
+- price for the [kmb](symbol) tell me about
+- the price for the [kmb](symbol) tell me about
+- a price for the [kmb](symbol) tell me about
+- for the [ndaq](symbol) tell me about
+- price for the [ndaq](symbol) tell me about
+- the price for the [ndaq](symbol) tell me about
+- a price for the [ndaq](symbol) tell me about
 - for a stock [amzn](symbol) tell me about
 - price for a stock [amzn](symbol) tell me about
 - the price for a stock [amzn](symbol) tell me about
@@ -27471,6 +34047,54 @@
 - price for a ticker [ndaq](symbol) tell me about
 - the price for a ticker [ndaq](symbol) tell me about
 - a price for a ticker [ndaq](symbol) tell me about
+- for a [amzn](symbol) tell me about
+- price for a [amzn](symbol) tell me about
+- the price for a [amzn](symbol) tell me about
+- a price for a [amzn](symbol) tell me about
+- for a [bk](symbol) tell me about
+- price for a [bk](symbol) tell me about
+- the price for a [bk](symbol) tell me about
+- a price for a [bk](symbol) tell me about
+- for a [csco](symbol) tell me about
+- price for a [csco](symbol) tell me about
+- the price for a [csco](symbol) tell me about
+- a price for a [csco](symbol) tell me about
+- for a [dow](symbol) tell me about
+- price for a [dow](symbol) tell me about
+- the price for a [dow](symbol) tell me about
+- a price for a [dow](symbol) tell me about
+- for a [ebay](symbol) tell me about
+- price for a [ebay](symbol) tell me about
+- the price for a [ebay](symbol) tell me about
+- a price for a [ebay](symbol) tell me about
+- for a [fox](symbol) tell me about
+- price for a [fox](symbol) tell me about
+- the price for a [fox](symbol) tell me about
+- a price for a [fox](symbol) tell me about
+- for a [googl](symbol) tell me about
+- price for a [googl](symbol) tell me about
+- the price for a [googl](symbol) tell me about
+- a price for a [googl](symbol) tell me about
+- for a [hp](symbol) tell me about
+- price for a [hp](symbol) tell me about
+- the price for a [hp](symbol) tell me about
+- a price for a [hp](symbol) tell me about
+- for a [ibm](symbol) tell me about
+- price for a [ibm](symbol) tell me about
+- the price for a [ibm](symbol) tell me about
+- a price for a [ibm](symbol) tell me about
+- for a [jpm](symbol) tell me about
+- price for a [jpm](symbol) tell me about
+- the price for a [jpm](symbol) tell me about
+- a price for a [jpm](symbol) tell me about
+- for a [kmb](symbol) tell me about
+- price for a [kmb](symbol) tell me about
+- the price for a [kmb](symbol) tell me about
+- a price for a [kmb](symbol) tell me about
+- for a [ndaq](symbol) tell me about
+- price for a [ndaq](symbol) tell me about
+- the price for a [ndaq](symbol) tell me about
+- a price for a [ndaq](symbol) tell me about
 - stock [amzn](symbol) show me
 - price stock [amzn](symbol) show me
 - the price stock [amzn](symbol) show me
@@ -27663,6 +34287,54 @@
 - price ticker [ndaq](symbol) show me
 - the price ticker [ndaq](symbol) show me
 - a price ticker [ndaq](symbol) show me
+- [amzn](symbol) show me
+- price [amzn](symbol) show me
+- the price [amzn](symbol) show me
+- a price [amzn](symbol) show me
+- [bk](symbol) show me
+- price [bk](symbol) show me
+- the price [bk](symbol) show me
+- a price [bk](symbol) show me
+- [csco](symbol) show me
+- price [csco](symbol) show me
+- the price [csco](symbol) show me
+- a price [csco](symbol) show me
+- [dow](symbol) show me
+- price [dow](symbol) show me
+- the price [dow](symbol) show me
+- a price [dow](symbol) show me
+- [ebay](symbol) show me
+- price [ebay](symbol) show me
+- the price [ebay](symbol) show me
+- a price [ebay](symbol) show me
+- [fox](symbol) show me
+- price [fox](symbol) show me
+- the price [fox](symbol) show me
+- a price [fox](symbol) show me
+- [googl](symbol) show me
+- price [googl](symbol) show me
+- the price [googl](symbol) show me
+- a price [googl](symbol) show me
+- [hp](symbol) show me
+- price [hp](symbol) show me
+- the price [hp](symbol) show me
+- a price [hp](symbol) show me
+- [ibm](symbol) show me
+- price [ibm](symbol) show me
+- the price [ibm](symbol) show me
+- a price [ibm](symbol) show me
+- [jpm](symbol) show me
+- price [jpm](symbol) show me
+- the price [jpm](symbol) show me
+- a price [jpm](symbol) show me
+- [kmb](symbol) show me
+- price [kmb](symbol) show me
+- the price [kmb](symbol) show me
+- a price [kmb](symbol) show me
+- [ndaq](symbol) show me
+- price [ndaq](symbol) show me
+- the price [ndaq](symbol) show me
+- a price [ndaq](symbol) show me
 - the stock [amzn](symbol) show me
 - price the stock [amzn](symbol) show me
 - the price the stock [amzn](symbol) show me
@@ -27855,6 +34527,54 @@
 - price the ticker [ndaq](symbol) show me
 - the price the ticker [ndaq](symbol) show me
 - a price the ticker [ndaq](symbol) show me
+- the [amzn](symbol) show me
+- price the [amzn](symbol) show me
+- the price the [amzn](symbol) show me
+- a price the [amzn](symbol) show me
+- the [bk](symbol) show me
+- price the [bk](symbol) show me
+- the price the [bk](symbol) show me
+- a price the [bk](symbol) show me
+- the [csco](symbol) show me
+- price the [csco](symbol) show me
+- the price the [csco](symbol) show me
+- a price the [csco](symbol) show me
+- the [dow](symbol) show me
+- price the [dow](symbol) show me
+- the price the [dow](symbol) show me
+- a price the [dow](symbol) show me
+- the [ebay](symbol) show me
+- price the [ebay](symbol) show me
+- the price the [ebay](symbol) show me
+- a price the [ebay](symbol) show me
+- the [fox](symbol) show me
+- price the [fox](symbol) show me
+- the price the [fox](symbol) show me
+- a price the [fox](symbol) show me
+- the [googl](symbol) show me
+- price the [googl](symbol) show me
+- the price the [googl](symbol) show me
+- a price the [googl](symbol) show me
+- the [hp](symbol) show me
+- price the [hp](symbol) show me
+- the price the [hp](symbol) show me
+- a price the [hp](symbol) show me
+- the [ibm](symbol) show me
+- price the [ibm](symbol) show me
+- the price the [ibm](symbol) show me
+- a price the [ibm](symbol) show me
+- the [jpm](symbol) show me
+- price the [jpm](symbol) show me
+- the price the [jpm](symbol) show me
+- a price the [jpm](symbol) show me
+- the [kmb](symbol) show me
+- price the [kmb](symbol) show me
+- the price the [kmb](symbol) show me
+- a price the [kmb](symbol) show me
+- the [ndaq](symbol) show me
+- price the [ndaq](symbol) show me
+- the price the [ndaq](symbol) show me
+- a price the [ndaq](symbol) show me
 - a stock [amzn](symbol) show me
 - price a stock [amzn](symbol) show me
 - the price a stock [amzn](symbol) show me
@@ -28047,6 +34767,54 @@
 - price a ticker [ndaq](symbol) show me
 - the price a ticker [ndaq](symbol) show me
 - a price a ticker [ndaq](symbol) show me
+- a [amzn](symbol) show me
+- price a [amzn](symbol) show me
+- the price a [amzn](symbol) show me
+- a price a [amzn](symbol) show me
+- a [bk](symbol) show me
+- price a [bk](symbol) show me
+- the price a [bk](symbol) show me
+- a price a [bk](symbol) show me
+- a [csco](symbol) show me
+- price a [csco](symbol) show me
+- the price a [csco](symbol) show me
+- a price a [csco](symbol) show me
+- a [dow](symbol) show me
+- price a [dow](symbol) show me
+- the price a [dow](symbol) show me
+- a price a [dow](symbol) show me
+- a [ebay](symbol) show me
+- price a [ebay](symbol) show me
+- the price a [ebay](symbol) show me
+- a price a [ebay](symbol) show me
+- a [fox](symbol) show me
+- price a [fox](symbol) show me
+- the price a [fox](symbol) show me
+- a price a [fox](symbol) show me
+- a [googl](symbol) show me
+- price a [googl](symbol) show me
+- the price a [googl](symbol) show me
+- a price a [googl](symbol) show me
+- a [hp](symbol) show me
+- price a [hp](symbol) show me
+- the price a [hp](symbol) show me
+- a price a [hp](symbol) show me
+- a [ibm](symbol) show me
+- price a [ibm](symbol) show me
+- the price a [ibm](symbol) show me
+- a price a [ibm](symbol) show me
+- a [jpm](symbol) show me
+- price a [jpm](symbol) show me
+- the price a [jpm](symbol) show me
+- a price a [jpm](symbol) show me
+- a [kmb](symbol) show me
+- price a [kmb](symbol) show me
+- the price a [kmb](symbol) show me
+- a price a [kmb](symbol) show me
+- a [ndaq](symbol) show me
+- price a [ndaq](symbol) show me
+- the price a [ndaq](symbol) show me
+- a price a [ndaq](symbol) show me
 - for stock [amzn](symbol) show me
 - price for stock [amzn](symbol) show me
 - the price for stock [amzn](symbol) show me
@@ -28239,6 +35007,54 @@
 - price for ticker [ndaq](symbol) show me
 - the price for ticker [ndaq](symbol) show me
 - a price for ticker [ndaq](symbol) show me
+- for  [amzn](symbol) show me
+- price for  [amzn](symbol) show me
+- the price for  [amzn](symbol) show me
+- a price for  [amzn](symbol) show me
+- for  [bk](symbol) show me
+- price for  [bk](symbol) show me
+- the price for  [bk](symbol) show me
+- a price for  [bk](symbol) show me
+- for  [csco](symbol) show me
+- price for  [csco](symbol) show me
+- the price for  [csco](symbol) show me
+- a price for  [csco](symbol) show me
+- for  [dow](symbol) show me
+- price for  [dow](symbol) show me
+- the price for  [dow](symbol) show me
+- a price for  [dow](symbol) show me
+- for  [ebay](symbol) show me
+- price for  [ebay](symbol) show me
+- the price for  [ebay](symbol) show me
+- a price for  [ebay](symbol) show me
+- for  [fox](symbol) show me
+- price for  [fox](symbol) show me
+- the price for  [fox](symbol) show me
+- a price for  [fox](symbol) show me
+- for  [googl](symbol) show me
+- price for  [googl](symbol) show me
+- the price for  [googl](symbol) show me
+- a price for  [googl](symbol) show me
+- for  [hp](symbol) show me
+- price for  [hp](symbol) show me
+- the price for  [hp](symbol) show me
+- a price for  [hp](symbol) show me
+- for  [ibm](symbol) show me
+- price for  [ibm](symbol) show me
+- the price for  [ibm](symbol) show me
+- a price for  [ibm](symbol) show me
+- for  [jpm](symbol) show me
+- price for  [jpm](symbol) show me
+- the price for  [jpm](symbol) show me
+- a price for  [jpm](symbol) show me
+- for  [kmb](symbol) show me
+- price for  [kmb](symbol) show me
+- the price for  [kmb](symbol) show me
+- a price for  [kmb](symbol) show me
+- for  [ndaq](symbol) show me
+- price for  [ndaq](symbol) show me
+- the price for  [ndaq](symbol) show me
+- a price for  [ndaq](symbol) show me
 - for the stock [amzn](symbol) show me
 - price for the stock [amzn](symbol) show me
 - the price for the stock [amzn](symbol) show me
@@ -28431,6 +35247,54 @@
 - price for the ticker [ndaq](symbol) show me
 - the price for the ticker [ndaq](symbol) show me
 - a price for the ticker [ndaq](symbol) show me
+- for the [amzn](symbol) show me
+- price for the [amzn](symbol) show me
+- the price for the [amzn](symbol) show me
+- a price for the [amzn](symbol) show me
+- for the [bk](symbol) show me
+- price for the [bk](symbol) show me
+- the price for the [bk](symbol) show me
+- a price for the [bk](symbol) show me
+- for the [csco](symbol) show me
+- price for the [csco](symbol) show me
+- the price for the [csco](symbol) show me
+- a price for the [csco](symbol) show me
+- for the [dow](symbol) show me
+- price for the [dow](symbol) show me
+- the price for the [dow](symbol) show me
+- a price for the [dow](symbol) show me
+- for the [ebay](symbol) show me
+- price for the [ebay](symbol) show me
+- the price for the [ebay](symbol) show me
+- a price for the [ebay](symbol) show me
+- for the [fox](symbol) show me
+- price for the [fox](symbol) show me
+- the price for the [fox](symbol) show me
+- a price for the [fox](symbol) show me
+- for the [googl](symbol) show me
+- price for the [googl](symbol) show me
+- the price for the [googl](symbol) show me
+- a price for the [googl](symbol) show me
+- for the [hp](symbol) show me
+- price for the [hp](symbol) show me
+- the price for the [hp](symbol) show me
+- a price for the [hp](symbol) show me
+- for the [ibm](symbol) show me
+- price for the [ibm](symbol) show me
+- the price for the [ibm](symbol) show me
+- a price for the [ibm](symbol) show me
+- for the [jpm](symbol) show me
+- price for the [jpm](symbol) show me
+- the price for the [jpm](symbol) show me
+- a price for the [jpm](symbol) show me
+- for the [kmb](symbol) show me
+- price for the [kmb](symbol) show me
+- the price for the [kmb](symbol) show me
+- a price for the [kmb](symbol) show me
+- for the [ndaq](symbol) show me
+- price for the [ndaq](symbol) show me
+- the price for the [ndaq](symbol) show me
+- a price for the [ndaq](symbol) show me
 - for a stock [amzn](symbol) show me
 - price for a stock [amzn](symbol) show me
 - the price for a stock [amzn](symbol) show me
@@ -28623,6 +35487,54 @@
 - price for a ticker [ndaq](symbol) show me
 - the price for a ticker [ndaq](symbol) show me
 - a price for a ticker [ndaq](symbol) show me
+- for a [amzn](symbol) show me
+- price for a [amzn](symbol) show me
+- the price for a [amzn](symbol) show me
+- a price for a [amzn](symbol) show me
+- for a [bk](symbol) show me
+- price for a [bk](symbol) show me
+- the price for a [bk](symbol) show me
+- a price for a [bk](symbol) show me
+- for a [csco](symbol) show me
+- price for a [csco](symbol) show me
+- the price for a [csco](symbol) show me
+- a price for a [csco](symbol) show me
+- for a [dow](symbol) show me
+- price for a [dow](symbol) show me
+- the price for a [dow](symbol) show me
+- a price for a [dow](symbol) show me
+- for a [ebay](symbol) show me
+- price for a [ebay](symbol) show me
+- the price for a [ebay](symbol) show me
+- a price for a [ebay](symbol) show me
+- for a [fox](symbol) show me
+- price for a [fox](symbol) show me
+- the price for a [fox](symbol) show me
+- a price for a [fox](symbol) show me
+- for a [googl](symbol) show me
+- price for a [googl](symbol) show me
+- the price for a [googl](symbol) show me
+- a price for a [googl](symbol) show me
+- for a [hp](symbol) show me
+- price for a [hp](symbol) show me
+- the price for a [hp](symbol) show me
+- a price for a [hp](symbol) show me
+- for a [ibm](symbol) show me
+- price for a [ibm](symbol) show me
+- the price for a [ibm](symbol) show me
+- a price for a [ibm](symbol) show me
+- for a [jpm](symbol) show me
+- price for a [jpm](symbol) show me
+- the price for a [jpm](symbol) show me
+- a price for a [jpm](symbol) show me
+- for a [kmb](symbol) show me
+- price for a [kmb](symbol) show me
+- the price for a [kmb](symbol) show me
+- a price for a [kmb](symbol) show me
+- for a [ndaq](symbol) show me
+- price for a [ndaq](symbol) show me
+- the price for a [ndaq](symbol) show me
+- a price for a [ndaq](symbol) show me
 - stock [amzn](symbol) can i see
 - price stock [amzn](symbol) can i see
 - the price stock [amzn](symbol) can i see
@@ -28815,6 +35727,54 @@
 - price ticker [ndaq](symbol) can i see
 - the price ticker [ndaq](symbol) can i see
 - a price ticker [ndaq](symbol) can i see
+- [amzn](symbol) can i see
+- price [amzn](symbol) can i see
+- the price [amzn](symbol) can i see
+- a price [amzn](symbol) can i see
+- [bk](symbol) can i see
+- price [bk](symbol) can i see
+- the price [bk](symbol) can i see
+- a price [bk](symbol) can i see
+- [csco](symbol) can i see
+- price [csco](symbol) can i see
+- the price [csco](symbol) can i see
+- a price [csco](symbol) can i see
+- [dow](symbol) can i see
+- price [dow](symbol) can i see
+- the price [dow](symbol) can i see
+- a price [dow](symbol) can i see
+- [ebay](symbol) can i see
+- price [ebay](symbol) can i see
+- the price [ebay](symbol) can i see
+- a price [ebay](symbol) can i see
+- [fox](symbol) can i see
+- price [fox](symbol) can i see
+- the price [fox](symbol) can i see
+- a price [fox](symbol) can i see
+- [googl](symbol) can i see
+- price [googl](symbol) can i see
+- the price [googl](symbol) can i see
+- a price [googl](symbol) can i see
+- [hp](symbol) can i see
+- price [hp](symbol) can i see
+- the price [hp](symbol) can i see
+- a price [hp](symbol) can i see
+- [ibm](symbol) can i see
+- price [ibm](symbol) can i see
+- the price [ibm](symbol) can i see
+- a price [ibm](symbol) can i see
+- [jpm](symbol) can i see
+- price [jpm](symbol) can i see
+- the price [jpm](symbol) can i see
+- a price [jpm](symbol) can i see
+- [kmb](symbol) can i see
+- price [kmb](symbol) can i see
+- the price [kmb](symbol) can i see
+- a price [kmb](symbol) can i see
+- [ndaq](symbol) can i see
+- price [ndaq](symbol) can i see
+- the price [ndaq](symbol) can i see
+- a price [ndaq](symbol) can i see
 - the stock [amzn](symbol) can i see
 - price the stock [amzn](symbol) can i see
 - the price the stock [amzn](symbol) can i see
@@ -29007,6 +35967,54 @@
 - price the ticker [ndaq](symbol) can i see
 - the price the ticker [ndaq](symbol) can i see
 - a price the ticker [ndaq](symbol) can i see
+- the [amzn](symbol) can i see
+- price the [amzn](symbol) can i see
+- the price the [amzn](symbol) can i see
+- a price the [amzn](symbol) can i see
+- the [bk](symbol) can i see
+- price the [bk](symbol) can i see
+- the price the [bk](symbol) can i see
+- a price the [bk](symbol) can i see
+- the [csco](symbol) can i see
+- price the [csco](symbol) can i see
+- the price the [csco](symbol) can i see
+- a price the [csco](symbol) can i see
+- the [dow](symbol) can i see
+- price the [dow](symbol) can i see
+- the price the [dow](symbol) can i see
+- a price the [dow](symbol) can i see
+- the [ebay](symbol) can i see
+- price the [ebay](symbol) can i see
+- the price the [ebay](symbol) can i see
+- a price the [ebay](symbol) can i see
+- the [fox](symbol) can i see
+- price the [fox](symbol) can i see
+- the price the [fox](symbol) can i see
+- a price the [fox](symbol) can i see
+- the [googl](symbol) can i see
+- price the [googl](symbol) can i see
+- the price the [googl](symbol) can i see
+- a price the [googl](symbol) can i see
+- the [hp](symbol) can i see
+- price the [hp](symbol) can i see
+- the price the [hp](symbol) can i see
+- a price the [hp](symbol) can i see
+- the [ibm](symbol) can i see
+- price the [ibm](symbol) can i see
+- the price the [ibm](symbol) can i see
+- a price the [ibm](symbol) can i see
+- the [jpm](symbol) can i see
+- price the [jpm](symbol) can i see
+- the price the [jpm](symbol) can i see
+- a price the [jpm](symbol) can i see
+- the [kmb](symbol) can i see
+- price the [kmb](symbol) can i see
+- the price the [kmb](symbol) can i see
+- a price the [kmb](symbol) can i see
+- the [ndaq](symbol) can i see
+- price the [ndaq](symbol) can i see
+- the price the [ndaq](symbol) can i see
+- a price the [ndaq](symbol) can i see
 - a stock [amzn](symbol) can i see
 - price a stock [amzn](symbol) can i see
 - the price a stock [amzn](symbol) can i see
@@ -29199,6 +36207,54 @@
 - price a ticker [ndaq](symbol) can i see
 - the price a ticker [ndaq](symbol) can i see
 - a price a ticker [ndaq](symbol) can i see
+- a [amzn](symbol) can i see
+- price a [amzn](symbol) can i see
+- the price a [amzn](symbol) can i see
+- a price a [amzn](symbol) can i see
+- a [bk](symbol) can i see
+- price a [bk](symbol) can i see
+- the price a [bk](symbol) can i see
+- a price a [bk](symbol) can i see
+- a [csco](symbol) can i see
+- price a [csco](symbol) can i see
+- the price a [csco](symbol) can i see
+- a price a [csco](symbol) can i see
+- a [dow](symbol) can i see
+- price a [dow](symbol) can i see
+- the price a [dow](symbol) can i see
+- a price a [dow](symbol) can i see
+- a [ebay](symbol) can i see
+- price a [ebay](symbol) can i see
+- the price a [ebay](symbol) can i see
+- a price a [ebay](symbol) can i see
+- a [fox](symbol) can i see
+- price a [fox](symbol) can i see
+- the price a [fox](symbol) can i see
+- a price a [fox](symbol) can i see
+- a [googl](symbol) can i see
+- price a [googl](symbol) can i see
+- the price a [googl](symbol) can i see
+- a price a [googl](symbol) can i see
+- a [hp](symbol) can i see
+- price a [hp](symbol) can i see
+- the price a [hp](symbol) can i see
+- a price a [hp](symbol) can i see
+- a [ibm](symbol) can i see
+- price a [ibm](symbol) can i see
+- the price a [ibm](symbol) can i see
+- a price a [ibm](symbol) can i see
+- a [jpm](symbol) can i see
+- price a [jpm](symbol) can i see
+- the price a [jpm](symbol) can i see
+- a price a [jpm](symbol) can i see
+- a [kmb](symbol) can i see
+- price a [kmb](symbol) can i see
+- the price a [kmb](symbol) can i see
+- a price a [kmb](symbol) can i see
+- a [ndaq](symbol) can i see
+- price a [ndaq](symbol) can i see
+- the price a [ndaq](symbol) can i see
+- a price a [ndaq](symbol) can i see
 - for stock [amzn](symbol) can i see
 - price for stock [amzn](symbol) can i see
 - the price for stock [amzn](symbol) can i see
@@ -29391,6 +36447,54 @@
 - price for ticker [ndaq](symbol) can i see
 - the price for ticker [ndaq](symbol) can i see
 - a price for ticker [ndaq](symbol) can i see
+- for  [amzn](symbol) can i see
+- price for  [amzn](symbol) can i see
+- the price for  [amzn](symbol) can i see
+- a price for  [amzn](symbol) can i see
+- for  [bk](symbol) can i see
+- price for  [bk](symbol) can i see
+- the price for  [bk](symbol) can i see
+- a price for  [bk](symbol) can i see
+- for  [csco](symbol) can i see
+- price for  [csco](symbol) can i see
+- the price for  [csco](symbol) can i see
+- a price for  [csco](symbol) can i see
+- for  [dow](symbol) can i see
+- price for  [dow](symbol) can i see
+- the price for  [dow](symbol) can i see
+- a price for  [dow](symbol) can i see
+- for  [ebay](symbol) can i see
+- price for  [ebay](symbol) can i see
+- the price for  [ebay](symbol) can i see
+- a price for  [ebay](symbol) can i see
+- for  [fox](symbol) can i see
+- price for  [fox](symbol) can i see
+- the price for  [fox](symbol) can i see
+- a price for  [fox](symbol) can i see
+- for  [googl](symbol) can i see
+- price for  [googl](symbol) can i see
+- the price for  [googl](symbol) can i see
+- a price for  [googl](symbol) can i see
+- for  [hp](symbol) can i see
+- price for  [hp](symbol) can i see
+- the price for  [hp](symbol) can i see
+- a price for  [hp](symbol) can i see
+- for  [ibm](symbol) can i see
+- price for  [ibm](symbol) can i see
+- the price for  [ibm](symbol) can i see
+- a price for  [ibm](symbol) can i see
+- for  [jpm](symbol) can i see
+- price for  [jpm](symbol) can i see
+- the price for  [jpm](symbol) can i see
+- a price for  [jpm](symbol) can i see
+- for  [kmb](symbol) can i see
+- price for  [kmb](symbol) can i see
+- the price for  [kmb](symbol) can i see
+- a price for  [kmb](symbol) can i see
+- for  [ndaq](symbol) can i see
+- price for  [ndaq](symbol) can i see
+- the price for  [ndaq](symbol) can i see
+- a price for  [ndaq](symbol) can i see
 - for the stock [amzn](symbol) can i see
 - price for the stock [amzn](symbol) can i see
 - the price for the stock [amzn](symbol) can i see
@@ -29583,6 +36687,54 @@
 - price for the ticker [ndaq](symbol) can i see
 - the price for the ticker [ndaq](symbol) can i see
 - a price for the ticker [ndaq](symbol) can i see
+- for the [amzn](symbol) can i see
+- price for the [amzn](symbol) can i see
+- the price for the [amzn](symbol) can i see
+- a price for the [amzn](symbol) can i see
+- for the [bk](symbol) can i see
+- price for the [bk](symbol) can i see
+- the price for the [bk](symbol) can i see
+- a price for the [bk](symbol) can i see
+- for the [csco](symbol) can i see
+- price for the [csco](symbol) can i see
+- the price for the [csco](symbol) can i see
+- a price for the [csco](symbol) can i see
+- for the [dow](symbol) can i see
+- price for the [dow](symbol) can i see
+- the price for the [dow](symbol) can i see
+- a price for the [dow](symbol) can i see
+- for the [ebay](symbol) can i see
+- price for the [ebay](symbol) can i see
+- the price for the [ebay](symbol) can i see
+- a price for the [ebay](symbol) can i see
+- for the [fox](symbol) can i see
+- price for the [fox](symbol) can i see
+- the price for the [fox](symbol) can i see
+- a price for the [fox](symbol) can i see
+- for the [googl](symbol) can i see
+- price for the [googl](symbol) can i see
+- the price for the [googl](symbol) can i see
+- a price for the [googl](symbol) can i see
+- for the [hp](symbol) can i see
+- price for the [hp](symbol) can i see
+- the price for the [hp](symbol) can i see
+- a price for the [hp](symbol) can i see
+- for the [ibm](symbol) can i see
+- price for the [ibm](symbol) can i see
+- the price for the [ibm](symbol) can i see
+- a price for the [ibm](symbol) can i see
+- for the [jpm](symbol) can i see
+- price for the [jpm](symbol) can i see
+- the price for the [jpm](symbol) can i see
+- a price for the [jpm](symbol) can i see
+- for the [kmb](symbol) can i see
+- price for the [kmb](symbol) can i see
+- the price for the [kmb](symbol) can i see
+- a price for the [kmb](symbol) can i see
+- for the [ndaq](symbol) can i see
+- price for the [ndaq](symbol) can i see
+- the price for the [ndaq](symbol) can i see
+- a price for the [ndaq](symbol) can i see
 - for a stock [amzn](symbol) can i see
 - price for a stock [amzn](symbol) can i see
 - the price for a stock [amzn](symbol) can i see
@@ -29775,6 +36927,54 @@
 - price for a ticker [ndaq](symbol) can i see
 - the price for a ticker [ndaq](symbol) can i see
 - a price for a ticker [ndaq](symbol) can i see
+- for a [amzn](symbol) can i see
+- price for a [amzn](symbol) can i see
+- the price for a [amzn](symbol) can i see
+- a price for a [amzn](symbol) can i see
+- for a [bk](symbol) can i see
+- price for a [bk](symbol) can i see
+- the price for a [bk](symbol) can i see
+- a price for a [bk](symbol) can i see
+- for a [csco](symbol) can i see
+- price for a [csco](symbol) can i see
+- the price for a [csco](symbol) can i see
+- a price for a [csco](symbol) can i see
+- for a [dow](symbol) can i see
+- price for a [dow](symbol) can i see
+- the price for a [dow](symbol) can i see
+- a price for a [dow](symbol) can i see
+- for a [ebay](symbol) can i see
+- price for a [ebay](symbol) can i see
+- the price for a [ebay](symbol) can i see
+- a price for a [ebay](symbol) can i see
+- for a [fox](symbol) can i see
+- price for a [fox](symbol) can i see
+- the price for a [fox](symbol) can i see
+- a price for a [fox](symbol) can i see
+- for a [googl](symbol) can i see
+- price for a [googl](symbol) can i see
+- the price for a [googl](symbol) can i see
+- a price for a [googl](symbol) can i see
+- for a [hp](symbol) can i see
+- price for a [hp](symbol) can i see
+- the price for a [hp](symbol) can i see
+- a price for a [hp](symbol) can i see
+- for a [ibm](symbol) can i see
+- price for a [ibm](symbol) can i see
+- the price for a [ibm](symbol) can i see
+- a price for a [ibm](symbol) can i see
+- for a [jpm](symbol) can i see
+- price for a [jpm](symbol) can i see
+- the price for a [jpm](symbol) can i see
+- a price for a [jpm](symbol) can i see
+- for a [kmb](symbol) can i see
+- price for a [kmb](symbol) can i see
+- the price for a [kmb](symbol) can i see
+- a price for a [kmb](symbol) can i see
+- for a [ndaq](symbol) can i see
+- price for a [ndaq](symbol) can i see
+- the price for a [ndaq](symbol) can i see
+- a price for a [ndaq](symbol) can i see
 - stock [amzn](symbol) what is
 - price stock [amzn](symbol) what is
 - the price stock [amzn](symbol) what is
@@ -29967,6 +37167,54 @@
 - price ticker [ndaq](symbol) what is
 - the price ticker [ndaq](symbol) what is
 - a price ticker [ndaq](symbol) what is
+- [amzn](symbol) what is
+- price [amzn](symbol) what is
+- the price [amzn](symbol) what is
+- a price [amzn](symbol) what is
+- [bk](symbol) what is
+- price [bk](symbol) what is
+- the price [bk](symbol) what is
+- a price [bk](symbol) what is
+- [csco](symbol) what is
+- price [csco](symbol) what is
+- the price [csco](symbol) what is
+- a price [csco](symbol) what is
+- [dow](symbol) what is
+- price [dow](symbol) what is
+- the price [dow](symbol) what is
+- a price [dow](symbol) what is
+- [ebay](symbol) what is
+- price [ebay](symbol) what is
+- the price [ebay](symbol) what is
+- a price [ebay](symbol) what is
+- [fox](symbol) what is
+- price [fox](symbol) what is
+- the price [fox](symbol) what is
+- a price [fox](symbol) what is
+- [googl](symbol) what is
+- price [googl](symbol) what is
+- the price [googl](symbol) what is
+- a price [googl](symbol) what is
+- [hp](symbol) what is
+- price [hp](symbol) what is
+- the price [hp](symbol) what is
+- a price [hp](symbol) what is
+- [ibm](symbol) what is
+- price [ibm](symbol) what is
+- the price [ibm](symbol) what is
+- a price [ibm](symbol) what is
+- [jpm](symbol) what is
+- price [jpm](symbol) what is
+- the price [jpm](symbol) what is
+- a price [jpm](symbol) what is
+- [kmb](symbol) what is
+- price [kmb](symbol) what is
+- the price [kmb](symbol) what is
+- a price [kmb](symbol) what is
+- [ndaq](symbol) what is
+- price [ndaq](symbol) what is
+- the price [ndaq](symbol) what is
+- a price [ndaq](symbol) what is
 - the stock [amzn](symbol) what is
 - price the stock [amzn](symbol) what is
 - the price the stock [amzn](symbol) what is
@@ -30159,6 +37407,54 @@
 - price the ticker [ndaq](symbol) what is
 - the price the ticker [ndaq](symbol) what is
 - a price the ticker [ndaq](symbol) what is
+- the [amzn](symbol) what is
+- price the [amzn](symbol) what is
+- the price the [amzn](symbol) what is
+- a price the [amzn](symbol) what is
+- the [bk](symbol) what is
+- price the [bk](symbol) what is
+- the price the [bk](symbol) what is
+- a price the [bk](symbol) what is
+- the [csco](symbol) what is
+- price the [csco](symbol) what is
+- the price the [csco](symbol) what is
+- a price the [csco](symbol) what is
+- the [dow](symbol) what is
+- price the [dow](symbol) what is
+- the price the [dow](symbol) what is
+- a price the [dow](symbol) what is
+- the [ebay](symbol) what is
+- price the [ebay](symbol) what is
+- the price the [ebay](symbol) what is
+- a price the [ebay](symbol) what is
+- the [fox](symbol) what is
+- price the [fox](symbol) what is
+- the price the [fox](symbol) what is
+- a price the [fox](symbol) what is
+- the [googl](symbol) what is
+- price the [googl](symbol) what is
+- the price the [googl](symbol) what is
+- a price the [googl](symbol) what is
+- the [hp](symbol) what is
+- price the [hp](symbol) what is
+- the price the [hp](symbol) what is
+- a price the [hp](symbol) what is
+- the [ibm](symbol) what is
+- price the [ibm](symbol) what is
+- the price the [ibm](symbol) what is
+- a price the [ibm](symbol) what is
+- the [jpm](symbol) what is
+- price the [jpm](symbol) what is
+- the price the [jpm](symbol) what is
+- a price the [jpm](symbol) what is
+- the [kmb](symbol) what is
+- price the [kmb](symbol) what is
+- the price the [kmb](symbol) what is
+- a price the [kmb](symbol) what is
+- the [ndaq](symbol) what is
+- price the [ndaq](symbol) what is
+- the price the [ndaq](symbol) what is
+- a price the [ndaq](symbol) what is
 - a stock [amzn](symbol) what is
 - price a stock [amzn](symbol) what is
 - the price a stock [amzn](symbol) what is
@@ -30351,6 +37647,54 @@
 - price a ticker [ndaq](symbol) what is
 - the price a ticker [ndaq](symbol) what is
 - a price a ticker [ndaq](symbol) what is
+- a [amzn](symbol) what is
+- price a [amzn](symbol) what is
+- the price a [amzn](symbol) what is
+- a price a [amzn](symbol) what is
+- a [bk](symbol) what is
+- price a [bk](symbol) what is
+- the price a [bk](symbol) what is
+- a price a [bk](symbol) what is
+- a [csco](symbol) what is
+- price a [csco](symbol) what is
+- the price a [csco](symbol) what is
+- a price a [csco](symbol) what is
+- a [dow](symbol) what is
+- price a [dow](symbol) what is
+- the price a [dow](symbol) what is
+- a price a [dow](symbol) what is
+- a [ebay](symbol) what is
+- price a [ebay](symbol) what is
+- the price a [ebay](symbol) what is
+- a price a [ebay](symbol) what is
+- a [fox](symbol) what is
+- price a [fox](symbol) what is
+- the price a [fox](symbol) what is
+- a price a [fox](symbol) what is
+- a [googl](symbol) what is
+- price a [googl](symbol) what is
+- the price a [googl](symbol) what is
+- a price a [googl](symbol) what is
+- a [hp](symbol) what is
+- price a [hp](symbol) what is
+- the price a [hp](symbol) what is
+- a price a [hp](symbol) what is
+- a [ibm](symbol) what is
+- price a [ibm](symbol) what is
+- the price a [ibm](symbol) what is
+- a price a [ibm](symbol) what is
+- a [jpm](symbol) what is
+- price a [jpm](symbol) what is
+- the price a [jpm](symbol) what is
+- a price a [jpm](symbol) what is
+- a [kmb](symbol) what is
+- price a [kmb](symbol) what is
+- the price a [kmb](symbol) what is
+- a price a [kmb](symbol) what is
+- a [ndaq](symbol) what is
+- price a [ndaq](symbol) what is
+- the price a [ndaq](symbol) what is
+- a price a [ndaq](symbol) what is
 - for stock [amzn](symbol) what is
 - price for stock [amzn](symbol) what is
 - the price for stock [amzn](symbol) what is
@@ -30543,6 +37887,54 @@
 - price for ticker [ndaq](symbol) what is
 - the price for ticker [ndaq](symbol) what is
 - a price for ticker [ndaq](symbol) what is
+- for  [amzn](symbol) what is
+- price for  [amzn](symbol) what is
+- the price for  [amzn](symbol) what is
+- a price for  [amzn](symbol) what is
+- for  [bk](symbol) what is
+- price for  [bk](symbol) what is
+- the price for  [bk](symbol) what is
+- a price for  [bk](symbol) what is
+- for  [csco](symbol) what is
+- price for  [csco](symbol) what is
+- the price for  [csco](symbol) what is
+- a price for  [csco](symbol) what is
+- for  [dow](symbol) what is
+- price for  [dow](symbol) what is
+- the price for  [dow](symbol) what is
+- a price for  [dow](symbol) what is
+- for  [ebay](symbol) what is
+- price for  [ebay](symbol) what is
+- the price for  [ebay](symbol) what is
+- a price for  [ebay](symbol) what is
+- for  [fox](symbol) what is
+- price for  [fox](symbol) what is
+- the price for  [fox](symbol) what is
+- a price for  [fox](symbol) what is
+- for  [googl](symbol) what is
+- price for  [googl](symbol) what is
+- the price for  [googl](symbol) what is
+- a price for  [googl](symbol) what is
+- for  [hp](symbol) what is
+- price for  [hp](symbol) what is
+- the price for  [hp](symbol) what is
+- a price for  [hp](symbol) what is
+- for  [ibm](symbol) what is
+- price for  [ibm](symbol) what is
+- the price for  [ibm](symbol) what is
+- a price for  [ibm](symbol) what is
+- for  [jpm](symbol) what is
+- price for  [jpm](symbol) what is
+- the price for  [jpm](symbol) what is
+- a price for  [jpm](symbol) what is
+- for  [kmb](symbol) what is
+- price for  [kmb](symbol) what is
+- the price for  [kmb](symbol) what is
+- a price for  [kmb](symbol) what is
+- for  [ndaq](symbol) what is
+- price for  [ndaq](symbol) what is
+- the price for  [ndaq](symbol) what is
+- a price for  [ndaq](symbol) what is
 - for the stock [amzn](symbol) what is
 - price for the stock [amzn](symbol) what is
 - the price for the stock [amzn](symbol) what is
@@ -30735,6 +38127,54 @@
 - price for the ticker [ndaq](symbol) what is
 - the price for the ticker [ndaq](symbol) what is
 - a price for the ticker [ndaq](symbol) what is
+- for the [amzn](symbol) what is
+- price for the [amzn](symbol) what is
+- the price for the [amzn](symbol) what is
+- a price for the [amzn](symbol) what is
+- for the [bk](symbol) what is
+- price for the [bk](symbol) what is
+- the price for the [bk](symbol) what is
+- a price for the [bk](symbol) what is
+- for the [csco](symbol) what is
+- price for the [csco](symbol) what is
+- the price for the [csco](symbol) what is
+- a price for the [csco](symbol) what is
+- for the [dow](symbol) what is
+- price for the [dow](symbol) what is
+- the price for the [dow](symbol) what is
+- a price for the [dow](symbol) what is
+- for the [ebay](symbol) what is
+- price for the [ebay](symbol) what is
+- the price for the [ebay](symbol) what is
+- a price for the [ebay](symbol) what is
+- for the [fox](symbol) what is
+- price for the [fox](symbol) what is
+- the price for the [fox](symbol) what is
+- a price for the [fox](symbol) what is
+- for the [googl](symbol) what is
+- price for the [googl](symbol) what is
+- the price for the [googl](symbol) what is
+- a price for the [googl](symbol) what is
+- for the [hp](symbol) what is
+- price for the [hp](symbol) what is
+- the price for the [hp](symbol) what is
+- a price for the [hp](symbol) what is
+- for the [ibm](symbol) what is
+- price for the [ibm](symbol) what is
+- the price for the [ibm](symbol) what is
+- a price for the [ibm](symbol) what is
+- for the [jpm](symbol) what is
+- price for the [jpm](symbol) what is
+- the price for the [jpm](symbol) what is
+- a price for the [jpm](symbol) what is
+- for the [kmb](symbol) what is
+- price for the [kmb](symbol) what is
+- the price for the [kmb](symbol) what is
+- a price for the [kmb](symbol) what is
+- for the [ndaq](symbol) what is
+- price for the [ndaq](symbol) what is
+- the price for the [ndaq](symbol) what is
+- a price for the [ndaq](symbol) what is
 - for a stock [amzn](symbol) what is
 - price for a stock [amzn](symbol) what is
 - the price for a stock [amzn](symbol) what is
@@ -30927,6 +38367,54 @@
 - price for a ticker [ndaq](symbol) what is
 - the price for a ticker [ndaq](symbol) what is
 - a price for a ticker [ndaq](symbol) what is
+- for a [amzn](symbol) what is
+- price for a [amzn](symbol) what is
+- the price for a [amzn](symbol) what is
+- a price for a [amzn](symbol) what is
+- for a [bk](symbol) what is
+- price for a [bk](symbol) what is
+- the price for a [bk](symbol) what is
+- a price for a [bk](symbol) what is
+- for a [csco](symbol) what is
+- price for a [csco](symbol) what is
+- the price for a [csco](symbol) what is
+- a price for a [csco](symbol) what is
+- for a [dow](symbol) what is
+- price for a [dow](symbol) what is
+- the price for a [dow](symbol) what is
+- a price for a [dow](symbol) what is
+- for a [ebay](symbol) what is
+- price for a [ebay](symbol) what is
+- the price for a [ebay](symbol) what is
+- a price for a [ebay](symbol) what is
+- for a [fox](symbol) what is
+- price for a [fox](symbol) what is
+- the price for a [fox](symbol) what is
+- a price for a [fox](symbol) what is
+- for a [googl](symbol) what is
+- price for a [googl](symbol) what is
+- the price for a [googl](symbol) what is
+- a price for a [googl](symbol) what is
+- for a [hp](symbol) what is
+- price for a [hp](symbol) what is
+- the price for a [hp](symbol) what is
+- a price for a [hp](symbol) what is
+- for a [ibm](symbol) what is
+- price for a [ibm](symbol) what is
+- the price for a [ibm](symbol) what is
+- a price for a [ibm](symbol) what is
+- for a [jpm](symbol) what is
+- price for a [jpm](symbol) what is
+- the price for a [jpm](symbol) what is
+- a price for a [jpm](symbol) what is
+- for a [kmb](symbol) what is
+- price for a [kmb](symbol) what is
+- the price for a [kmb](symbol) what is
+- a price for a [kmb](symbol) what is
+- for a [ndaq](symbol) what is
+- price for a [ndaq](symbol) what is
+- the price for a [ndaq](symbol) what is
+- a price for a [ndaq](symbol) what is
 - stock [amzn](symbol) what's
 - price stock [amzn](symbol) what's
 - the price stock [amzn](symbol) what's
@@ -31119,6 +38607,54 @@
 - price ticker [ndaq](symbol) what's
 - the price ticker [ndaq](symbol) what's
 - a price ticker [ndaq](symbol) what's
+- [amzn](symbol) what's
+- price [amzn](symbol) what's
+- the price [amzn](symbol) what's
+- a price [amzn](symbol) what's
+- [bk](symbol) what's
+- price [bk](symbol) what's
+- the price [bk](symbol) what's
+- a price [bk](symbol) what's
+- [csco](symbol) what's
+- price [csco](symbol) what's
+- the price [csco](symbol) what's
+- a price [csco](symbol) what's
+- [dow](symbol) what's
+- price [dow](symbol) what's
+- the price [dow](symbol) what's
+- a price [dow](symbol) what's
+- [ebay](symbol) what's
+- price [ebay](symbol) what's
+- the price [ebay](symbol) what's
+- a price [ebay](symbol) what's
+- [fox](symbol) what's
+- price [fox](symbol) what's
+- the price [fox](symbol) what's
+- a price [fox](symbol) what's
+- [googl](symbol) what's
+- price [googl](symbol) what's
+- the price [googl](symbol) what's
+- a price [googl](symbol) what's
+- [hp](symbol) what's
+- price [hp](symbol) what's
+- the price [hp](symbol) what's
+- a price [hp](symbol) what's
+- [ibm](symbol) what's
+- price [ibm](symbol) what's
+- the price [ibm](symbol) what's
+- a price [ibm](symbol) what's
+- [jpm](symbol) what's
+- price [jpm](symbol) what's
+- the price [jpm](symbol) what's
+- a price [jpm](symbol) what's
+- [kmb](symbol) what's
+- price [kmb](symbol) what's
+- the price [kmb](symbol) what's
+- a price [kmb](symbol) what's
+- [ndaq](symbol) what's
+- price [ndaq](symbol) what's
+- the price [ndaq](symbol) what's
+- a price [ndaq](symbol) what's
 - the stock [amzn](symbol) what's
 - price the stock [amzn](symbol) what's
 - the price the stock [amzn](symbol) what's
@@ -31311,6 +38847,54 @@
 - price the ticker [ndaq](symbol) what's
 - the price the ticker [ndaq](symbol) what's
 - a price the ticker [ndaq](symbol) what's
+- the [amzn](symbol) what's
+- price the [amzn](symbol) what's
+- the price the [amzn](symbol) what's
+- a price the [amzn](symbol) what's
+- the [bk](symbol) what's
+- price the [bk](symbol) what's
+- the price the [bk](symbol) what's
+- a price the [bk](symbol) what's
+- the [csco](symbol) what's
+- price the [csco](symbol) what's
+- the price the [csco](symbol) what's
+- a price the [csco](symbol) what's
+- the [dow](symbol) what's
+- price the [dow](symbol) what's
+- the price the [dow](symbol) what's
+- a price the [dow](symbol) what's
+- the [ebay](symbol) what's
+- price the [ebay](symbol) what's
+- the price the [ebay](symbol) what's
+- a price the [ebay](symbol) what's
+- the [fox](symbol) what's
+- price the [fox](symbol) what's
+- the price the [fox](symbol) what's
+- a price the [fox](symbol) what's
+- the [googl](symbol) what's
+- price the [googl](symbol) what's
+- the price the [googl](symbol) what's
+- a price the [googl](symbol) what's
+- the [hp](symbol) what's
+- price the [hp](symbol) what's
+- the price the [hp](symbol) what's
+- a price the [hp](symbol) what's
+- the [ibm](symbol) what's
+- price the [ibm](symbol) what's
+- the price the [ibm](symbol) what's
+- a price the [ibm](symbol) what's
+- the [jpm](symbol) what's
+- price the [jpm](symbol) what's
+- the price the [jpm](symbol) what's
+- a price the [jpm](symbol) what's
+- the [kmb](symbol) what's
+- price the [kmb](symbol) what's
+- the price the [kmb](symbol) what's
+- a price the [kmb](symbol) what's
+- the [ndaq](symbol) what's
+- price the [ndaq](symbol) what's
+- the price the [ndaq](symbol) what's
+- a price the [ndaq](symbol) what's
 - a stock [amzn](symbol) what's
 - price a stock [amzn](symbol) what's
 - the price a stock [amzn](symbol) what's
@@ -31503,6 +39087,54 @@
 - price a ticker [ndaq](symbol) what's
 - the price a ticker [ndaq](symbol) what's
 - a price a ticker [ndaq](symbol) what's
+- a [amzn](symbol) what's
+- price a [amzn](symbol) what's
+- the price a [amzn](symbol) what's
+- a price a [amzn](symbol) what's
+- a [bk](symbol) what's
+- price a [bk](symbol) what's
+- the price a [bk](symbol) what's
+- a price a [bk](symbol) what's
+- a [csco](symbol) what's
+- price a [csco](symbol) what's
+- the price a [csco](symbol) what's
+- a price a [csco](symbol) what's
+- a [dow](symbol) what's
+- price a [dow](symbol) what's
+- the price a [dow](symbol) what's
+- a price a [dow](symbol) what's
+- a [ebay](symbol) what's
+- price a [ebay](symbol) what's
+- the price a [ebay](symbol) what's
+- a price a [ebay](symbol) what's
+- a [fox](symbol) what's
+- price a [fox](symbol) what's
+- the price a [fox](symbol) what's
+- a price a [fox](symbol) what's
+- a [googl](symbol) what's
+- price a [googl](symbol) what's
+- the price a [googl](symbol) what's
+- a price a [googl](symbol) what's
+- a [hp](symbol) what's
+- price a [hp](symbol) what's
+- the price a [hp](symbol) what's
+- a price a [hp](symbol) what's
+- a [ibm](symbol) what's
+- price a [ibm](symbol) what's
+- the price a [ibm](symbol) what's
+- a price a [ibm](symbol) what's
+- a [jpm](symbol) what's
+- price a [jpm](symbol) what's
+- the price a [jpm](symbol) what's
+- a price a [jpm](symbol) what's
+- a [kmb](symbol) what's
+- price a [kmb](symbol) what's
+- the price a [kmb](symbol) what's
+- a price a [kmb](symbol) what's
+- a [ndaq](symbol) what's
+- price a [ndaq](symbol) what's
+- the price a [ndaq](symbol) what's
+- a price a [ndaq](symbol) what's
 - for stock [amzn](symbol) what's
 - price for stock [amzn](symbol) what's
 - the price for stock [amzn](symbol) what's
@@ -31695,6 +39327,54 @@
 - price for ticker [ndaq](symbol) what's
 - the price for ticker [ndaq](symbol) what's
 - a price for ticker [ndaq](symbol) what's
+- for  [amzn](symbol) what's
+- price for  [amzn](symbol) what's
+- the price for  [amzn](symbol) what's
+- a price for  [amzn](symbol) what's
+- for  [bk](symbol) what's
+- price for  [bk](symbol) what's
+- the price for  [bk](symbol) what's
+- a price for  [bk](symbol) what's
+- for  [csco](symbol) what's
+- price for  [csco](symbol) what's
+- the price for  [csco](symbol) what's
+- a price for  [csco](symbol) what's
+- for  [dow](symbol) what's
+- price for  [dow](symbol) what's
+- the price for  [dow](symbol) what's
+- a price for  [dow](symbol) what's
+- for  [ebay](symbol) what's
+- price for  [ebay](symbol) what's
+- the price for  [ebay](symbol) what's
+- a price for  [ebay](symbol) what's
+- for  [fox](symbol) what's
+- price for  [fox](symbol) what's
+- the price for  [fox](symbol) what's
+- a price for  [fox](symbol) what's
+- for  [googl](symbol) what's
+- price for  [googl](symbol) what's
+- the price for  [googl](symbol) what's
+- a price for  [googl](symbol) what's
+- for  [hp](symbol) what's
+- price for  [hp](symbol) what's
+- the price for  [hp](symbol) what's
+- a price for  [hp](symbol) what's
+- for  [ibm](symbol) what's
+- price for  [ibm](symbol) what's
+- the price for  [ibm](symbol) what's
+- a price for  [ibm](symbol) what's
+- for  [jpm](symbol) what's
+- price for  [jpm](symbol) what's
+- the price for  [jpm](symbol) what's
+- a price for  [jpm](symbol) what's
+- for  [kmb](symbol) what's
+- price for  [kmb](symbol) what's
+- the price for  [kmb](symbol) what's
+- a price for  [kmb](symbol) what's
+- for  [ndaq](symbol) what's
+- price for  [ndaq](symbol) what's
+- the price for  [ndaq](symbol) what's
+- a price for  [ndaq](symbol) what's
 - for the stock [amzn](symbol) what's
 - price for the stock [amzn](symbol) what's
 - the price for the stock [amzn](symbol) what's
@@ -31887,6 +39567,54 @@
 - price for the ticker [ndaq](symbol) what's
 - the price for the ticker [ndaq](symbol) what's
 - a price for the ticker [ndaq](symbol) what's
+- for the [amzn](symbol) what's
+- price for the [amzn](symbol) what's
+- the price for the [amzn](symbol) what's
+- a price for the [amzn](symbol) what's
+- for the [bk](symbol) what's
+- price for the [bk](symbol) what's
+- the price for the [bk](symbol) what's
+- a price for the [bk](symbol) what's
+- for the [csco](symbol) what's
+- price for the [csco](symbol) what's
+- the price for the [csco](symbol) what's
+- a price for the [csco](symbol) what's
+- for the [dow](symbol) what's
+- price for the [dow](symbol) what's
+- the price for the [dow](symbol) what's
+- a price for the [dow](symbol) what's
+- for the [ebay](symbol) what's
+- price for the [ebay](symbol) what's
+- the price for the [ebay](symbol) what's
+- a price for the [ebay](symbol) what's
+- for the [fox](symbol) what's
+- price for the [fox](symbol) what's
+- the price for the [fox](symbol) what's
+- a price for the [fox](symbol) what's
+- for the [googl](symbol) what's
+- price for the [googl](symbol) what's
+- the price for the [googl](symbol) what's
+- a price for the [googl](symbol) what's
+- for the [hp](symbol) what's
+- price for the [hp](symbol) what's
+- the price for the [hp](symbol) what's
+- a price for the [hp](symbol) what's
+- for the [ibm](symbol) what's
+- price for the [ibm](symbol) what's
+- the price for the [ibm](symbol) what's
+- a price for the [ibm](symbol) what's
+- for the [jpm](symbol) what's
+- price for the [jpm](symbol) what's
+- the price for the [jpm](symbol) what's
+- a price for the [jpm](symbol) what's
+- for the [kmb](symbol) what's
+- price for the [kmb](symbol) what's
+- the price for the [kmb](symbol) what's
+- a price for the [kmb](symbol) what's
+- for the [ndaq](symbol) what's
+- price for the [ndaq](symbol) what's
+- the price for the [ndaq](symbol) what's
+- a price for the [ndaq](symbol) what's
 - for a stock [amzn](symbol) what's
 - price for a stock [amzn](symbol) what's
 - the price for a stock [amzn](symbol) what's
@@ -32079,6 +39807,54 @@
 - price for a ticker [ndaq](symbol) what's
 - the price for a ticker [ndaq](symbol) what's
 - a price for a ticker [ndaq](symbol) what's
+- for a [amzn](symbol) what's
+- price for a [amzn](symbol) what's
+- the price for a [amzn](symbol) what's
+- a price for a [amzn](symbol) what's
+- for a [bk](symbol) what's
+- price for a [bk](symbol) what's
+- the price for a [bk](symbol) what's
+- a price for a [bk](symbol) what's
+- for a [csco](symbol) what's
+- price for a [csco](symbol) what's
+- the price for a [csco](symbol) what's
+- a price for a [csco](symbol) what's
+- for a [dow](symbol) what's
+- price for a [dow](symbol) what's
+- the price for a [dow](symbol) what's
+- a price for a [dow](symbol) what's
+- for a [ebay](symbol) what's
+- price for a [ebay](symbol) what's
+- the price for a [ebay](symbol) what's
+- a price for a [ebay](symbol) what's
+- for a [fox](symbol) what's
+- price for a [fox](symbol) what's
+- the price for a [fox](symbol) what's
+- a price for a [fox](symbol) what's
+- for a [googl](symbol) what's
+- price for a [googl](symbol) what's
+- the price for a [googl](symbol) what's
+- a price for a [googl](symbol) what's
+- for a [hp](symbol) what's
+- price for a [hp](symbol) what's
+- the price for a [hp](symbol) what's
+- a price for a [hp](symbol) what's
+- for a [ibm](symbol) what's
+- price for a [ibm](symbol) what's
+- the price for a [ibm](symbol) what's
+- a price for a [ibm](symbol) what's
+- for a [jpm](symbol) what's
+- price for a [jpm](symbol) what's
+- the price for a [jpm](symbol) what's
+- a price for a [jpm](symbol) what's
+- for a [kmb](symbol) what's
+- price for a [kmb](symbol) what's
+- the price for a [kmb](symbol) what's
+- a price for a [kmb](symbol) what's
+- for a [ndaq](symbol) what's
+- price for a [ndaq](symbol) what's
+- the price for a [ndaq](symbol) what's
+- a price for a [ndaq](symbol) what's
 - stock [amzn](symbol) show
 - price stock [amzn](symbol) show
 - the price stock [amzn](symbol) show
@@ -32271,6 +40047,54 @@
 - price ticker [ndaq](symbol) show
 - the price ticker [ndaq](symbol) show
 - a price ticker [ndaq](symbol) show
+- [amzn](symbol) show
+- price [amzn](symbol) show
+- the price [amzn](symbol) show
+- a price [amzn](symbol) show
+- [bk](symbol) show
+- price [bk](symbol) show
+- the price [bk](symbol) show
+- a price [bk](symbol) show
+- [csco](symbol) show
+- price [csco](symbol) show
+- the price [csco](symbol) show
+- a price [csco](symbol) show
+- [dow](symbol) show
+- price [dow](symbol) show
+- the price [dow](symbol) show
+- a price [dow](symbol) show
+- [ebay](symbol) show
+- price [ebay](symbol) show
+- the price [ebay](symbol) show
+- a price [ebay](symbol) show
+- [fox](symbol) show
+- price [fox](symbol) show
+- the price [fox](symbol) show
+- a price [fox](symbol) show
+- [googl](symbol) show
+- price [googl](symbol) show
+- the price [googl](symbol) show
+- a price [googl](symbol) show
+- [hp](symbol) show
+- price [hp](symbol) show
+- the price [hp](symbol) show
+- a price [hp](symbol) show
+- [ibm](symbol) show
+- price [ibm](symbol) show
+- the price [ibm](symbol) show
+- a price [ibm](symbol) show
+- [jpm](symbol) show
+- price [jpm](symbol) show
+- the price [jpm](symbol) show
+- a price [jpm](symbol) show
+- [kmb](symbol) show
+- price [kmb](symbol) show
+- the price [kmb](symbol) show
+- a price [kmb](symbol) show
+- [ndaq](symbol) show
+- price [ndaq](symbol) show
+- the price [ndaq](symbol) show
+- a price [ndaq](symbol) show
 - the stock [amzn](symbol) show
 - price the stock [amzn](symbol) show
 - the price the stock [amzn](symbol) show
@@ -32463,6 +40287,54 @@
 - price the ticker [ndaq](symbol) show
 - the price the ticker [ndaq](symbol) show
 - a price the ticker [ndaq](symbol) show
+- the [amzn](symbol) show
+- price the [amzn](symbol) show
+- the price the [amzn](symbol) show
+- a price the [amzn](symbol) show
+- the [bk](symbol) show
+- price the [bk](symbol) show
+- the price the [bk](symbol) show
+- a price the [bk](symbol) show
+- the [csco](symbol) show
+- price the [csco](symbol) show
+- the price the [csco](symbol) show
+- a price the [csco](symbol) show
+- the [dow](symbol) show
+- price the [dow](symbol) show
+- the price the [dow](symbol) show
+- a price the [dow](symbol) show
+- the [ebay](symbol) show
+- price the [ebay](symbol) show
+- the price the [ebay](symbol) show
+- a price the [ebay](symbol) show
+- the [fox](symbol) show
+- price the [fox](symbol) show
+- the price the [fox](symbol) show
+- a price the [fox](symbol) show
+- the [googl](symbol) show
+- price the [googl](symbol) show
+- the price the [googl](symbol) show
+- a price the [googl](symbol) show
+- the [hp](symbol) show
+- price the [hp](symbol) show
+- the price the [hp](symbol) show
+- a price the [hp](symbol) show
+- the [ibm](symbol) show
+- price the [ibm](symbol) show
+- the price the [ibm](symbol) show
+- a price the [ibm](symbol) show
+- the [jpm](symbol) show
+- price the [jpm](symbol) show
+- the price the [jpm](symbol) show
+- a price the [jpm](symbol) show
+- the [kmb](symbol) show
+- price the [kmb](symbol) show
+- the price the [kmb](symbol) show
+- a price the [kmb](symbol) show
+- the [ndaq](symbol) show
+- price the [ndaq](symbol) show
+- the price the [ndaq](symbol) show
+- a price the [ndaq](symbol) show
 - a stock [amzn](symbol) show
 - price a stock [amzn](symbol) show
 - the price a stock [amzn](symbol) show
@@ -32655,6 +40527,54 @@
 - price a ticker [ndaq](symbol) show
 - the price a ticker [ndaq](symbol) show
 - a price a ticker [ndaq](symbol) show
+- a [amzn](symbol) show
+- price a [amzn](symbol) show
+- the price a [amzn](symbol) show
+- a price a [amzn](symbol) show
+- a [bk](symbol) show
+- price a [bk](symbol) show
+- the price a [bk](symbol) show
+- a price a [bk](symbol) show
+- a [csco](symbol) show
+- price a [csco](symbol) show
+- the price a [csco](symbol) show
+- a price a [csco](symbol) show
+- a [dow](symbol) show
+- price a [dow](symbol) show
+- the price a [dow](symbol) show
+- a price a [dow](symbol) show
+- a [ebay](symbol) show
+- price a [ebay](symbol) show
+- the price a [ebay](symbol) show
+- a price a [ebay](symbol) show
+- a [fox](symbol) show
+- price a [fox](symbol) show
+- the price a [fox](symbol) show
+- a price a [fox](symbol) show
+- a [googl](symbol) show
+- price a [googl](symbol) show
+- the price a [googl](symbol) show
+- a price a [googl](symbol) show
+- a [hp](symbol) show
+- price a [hp](symbol) show
+- the price a [hp](symbol) show
+- a price a [hp](symbol) show
+- a [ibm](symbol) show
+- price a [ibm](symbol) show
+- the price a [ibm](symbol) show
+- a price a [ibm](symbol) show
+- a [jpm](symbol) show
+- price a [jpm](symbol) show
+- the price a [jpm](symbol) show
+- a price a [jpm](symbol) show
+- a [kmb](symbol) show
+- price a [kmb](symbol) show
+- the price a [kmb](symbol) show
+- a price a [kmb](symbol) show
+- a [ndaq](symbol) show
+- price a [ndaq](symbol) show
+- the price a [ndaq](symbol) show
+- a price a [ndaq](symbol) show
 - for stock [amzn](symbol) show
 - price for stock [amzn](symbol) show
 - the price for stock [amzn](symbol) show
@@ -32847,6 +40767,54 @@
 - price for ticker [ndaq](symbol) show
 - the price for ticker [ndaq](symbol) show
 - a price for ticker [ndaq](symbol) show
+- for  [amzn](symbol) show
+- price for  [amzn](symbol) show
+- the price for  [amzn](symbol) show
+- a price for  [amzn](symbol) show
+- for  [bk](symbol) show
+- price for  [bk](symbol) show
+- the price for  [bk](symbol) show
+- a price for  [bk](symbol) show
+- for  [csco](symbol) show
+- price for  [csco](symbol) show
+- the price for  [csco](symbol) show
+- a price for  [csco](symbol) show
+- for  [dow](symbol) show
+- price for  [dow](symbol) show
+- the price for  [dow](symbol) show
+- a price for  [dow](symbol) show
+- for  [ebay](symbol) show
+- price for  [ebay](symbol) show
+- the price for  [ebay](symbol) show
+- a price for  [ebay](symbol) show
+- for  [fox](symbol) show
+- price for  [fox](symbol) show
+- the price for  [fox](symbol) show
+- a price for  [fox](symbol) show
+- for  [googl](symbol) show
+- price for  [googl](symbol) show
+- the price for  [googl](symbol) show
+- a price for  [googl](symbol) show
+- for  [hp](symbol) show
+- price for  [hp](symbol) show
+- the price for  [hp](symbol) show
+- a price for  [hp](symbol) show
+- for  [ibm](symbol) show
+- price for  [ibm](symbol) show
+- the price for  [ibm](symbol) show
+- a price for  [ibm](symbol) show
+- for  [jpm](symbol) show
+- price for  [jpm](symbol) show
+- the price for  [jpm](symbol) show
+- a price for  [jpm](symbol) show
+- for  [kmb](symbol) show
+- price for  [kmb](symbol) show
+- the price for  [kmb](symbol) show
+- a price for  [kmb](symbol) show
+- for  [ndaq](symbol) show
+- price for  [ndaq](symbol) show
+- the price for  [ndaq](symbol) show
+- a price for  [ndaq](symbol) show
 - for the stock [amzn](symbol) show
 - price for the stock [amzn](symbol) show
 - the price for the stock [amzn](symbol) show
@@ -33039,6 +41007,54 @@
 - price for the ticker [ndaq](symbol) show
 - the price for the ticker [ndaq](symbol) show
 - a price for the ticker [ndaq](symbol) show
+- for the [amzn](symbol) show
+- price for the [amzn](symbol) show
+- the price for the [amzn](symbol) show
+- a price for the [amzn](symbol) show
+- for the [bk](symbol) show
+- price for the [bk](symbol) show
+- the price for the [bk](symbol) show
+- a price for the [bk](symbol) show
+- for the [csco](symbol) show
+- price for the [csco](symbol) show
+- the price for the [csco](symbol) show
+- a price for the [csco](symbol) show
+- for the [dow](symbol) show
+- price for the [dow](symbol) show
+- the price for the [dow](symbol) show
+- a price for the [dow](symbol) show
+- for the [ebay](symbol) show
+- price for the [ebay](symbol) show
+- the price for the [ebay](symbol) show
+- a price for the [ebay](symbol) show
+- for the [fox](symbol) show
+- price for the [fox](symbol) show
+- the price for the [fox](symbol) show
+- a price for the [fox](symbol) show
+- for the [googl](symbol) show
+- price for the [googl](symbol) show
+- the price for the [googl](symbol) show
+- a price for the [googl](symbol) show
+- for the [hp](symbol) show
+- price for the [hp](symbol) show
+- the price for the [hp](symbol) show
+- a price for the [hp](symbol) show
+- for the [ibm](symbol) show
+- price for the [ibm](symbol) show
+- the price for the [ibm](symbol) show
+- a price for the [ibm](symbol) show
+- for the [jpm](symbol) show
+- price for the [jpm](symbol) show
+- the price for the [jpm](symbol) show
+- a price for the [jpm](symbol) show
+- for the [kmb](symbol) show
+- price for the [kmb](symbol) show
+- the price for the [kmb](symbol) show
+- a price for the [kmb](symbol) show
+- for the [ndaq](symbol) show
+- price for the [ndaq](symbol) show
+- the price for the [ndaq](symbol) show
+- a price for the [ndaq](symbol) show
 - for a stock [amzn](symbol) show
 - price for a stock [amzn](symbol) show
 - the price for a stock [amzn](symbol) show
@@ -33231,6 +41247,54 @@
 - price for a ticker [ndaq](symbol) show
 - the price for a ticker [ndaq](symbol) show
 - a price for a ticker [ndaq](symbol) show
+- for a [amzn](symbol) show
+- price for a [amzn](symbol) show
+- the price for a [amzn](symbol) show
+- a price for a [amzn](symbol) show
+- for a [bk](symbol) show
+- price for a [bk](symbol) show
+- the price for a [bk](symbol) show
+- a price for a [bk](symbol) show
+- for a [csco](symbol) show
+- price for a [csco](symbol) show
+- the price for a [csco](symbol) show
+- a price for a [csco](symbol) show
+- for a [dow](symbol) show
+- price for a [dow](symbol) show
+- the price for a [dow](symbol) show
+- a price for a [dow](symbol) show
+- for a [ebay](symbol) show
+- price for a [ebay](symbol) show
+- the price for a [ebay](symbol) show
+- a price for a [ebay](symbol) show
+- for a [fox](symbol) show
+- price for a [fox](symbol) show
+- the price for a [fox](symbol) show
+- a price for a [fox](symbol) show
+- for a [googl](symbol) show
+- price for a [googl](symbol) show
+- the price for a [googl](symbol) show
+- a price for a [googl](symbol) show
+- for a [hp](symbol) show
+- price for a [hp](symbol) show
+- the price for a [hp](symbol) show
+- a price for a [hp](symbol) show
+- for a [ibm](symbol) show
+- price for a [ibm](symbol) show
+- the price for a [ibm](symbol) show
+- a price for a [ibm](symbol) show
+- for a [jpm](symbol) show
+- price for a [jpm](symbol) show
+- the price for a [jpm](symbol) show
+- a price for a [jpm](symbol) show
+- for a [kmb](symbol) show
+- price for a [kmb](symbol) show
+- the price for a [kmb](symbol) show
+- a price for a [kmb](symbol) show
+- for a [ndaq](symbol) show
+- price for a [ndaq](symbol) show
+- the price for a [ndaq](symbol) show
+- a price for a [ndaq](symbol) show
 - stock [amzn](symbol) tell me
 - stock [bk](symbol) tell me
 - stock [csco](symbol) tell me
@@ -33279,6 +41343,18 @@
 - ticker [jpm](symbol) tell me
 - ticker [kmb](symbol) tell me
 - ticker [ndaq](symbol) tell me
+- [amzn](symbol) tell me
+- [bk](symbol) tell me
+- [csco](symbol) tell me
+- [dow](symbol) tell me
+- [ebay](symbol) tell me
+- [fox](symbol) tell me
+- [googl](symbol) tell me
+- [hp](symbol) tell me
+- [ibm](symbol) tell me
+- [jpm](symbol) tell me
+- [kmb](symbol) tell me
+- [ndaq](symbol) tell me
 - the stock [amzn](symbol) tell me
 - the stock [bk](symbol) tell me
 - the stock [csco](symbol) tell me
@@ -33327,6 +41403,18 @@
 - the ticker [jpm](symbol) tell me
 - the ticker [kmb](symbol) tell me
 - the ticker [ndaq](symbol) tell me
+- the [amzn](symbol) tell me
+- the [bk](symbol) tell me
+- the [csco](symbol) tell me
+- the [dow](symbol) tell me
+- the [ebay](symbol) tell me
+- the [fox](symbol) tell me
+- the [googl](symbol) tell me
+- the [hp](symbol) tell me
+- the [ibm](symbol) tell me
+- the [jpm](symbol) tell me
+- the [kmb](symbol) tell me
+- the [ndaq](symbol) tell me
 - a stock [amzn](symbol) tell me
 - a stock [bk](symbol) tell me
 - a stock [csco](symbol) tell me
@@ -33375,6 +41463,18 @@
 - a ticker [jpm](symbol) tell me
 - a ticker [kmb](symbol) tell me
 - a ticker [ndaq](symbol) tell me
+- a [amzn](symbol) tell me
+- a [bk](symbol) tell me
+- a [csco](symbol) tell me
+- a [dow](symbol) tell me
+- a [ebay](symbol) tell me
+- a [fox](symbol) tell me
+- a [googl](symbol) tell me
+- a [hp](symbol) tell me
+- a [ibm](symbol) tell me
+- a [jpm](symbol) tell me
+- a [kmb](symbol) tell me
+- a [ndaq](symbol) tell me
 - for stock [amzn](symbol) tell me
 - for stock [bk](symbol) tell me
 - for stock [csco](symbol) tell me
@@ -33423,6 +41523,18 @@
 - for ticker [jpm](symbol) tell me
 - for ticker [kmb](symbol) tell me
 - for ticker [ndaq](symbol) tell me
+- for  [amzn](symbol) tell me
+- for  [bk](symbol) tell me
+- for  [csco](symbol) tell me
+- for  [dow](symbol) tell me
+- for  [ebay](symbol) tell me
+- for  [fox](symbol) tell me
+- for  [googl](symbol) tell me
+- for  [hp](symbol) tell me
+- for  [ibm](symbol) tell me
+- for  [jpm](symbol) tell me
+- for  [kmb](symbol) tell me
+- for  [ndaq](symbol) tell me
 - for the stock [amzn](symbol) tell me
 - for the stock [bk](symbol) tell me
 - for the stock [csco](symbol) tell me
@@ -33471,6 +41583,18 @@
 - for the ticker [jpm](symbol) tell me
 - for the ticker [kmb](symbol) tell me
 - for the ticker [ndaq](symbol) tell me
+- for the [amzn](symbol) tell me
+- for the [bk](symbol) tell me
+- for the [csco](symbol) tell me
+- for the [dow](symbol) tell me
+- for the [ebay](symbol) tell me
+- for the [fox](symbol) tell me
+- for the [googl](symbol) tell me
+- for the [hp](symbol) tell me
+- for the [ibm](symbol) tell me
+- for the [jpm](symbol) tell me
+- for the [kmb](symbol) tell me
+- for the [ndaq](symbol) tell me
 - for a stock [amzn](symbol) tell me
 - for a stock [bk](symbol) tell me
 - for a stock [csco](symbol) tell me
@@ -33519,6 +41643,18 @@
 - for a ticker [jpm](symbol) tell me
 - for a ticker [kmb](symbol) tell me
 - for a ticker [ndaq](symbol) tell me
+- for a [amzn](symbol) tell me
+- for a [bk](symbol) tell me
+- for a [csco](symbol) tell me
+- for a [dow](symbol) tell me
+- for a [ebay](symbol) tell me
+- for a [fox](symbol) tell me
+- for a [googl](symbol) tell me
+- for a [hp](symbol) tell me
+- for a [ibm](symbol) tell me
+- for a [jpm](symbol) tell me
+- for a [kmb](symbol) tell me
+- for a [ndaq](symbol) tell me
 - stock [amzn](symbol) tell me about
 - stock [bk](symbol) tell me about
 - stock [csco](symbol) tell me about
@@ -33567,6 +41703,18 @@
 - ticker [jpm](symbol) tell me about
 - ticker [kmb](symbol) tell me about
 - ticker [ndaq](symbol) tell me about
+- [amzn](symbol) tell me about
+- [bk](symbol) tell me about
+- [csco](symbol) tell me about
+- [dow](symbol) tell me about
+- [ebay](symbol) tell me about
+- [fox](symbol) tell me about
+- [googl](symbol) tell me about
+- [hp](symbol) tell me about
+- [ibm](symbol) tell me about
+- [jpm](symbol) tell me about
+- [kmb](symbol) tell me about
+- [ndaq](symbol) tell me about
 - the stock [amzn](symbol) tell me about
 - the stock [bk](symbol) tell me about
 - the stock [csco](symbol) tell me about
@@ -33615,6 +41763,18 @@
 - the ticker [jpm](symbol) tell me about
 - the ticker [kmb](symbol) tell me about
 - the ticker [ndaq](symbol) tell me about
+- the [amzn](symbol) tell me about
+- the [bk](symbol) tell me about
+- the [csco](symbol) tell me about
+- the [dow](symbol) tell me about
+- the [ebay](symbol) tell me about
+- the [fox](symbol) tell me about
+- the [googl](symbol) tell me about
+- the [hp](symbol) tell me about
+- the [ibm](symbol) tell me about
+- the [jpm](symbol) tell me about
+- the [kmb](symbol) tell me about
+- the [ndaq](symbol) tell me about
 - a stock [amzn](symbol) tell me about
 - a stock [bk](symbol) tell me about
 - a stock [csco](symbol) tell me about
@@ -33663,6 +41823,18 @@
 - a ticker [jpm](symbol) tell me about
 - a ticker [kmb](symbol) tell me about
 - a ticker [ndaq](symbol) tell me about
+- a [amzn](symbol) tell me about
+- a [bk](symbol) tell me about
+- a [csco](symbol) tell me about
+- a [dow](symbol) tell me about
+- a [ebay](symbol) tell me about
+- a [fox](symbol) tell me about
+- a [googl](symbol) tell me about
+- a [hp](symbol) tell me about
+- a [ibm](symbol) tell me about
+- a [jpm](symbol) tell me about
+- a [kmb](symbol) tell me about
+- a [ndaq](symbol) tell me about
 - for stock [amzn](symbol) tell me about
 - for stock [bk](symbol) tell me about
 - for stock [csco](symbol) tell me about
@@ -33711,6 +41883,18 @@
 - for ticker [jpm](symbol) tell me about
 - for ticker [kmb](symbol) tell me about
 - for ticker [ndaq](symbol) tell me about
+- for  [amzn](symbol) tell me about
+- for  [bk](symbol) tell me about
+- for  [csco](symbol) tell me about
+- for  [dow](symbol) tell me about
+- for  [ebay](symbol) tell me about
+- for  [fox](symbol) tell me about
+- for  [googl](symbol) tell me about
+- for  [hp](symbol) tell me about
+- for  [ibm](symbol) tell me about
+- for  [jpm](symbol) tell me about
+- for  [kmb](symbol) tell me about
+- for  [ndaq](symbol) tell me about
 - for the stock [amzn](symbol) tell me about
 - for the stock [bk](symbol) tell me about
 - for the stock [csco](symbol) tell me about
@@ -33759,6 +41943,18 @@
 - for the ticker [jpm](symbol) tell me about
 - for the ticker [kmb](symbol) tell me about
 - for the ticker [ndaq](symbol) tell me about
+- for the [amzn](symbol) tell me about
+- for the [bk](symbol) tell me about
+- for the [csco](symbol) tell me about
+- for the [dow](symbol) tell me about
+- for the [ebay](symbol) tell me about
+- for the [fox](symbol) tell me about
+- for the [googl](symbol) tell me about
+- for the [hp](symbol) tell me about
+- for the [ibm](symbol) tell me about
+- for the [jpm](symbol) tell me about
+- for the [kmb](symbol) tell me about
+- for the [ndaq](symbol) tell me about
 - for a stock [amzn](symbol) tell me about
 - for a stock [bk](symbol) tell me about
 - for a stock [csco](symbol) tell me about
@@ -33807,6 +42003,18 @@
 - for a ticker [jpm](symbol) tell me about
 - for a ticker [kmb](symbol) tell me about
 - for a ticker [ndaq](symbol) tell me about
+- for a [amzn](symbol) tell me about
+- for a [bk](symbol) tell me about
+- for a [csco](symbol) tell me about
+- for a [dow](symbol) tell me about
+- for a [ebay](symbol) tell me about
+- for a [fox](symbol) tell me about
+- for a [googl](symbol) tell me about
+- for a [hp](symbol) tell me about
+- for a [ibm](symbol) tell me about
+- for a [jpm](symbol) tell me about
+- for a [kmb](symbol) tell me about
+- for a [ndaq](symbol) tell me about
 - stock [amzn](symbol) show me
 - stock [bk](symbol) show me
 - stock [csco](symbol) show me
@@ -33855,6 +42063,18 @@
 - ticker [jpm](symbol) show me
 - ticker [kmb](symbol) show me
 - ticker [ndaq](symbol) show me
+- [amzn](symbol) show me
+- [bk](symbol) show me
+- [csco](symbol) show me
+- [dow](symbol) show me
+- [ebay](symbol) show me
+- [fox](symbol) show me
+- [googl](symbol) show me
+- [hp](symbol) show me
+- [ibm](symbol) show me
+- [jpm](symbol) show me
+- [kmb](symbol) show me
+- [ndaq](symbol) show me
 - the stock [amzn](symbol) show me
 - the stock [bk](symbol) show me
 - the stock [csco](symbol) show me
@@ -33903,6 +42123,18 @@
 - the ticker [jpm](symbol) show me
 - the ticker [kmb](symbol) show me
 - the ticker [ndaq](symbol) show me
+- the [amzn](symbol) show me
+- the [bk](symbol) show me
+- the [csco](symbol) show me
+- the [dow](symbol) show me
+- the [ebay](symbol) show me
+- the [fox](symbol) show me
+- the [googl](symbol) show me
+- the [hp](symbol) show me
+- the [ibm](symbol) show me
+- the [jpm](symbol) show me
+- the [kmb](symbol) show me
+- the [ndaq](symbol) show me
 - a stock [amzn](symbol) show me
 - a stock [bk](symbol) show me
 - a stock [csco](symbol) show me
@@ -33951,6 +42183,18 @@
 - a ticker [jpm](symbol) show me
 - a ticker [kmb](symbol) show me
 - a ticker [ndaq](symbol) show me
+- a [amzn](symbol) show me
+- a [bk](symbol) show me
+- a [csco](symbol) show me
+- a [dow](symbol) show me
+- a [ebay](symbol) show me
+- a [fox](symbol) show me
+- a [googl](symbol) show me
+- a [hp](symbol) show me
+- a [ibm](symbol) show me
+- a [jpm](symbol) show me
+- a [kmb](symbol) show me
+- a [ndaq](symbol) show me
 - for stock [amzn](symbol) show me
 - for stock [bk](symbol) show me
 - for stock [csco](symbol) show me
@@ -33999,6 +42243,18 @@
 - for ticker [jpm](symbol) show me
 - for ticker [kmb](symbol) show me
 - for ticker [ndaq](symbol) show me
+- for  [amzn](symbol) show me
+- for  [bk](symbol) show me
+- for  [csco](symbol) show me
+- for  [dow](symbol) show me
+- for  [ebay](symbol) show me
+- for  [fox](symbol) show me
+- for  [googl](symbol) show me
+- for  [hp](symbol) show me
+- for  [ibm](symbol) show me
+- for  [jpm](symbol) show me
+- for  [kmb](symbol) show me
+- for  [ndaq](symbol) show me
 - for the stock [amzn](symbol) show me
 - for the stock [bk](symbol) show me
 - for the stock [csco](symbol) show me
@@ -34047,6 +42303,18 @@
 - for the ticker [jpm](symbol) show me
 - for the ticker [kmb](symbol) show me
 - for the ticker [ndaq](symbol) show me
+- for the [amzn](symbol) show me
+- for the [bk](symbol) show me
+- for the [csco](symbol) show me
+- for the [dow](symbol) show me
+- for the [ebay](symbol) show me
+- for the [fox](symbol) show me
+- for the [googl](symbol) show me
+- for the [hp](symbol) show me
+- for the [ibm](symbol) show me
+- for the [jpm](symbol) show me
+- for the [kmb](symbol) show me
+- for the [ndaq](symbol) show me
 - for a stock [amzn](symbol) show me
 - for a stock [bk](symbol) show me
 - for a stock [csco](symbol) show me
@@ -34095,6 +42363,18 @@
 - for a ticker [jpm](symbol) show me
 - for a ticker [kmb](symbol) show me
 - for a ticker [ndaq](symbol) show me
+- for a [amzn](symbol) show me
+- for a [bk](symbol) show me
+- for a [csco](symbol) show me
+- for a [dow](symbol) show me
+- for a [ebay](symbol) show me
+- for a [fox](symbol) show me
+- for a [googl](symbol) show me
+- for a [hp](symbol) show me
+- for a [ibm](symbol) show me
+- for a [jpm](symbol) show me
+- for a [kmb](symbol) show me
+- for a [ndaq](symbol) show me
 - stock [amzn](symbol) can i see
 - stock [bk](symbol) can i see
 - stock [csco](symbol) can i see
@@ -34143,6 +42423,18 @@
 - ticker [jpm](symbol) can i see
 - ticker [kmb](symbol) can i see
 - ticker [ndaq](symbol) can i see
+- [amzn](symbol) can i see
+- [bk](symbol) can i see
+- [csco](symbol) can i see
+- [dow](symbol) can i see
+- [ebay](symbol) can i see
+- [fox](symbol) can i see
+- [googl](symbol) can i see
+- [hp](symbol) can i see
+- [ibm](symbol) can i see
+- [jpm](symbol) can i see
+- [kmb](symbol) can i see
+- [ndaq](symbol) can i see
 - the stock [amzn](symbol) can i see
 - the stock [bk](symbol) can i see
 - the stock [csco](symbol) can i see
@@ -34191,6 +42483,18 @@
 - the ticker [jpm](symbol) can i see
 - the ticker [kmb](symbol) can i see
 - the ticker [ndaq](symbol) can i see
+- the [amzn](symbol) can i see
+- the [bk](symbol) can i see
+- the [csco](symbol) can i see
+- the [dow](symbol) can i see
+- the [ebay](symbol) can i see
+- the [fox](symbol) can i see
+- the [googl](symbol) can i see
+- the [hp](symbol) can i see
+- the [ibm](symbol) can i see
+- the [jpm](symbol) can i see
+- the [kmb](symbol) can i see
+- the [ndaq](symbol) can i see
 - a stock [amzn](symbol) can i see
 - a stock [bk](symbol) can i see
 - a stock [csco](symbol) can i see
@@ -34239,6 +42543,18 @@
 - a ticker [jpm](symbol) can i see
 - a ticker [kmb](symbol) can i see
 - a ticker [ndaq](symbol) can i see
+- a [amzn](symbol) can i see
+- a [bk](symbol) can i see
+- a [csco](symbol) can i see
+- a [dow](symbol) can i see
+- a [ebay](symbol) can i see
+- a [fox](symbol) can i see
+- a [googl](symbol) can i see
+- a [hp](symbol) can i see
+- a [ibm](symbol) can i see
+- a [jpm](symbol) can i see
+- a [kmb](symbol) can i see
+- a [ndaq](symbol) can i see
 - for stock [amzn](symbol) can i see
 - for stock [bk](symbol) can i see
 - for stock [csco](symbol) can i see
@@ -34287,6 +42603,18 @@
 - for ticker [jpm](symbol) can i see
 - for ticker [kmb](symbol) can i see
 - for ticker [ndaq](symbol) can i see
+- for  [amzn](symbol) can i see
+- for  [bk](symbol) can i see
+- for  [csco](symbol) can i see
+- for  [dow](symbol) can i see
+- for  [ebay](symbol) can i see
+- for  [fox](symbol) can i see
+- for  [googl](symbol) can i see
+- for  [hp](symbol) can i see
+- for  [ibm](symbol) can i see
+- for  [jpm](symbol) can i see
+- for  [kmb](symbol) can i see
+- for  [ndaq](symbol) can i see
 - for the stock [amzn](symbol) can i see
 - for the stock [bk](symbol) can i see
 - for the stock [csco](symbol) can i see
@@ -34335,6 +42663,18 @@
 - for the ticker [jpm](symbol) can i see
 - for the ticker [kmb](symbol) can i see
 - for the ticker [ndaq](symbol) can i see
+- for the [amzn](symbol) can i see
+- for the [bk](symbol) can i see
+- for the [csco](symbol) can i see
+- for the [dow](symbol) can i see
+- for the [ebay](symbol) can i see
+- for the [fox](symbol) can i see
+- for the [googl](symbol) can i see
+- for the [hp](symbol) can i see
+- for the [ibm](symbol) can i see
+- for the [jpm](symbol) can i see
+- for the [kmb](symbol) can i see
+- for the [ndaq](symbol) can i see
 - for a stock [amzn](symbol) can i see
 - for a stock [bk](symbol) can i see
 - for a stock [csco](symbol) can i see
@@ -34383,6 +42723,18 @@
 - for a ticker [jpm](symbol) can i see
 - for a ticker [kmb](symbol) can i see
 - for a ticker [ndaq](symbol) can i see
+- for a [amzn](symbol) can i see
+- for a [bk](symbol) can i see
+- for a [csco](symbol) can i see
+- for a [dow](symbol) can i see
+- for a [ebay](symbol) can i see
+- for a [fox](symbol) can i see
+- for a [googl](symbol) can i see
+- for a [hp](symbol) can i see
+- for a [ibm](symbol) can i see
+- for a [jpm](symbol) can i see
+- for a [kmb](symbol) can i see
+- for a [ndaq](symbol) can i see
 - stock [amzn](symbol) what is
 - stock [bk](symbol) what is
 - stock [csco](symbol) what is
@@ -34431,6 +42783,18 @@
 - ticker [jpm](symbol) what is
 - ticker [kmb](symbol) what is
 - ticker [ndaq](symbol) what is
+- [amzn](symbol) what is
+- [bk](symbol) what is
+- [csco](symbol) what is
+- [dow](symbol) what is
+- [ebay](symbol) what is
+- [fox](symbol) what is
+- [googl](symbol) what is
+- [hp](symbol) what is
+- [ibm](symbol) what is
+- [jpm](symbol) what is
+- [kmb](symbol) what is
+- [ndaq](symbol) what is
 - the stock [amzn](symbol) what is
 - the stock [bk](symbol) what is
 - the stock [csco](symbol) what is
@@ -34479,6 +42843,18 @@
 - the ticker [jpm](symbol) what is
 - the ticker [kmb](symbol) what is
 - the ticker [ndaq](symbol) what is
+- the [amzn](symbol) what is
+- the [bk](symbol) what is
+- the [csco](symbol) what is
+- the [dow](symbol) what is
+- the [ebay](symbol) what is
+- the [fox](symbol) what is
+- the [googl](symbol) what is
+- the [hp](symbol) what is
+- the [ibm](symbol) what is
+- the [jpm](symbol) what is
+- the [kmb](symbol) what is
+- the [ndaq](symbol) what is
 - a stock [amzn](symbol) what is
 - a stock [bk](symbol) what is
 - a stock [csco](symbol) what is
@@ -34527,6 +42903,18 @@
 - a ticker [jpm](symbol) what is
 - a ticker [kmb](symbol) what is
 - a ticker [ndaq](symbol) what is
+- a [amzn](symbol) what is
+- a [bk](symbol) what is
+- a [csco](symbol) what is
+- a [dow](symbol) what is
+- a [ebay](symbol) what is
+- a [fox](symbol) what is
+- a [googl](symbol) what is
+- a [hp](symbol) what is
+- a [ibm](symbol) what is
+- a [jpm](symbol) what is
+- a [kmb](symbol) what is
+- a [ndaq](symbol) what is
 - for stock [amzn](symbol) what is
 - for stock [bk](symbol) what is
 - for stock [csco](symbol) what is
@@ -34575,6 +42963,18 @@
 - for ticker [jpm](symbol) what is
 - for ticker [kmb](symbol) what is
 - for ticker [ndaq](symbol) what is
+- for  [amzn](symbol) what is
+- for  [bk](symbol) what is
+- for  [csco](symbol) what is
+- for  [dow](symbol) what is
+- for  [ebay](symbol) what is
+- for  [fox](symbol) what is
+- for  [googl](symbol) what is
+- for  [hp](symbol) what is
+- for  [ibm](symbol) what is
+- for  [jpm](symbol) what is
+- for  [kmb](symbol) what is
+- for  [ndaq](symbol) what is
 - for the stock [amzn](symbol) what is
 - for the stock [bk](symbol) what is
 - for the stock [csco](symbol) what is
@@ -34623,6 +43023,18 @@
 - for the ticker [jpm](symbol) what is
 - for the ticker [kmb](symbol) what is
 - for the ticker [ndaq](symbol) what is
+- for the [amzn](symbol) what is
+- for the [bk](symbol) what is
+- for the [csco](symbol) what is
+- for the [dow](symbol) what is
+- for the [ebay](symbol) what is
+- for the [fox](symbol) what is
+- for the [googl](symbol) what is
+- for the [hp](symbol) what is
+- for the [ibm](symbol) what is
+- for the [jpm](symbol) what is
+- for the [kmb](symbol) what is
+- for the [ndaq](symbol) what is
 - for a stock [amzn](symbol) what is
 - for a stock [bk](symbol) what is
 - for a stock [csco](symbol) what is
@@ -34671,6 +43083,18 @@
 - for a ticker [jpm](symbol) what is
 - for a ticker [kmb](symbol) what is
 - for a ticker [ndaq](symbol) what is
+- for a [amzn](symbol) what is
+- for a [bk](symbol) what is
+- for a [csco](symbol) what is
+- for a [dow](symbol) what is
+- for a [ebay](symbol) what is
+- for a [fox](symbol) what is
+- for a [googl](symbol) what is
+- for a [hp](symbol) what is
+- for a [ibm](symbol) what is
+- for a [jpm](symbol) what is
+- for a [kmb](symbol) what is
+- for a [ndaq](symbol) what is
 - stock [amzn](symbol) what's
 - stock [bk](symbol) what's
 - stock [csco](symbol) what's
@@ -34719,6 +43143,18 @@
 - ticker [jpm](symbol) what's
 - ticker [kmb](symbol) what's
 - ticker [ndaq](symbol) what's
+- [amzn](symbol) what's
+- [bk](symbol) what's
+- [csco](symbol) what's
+- [dow](symbol) what's
+- [ebay](symbol) what's
+- [fox](symbol) what's
+- [googl](symbol) what's
+- [hp](symbol) what's
+- [ibm](symbol) what's
+- [jpm](symbol) what's
+- [kmb](symbol) what's
+- [ndaq](symbol) what's
 - the stock [amzn](symbol) what's
 - the stock [bk](symbol) what's
 - the stock [csco](symbol) what's
@@ -34767,6 +43203,18 @@
 - the ticker [jpm](symbol) what's
 - the ticker [kmb](symbol) what's
 - the ticker [ndaq](symbol) what's
+- the [amzn](symbol) what's
+- the [bk](symbol) what's
+- the [csco](symbol) what's
+- the [dow](symbol) what's
+- the [ebay](symbol) what's
+- the [fox](symbol) what's
+- the [googl](symbol) what's
+- the [hp](symbol) what's
+- the [ibm](symbol) what's
+- the [jpm](symbol) what's
+- the [kmb](symbol) what's
+- the [ndaq](symbol) what's
 - a stock [amzn](symbol) what's
 - a stock [bk](symbol) what's
 - a stock [csco](symbol) what's
@@ -34815,6 +43263,18 @@
 - a ticker [jpm](symbol) what's
 - a ticker [kmb](symbol) what's
 - a ticker [ndaq](symbol) what's
+- a [amzn](symbol) what's
+- a [bk](symbol) what's
+- a [csco](symbol) what's
+- a [dow](symbol) what's
+- a [ebay](symbol) what's
+- a [fox](symbol) what's
+- a [googl](symbol) what's
+- a [hp](symbol) what's
+- a [ibm](symbol) what's
+- a [jpm](symbol) what's
+- a [kmb](symbol) what's
+- a [ndaq](symbol) what's
 - for stock [amzn](symbol) what's
 - for stock [bk](symbol) what's
 - for stock [csco](symbol) what's
@@ -34863,6 +43323,18 @@
 - for ticker [jpm](symbol) what's
 - for ticker [kmb](symbol) what's
 - for ticker [ndaq](symbol) what's
+- for  [amzn](symbol) what's
+- for  [bk](symbol) what's
+- for  [csco](symbol) what's
+- for  [dow](symbol) what's
+- for  [ebay](symbol) what's
+- for  [fox](symbol) what's
+- for  [googl](symbol) what's
+- for  [hp](symbol) what's
+- for  [ibm](symbol) what's
+- for  [jpm](symbol) what's
+- for  [kmb](symbol) what's
+- for  [ndaq](symbol) what's
 - for the stock [amzn](symbol) what's
 - for the stock [bk](symbol) what's
 - for the stock [csco](symbol) what's
@@ -34911,6 +43383,18 @@
 - for the ticker [jpm](symbol) what's
 - for the ticker [kmb](symbol) what's
 - for the ticker [ndaq](symbol) what's
+- for the [amzn](symbol) what's
+- for the [bk](symbol) what's
+- for the [csco](symbol) what's
+- for the [dow](symbol) what's
+- for the [ebay](symbol) what's
+- for the [fox](symbol) what's
+- for the [googl](symbol) what's
+- for the [hp](symbol) what's
+- for the [ibm](symbol) what's
+- for the [jpm](symbol) what's
+- for the [kmb](symbol) what's
+- for the [ndaq](symbol) what's
 - for a stock [amzn](symbol) what's
 - for a stock [bk](symbol) what's
 - for a stock [csco](symbol) what's
@@ -34959,6 +43443,18 @@
 - for a ticker [jpm](symbol) what's
 - for a ticker [kmb](symbol) what's
 - for a ticker [ndaq](symbol) what's
+- for a [amzn](symbol) what's
+- for a [bk](symbol) what's
+- for a [csco](symbol) what's
+- for a [dow](symbol) what's
+- for a [ebay](symbol) what's
+- for a [fox](symbol) what's
+- for a [googl](symbol) what's
+- for a [hp](symbol) what's
+- for a [ibm](symbol) what's
+- for a [jpm](symbol) what's
+- for a [kmb](symbol) what's
+- for a [ndaq](symbol) what's
 - stock [amzn](symbol) show
 - stock [bk](symbol) show
 - stock [csco](symbol) show
@@ -35007,6 +43503,18 @@
 - ticker [jpm](symbol) show
 - ticker [kmb](symbol) show
 - ticker [ndaq](symbol) show
+- [amzn](symbol) show
+- [bk](symbol) show
+- [csco](symbol) show
+- [dow](symbol) show
+- [ebay](symbol) show
+- [fox](symbol) show
+- [googl](symbol) show
+- [hp](symbol) show
+- [ibm](symbol) show
+- [jpm](symbol) show
+- [kmb](symbol) show
+- [ndaq](symbol) show
 - the stock [amzn](symbol) show
 - the stock [bk](symbol) show
 - the stock [csco](symbol) show
@@ -35055,6 +43563,18 @@
 - the ticker [jpm](symbol) show
 - the ticker [kmb](symbol) show
 - the ticker [ndaq](symbol) show
+- the [amzn](symbol) show
+- the [bk](symbol) show
+- the [csco](symbol) show
+- the [dow](symbol) show
+- the [ebay](symbol) show
+- the [fox](symbol) show
+- the [googl](symbol) show
+- the [hp](symbol) show
+- the [ibm](symbol) show
+- the [jpm](symbol) show
+- the [kmb](symbol) show
+- the [ndaq](symbol) show
 - a stock [amzn](symbol) show
 - a stock [bk](symbol) show
 - a stock [csco](symbol) show
@@ -35103,6 +43623,18 @@
 - a ticker [jpm](symbol) show
 - a ticker [kmb](symbol) show
 - a ticker [ndaq](symbol) show
+- a [amzn](symbol) show
+- a [bk](symbol) show
+- a [csco](symbol) show
+- a [dow](symbol) show
+- a [ebay](symbol) show
+- a [fox](symbol) show
+- a [googl](symbol) show
+- a [hp](symbol) show
+- a [ibm](symbol) show
+- a [jpm](symbol) show
+- a [kmb](symbol) show
+- a [ndaq](symbol) show
 - for stock [amzn](symbol) show
 - for stock [bk](symbol) show
 - for stock [csco](symbol) show
@@ -35151,6 +43683,18 @@
 - for ticker [jpm](symbol) show
 - for ticker [kmb](symbol) show
 - for ticker [ndaq](symbol) show
+- for  [amzn](symbol) show
+- for  [bk](symbol) show
+- for  [csco](symbol) show
+- for  [dow](symbol) show
+- for  [ebay](symbol) show
+- for  [fox](symbol) show
+- for  [googl](symbol) show
+- for  [hp](symbol) show
+- for  [ibm](symbol) show
+- for  [jpm](symbol) show
+- for  [kmb](symbol) show
+- for  [ndaq](symbol) show
 - for the stock [amzn](symbol) show
 - for the stock [bk](symbol) show
 - for the stock [csco](symbol) show
@@ -35199,6 +43743,18 @@
 - for the ticker [jpm](symbol) show
 - for the ticker [kmb](symbol) show
 - for the ticker [ndaq](symbol) show
+- for the [amzn](symbol) show
+- for the [bk](symbol) show
+- for the [csco](symbol) show
+- for the [dow](symbol) show
+- for the [ebay](symbol) show
+- for the [fox](symbol) show
+- for the [googl](symbol) show
+- for the [hp](symbol) show
+- for the [ibm](symbol) show
+- for the [jpm](symbol) show
+- for the [kmb](symbol) show
+- for the [ndaq](symbol) show
 - for a stock [amzn](symbol) show
 - for a stock [bk](symbol) show
 - for a stock [csco](symbol) show
@@ -35247,6 +43803,18 @@
 - for a ticker [jpm](symbol) show
 - for a ticker [kmb](symbol) show
 - for a ticker [ndaq](symbol) show
+- for a [amzn](symbol) show
+- for a [bk](symbol) show
+- for a [csco](symbol) show
+- for a [dow](symbol) show
+- for a [ebay](symbol) show
+- for a [fox](symbol) show
+- for a [googl](symbol) show
+- for a [hp](symbol) show
+- for a [ibm](symbol) show
+- for a [jpm](symbol) show
+- for a [kmb](symbol) show
+- for a [ndaq](symbol) show
 - stock [amzn](symbol) tell me price
 - stock [bk](symbol) tell me price
 - stock [csco](symbol) tell me price
@@ -35295,6 +43863,18 @@
 - ticker [jpm](symbol) tell me price
 - ticker [kmb](symbol) tell me price
 - ticker [ndaq](symbol) tell me price
+- [amzn](symbol) tell me price
+- [bk](symbol) tell me price
+- [csco](symbol) tell me price
+- [dow](symbol) tell me price
+- [ebay](symbol) tell me price
+- [fox](symbol) tell me price
+- [googl](symbol) tell me price
+- [hp](symbol) tell me price
+- [ibm](symbol) tell me price
+- [jpm](symbol) tell me price
+- [kmb](symbol) tell me price
+- [ndaq](symbol) tell me price
 - the stock [amzn](symbol) tell me price
 - the stock [bk](symbol) tell me price
 - the stock [csco](symbol) tell me price
@@ -35343,6 +43923,18 @@
 - the ticker [jpm](symbol) tell me price
 - the ticker [kmb](symbol) tell me price
 - the ticker [ndaq](symbol) tell me price
+- the [amzn](symbol) tell me price
+- the [bk](symbol) tell me price
+- the [csco](symbol) tell me price
+- the [dow](symbol) tell me price
+- the [ebay](symbol) tell me price
+- the [fox](symbol) tell me price
+- the [googl](symbol) tell me price
+- the [hp](symbol) tell me price
+- the [ibm](symbol) tell me price
+- the [jpm](symbol) tell me price
+- the [kmb](symbol) tell me price
+- the [ndaq](symbol) tell me price
 - a stock [amzn](symbol) tell me price
 - a stock [bk](symbol) tell me price
 - a stock [csco](symbol) tell me price
@@ -35391,6 +43983,18 @@
 - a ticker [jpm](symbol) tell me price
 - a ticker [kmb](symbol) tell me price
 - a ticker [ndaq](symbol) tell me price
+- a [amzn](symbol) tell me price
+- a [bk](symbol) tell me price
+- a [csco](symbol) tell me price
+- a [dow](symbol) tell me price
+- a [ebay](symbol) tell me price
+- a [fox](symbol) tell me price
+- a [googl](symbol) tell me price
+- a [hp](symbol) tell me price
+- a [ibm](symbol) tell me price
+- a [jpm](symbol) tell me price
+- a [kmb](symbol) tell me price
+- a [ndaq](symbol) tell me price
 - for stock [amzn](symbol) tell me price
 - for stock [bk](symbol) tell me price
 - for stock [csco](symbol) tell me price
@@ -35439,6 +44043,18 @@
 - for ticker [jpm](symbol) tell me price
 - for ticker [kmb](symbol) tell me price
 - for ticker [ndaq](symbol) tell me price
+- for  [amzn](symbol) tell me price
+- for  [bk](symbol) tell me price
+- for  [csco](symbol) tell me price
+- for  [dow](symbol) tell me price
+- for  [ebay](symbol) tell me price
+- for  [fox](symbol) tell me price
+- for  [googl](symbol) tell me price
+- for  [hp](symbol) tell me price
+- for  [ibm](symbol) tell me price
+- for  [jpm](symbol) tell me price
+- for  [kmb](symbol) tell me price
+- for  [ndaq](symbol) tell me price
 - for the stock [amzn](symbol) tell me price
 - for the stock [bk](symbol) tell me price
 - for the stock [csco](symbol) tell me price
@@ -35487,6 +44103,18 @@
 - for the ticker [jpm](symbol) tell me price
 - for the ticker [kmb](symbol) tell me price
 - for the ticker [ndaq](symbol) tell me price
+- for the [amzn](symbol) tell me price
+- for the [bk](symbol) tell me price
+- for the [csco](symbol) tell me price
+- for the [dow](symbol) tell me price
+- for the [ebay](symbol) tell me price
+- for the [fox](symbol) tell me price
+- for the [googl](symbol) tell me price
+- for the [hp](symbol) tell me price
+- for the [ibm](symbol) tell me price
+- for the [jpm](symbol) tell me price
+- for the [kmb](symbol) tell me price
+- for the [ndaq](symbol) tell me price
 - for a stock [amzn](symbol) tell me price
 - for a stock [bk](symbol) tell me price
 - for a stock [csco](symbol) tell me price
@@ -35535,6 +44163,18 @@
 - for a ticker [jpm](symbol) tell me price
 - for a ticker [kmb](symbol) tell me price
 - for a ticker [ndaq](symbol) tell me price
+- for a [amzn](symbol) tell me price
+- for a [bk](symbol) tell me price
+- for a [csco](symbol) tell me price
+- for a [dow](symbol) tell me price
+- for a [ebay](symbol) tell me price
+- for a [fox](symbol) tell me price
+- for a [googl](symbol) tell me price
+- for a [hp](symbol) tell me price
+- for a [ibm](symbol) tell me price
+- for a [jpm](symbol) tell me price
+- for a [kmb](symbol) tell me price
+- for a [ndaq](symbol) tell me price
 - stock [amzn](symbol) tell me about price
 - stock [bk](symbol) tell me about price
 - stock [csco](symbol) tell me about price
@@ -35583,6 +44223,18 @@
 - ticker [jpm](symbol) tell me about price
 - ticker [kmb](symbol) tell me about price
 - ticker [ndaq](symbol) tell me about price
+- [amzn](symbol) tell me about price
+- [bk](symbol) tell me about price
+- [csco](symbol) tell me about price
+- [dow](symbol) tell me about price
+- [ebay](symbol) tell me about price
+- [fox](symbol) tell me about price
+- [googl](symbol) tell me about price
+- [hp](symbol) tell me about price
+- [ibm](symbol) tell me about price
+- [jpm](symbol) tell me about price
+- [kmb](symbol) tell me about price
+- [ndaq](symbol) tell me about price
 - the stock [amzn](symbol) tell me about price
 - the stock [bk](symbol) tell me about price
 - the stock [csco](symbol) tell me about price
@@ -35631,6 +44283,18 @@
 - the ticker [jpm](symbol) tell me about price
 - the ticker [kmb](symbol) tell me about price
 - the ticker [ndaq](symbol) tell me about price
+- the [amzn](symbol) tell me about price
+- the [bk](symbol) tell me about price
+- the [csco](symbol) tell me about price
+- the [dow](symbol) tell me about price
+- the [ebay](symbol) tell me about price
+- the [fox](symbol) tell me about price
+- the [googl](symbol) tell me about price
+- the [hp](symbol) tell me about price
+- the [ibm](symbol) tell me about price
+- the [jpm](symbol) tell me about price
+- the [kmb](symbol) tell me about price
+- the [ndaq](symbol) tell me about price
 - a stock [amzn](symbol) tell me about price
 - a stock [bk](symbol) tell me about price
 - a stock [csco](symbol) tell me about price
@@ -35679,6 +44343,18 @@
 - a ticker [jpm](symbol) tell me about price
 - a ticker [kmb](symbol) tell me about price
 - a ticker [ndaq](symbol) tell me about price
+- a [amzn](symbol) tell me about price
+- a [bk](symbol) tell me about price
+- a [csco](symbol) tell me about price
+- a [dow](symbol) tell me about price
+- a [ebay](symbol) tell me about price
+- a [fox](symbol) tell me about price
+- a [googl](symbol) tell me about price
+- a [hp](symbol) tell me about price
+- a [ibm](symbol) tell me about price
+- a [jpm](symbol) tell me about price
+- a [kmb](symbol) tell me about price
+- a [ndaq](symbol) tell me about price
 - for stock [amzn](symbol) tell me about price
 - for stock [bk](symbol) tell me about price
 - for stock [csco](symbol) tell me about price
@@ -35727,6 +44403,18 @@
 - for ticker [jpm](symbol) tell me about price
 - for ticker [kmb](symbol) tell me about price
 - for ticker [ndaq](symbol) tell me about price
+- for  [amzn](symbol) tell me about price
+- for  [bk](symbol) tell me about price
+- for  [csco](symbol) tell me about price
+- for  [dow](symbol) tell me about price
+- for  [ebay](symbol) tell me about price
+- for  [fox](symbol) tell me about price
+- for  [googl](symbol) tell me about price
+- for  [hp](symbol) tell me about price
+- for  [ibm](symbol) tell me about price
+- for  [jpm](symbol) tell me about price
+- for  [kmb](symbol) tell me about price
+- for  [ndaq](symbol) tell me about price
 - for the stock [amzn](symbol) tell me about price
 - for the stock [bk](symbol) tell me about price
 - for the stock [csco](symbol) tell me about price
@@ -35775,6 +44463,18 @@
 - for the ticker [jpm](symbol) tell me about price
 - for the ticker [kmb](symbol) tell me about price
 - for the ticker [ndaq](symbol) tell me about price
+- for the [amzn](symbol) tell me about price
+- for the [bk](symbol) tell me about price
+- for the [csco](symbol) tell me about price
+- for the [dow](symbol) tell me about price
+- for the [ebay](symbol) tell me about price
+- for the [fox](symbol) tell me about price
+- for the [googl](symbol) tell me about price
+- for the [hp](symbol) tell me about price
+- for the [ibm](symbol) tell me about price
+- for the [jpm](symbol) tell me about price
+- for the [kmb](symbol) tell me about price
+- for the [ndaq](symbol) tell me about price
 - for a stock [amzn](symbol) tell me about price
 - for a stock [bk](symbol) tell me about price
 - for a stock [csco](symbol) tell me about price
@@ -35823,6 +44523,18 @@
 - for a ticker [jpm](symbol) tell me about price
 - for a ticker [kmb](symbol) tell me about price
 - for a ticker [ndaq](symbol) tell me about price
+- for a [amzn](symbol) tell me about price
+- for a [bk](symbol) tell me about price
+- for a [csco](symbol) tell me about price
+- for a [dow](symbol) tell me about price
+- for a [ebay](symbol) tell me about price
+- for a [fox](symbol) tell me about price
+- for a [googl](symbol) tell me about price
+- for a [hp](symbol) tell me about price
+- for a [ibm](symbol) tell me about price
+- for a [jpm](symbol) tell me about price
+- for a [kmb](symbol) tell me about price
+- for a [ndaq](symbol) tell me about price
 - stock [amzn](symbol) show me price
 - stock [bk](symbol) show me price
 - stock [csco](symbol) show me price
@@ -35871,6 +44583,18 @@
 - ticker [jpm](symbol) show me price
 - ticker [kmb](symbol) show me price
 - ticker [ndaq](symbol) show me price
+- [amzn](symbol) show me price
+- [bk](symbol) show me price
+- [csco](symbol) show me price
+- [dow](symbol) show me price
+- [ebay](symbol) show me price
+- [fox](symbol) show me price
+- [googl](symbol) show me price
+- [hp](symbol) show me price
+- [ibm](symbol) show me price
+- [jpm](symbol) show me price
+- [kmb](symbol) show me price
+- [ndaq](symbol) show me price
 - the stock [amzn](symbol) show me price
 - the stock [bk](symbol) show me price
 - the stock [csco](symbol) show me price
@@ -35919,6 +44643,18 @@
 - the ticker [jpm](symbol) show me price
 - the ticker [kmb](symbol) show me price
 - the ticker [ndaq](symbol) show me price
+- the [amzn](symbol) show me price
+- the [bk](symbol) show me price
+- the [csco](symbol) show me price
+- the [dow](symbol) show me price
+- the [ebay](symbol) show me price
+- the [fox](symbol) show me price
+- the [googl](symbol) show me price
+- the [hp](symbol) show me price
+- the [ibm](symbol) show me price
+- the [jpm](symbol) show me price
+- the [kmb](symbol) show me price
+- the [ndaq](symbol) show me price
 - a stock [amzn](symbol) show me price
 - a stock [bk](symbol) show me price
 - a stock [csco](symbol) show me price
@@ -35967,6 +44703,18 @@
 - a ticker [jpm](symbol) show me price
 - a ticker [kmb](symbol) show me price
 - a ticker [ndaq](symbol) show me price
+- a [amzn](symbol) show me price
+- a [bk](symbol) show me price
+- a [csco](symbol) show me price
+- a [dow](symbol) show me price
+- a [ebay](symbol) show me price
+- a [fox](symbol) show me price
+- a [googl](symbol) show me price
+- a [hp](symbol) show me price
+- a [ibm](symbol) show me price
+- a [jpm](symbol) show me price
+- a [kmb](symbol) show me price
+- a [ndaq](symbol) show me price
 - for stock [amzn](symbol) show me price
 - for stock [bk](symbol) show me price
 - for stock [csco](symbol) show me price
@@ -36015,6 +44763,18 @@
 - for ticker [jpm](symbol) show me price
 - for ticker [kmb](symbol) show me price
 - for ticker [ndaq](symbol) show me price
+- for  [amzn](symbol) show me price
+- for  [bk](symbol) show me price
+- for  [csco](symbol) show me price
+- for  [dow](symbol) show me price
+- for  [ebay](symbol) show me price
+- for  [fox](symbol) show me price
+- for  [googl](symbol) show me price
+- for  [hp](symbol) show me price
+- for  [ibm](symbol) show me price
+- for  [jpm](symbol) show me price
+- for  [kmb](symbol) show me price
+- for  [ndaq](symbol) show me price
 - for the stock [amzn](symbol) show me price
 - for the stock [bk](symbol) show me price
 - for the stock [csco](symbol) show me price
@@ -36063,6 +44823,18 @@
 - for the ticker [jpm](symbol) show me price
 - for the ticker [kmb](symbol) show me price
 - for the ticker [ndaq](symbol) show me price
+- for the [amzn](symbol) show me price
+- for the [bk](symbol) show me price
+- for the [csco](symbol) show me price
+- for the [dow](symbol) show me price
+- for the [ebay](symbol) show me price
+- for the [fox](symbol) show me price
+- for the [googl](symbol) show me price
+- for the [hp](symbol) show me price
+- for the [ibm](symbol) show me price
+- for the [jpm](symbol) show me price
+- for the [kmb](symbol) show me price
+- for the [ndaq](symbol) show me price
 - for a stock [amzn](symbol) show me price
 - for a stock [bk](symbol) show me price
 - for a stock [csco](symbol) show me price
@@ -36111,6 +44883,18 @@
 - for a ticker [jpm](symbol) show me price
 - for a ticker [kmb](symbol) show me price
 - for a ticker [ndaq](symbol) show me price
+- for a [amzn](symbol) show me price
+- for a [bk](symbol) show me price
+- for a [csco](symbol) show me price
+- for a [dow](symbol) show me price
+- for a [ebay](symbol) show me price
+- for a [fox](symbol) show me price
+- for a [googl](symbol) show me price
+- for a [hp](symbol) show me price
+- for a [ibm](symbol) show me price
+- for a [jpm](symbol) show me price
+- for a [kmb](symbol) show me price
+- for a [ndaq](symbol) show me price
 - stock [amzn](symbol) can i see price
 - stock [bk](symbol) can i see price
 - stock [csco](symbol) can i see price
@@ -36159,6 +44943,18 @@
 - ticker [jpm](symbol) can i see price
 - ticker [kmb](symbol) can i see price
 - ticker [ndaq](symbol) can i see price
+- [amzn](symbol) can i see price
+- [bk](symbol) can i see price
+- [csco](symbol) can i see price
+- [dow](symbol) can i see price
+- [ebay](symbol) can i see price
+- [fox](symbol) can i see price
+- [googl](symbol) can i see price
+- [hp](symbol) can i see price
+- [ibm](symbol) can i see price
+- [jpm](symbol) can i see price
+- [kmb](symbol) can i see price
+- [ndaq](symbol) can i see price
 - the stock [amzn](symbol) can i see price
 - the stock [bk](symbol) can i see price
 - the stock [csco](symbol) can i see price
@@ -36207,6 +45003,18 @@
 - the ticker [jpm](symbol) can i see price
 - the ticker [kmb](symbol) can i see price
 - the ticker [ndaq](symbol) can i see price
+- the [amzn](symbol) can i see price
+- the [bk](symbol) can i see price
+- the [csco](symbol) can i see price
+- the [dow](symbol) can i see price
+- the [ebay](symbol) can i see price
+- the [fox](symbol) can i see price
+- the [googl](symbol) can i see price
+- the [hp](symbol) can i see price
+- the [ibm](symbol) can i see price
+- the [jpm](symbol) can i see price
+- the [kmb](symbol) can i see price
+- the [ndaq](symbol) can i see price
 - a stock [amzn](symbol) can i see price
 - a stock [bk](symbol) can i see price
 - a stock [csco](symbol) can i see price
@@ -36255,6 +45063,18 @@
 - a ticker [jpm](symbol) can i see price
 - a ticker [kmb](symbol) can i see price
 - a ticker [ndaq](symbol) can i see price
+- a [amzn](symbol) can i see price
+- a [bk](symbol) can i see price
+- a [csco](symbol) can i see price
+- a [dow](symbol) can i see price
+- a [ebay](symbol) can i see price
+- a [fox](symbol) can i see price
+- a [googl](symbol) can i see price
+- a [hp](symbol) can i see price
+- a [ibm](symbol) can i see price
+- a [jpm](symbol) can i see price
+- a [kmb](symbol) can i see price
+- a [ndaq](symbol) can i see price
 - for stock [amzn](symbol) can i see price
 - for stock [bk](symbol) can i see price
 - for stock [csco](symbol) can i see price
@@ -36303,6 +45123,18 @@
 - for ticker [jpm](symbol) can i see price
 - for ticker [kmb](symbol) can i see price
 - for ticker [ndaq](symbol) can i see price
+- for  [amzn](symbol) can i see price
+- for  [bk](symbol) can i see price
+- for  [csco](symbol) can i see price
+- for  [dow](symbol) can i see price
+- for  [ebay](symbol) can i see price
+- for  [fox](symbol) can i see price
+- for  [googl](symbol) can i see price
+- for  [hp](symbol) can i see price
+- for  [ibm](symbol) can i see price
+- for  [jpm](symbol) can i see price
+- for  [kmb](symbol) can i see price
+- for  [ndaq](symbol) can i see price
 - for the stock [amzn](symbol) can i see price
 - for the stock [bk](symbol) can i see price
 - for the stock [csco](symbol) can i see price
@@ -36351,6 +45183,18 @@
 - for the ticker [jpm](symbol) can i see price
 - for the ticker [kmb](symbol) can i see price
 - for the ticker [ndaq](symbol) can i see price
+- for the [amzn](symbol) can i see price
+- for the [bk](symbol) can i see price
+- for the [csco](symbol) can i see price
+- for the [dow](symbol) can i see price
+- for the [ebay](symbol) can i see price
+- for the [fox](symbol) can i see price
+- for the [googl](symbol) can i see price
+- for the [hp](symbol) can i see price
+- for the [ibm](symbol) can i see price
+- for the [jpm](symbol) can i see price
+- for the [kmb](symbol) can i see price
+- for the [ndaq](symbol) can i see price
 - for a stock [amzn](symbol) can i see price
 - for a stock [bk](symbol) can i see price
 - for a stock [csco](symbol) can i see price
@@ -36399,6 +45243,18 @@
 - for a ticker [jpm](symbol) can i see price
 - for a ticker [kmb](symbol) can i see price
 - for a ticker [ndaq](symbol) can i see price
+- for a [amzn](symbol) can i see price
+- for a [bk](symbol) can i see price
+- for a [csco](symbol) can i see price
+- for a [dow](symbol) can i see price
+- for a [ebay](symbol) can i see price
+- for a [fox](symbol) can i see price
+- for a [googl](symbol) can i see price
+- for a [hp](symbol) can i see price
+- for a [ibm](symbol) can i see price
+- for a [jpm](symbol) can i see price
+- for a [kmb](symbol) can i see price
+- for a [ndaq](symbol) can i see price
 - stock [amzn](symbol) what is price
 - stock [bk](symbol) what is price
 - stock [csco](symbol) what is price
@@ -36447,6 +45303,18 @@
 - ticker [jpm](symbol) what is price
 - ticker [kmb](symbol) what is price
 - ticker [ndaq](symbol) what is price
+- [amzn](symbol) what is price
+- [bk](symbol) what is price
+- [csco](symbol) what is price
+- [dow](symbol) what is price
+- [ebay](symbol) what is price
+- [fox](symbol) what is price
+- [googl](symbol) what is price
+- [hp](symbol) what is price
+- [ibm](symbol) what is price
+- [jpm](symbol) what is price
+- [kmb](symbol) what is price
+- [ndaq](symbol) what is price
 - the stock [amzn](symbol) what is price
 - the stock [bk](symbol) what is price
 - the stock [csco](symbol) what is price
@@ -36495,6 +45363,18 @@
 - the ticker [jpm](symbol) what is price
 - the ticker [kmb](symbol) what is price
 - the ticker [ndaq](symbol) what is price
+- the [amzn](symbol) what is price
+- the [bk](symbol) what is price
+- the [csco](symbol) what is price
+- the [dow](symbol) what is price
+- the [ebay](symbol) what is price
+- the [fox](symbol) what is price
+- the [googl](symbol) what is price
+- the [hp](symbol) what is price
+- the [ibm](symbol) what is price
+- the [jpm](symbol) what is price
+- the [kmb](symbol) what is price
+- the [ndaq](symbol) what is price
 - a stock [amzn](symbol) what is price
 - a stock [bk](symbol) what is price
 - a stock [csco](symbol) what is price
@@ -36543,6 +45423,18 @@
 - a ticker [jpm](symbol) what is price
 - a ticker [kmb](symbol) what is price
 - a ticker [ndaq](symbol) what is price
+- a [amzn](symbol) what is price
+- a [bk](symbol) what is price
+- a [csco](symbol) what is price
+- a [dow](symbol) what is price
+- a [ebay](symbol) what is price
+- a [fox](symbol) what is price
+- a [googl](symbol) what is price
+- a [hp](symbol) what is price
+- a [ibm](symbol) what is price
+- a [jpm](symbol) what is price
+- a [kmb](symbol) what is price
+- a [ndaq](symbol) what is price
 - for stock [amzn](symbol) what is price
 - for stock [bk](symbol) what is price
 - for stock [csco](symbol) what is price
@@ -36591,6 +45483,18 @@
 - for ticker [jpm](symbol) what is price
 - for ticker [kmb](symbol) what is price
 - for ticker [ndaq](symbol) what is price
+- for  [amzn](symbol) what is price
+- for  [bk](symbol) what is price
+- for  [csco](symbol) what is price
+- for  [dow](symbol) what is price
+- for  [ebay](symbol) what is price
+- for  [fox](symbol) what is price
+- for  [googl](symbol) what is price
+- for  [hp](symbol) what is price
+- for  [ibm](symbol) what is price
+- for  [jpm](symbol) what is price
+- for  [kmb](symbol) what is price
+- for  [ndaq](symbol) what is price
 - for the stock [amzn](symbol) what is price
 - for the stock [bk](symbol) what is price
 - for the stock [csco](symbol) what is price
@@ -36639,6 +45543,18 @@
 - for the ticker [jpm](symbol) what is price
 - for the ticker [kmb](symbol) what is price
 - for the ticker [ndaq](symbol) what is price
+- for the [amzn](symbol) what is price
+- for the [bk](symbol) what is price
+- for the [csco](symbol) what is price
+- for the [dow](symbol) what is price
+- for the [ebay](symbol) what is price
+- for the [fox](symbol) what is price
+- for the [googl](symbol) what is price
+- for the [hp](symbol) what is price
+- for the [ibm](symbol) what is price
+- for the [jpm](symbol) what is price
+- for the [kmb](symbol) what is price
+- for the [ndaq](symbol) what is price
 - for a stock [amzn](symbol) what is price
 - for a stock [bk](symbol) what is price
 - for a stock [csco](symbol) what is price
@@ -36687,6 +45603,18 @@
 - for a ticker [jpm](symbol) what is price
 - for a ticker [kmb](symbol) what is price
 - for a ticker [ndaq](symbol) what is price
+- for a [amzn](symbol) what is price
+- for a [bk](symbol) what is price
+- for a [csco](symbol) what is price
+- for a [dow](symbol) what is price
+- for a [ebay](symbol) what is price
+- for a [fox](symbol) what is price
+- for a [googl](symbol) what is price
+- for a [hp](symbol) what is price
+- for a [ibm](symbol) what is price
+- for a [jpm](symbol) what is price
+- for a [kmb](symbol) what is price
+- for a [ndaq](symbol) what is price
 - stock [amzn](symbol) what's price
 - stock [bk](symbol) what's price
 - stock [csco](symbol) what's price
@@ -36735,6 +45663,18 @@
 - ticker [jpm](symbol) what's price
 - ticker [kmb](symbol) what's price
 - ticker [ndaq](symbol) what's price
+- [amzn](symbol) what's price
+- [bk](symbol) what's price
+- [csco](symbol) what's price
+- [dow](symbol) what's price
+- [ebay](symbol) what's price
+- [fox](symbol) what's price
+- [googl](symbol) what's price
+- [hp](symbol) what's price
+- [ibm](symbol) what's price
+- [jpm](symbol) what's price
+- [kmb](symbol) what's price
+- [ndaq](symbol) what's price
 - the stock [amzn](symbol) what's price
 - the stock [bk](symbol) what's price
 - the stock [csco](symbol) what's price
@@ -36783,6 +45723,18 @@
 - the ticker [jpm](symbol) what's price
 - the ticker [kmb](symbol) what's price
 - the ticker [ndaq](symbol) what's price
+- the [amzn](symbol) what's price
+- the [bk](symbol) what's price
+- the [csco](symbol) what's price
+- the [dow](symbol) what's price
+- the [ebay](symbol) what's price
+- the [fox](symbol) what's price
+- the [googl](symbol) what's price
+- the [hp](symbol) what's price
+- the [ibm](symbol) what's price
+- the [jpm](symbol) what's price
+- the [kmb](symbol) what's price
+- the [ndaq](symbol) what's price
 - a stock [amzn](symbol) what's price
 - a stock [bk](symbol) what's price
 - a stock [csco](symbol) what's price
@@ -36831,6 +45783,18 @@
 - a ticker [jpm](symbol) what's price
 - a ticker [kmb](symbol) what's price
 - a ticker [ndaq](symbol) what's price
+- a [amzn](symbol) what's price
+- a [bk](symbol) what's price
+- a [csco](symbol) what's price
+- a [dow](symbol) what's price
+- a [ebay](symbol) what's price
+- a [fox](symbol) what's price
+- a [googl](symbol) what's price
+- a [hp](symbol) what's price
+- a [ibm](symbol) what's price
+- a [jpm](symbol) what's price
+- a [kmb](symbol) what's price
+- a [ndaq](symbol) what's price
 - for stock [amzn](symbol) what's price
 - for stock [bk](symbol) what's price
 - for stock [csco](symbol) what's price
@@ -36879,6 +45843,18 @@
 - for ticker [jpm](symbol) what's price
 - for ticker [kmb](symbol) what's price
 - for ticker [ndaq](symbol) what's price
+- for  [amzn](symbol) what's price
+- for  [bk](symbol) what's price
+- for  [csco](symbol) what's price
+- for  [dow](symbol) what's price
+- for  [ebay](symbol) what's price
+- for  [fox](symbol) what's price
+- for  [googl](symbol) what's price
+- for  [hp](symbol) what's price
+- for  [ibm](symbol) what's price
+- for  [jpm](symbol) what's price
+- for  [kmb](symbol) what's price
+- for  [ndaq](symbol) what's price
 - for the stock [amzn](symbol) what's price
 - for the stock [bk](symbol) what's price
 - for the stock [csco](symbol) what's price
@@ -36927,6 +45903,18 @@
 - for the ticker [jpm](symbol) what's price
 - for the ticker [kmb](symbol) what's price
 - for the ticker [ndaq](symbol) what's price
+- for the [amzn](symbol) what's price
+- for the [bk](symbol) what's price
+- for the [csco](symbol) what's price
+- for the [dow](symbol) what's price
+- for the [ebay](symbol) what's price
+- for the [fox](symbol) what's price
+- for the [googl](symbol) what's price
+- for the [hp](symbol) what's price
+- for the [ibm](symbol) what's price
+- for the [jpm](symbol) what's price
+- for the [kmb](symbol) what's price
+- for the [ndaq](symbol) what's price
 - for a stock [amzn](symbol) what's price
 - for a stock [bk](symbol) what's price
 - for a stock [csco](symbol) what's price
@@ -36975,6 +45963,18 @@
 - for a ticker [jpm](symbol) what's price
 - for a ticker [kmb](symbol) what's price
 - for a ticker [ndaq](symbol) what's price
+- for a [amzn](symbol) what's price
+- for a [bk](symbol) what's price
+- for a [csco](symbol) what's price
+- for a [dow](symbol) what's price
+- for a [ebay](symbol) what's price
+- for a [fox](symbol) what's price
+- for a [googl](symbol) what's price
+- for a [hp](symbol) what's price
+- for a [ibm](symbol) what's price
+- for a [jpm](symbol) what's price
+- for a [kmb](symbol) what's price
+- for a [ndaq](symbol) what's price
 - stock [amzn](symbol) show price
 - stock [bk](symbol) show price
 - stock [csco](symbol) show price
@@ -37023,6 +46023,18 @@
 - ticker [jpm](symbol) show price
 - ticker [kmb](symbol) show price
 - ticker [ndaq](symbol) show price
+- [amzn](symbol) show price
+- [bk](symbol) show price
+- [csco](symbol) show price
+- [dow](symbol) show price
+- [ebay](symbol) show price
+- [fox](symbol) show price
+- [googl](symbol) show price
+- [hp](symbol) show price
+- [ibm](symbol) show price
+- [jpm](symbol) show price
+- [kmb](symbol) show price
+- [ndaq](symbol) show price
 - the stock [amzn](symbol) show price
 - the stock [bk](symbol) show price
 - the stock [csco](symbol) show price
@@ -37071,6 +46083,18 @@
 - the ticker [jpm](symbol) show price
 - the ticker [kmb](symbol) show price
 - the ticker [ndaq](symbol) show price
+- the [amzn](symbol) show price
+- the [bk](symbol) show price
+- the [csco](symbol) show price
+- the [dow](symbol) show price
+- the [ebay](symbol) show price
+- the [fox](symbol) show price
+- the [googl](symbol) show price
+- the [hp](symbol) show price
+- the [ibm](symbol) show price
+- the [jpm](symbol) show price
+- the [kmb](symbol) show price
+- the [ndaq](symbol) show price
 - a stock [amzn](symbol) show price
 - a stock [bk](symbol) show price
 - a stock [csco](symbol) show price
@@ -37119,6 +46143,18 @@
 - a ticker [jpm](symbol) show price
 - a ticker [kmb](symbol) show price
 - a ticker [ndaq](symbol) show price
+- a [amzn](symbol) show price
+- a [bk](symbol) show price
+- a [csco](symbol) show price
+- a [dow](symbol) show price
+- a [ebay](symbol) show price
+- a [fox](symbol) show price
+- a [googl](symbol) show price
+- a [hp](symbol) show price
+- a [ibm](symbol) show price
+- a [jpm](symbol) show price
+- a [kmb](symbol) show price
+- a [ndaq](symbol) show price
 - for stock [amzn](symbol) show price
 - for stock [bk](symbol) show price
 - for stock [csco](symbol) show price
@@ -37167,6 +46203,18 @@
 - for ticker [jpm](symbol) show price
 - for ticker [kmb](symbol) show price
 - for ticker [ndaq](symbol) show price
+- for  [amzn](symbol) show price
+- for  [bk](symbol) show price
+- for  [csco](symbol) show price
+- for  [dow](symbol) show price
+- for  [ebay](symbol) show price
+- for  [fox](symbol) show price
+- for  [googl](symbol) show price
+- for  [hp](symbol) show price
+- for  [ibm](symbol) show price
+- for  [jpm](symbol) show price
+- for  [kmb](symbol) show price
+- for  [ndaq](symbol) show price
 - for the stock [amzn](symbol) show price
 - for the stock [bk](symbol) show price
 - for the stock [csco](symbol) show price
@@ -37215,6 +46263,18 @@
 - for the ticker [jpm](symbol) show price
 - for the ticker [kmb](symbol) show price
 - for the ticker [ndaq](symbol) show price
+- for the [amzn](symbol) show price
+- for the [bk](symbol) show price
+- for the [csco](symbol) show price
+- for the [dow](symbol) show price
+- for the [ebay](symbol) show price
+- for the [fox](symbol) show price
+- for the [googl](symbol) show price
+- for the [hp](symbol) show price
+- for the [ibm](symbol) show price
+- for the [jpm](symbol) show price
+- for the [kmb](symbol) show price
+- for the [ndaq](symbol) show price
 - for a stock [amzn](symbol) show price
 - for a stock [bk](symbol) show price
 - for a stock [csco](symbol) show price
@@ -37263,6 +46323,18 @@
 - for a ticker [jpm](symbol) show price
 - for a ticker [kmb](symbol) show price
 - for a ticker [ndaq](symbol) show price
+- for a [amzn](symbol) show price
+- for a [bk](symbol) show price
+- for a [csco](symbol) show price
+- for a [dow](symbol) show price
+- for a [ebay](symbol) show price
+- for a [fox](symbol) show price
+- for a [googl](symbol) show price
+- for a [hp](symbol) show price
+- for a [ibm](symbol) show price
+- for a [jpm](symbol) show price
+- for a [kmb](symbol) show price
+- for a [ndaq](symbol) show price
 - stock [amzn](symbol) tell me the price
 - stock [bk](symbol) tell me the price
 - stock [csco](symbol) tell me the price
@@ -37311,6 +46383,18 @@
 - ticker [jpm](symbol) tell me the price
 - ticker [kmb](symbol) tell me the price
 - ticker [ndaq](symbol) tell me the price
+- [amzn](symbol) tell me the price
+- [bk](symbol) tell me the price
+- [csco](symbol) tell me the price
+- [dow](symbol) tell me the price
+- [ebay](symbol) tell me the price
+- [fox](symbol) tell me the price
+- [googl](symbol) tell me the price
+- [hp](symbol) tell me the price
+- [ibm](symbol) tell me the price
+- [jpm](symbol) tell me the price
+- [kmb](symbol) tell me the price
+- [ndaq](symbol) tell me the price
 - the stock [amzn](symbol) tell me the price
 - the stock [bk](symbol) tell me the price
 - the stock [csco](symbol) tell me the price
@@ -37359,6 +46443,18 @@
 - the ticker [jpm](symbol) tell me the price
 - the ticker [kmb](symbol) tell me the price
 - the ticker [ndaq](symbol) tell me the price
+- the [amzn](symbol) tell me the price
+- the [bk](symbol) tell me the price
+- the [csco](symbol) tell me the price
+- the [dow](symbol) tell me the price
+- the [ebay](symbol) tell me the price
+- the [fox](symbol) tell me the price
+- the [googl](symbol) tell me the price
+- the [hp](symbol) tell me the price
+- the [ibm](symbol) tell me the price
+- the [jpm](symbol) tell me the price
+- the [kmb](symbol) tell me the price
+- the [ndaq](symbol) tell me the price
 - a stock [amzn](symbol) tell me the price
 - a stock [bk](symbol) tell me the price
 - a stock [csco](symbol) tell me the price
@@ -37407,6 +46503,18 @@
 - a ticker [jpm](symbol) tell me the price
 - a ticker [kmb](symbol) tell me the price
 - a ticker [ndaq](symbol) tell me the price
+- a [amzn](symbol) tell me the price
+- a [bk](symbol) tell me the price
+- a [csco](symbol) tell me the price
+- a [dow](symbol) tell me the price
+- a [ebay](symbol) tell me the price
+- a [fox](symbol) tell me the price
+- a [googl](symbol) tell me the price
+- a [hp](symbol) tell me the price
+- a [ibm](symbol) tell me the price
+- a [jpm](symbol) tell me the price
+- a [kmb](symbol) tell me the price
+- a [ndaq](symbol) tell me the price
 - for stock [amzn](symbol) tell me the price
 - for stock [bk](symbol) tell me the price
 - for stock [csco](symbol) tell me the price
@@ -37455,6 +46563,18 @@
 - for ticker [jpm](symbol) tell me the price
 - for ticker [kmb](symbol) tell me the price
 - for ticker [ndaq](symbol) tell me the price
+- for  [amzn](symbol) tell me the price
+- for  [bk](symbol) tell me the price
+- for  [csco](symbol) tell me the price
+- for  [dow](symbol) tell me the price
+- for  [ebay](symbol) tell me the price
+- for  [fox](symbol) tell me the price
+- for  [googl](symbol) tell me the price
+- for  [hp](symbol) tell me the price
+- for  [ibm](symbol) tell me the price
+- for  [jpm](symbol) tell me the price
+- for  [kmb](symbol) tell me the price
+- for  [ndaq](symbol) tell me the price
 - for the stock [amzn](symbol) tell me the price
 - for the stock [bk](symbol) tell me the price
 - for the stock [csco](symbol) tell me the price
@@ -37503,6 +46623,18 @@
 - for the ticker [jpm](symbol) tell me the price
 - for the ticker [kmb](symbol) tell me the price
 - for the ticker [ndaq](symbol) tell me the price
+- for the [amzn](symbol) tell me the price
+- for the [bk](symbol) tell me the price
+- for the [csco](symbol) tell me the price
+- for the [dow](symbol) tell me the price
+- for the [ebay](symbol) tell me the price
+- for the [fox](symbol) tell me the price
+- for the [googl](symbol) tell me the price
+- for the [hp](symbol) tell me the price
+- for the [ibm](symbol) tell me the price
+- for the [jpm](symbol) tell me the price
+- for the [kmb](symbol) tell me the price
+- for the [ndaq](symbol) tell me the price
 - for a stock [amzn](symbol) tell me the price
 - for a stock [bk](symbol) tell me the price
 - for a stock [csco](symbol) tell me the price
@@ -37551,6 +46683,18 @@
 - for a ticker [jpm](symbol) tell me the price
 - for a ticker [kmb](symbol) tell me the price
 - for a ticker [ndaq](symbol) tell me the price
+- for a [amzn](symbol) tell me the price
+- for a [bk](symbol) tell me the price
+- for a [csco](symbol) tell me the price
+- for a [dow](symbol) tell me the price
+- for a [ebay](symbol) tell me the price
+- for a [fox](symbol) tell me the price
+- for a [googl](symbol) tell me the price
+- for a [hp](symbol) tell me the price
+- for a [ibm](symbol) tell me the price
+- for a [jpm](symbol) tell me the price
+- for a [kmb](symbol) tell me the price
+- for a [ndaq](symbol) tell me the price
 - stock [amzn](symbol) tell me about the price
 - stock [bk](symbol) tell me about the price
 - stock [csco](symbol) tell me about the price
@@ -37599,6 +46743,18 @@
 - ticker [jpm](symbol) tell me about the price
 - ticker [kmb](symbol) tell me about the price
 - ticker [ndaq](symbol) tell me about the price
+- [amzn](symbol) tell me about the price
+- [bk](symbol) tell me about the price
+- [csco](symbol) tell me about the price
+- [dow](symbol) tell me about the price
+- [ebay](symbol) tell me about the price
+- [fox](symbol) tell me about the price
+- [googl](symbol) tell me about the price
+- [hp](symbol) tell me about the price
+- [ibm](symbol) tell me about the price
+- [jpm](symbol) tell me about the price
+- [kmb](symbol) tell me about the price
+- [ndaq](symbol) tell me about the price
 - the stock [amzn](symbol) tell me about the price
 - the stock [bk](symbol) tell me about the price
 - the stock [csco](symbol) tell me about the price
@@ -37647,6 +46803,18 @@
 - the ticker [jpm](symbol) tell me about the price
 - the ticker [kmb](symbol) tell me about the price
 - the ticker [ndaq](symbol) tell me about the price
+- the [amzn](symbol) tell me about the price
+- the [bk](symbol) tell me about the price
+- the [csco](symbol) tell me about the price
+- the [dow](symbol) tell me about the price
+- the [ebay](symbol) tell me about the price
+- the [fox](symbol) tell me about the price
+- the [googl](symbol) tell me about the price
+- the [hp](symbol) tell me about the price
+- the [ibm](symbol) tell me about the price
+- the [jpm](symbol) tell me about the price
+- the [kmb](symbol) tell me about the price
+- the [ndaq](symbol) tell me about the price
 - a stock [amzn](symbol) tell me about the price
 - a stock [bk](symbol) tell me about the price
 - a stock [csco](symbol) tell me about the price
@@ -37695,6 +46863,18 @@
 - a ticker [jpm](symbol) tell me about the price
 - a ticker [kmb](symbol) tell me about the price
 - a ticker [ndaq](symbol) tell me about the price
+- a [amzn](symbol) tell me about the price
+- a [bk](symbol) tell me about the price
+- a [csco](symbol) tell me about the price
+- a [dow](symbol) tell me about the price
+- a [ebay](symbol) tell me about the price
+- a [fox](symbol) tell me about the price
+- a [googl](symbol) tell me about the price
+- a [hp](symbol) tell me about the price
+- a [ibm](symbol) tell me about the price
+- a [jpm](symbol) tell me about the price
+- a [kmb](symbol) tell me about the price
+- a [ndaq](symbol) tell me about the price
 - for stock [amzn](symbol) tell me about the price
 - for stock [bk](symbol) tell me about the price
 - for stock [csco](symbol) tell me about the price
@@ -37743,6 +46923,18 @@
 - for ticker [jpm](symbol) tell me about the price
 - for ticker [kmb](symbol) tell me about the price
 - for ticker [ndaq](symbol) tell me about the price
+- for  [amzn](symbol) tell me about the price
+- for  [bk](symbol) tell me about the price
+- for  [csco](symbol) tell me about the price
+- for  [dow](symbol) tell me about the price
+- for  [ebay](symbol) tell me about the price
+- for  [fox](symbol) tell me about the price
+- for  [googl](symbol) tell me about the price
+- for  [hp](symbol) tell me about the price
+- for  [ibm](symbol) tell me about the price
+- for  [jpm](symbol) tell me about the price
+- for  [kmb](symbol) tell me about the price
+- for  [ndaq](symbol) tell me about the price
 - for the stock [amzn](symbol) tell me about the price
 - for the stock [bk](symbol) tell me about the price
 - for the stock [csco](symbol) tell me about the price
@@ -37791,6 +46983,18 @@
 - for the ticker [jpm](symbol) tell me about the price
 - for the ticker [kmb](symbol) tell me about the price
 - for the ticker [ndaq](symbol) tell me about the price
+- for the [amzn](symbol) tell me about the price
+- for the [bk](symbol) tell me about the price
+- for the [csco](symbol) tell me about the price
+- for the [dow](symbol) tell me about the price
+- for the [ebay](symbol) tell me about the price
+- for the [fox](symbol) tell me about the price
+- for the [googl](symbol) tell me about the price
+- for the [hp](symbol) tell me about the price
+- for the [ibm](symbol) tell me about the price
+- for the [jpm](symbol) tell me about the price
+- for the [kmb](symbol) tell me about the price
+- for the [ndaq](symbol) tell me about the price
 - for a stock [amzn](symbol) tell me about the price
 - for a stock [bk](symbol) tell me about the price
 - for a stock [csco](symbol) tell me about the price
@@ -37839,6 +47043,18 @@
 - for a ticker [jpm](symbol) tell me about the price
 - for a ticker [kmb](symbol) tell me about the price
 - for a ticker [ndaq](symbol) tell me about the price
+- for a [amzn](symbol) tell me about the price
+- for a [bk](symbol) tell me about the price
+- for a [csco](symbol) tell me about the price
+- for a [dow](symbol) tell me about the price
+- for a [ebay](symbol) tell me about the price
+- for a [fox](symbol) tell me about the price
+- for a [googl](symbol) tell me about the price
+- for a [hp](symbol) tell me about the price
+- for a [ibm](symbol) tell me about the price
+- for a [jpm](symbol) tell me about the price
+- for a [kmb](symbol) tell me about the price
+- for a [ndaq](symbol) tell me about the price
 - stock [amzn](symbol) show me the price
 - stock [bk](symbol) show me the price
 - stock [csco](symbol) show me the price
@@ -37887,6 +47103,18 @@
 - ticker [jpm](symbol) show me the price
 - ticker [kmb](symbol) show me the price
 - ticker [ndaq](symbol) show me the price
+- [amzn](symbol) show me the price
+- [bk](symbol) show me the price
+- [csco](symbol) show me the price
+- [dow](symbol) show me the price
+- [ebay](symbol) show me the price
+- [fox](symbol) show me the price
+- [googl](symbol) show me the price
+- [hp](symbol) show me the price
+- [ibm](symbol) show me the price
+- [jpm](symbol) show me the price
+- [kmb](symbol) show me the price
+- [ndaq](symbol) show me the price
 - the stock [amzn](symbol) show me the price
 - the stock [bk](symbol) show me the price
 - the stock [csco](symbol) show me the price
@@ -37935,6 +47163,18 @@
 - the ticker [jpm](symbol) show me the price
 - the ticker [kmb](symbol) show me the price
 - the ticker [ndaq](symbol) show me the price
+- the [amzn](symbol) show me the price
+- the [bk](symbol) show me the price
+- the [csco](symbol) show me the price
+- the [dow](symbol) show me the price
+- the [ebay](symbol) show me the price
+- the [fox](symbol) show me the price
+- the [googl](symbol) show me the price
+- the [hp](symbol) show me the price
+- the [ibm](symbol) show me the price
+- the [jpm](symbol) show me the price
+- the [kmb](symbol) show me the price
+- the [ndaq](symbol) show me the price
 - a stock [amzn](symbol) show me the price
 - a stock [bk](symbol) show me the price
 - a stock [csco](symbol) show me the price
@@ -37983,6 +47223,18 @@
 - a ticker [jpm](symbol) show me the price
 - a ticker [kmb](symbol) show me the price
 - a ticker [ndaq](symbol) show me the price
+- a [amzn](symbol) show me the price
+- a [bk](symbol) show me the price
+- a [csco](symbol) show me the price
+- a [dow](symbol) show me the price
+- a [ebay](symbol) show me the price
+- a [fox](symbol) show me the price
+- a [googl](symbol) show me the price
+- a [hp](symbol) show me the price
+- a [ibm](symbol) show me the price
+- a [jpm](symbol) show me the price
+- a [kmb](symbol) show me the price
+- a [ndaq](symbol) show me the price
 - for stock [amzn](symbol) show me the price
 - for stock [bk](symbol) show me the price
 - for stock [csco](symbol) show me the price
@@ -38031,6 +47283,18 @@
 - for ticker [jpm](symbol) show me the price
 - for ticker [kmb](symbol) show me the price
 - for ticker [ndaq](symbol) show me the price
+- for  [amzn](symbol) show me the price
+- for  [bk](symbol) show me the price
+- for  [csco](symbol) show me the price
+- for  [dow](symbol) show me the price
+- for  [ebay](symbol) show me the price
+- for  [fox](symbol) show me the price
+- for  [googl](symbol) show me the price
+- for  [hp](symbol) show me the price
+- for  [ibm](symbol) show me the price
+- for  [jpm](symbol) show me the price
+- for  [kmb](symbol) show me the price
+- for  [ndaq](symbol) show me the price
 - for the stock [amzn](symbol) show me the price
 - for the stock [bk](symbol) show me the price
 - for the stock [csco](symbol) show me the price
@@ -38079,6 +47343,18 @@
 - for the ticker [jpm](symbol) show me the price
 - for the ticker [kmb](symbol) show me the price
 - for the ticker [ndaq](symbol) show me the price
+- for the [amzn](symbol) show me the price
+- for the [bk](symbol) show me the price
+- for the [csco](symbol) show me the price
+- for the [dow](symbol) show me the price
+- for the [ebay](symbol) show me the price
+- for the [fox](symbol) show me the price
+- for the [googl](symbol) show me the price
+- for the [hp](symbol) show me the price
+- for the [ibm](symbol) show me the price
+- for the [jpm](symbol) show me the price
+- for the [kmb](symbol) show me the price
+- for the [ndaq](symbol) show me the price
 - for a stock [amzn](symbol) show me the price
 - for a stock [bk](symbol) show me the price
 - for a stock [csco](symbol) show me the price
@@ -38127,6 +47403,18 @@
 - for a ticker [jpm](symbol) show me the price
 - for a ticker [kmb](symbol) show me the price
 - for a ticker [ndaq](symbol) show me the price
+- for a [amzn](symbol) show me the price
+- for a [bk](symbol) show me the price
+- for a [csco](symbol) show me the price
+- for a [dow](symbol) show me the price
+- for a [ebay](symbol) show me the price
+- for a [fox](symbol) show me the price
+- for a [googl](symbol) show me the price
+- for a [hp](symbol) show me the price
+- for a [ibm](symbol) show me the price
+- for a [jpm](symbol) show me the price
+- for a [kmb](symbol) show me the price
+- for a [ndaq](symbol) show me the price
 - stock [amzn](symbol) can i see the price
 - stock [bk](symbol) can i see the price
 - stock [csco](symbol) can i see the price
@@ -38175,6 +47463,18 @@
 - ticker [jpm](symbol) can i see the price
 - ticker [kmb](symbol) can i see the price
 - ticker [ndaq](symbol) can i see the price
+- [amzn](symbol) can i see the price
+- [bk](symbol) can i see the price
+- [csco](symbol) can i see the price
+- [dow](symbol) can i see the price
+- [ebay](symbol) can i see the price
+- [fox](symbol) can i see the price
+- [googl](symbol) can i see the price
+- [hp](symbol) can i see the price
+- [ibm](symbol) can i see the price
+- [jpm](symbol) can i see the price
+- [kmb](symbol) can i see the price
+- [ndaq](symbol) can i see the price
 - the stock [amzn](symbol) can i see the price
 - the stock [bk](symbol) can i see the price
 - the stock [csco](symbol) can i see the price
@@ -38223,6 +47523,18 @@
 - the ticker [jpm](symbol) can i see the price
 - the ticker [kmb](symbol) can i see the price
 - the ticker [ndaq](symbol) can i see the price
+- the [amzn](symbol) can i see the price
+- the [bk](symbol) can i see the price
+- the [csco](symbol) can i see the price
+- the [dow](symbol) can i see the price
+- the [ebay](symbol) can i see the price
+- the [fox](symbol) can i see the price
+- the [googl](symbol) can i see the price
+- the [hp](symbol) can i see the price
+- the [ibm](symbol) can i see the price
+- the [jpm](symbol) can i see the price
+- the [kmb](symbol) can i see the price
+- the [ndaq](symbol) can i see the price
 - a stock [amzn](symbol) can i see the price
 - a stock [bk](symbol) can i see the price
 - a stock [csco](symbol) can i see the price
@@ -38271,6 +47583,18 @@
 - a ticker [jpm](symbol) can i see the price
 - a ticker [kmb](symbol) can i see the price
 - a ticker [ndaq](symbol) can i see the price
+- a [amzn](symbol) can i see the price
+- a [bk](symbol) can i see the price
+- a [csco](symbol) can i see the price
+- a [dow](symbol) can i see the price
+- a [ebay](symbol) can i see the price
+- a [fox](symbol) can i see the price
+- a [googl](symbol) can i see the price
+- a [hp](symbol) can i see the price
+- a [ibm](symbol) can i see the price
+- a [jpm](symbol) can i see the price
+- a [kmb](symbol) can i see the price
+- a [ndaq](symbol) can i see the price
 - for stock [amzn](symbol) can i see the price
 - for stock [bk](symbol) can i see the price
 - for stock [csco](symbol) can i see the price
@@ -38319,6 +47643,18 @@
 - for ticker [jpm](symbol) can i see the price
 - for ticker [kmb](symbol) can i see the price
 - for ticker [ndaq](symbol) can i see the price
+- for  [amzn](symbol) can i see the price
+- for  [bk](symbol) can i see the price
+- for  [csco](symbol) can i see the price
+- for  [dow](symbol) can i see the price
+- for  [ebay](symbol) can i see the price
+- for  [fox](symbol) can i see the price
+- for  [googl](symbol) can i see the price
+- for  [hp](symbol) can i see the price
+- for  [ibm](symbol) can i see the price
+- for  [jpm](symbol) can i see the price
+- for  [kmb](symbol) can i see the price
+- for  [ndaq](symbol) can i see the price
 - for the stock [amzn](symbol) can i see the price
 - for the stock [bk](symbol) can i see the price
 - for the stock [csco](symbol) can i see the price
@@ -38367,6 +47703,18 @@
 - for the ticker [jpm](symbol) can i see the price
 - for the ticker [kmb](symbol) can i see the price
 - for the ticker [ndaq](symbol) can i see the price
+- for the [amzn](symbol) can i see the price
+- for the [bk](symbol) can i see the price
+- for the [csco](symbol) can i see the price
+- for the [dow](symbol) can i see the price
+- for the [ebay](symbol) can i see the price
+- for the [fox](symbol) can i see the price
+- for the [googl](symbol) can i see the price
+- for the [hp](symbol) can i see the price
+- for the [ibm](symbol) can i see the price
+- for the [jpm](symbol) can i see the price
+- for the [kmb](symbol) can i see the price
+- for the [ndaq](symbol) can i see the price
 - for a stock [amzn](symbol) can i see the price
 - for a stock [bk](symbol) can i see the price
 - for a stock [csco](symbol) can i see the price
@@ -38415,6 +47763,18 @@
 - for a ticker [jpm](symbol) can i see the price
 - for a ticker [kmb](symbol) can i see the price
 - for a ticker [ndaq](symbol) can i see the price
+- for a [amzn](symbol) can i see the price
+- for a [bk](symbol) can i see the price
+- for a [csco](symbol) can i see the price
+- for a [dow](symbol) can i see the price
+- for a [ebay](symbol) can i see the price
+- for a [fox](symbol) can i see the price
+- for a [googl](symbol) can i see the price
+- for a [hp](symbol) can i see the price
+- for a [ibm](symbol) can i see the price
+- for a [jpm](symbol) can i see the price
+- for a [kmb](symbol) can i see the price
+- for a [ndaq](symbol) can i see the price
 - stock [amzn](symbol) what is the price
 - stock [bk](symbol) what is the price
 - stock [csco](symbol) what is the price
@@ -38463,6 +47823,18 @@
 - ticker [jpm](symbol) what is the price
 - ticker [kmb](symbol) what is the price
 - ticker [ndaq](symbol) what is the price
+- [amzn](symbol) what is the price
+- [bk](symbol) what is the price
+- [csco](symbol) what is the price
+- [dow](symbol) what is the price
+- [ebay](symbol) what is the price
+- [fox](symbol) what is the price
+- [googl](symbol) what is the price
+- [hp](symbol) what is the price
+- [ibm](symbol) what is the price
+- [jpm](symbol) what is the price
+- [kmb](symbol) what is the price
+- [ndaq](symbol) what is the price
 - the stock [amzn](symbol) what is the price
 - the stock [bk](symbol) what is the price
 - the stock [csco](symbol) what is the price
@@ -38511,6 +47883,18 @@
 - the ticker [jpm](symbol) what is the price
 - the ticker [kmb](symbol) what is the price
 - the ticker [ndaq](symbol) what is the price
+- the [amzn](symbol) what is the price
+- the [bk](symbol) what is the price
+- the [csco](symbol) what is the price
+- the [dow](symbol) what is the price
+- the [ebay](symbol) what is the price
+- the [fox](symbol) what is the price
+- the [googl](symbol) what is the price
+- the [hp](symbol) what is the price
+- the [ibm](symbol) what is the price
+- the [jpm](symbol) what is the price
+- the [kmb](symbol) what is the price
+- the [ndaq](symbol) what is the price
 - a stock [amzn](symbol) what is the price
 - a stock [bk](symbol) what is the price
 - a stock [csco](symbol) what is the price
@@ -38559,6 +47943,18 @@
 - a ticker [jpm](symbol) what is the price
 - a ticker [kmb](symbol) what is the price
 - a ticker [ndaq](symbol) what is the price
+- a [amzn](symbol) what is the price
+- a [bk](symbol) what is the price
+- a [csco](symbol) what is the price
+- a [dow](symbol) what is the price
+- a [ebay](symbol) what is the price
+- a [fox](symbol) what is the price
+- a [googl](symbol) what is the price
+- a [hp](symbol) what is the price
+- a [ibm](symbol) what is the price
+- a [jpm](symbol) what is the price
+- a [kmb](symbol) what is the price
+- a [ndaq](symbol) what is the price
 - for stock [amzn](symbol) what is the price
 - for stock [bk](symbol) what is the price
 - for stock [csco](symbol) what is the price
@@ -38607,6 +48003,18 @@
 - for ticker [jpm](symbol) what is the price
 - for ticker [kmb](symbol) what is the price
 - for ticker [ndaq](symbol) what is the price
+- for  [amzn](symbol) what is the price
+- for  [bk](symbol) what is the price
+- for  [csco](symbol) what is the price
+- for  [dow](symbol) what is the price
+- for  [ebay](symbol) what is the price
+- for  [fox](symbol) what is the price
+- for  [googl](symbol) what is the price
+- for  [hp](symbol) what is the price
+- for  [ibm](symbol) what is the price
+- for  [jpm](symbol) what is the price
+- for  [kmb](symbol) what is the price
+- for  [ndaq](symbol) what is the price
 - for the stock [amzn](symbol) what is the price
 - for the stock [bk](symbol) what is the price
 - for the stock [csco](symbol) what is the price
@@ -38655,6 +48063,18 @@
 - for the ticker [jpm](symbol) what is the price
 - for the ticker [kmb](symbol) what is the price
 - for the ticker [ndaq](symbol) what is the price
+- for the [amzn](symbol) what is the price
+- for the [bk](symbol) what is the price
+- for the [csco](symbol) what is the price
+- for the [dow](symbol) what is the price
+- for the [ebay](symbol) what is the price
+- for the [fox](symbol) what is the price
+- for the [googl](symbol) what is the price
+- for the [hp](symbol) what is the price
+- for the [ibm](symbol) what is the price
+- for the [jpm](symbol) what is the price
+- for the [kmb](symbol) what is the price
+- for the [ndaq](symbol) what is the price
 - for a stock [amzn](symbol) what is the price
 - for a stock [bk](symbol) what is the price
 - for a stock [csco](symbol) what is the price
@@ -38703,6 +48123,18 @@
 - for a ticker [jpm](symbol) what is the price
 - for a ticker [kmb](symbol) what is the price
 - for a ticker [ndaq](symbol) what is the price
+- for a [amzn](symbol) what is the price
+- for a [bk](symbol) what is the price
+- for a [csco](symbol) what is the price
+- for a [dow](symbol) what is the price
+- for a [ebay](symbol) what is the price
+- for a [fox](symbol) what is the price
+- for a [googl](symbol) what is the price
+- for a [hp](symbol) what is the price
+- for a [ibm](symbol) what is the price
+- for a [jpm](symbol) what is the price
+- for a [kmb](symbol) what is the price
+- for a [ndaq](symbol) what is the price
 - stock [amzn](symbol) what's the price
 - stock [bk](symbol) what's the price
 - stock [csco](symbol) what's the price
@@ -38751,6 +48183,18 @@
 - ticker [jpm](symbol) what's the price
 - ticker [kmb](symbol) what's the price
 - ticker [ndaq](symbol) what's the price
+- [amzn](symbol) what's the price
+- [bk](symbol) what's the price
+- [csco](symbol) what's the price
+- [dow](symbol) what's the price
+- [ebay](symbol) what's the price
+- [fox](symbol) what's the price
+- [googl](symbol) what's the price
+- [hp](symbol) what's the price
+- [ibm](symbol) what's the price
+- [jpm](symbol) what's the price
+- [kmb](symbol) what's the price
+- [ndaq](symbol) what's the price
 - the stock [amzn](symbol) what's the price
 - the stock [bk](symbol) what's the price
 - the stock [csco](symbol) what's the price
@@ -38799,6 +48243,18 @@
 - the ticker [jpm](symbol) what's the price
 - the ticker [kmb](symbol) what's the price
 - the ticker [ndaq](symbol) what's the price
+- the [amzn](symbol) what's the price
+- the [bk](symbol) what's the price
+- the [csco](symbol) what's the price
+- the [dow](symbol) what's the price
+- the [ebay](symbol) what's the price
+- the [fox](symbol) what's the price
+- the [googl](symbol) what's the price
+- the [hp](symbol) what's the price
+- the [ibm](symbol) what's the price
+- the [jpm](symbol) what's the price
+- the [kmb](symbol) what's the price
+- the [ndaq](symbol) what's the price
 - a stock [amzn](symbol) what's the price
 - a stock [bk](symbol) what's the price
 - a stock [csco](symbol) what's the price
@@ -38847,6 +48303,18 @@
 - a ticker [jpm](symbol) what's the price
 - a ticker [kmb](symbol) what's the price
 - a ticker [ndaq](symbol) what's the price
+- a [amzn](symbol) what's the price
+- a [bk](symbol) what's the price
+- a [csco](symbol) what's the price
+- a [dow](symbol) what's the price
+- a [ebay](symbol) what's the price
+- a [fox](symbol) what's the price
+- a [googl](symbol) what's the price
+- a [hp](symbol) what's the price
+- a [ibm](symbol) what's the price
+- a [jpm](symbol) what's the price
+- a [kmb](symbol) what's the price
+- a [ndaq](symbol) what's the price
 - for stock [amzn](symbol) what's the price
 - for stock [bk](symbol) what's the price
 - for stock [csco](symbol) what's the price
@@ -38895,6 +48363,18 @@
 - for ticker [jpm](symbol) what's the price
 - for ticker [kmb](symbol) what's the price
 - for ticker [ndaq](symbol) what's the price
+- for  [amzn](symbol) what's the price
+- for  [bk](symbol) what's the price
+- for  [csco](symbol) what's the price
+- for  [dow](symbol) what's the price
+- for  [ebay](symbol) what's the price
+- for  [fox](symbol) what's the price
+- for  [googl](symbol) what's the price
+- for  [hp](symbol) what's the price
+- for  [ibm](symbol) what's the price
+- for  [jpm](symbol) what's the price
+- for  [kmb](symbol) what's the price
+- for  [ndaq](symbol) what's the price
 - for the stock [amzn](symbol) what's the price
 - for the stock [bk](symbol) what's the price
 - for the stock [csco](symbol) what's the price
@@ -38943,6 +48423,18 @@
 - for the ticker [jpm](symbol) what's the price
 - for the ticker [kmb](symbol) what's the price
 - for the ticker [ndaq](symbol) what's the price
+- for the [amzn](symbol) what's the price
+- for the [bk](symbol) what's the price
+- for the [csco](symbol) what's the price
+- for the [dow](symbol) what's the price
+- for the [ebay](symbol) what's the price
+- for the [fox](symbol) what's the price
+- for the [googl](symbol) what's the price
+- for the [hp](symbol) what's the price
+- for the [ibm](symbol) what's the price
+- for the [jpm](symbol) what's the price
+- for the [kmb](symbol) what's the price
+- for the [ndaq](symbol) what's the price
 - for a stock [amzn](symbol) what's the price
 - for a stock [bk](symbol) what's the price
 - for a stock [csco](symbol) what's the price
@@ -38991,6 +48483,18 @@
 - for a ticker [jpm](symbol) what's the price
 - for a ticker [kmb](symbol) what's the price
 - for a ticker [ndaq](symbol) what's the price
+- for a [amzn](symbol) what's the price
+- for a [bk](symbol) what's the price
+- for a [csco](symbol) what's the price
+- for a [dow](symbol) what's the price
+- for a [ebay](symbol) what's the price
+- for a [fox](symbol) what's the price
+- for a [googl](symbol) what's the price
+- for a [hp](symbol) what's the price
+- for a [ibm](symbol) what's the price
+- for a [jpm](symbol) what's the price
+- for a [kmb](symbol) what's the price
+- for a [ndaq](symbol) what's the price
 - stock [amzn](symbol) show the price
 - stock [bk](symbol) show the price
 - stock [csco](symbol) show the price
@@ -39039,6 +48543,18 @@
 - ticker [jpm](symbol) show the price
 - ticker [kmb](symbol) show the price
 - ticker [ndaq](symbol) show the price
+- [amzn](symbol) show the price
+- [bk](symbol) show the price
+- [csco](symbol) show the price
+- [dow](symbol) show the price
+- [ebay](symbol) show the price
+- [fox](symbol) show the price
+- [googl](symbol) show the price
+- [hp](symbol) show the price
+- [ibm](symbol) show the price
+- [jpm](symbol) show the price
+- [kmb](symbol) show the price
+- [ndaq](symbol) show the price
 - the stock [amzn](symbol) show the price
 - the stock [bk](symbol) show the price
 - the stock [csco](symbol) show the price
@@ -39087,6 +48603,18 @@
 - the ticker [jpm](symbol) show the price
 - the ticker [kmb](symbol) show the price
 - the ticker [ndaq](symbol) show the price
+- the [amzn](symbol) show the price
+- the [bk](symbol) show the price
+- the [csco](symbol) show the price
+- the [dow](symbol) show the price
+- the [ebay](symbol) show the price
+- the [fox](symbol) show the price
+- the [googl](symbol) show the price
+- the [hp](symbol) show the price
+- the [ibm](symbol) show the price
+- the [jpm](symbol) show the price
+- the [kmb](symbol) show the price
+- the [ndaq](symbol) show the price
 - a stock [amzn](symbol) show the price
 - a stock [bk](symbol) show the price
 - a stock [csco](symbol) show the price
@@ -39135,6 +48663,18 @@
 - a ticker [jpm](symbol) show the price
 - a ticker [kmb](symbol) show the price
 - a ticker [ndaq](symbol) show the price
+- a [amzn](symbol) show the price
+- a [bk](symbol) show the price
+- a [csco](symbol) show the price
+- a [dow](symbol) show the price
+- a [ebay](symbol) show the price
+- a [fox](symbol) show the price
+- a [googl](symbol) show the price
+- a [hp](symbol) show the price
+- a [ibm](symbol) show the price
+- a [jpm](symbol) show the price
+- a [kmb](symbol) show the price
+- a [ndaq](symbol) show the price
 - for stock [amzn](symbol) show the price
 - for stock [bk](symbol) show the price
 - for stock [csco](symbol) show the price
@@ -39183,6 +48723,18 @@
 - for ticker [jpm](symbol) show the price
 - for ticker [kmb](symbol) show the price
 - for ticker [ndaq](symbol) show the price
+- for  [amzn](symbol) show the price
+- for  [bk](symbol) show the price
+- for  [csco](symbol) show the price
+- for  [dow](symbol) show the price
+- for  [ebay](symbol) show the price
+- for  [fox](symbol) show the price
+- for  [googl](symbol) show the price
+- for  [hp](symbol) show the price
+- for  [ibm](symbol) show the price
+- for  [jpm](symbol) show the price
+- for  [kmb](symbol) show the price
+- for  [ndaq](symbol) show the price
 - for the stock [amzn](symbol) show the price
 - for the stock [bk](symbol) show the price
 - for the stock [csco](symbol) show the price
@@ -39231,6 +48783,18 @@
 - for the ticker [jpm](symbol) show the price
 - for the ticker [kmb](symbol) show the price
 - for the ticker [ndaq](symbol) show the price
+- for the [amzn](symbol) show the price
+- for the [bk](symbol) show the price
+- for the [csco](symbol) show the price
+- for the [dow](symbol) show the price
+- for the [ebay](symbol) show the price
+- for the [fox](symbol) show the price
+- for the [googl](symbol) show the price
+- for the [hp](symbol) show the price
+- for the [ibm](symbol) show the price
+- for the [jpm](symbol) show the price
+- for the [kmb](symbol) show the price
+- for the [ndaq](symbol) show the price
 - for a stock [amzn](symbol) show the price
 - for a stock [bk](symbol) show the price
 - for a stock [csco](symbol) show the price
@@ -39279,6 +48843,18 @@
 - for a ticker [jpm](symbol) show the price
 - for a ticker [kmb](symbol) show the price
 - for a ticker [ndaq](symbol) show the price
+- for a [amzn](symbol) show the price
+- for a [bk](symbol) show the price
+- for a [csco](symbol) show the price
+- for a [dow](symbol) show the price
+- for a [ebay](symbol) show the price
+- for a [fox](symbol) show the price
+- for a [googl](symbol) show the price
+- for a [hp](symbol) show the price
+- for a [ibm](symbol) show the price
+- for a [jpm](symbol) show the price
+- for a [kmb](symbol) show the price
+- for a [ndaq](symbol) show the price
 - stock [amzn](symbol) tell me a price
 - stock [bk](symbol) tell me a price
 - stock [csco](symbol) tell me a price
@@ -39327,6 +48903,18 @@
 - ticker [jpm](symbol) tell me a price
 - ticker [kmb](symbol) tell me a price
 - ticker [ndaq](symbol) tell me a price
+- [amzn](symbol) tell me a price
+- [bk](symbol) tell me a price
+- [csco](symbol) tell me a price
+- [dow](symbol) tell me a price
+- [ebay](symbol) tell me a price
+- [fox](symbol) tell me a price
+- [googl](symbol) tell me a price
+- [hp](symbol) tell me a price
+- [ibm](symbol) tell me a price
+- [jpm](symbol) tell me a price
+- [kmb](symbol) tell me a price
+- [ndaq](symbol) tell me a price
 - the stock [amzn](symbol) tell me a price
 - the stock [bk](symbol) tell me a price
 - the stock [csco](symbol) tell me a price
@@ -39375,6 +48963,18 @@
 - the ticker [jpm](symbol) tell me a price
 - the ticker [kmb](symbol) tell me a price
 - the ticker [ndaq](symbol) tell me a price
+- the [amzn](symbol) tell me a price
+- the [bk](symbol) tell me a price
+- the [csco](symbol) tell me a price
+- the [dow](symbol) tell me a price
+- the [ebay](symbol) tell me a price
+- the [fox](symbol) tell me a price
+- the [googl](symbol) tell me a price
+- the [hp](symbol) tell me a price
+- the [ibm](symbol) tell me a price
+- the [jpm](symbol) tell me a price
+- the [kmb](symbol) tell me a price
+- the [ndaq](symbol) tell me a price
 - a stock [amzn](symbol) tell me a price
 - a stock [bk](symbol) tell me a price
 - a stock [csco](symbol) tell me a price
@@ -39423,6 +49023,18 @@
 - a ticker [jpm](symbol) tell me a price
 - a ticker [kmb](symbol) tell me a price
 - a ticker [ndaq](symbol) tell me a price
+- a [amzn](symbol) tell me a price
+- a [bk](symbol) tell me a price
+- a [csco](symbol) tell me a price
+- a [dow](symbol) tell me a price
+- a [ebay](symbol) tell me a price
+- a [fox](symbol) tell me a price
+- a [googl](symbol) tell me a price
+- a [hp](symbol) tell me a price
+- a [ibm](symbol) tell me a price
+- a [jpm](symbol) tell me a price
+- a [kmb](symbol) tell me a price
+- a [ndaq](symbol) tell me a price
 - for stock [amzn](symbol) tell me a price
 - for stock [bk](symbol) tell me a price
 - for stock [csco](symbol) tell me a price
@@ -39471,6 +49083,18 @@
 - for ticker [jpm](symbol) tell me a price
 - for ticker [kmb](symbol) tell me a price
 - for ticker [ndaq](symbol) tell me a price
+- for  [amzn](symbol) tell me a price
+- for  [bk](symbol) tell me a price
+- for  [csco](symbol) tell me a price
+- for  [dow](symbol) tell me a price
+- for  [ebay](symbol) tell me a price
+- for  [fox](symbol) tell me a price
+- for  [googl](symbol) tell me a price
+- for  [hp](symbol) tell me a price
+- for  [ibm](symbol) tell me a price
+- for  [jpm](symbol) tell me a price
+- for  [kmb](symbol) tell me a price
+- for  [ndaq](symbol) tell me a price
 - for the stock [amzn](symbol) tell me a price
 - for the stock [bk](symbol) tell me a price
 - for the stock [csco](symbol) tell me a price
@@ -39519,6 +49143,18 @@
 - for the ticker [jpm](symbol) tell me a price
 - for the ticker [kmb](symbol) tell me a price
 - for the ticker [ndaq](symbol) tell me a price
+- for the [amzn](symbol) tell me a price
+- for the [bk](symbol) tell me a price
+- for the [csco](symbol) tell me a price
+- for the [dow](symbol) tell me a price
+- for the [ebay](symbol) tell me a price
+- for the [fox](symbol) tell me a price
+- for the [googl](symbol) tell me a price
+- for the [hp](symbol) tell me a price
+- for the [ibm](symbol) tell me a price
+- for the [jpm](symbol) tell me a price
+- for the [kmb](symbol) tell me a price
+- for the [ndaq](symbol) tell me a price
 - for a stock [amzn](symbol) tell me a price
 - for a stock [bk](symbol) tell me a price
 - for a stock [csco](symbol) tell me a price
@@ -39567,6 +49203,18 @@
 - for a ticker [jpm](symbol) tell me a price
 - for a ticker [kmb](symbol) tell me a price
 - for a ticker [ndaq](symbol) tell me a price
+- for a [amzn](symbol) tell me a price
+- for a [bk](symbol) tell me a price
+- for a [csco](symbol) tell me a price
+- for a [dow](symbol) tell me a price
+- for a [ebay](symbol) tell me a price
+- for a [fox](symbol) tell me a price
+- for a [googl](symbol) tell me a price
+- for a [hp](symbol) tell me a price
+- for a [ibm](symbol) tell me a price
+- for a [jpm](symbol) tell me a price
+- for a [kmb](symbol) tell me a price
+- for a [ndaq](symbol) tell me a price
 - stock [amzn](symbol) tell me about a price
 - stock [bk](symbol) tell me about a price
 - stock [csco](symbol) tell me about a price
@@ -39615,6 +49263,18 @@
 - ticker [jpm](symbol) tell me about a price
 - ticker [kmb](symbol) tell me about a price
 - ticker [ndaq](symbol) tell me about a price
+- [amzn](symbol) tell me about a price
+- [bk](symbol) tell me about a price
+- [csco](symbol) tell me about a price
+- [dow](symbol) tell me about a price
+- [ebay](symbol) tell me about a price
+- [fox](symbol) tell me about a price
+- [googl](symbol) tell me about a price
+- [hp](symbol) tell me about a price
+- [ibm](symbol) tell me about a price
+- [jpm](symbol) tell me about a price
+- [kmb](symbol) tell me about a price
+- [ndaq](symbol) tell me about a price
 - the stock [amzn](symbol) tell me about a price
 - the stock [bk](symbol) tell me about a price
 - the stock [csco](symbol) tell me about a price
@@ -39663,6 +49323,18 @@
 - the ticker [jpm](symbol) tell me about a price
 - the ticker [kmb](symbol) tell me about a price
 - the ticker [ndaq](symbol) tell me about a price
+- the [amzn](symbol) tell me about a price
+- the [bk](symbol) tell me about a price
+- the [csco](symbol) tell me about a price
+- the [dow](symbol) tell me about a price
+- the [ebay](symbol) tell me about a price
+- the [fox](symbol) tell me about a price
+- the [googl](symbol) tell me about a price
+- the [hp](symbol) tell me about a price
+- the [ibm](symbol) tell me about a price
+- the [jpm](symbol) tell me about a price
+- the [kmb](symbol) tell me about a price
+- the [ndaq](symbol) tell me about a price
 - a stock [amzn](symbol) tell me about a price
 - a stock [bk](symbol) tell me about a price
 - a stock [csco](symbol) tell me about a price
@@ -39711,6 +49383,18 @@
 - a ticker [jpm](symbol) tell me about a price
 - a ticker [kmb](symbol) tell me about a price
 - a ticker [ndaq](symbol) tell me about a price
+- a [amzn](symbol) tell me about a price
+- a [bk](symbol) tell me about a price
+- a [csco](symbol) tell me about a price
+- a [dow](symbol) tell me about a price
+- a [ebay](symbol) tell me about a price
+- a [fox](symbol) tell me about a price
+- a [googl](symbol) tell me about a price
+- a [hp](symbol) tell me about a price
+- a [ibm](symbol) tell me about a price
+- a [jpm](symbol) tell me about a price
+- a [kmb](symbol) tell me about a price
+- a [ndaq](symbol) tell me about a price
 - for stock [amzn](symbol) tell me about a price
 - for stock [bk](symbol) tell me about a price
 - for stock [csco](symbol) tell me about a price
@@ -39759,6 +49443,18 @@
 - for ticker [jpm](symbol) tell me about a price
 - for ticker [kmb](symbol) tell me about a price
 - for ticker [ndaq](symbol) tell me about a price
+- for  [amzn](symbol) tell me about a price
+- for  [bk](symbol) tell me about a price
+- for  [csco](symbol) tell me about a price
+- for  [dow](symbol) tell me about a price
+- for  [ebay](symbol) tell me about a price
+- for  [fox](symbol) tell me about a price
+- for  [googl](symbol) tell me about a price
+- for  [hp](symbol) tell me about a price
+- for  [ibm](symbol) tell me about a price
+- for  [jpm](symbol) tell me about a price
+- for  [kmb](symbol) tell me about a price
+- for  [ndaq](symbol) tell me about a price
 - for the stock [amzn](symbol) tell me about a price
 - for the stock [bk](symbol) tell me about a price
 - for the stock [csco](symbol) tell me about a price
@@ -39807,6 +49503,18 @@
 - for the ticker [jpm](symbol) tell me about a price
 - for the ticker [kmb](symbol) tell me about a price
 - for the ticker [ndaq](symbol) tell me about a price
+- for the [amzn](symbol) tell me about a price
+- for the [bk](symbol) tell me about a price
+- for the [csco](symbol) tell me about a price
+- for the [dow](symbol) tell me about a price
+- for the [ebay](symbol) tell me about a price
+- for the [fox](symbol) tell me about a price
+- for the [googl](symbol) tell me about a price
+- for the [hp](symbol) tell me about a price
+- for the [ibm](symbol) tell me about a price
+- for the [jpm](symbol) tell me about a price
+- for the [kmb](symbol) tell me about a price
+- for the [ndaq](symbol) tell me about a price
 - for a stock [amzn](symbol) tell me about a price
 - for a stock [bk](symbol) tell me about a price
 - for a stock [csco](symbol) tell me about a price
@@ -39855,6 +49563,18 @@
 - for a ticker [jpm](symbol) tell me about a price
 - for a ticker [kmb](symbol) tell me about a price
 - for a ticker [ndaq](symbol) tell me about a price
+- for a [amzn](symbol) tell me about a price
+- for a [bk](symbol) tell me about a price
+- for a [csco](symbol) tell me about a price
+- for a [dow](symbol) tell me about a price
+- for a [ebay](symbol) tell me about a price
+- for a [fox](symbol) tell me about a price
+- for a [googl](symbol) tell me about a price
+- for a [hp](symbol) tell me about a price
+- for a [ibm](symbol) tell me about a price
+- for a [jpm](symbol) tell me about a price
+- for a [kmb](symbol) tell me about a price
+- for a [ndaq](symbol) tell me about a price
 - stock [amzn](symbol) show me a price
 - stock [bk](symbol) show me a price
 - stock [csco](symbol) show me a price
@@ -39903,6 +49623,18 @@
 - ticker [jpm](symbol) show me a price
 - ticker [kmb](symbol) show me a price
 - ticker [ndaq](symbol) show me a price
+- [amzn](symbol) show me a price
+- [bk](symbol) show me a price
+- [csco](symbol) show me a price
+- [dow](symbol) show me a price
+- [ebay](symbol) show me a price
+- [fox](symbol) show me a price
+- [googl](symbol) show me a price
+- [hp](symbol) show me a price
+- [ibm](symbol) show me a price
+- [jpm](symbol) show me a price
+- [kmb](symbol) show me a price
+- [ndaq](symbol) show me a price
 - the stock [amzn](symbol) show me a price
 - the stock [bk](symbol) show me a price
 - the stock [csco](symbol) show me a price
@@ -39951,6 +49683,18 @@
 - the ticker [jpm](symbol) show me a price
 - the ticker [kmb](symbol) show me a price
 - the ticker [ndaq](symbol) show me a price
+- the [amzn](symbol) show me a price
+- the [bk](symbol) show me a price
+- the [csco](symbol) show me a price
+- the [dow](symbol) show me a price
+- the [ebay](symbol) show me a price
+- the [fox](symbol) show me a price
+- the [googl](symbol) show me a price
+- the [hp](symbol) show me a price
+- the [ibm](symbol) show me a price
+- the [jpm](symbol) show me a price
+- the [kmb](symbol) show me a price
+- the [ndaq](symbol) show me a price
 - a stock [amzn](symbol) show me a price
 - a stock [bk](symbol) show me a price
 - a stock [csco](symbol) show me a price
@@ -39999,6 +49743,18 @@
 - a ticker [jpm](symbol) show me a price
 - a ticker [kmb](symbol) show me a price
 - a ticker [ndaq](symbol) show me a price
+- a [amzn](symbol) show me a price
+- a [bk](symbol) show me a price
+- a [csco](symbol) show me a price
+- a [dow](symbol) show me a price
+- a [ebay](symbol) show me a price
+- a [fox](symbol) show me a price
+- a [googl](symbol) show me a price
+- a [hp](symbol) show me a price
+- a [ibm](symbol) show me a price
+- a [jpm](symbol) show me a price
+- a [kmb](symbol) show me a price
+- a [ndaq](symbol) show me a price
 - for stock [amzn](symbol) show me a price
 - for stock [bk](symbol) show me a price
 - for stock [csco](symbol) show me a price
@@ -40047,6 +49803,18 @@
 - for ticker [jpm](symbol) show me a price
 - for ticker [kmb](symbol) show me a price
 - for ticker [ndaq](symbol) show me a price
+- for  [amzn](symbol) show me a price
+- for  [bk](symbol) show me a price
+- for  [csco](symbol) show me a price
+- for  [dow](symbol) show me a price
+- for  [ebay](symbol) show me a price
+- for  [fox](symbol) show me a price
+- for  [googl](symbol) show me a price
+- for  [hp](symbol) show me a price
+- for  [ibm](symbol) show me a price
+- for  [jpm](symbol) show me a price
+- for  [kmb](symbol) show me a price
+- for  [ndaq](symbol) show me a price
 - for the stock [amzn](symbol) show me a price
 - for the stock [bk](symbol) show me a price
 - for the stock [csco](symbol) show me a price
@@ -40095,6 +49863,18 @@
 - for the ticker [jpm](symbol) show me a price
 - for the ticker [kmb](symbol) show me a price
 - for the ticker [ndaq](symbol) show me a price
+- for the [amzn](symbol) show me a price
+- for the [bk](symbol) show me a price
+- for the [csco](symbol) show me a price
+- for the [dow](symbol) show me a price
+- for the [ebay](symbol) show me a price
+- for the [fox](symbol) show me a price
+- for the [googl](symbol) show me a price
+- for the [hp](symbol) show me a price
+- for the [ibm](symbol) show me a price
+- for the [jpm](symbol) show me a price
+- for the [kmb](symbol) show me a price
+- for the [ndaq](symbol) show me a price
 - for a stock [amzn](symbol) show me a price
 - for a stock [bk](symbol) show me a price
 - for a stock [csco](symbol) show me a price
@@ -40143,6 +49923,18 @@
 - for a ticker [jpm](symbol) show me a price
 - for a ticker [kmb](symbol) show me a price
 - for a ticker [ndaq](symbol) show me a price
+- for a [amzn](symbol) show me a price
+- for a [bk](symbol) show me a price
+- for a [csco](symbol) show me a price
+- for a [dow](symbol) show me a price
+- for a [ebay](symbol) show me a price
+- for a [fox](symbol) show me a price
+- for a [googl](symbol) show me a price
+- for a [hp](symbol) show me a price
+- for a [ibm](symbol) show me a price
+- for a [jpm](symbol) show me a price
+- for a [kmb](symbol) show me a price
+- for a [ndaq](symbol) show me a price
 - stock [amzn](symbol) can i see a price
 - stock [bk](symbol) can i see a price
 - stock [csco](symbol) can i see a price
@@ -40191,6 +49983,18 @@
 - ticker [jpm](symbol) can i see a price
 - ticker [kmb](symbol) can i see a price
 - ticker [ndaq](symbol) can i see a price
+- [amzn](symbol) can i see a price
+- [bk](symbol) can i see a price
+- [csco](symbol) can i see a price
+- [dow](symbol) can i see a price
+- [ebay](symbol) can i see a price
+- [fox](symbol) can i see a price
+- [googl](symbol) can i see a price
+- [hp](symbol) can i see a price
+- [ibm](symbol) can i see a price
+- [jpm](symbol) can i see a price
+- [kmb](symbol) can i see a price
+- [ndaq](symbol) can i see a price
 - the stock [amzn](symbol) can i see a price
 - the stock [bk](symbol) can i see a price
 - the stock [csco](symbol) can i see a price
@@ -40239,6 +50043,18 @@
 - the ticker [jpm](symbol) can i see a price
 - the ticker [kmb](symbol) can i see a price
 - the ticker [ndaq](symbol) can i see a price
+- the [amzn](symbol) can i see a price
+- the [bk](symbol) can i see a price
+- the [csco](symbol) can i see a price
+- the [dow](symbol) can i see a price
+- the [ebay](symbol) can i see a price
+- the [fox](symbol) can i see a price
+- the [googl](symbol) can i see a price
+- the [hp](symbol) can i see a price
+- the [ibm](symbol) can i see a price
+- the [jpm](symbol) can i see a price
+- the [kmb](symbol) can i see a price
+- the [ndaq](symbol) can i see a price
 - a stock [amzn](symbol) can i see a price
 - a stock [bk](symbol) can i see a price
 - a stock [csco](symbol) can i see a price
@@ -40287,6 +50103,18 @@
 - a ticker [jpm](symbol) can i see a price
 - a ticker [kmb](symbol) can i see a price
 - a ticker [ndaq](symbol) can i see a price
+- a [amzn](symbol) can i see a price
+- a [bk](symbol) can i see a price
+- a [csco](symbol) can i see a price
+- a [dow](symbol) can i see a price
+- a [ebay](symbol) can i see a price
+- a [fox](symbol) can i see a price
+- a [googl](symbol) can i see a price
+- a [hp](symbol) can i see a price
+- a [ibm](symbol) can i see a price
+- a [jpm](symbol) can i see a price
+- a [kmb](symbol) can i see a price
+- a [ndaq](symbol) can i see a price
 - for stock [amzn](symbol) can i see a price
 - for stock [bk](symbol) can i see a price
 - for stock [csco](symbol) can i see a price
@@ -40335,6 +50163,18 @@
 - for ticker [jpm](symbol) can i see a price
 - for ticker [kmb](symbol) can i see a price
 - for ticker [ndaq](symbol) can i see a price
+- for  [amzn](symbol) can i see a price
+- for  [bk](symbol) can i see a price
+- for  [csco](symbol) can i see a price
+- for  [dow](symbol) can i see a price
+- for  [ebay](symbol) can i see a price
+- for  [fox](symbol) can i see a price
+- for  [googl](symbol) can i see a price
+- for  [hp](symbol) can i see a price
+- for  [ibm](symbol) can i see a price
+- for  [jpm](symbol) can i see a price
+- for  [kmb](symbol) can i see a price
+- for  [ndaq](symbol) can i see a price
 - for the stock [amzn](symbol) can i see a price
 - for the stock [bk](symbol) can i see a price
 - for the stock [csco](symbol) can i see a price
@@ -40383,6 +50223,18 @@
 - for the ticker [jpm](symbol) can i see a price
 - for the ticker [kmb](symbol) can i see a price
 - for the ticker [ndaq](symbol) can i see a price
+- for the [amzn](symbol) can i see a price
+- for the [bk](symbol) can i see a price
+- for the [csco](symbol) can i see a price
+- for the [dow](symbol) can i see a price
+- for the [ebay](symbol) can i see a price
+- for the [fox](symbol) can i see a price
+- for the [googl](symbol) can i see a price
+- for the [hp](symbol) can i see a price
+- for the [ibm](symbol) can i see a price
+- for the [jpm](symbol) can i see a price
+- for the [kmb](symbol) can i see a price
+- for the [ndaq](symbol) can i see a price
 - for a stock [amzn](symbol) can i see a price
 - for a stock [bk](symbol) can i see a price
 - for a stock [csco](symbol) can i see a price
@@ -40431,6 +50283,18 @@
 - for a ticker [jpm](symbol) can i see a price
 - for a ticker [kmb](symbol) can i see a price
 - for a ticker [ndaq](symbol) can i see a price
+- for a [amzn](symbol) can i see a price
+- for a [bk](symbol) can i see a price
+- for a [csco](symbol) can i see a price
+- for a [dow](symbol) can i see a price
+- for a [ebay](symbol) can i see a price
+- for a [fox](symbol) can i see a price
+- for a [googl](symbol) can i see a price
+- for a [hp](symbol) can i see a price
+- for a [ibm](symbol) can i see a price
+- for a [jpm](symbol) can i see a price
+- for a [kmb](symbol) can i see a price
+- for a [ndaq](symbol) can i see a price
 - stock [amzn](symbol) what is a price
 - stock [bk](symbol) what is a price
 - stock [csco](symbol) what is a price
@@ -40479,6 +50343,18 @@
 - ticker [jpm](symbol) what is a price
 - ticker [kmb](symbol) what is a price
 - ticker [ndaq](symbol) what is a price
+- [amzn](symbol) what is a price
+- [bk](symbol) what is a price
+- [csco](symbol) what is a price
+- [dow](symbol) what is a price
+- [ebay](symbol) what is a price
+- [fox](symbol) what is a price
+- [googl](symbol) what is a price
+- [hp](symbol) what is a price
+- [ibm](symbol) what is a price
+- [jpm](symbol) what is a price
+- [kmb](symbol) what is a price
+- [ndaq](symbol) what is a price
 - the stock [amzn](symbol) what is a price
 - the stock [bk](symbol) what is a price
 - the stock [csco](symbol) what is a price
@@ -40527,6 +50403,18 @@
 - the ticker [jpm](symbol) what is a price
 - the ticker [kmb](symbol) what is a price
 - the ticker [ndaq](symbol) what is a price
+- the [amzn](symbol) what is a price
+- the [bk](symbol) what is a price
+- the [csco](symbol) what is a price
+- the [dow](symbol) what is a price
+- the [ebay](symbol) what is a price
+- the [fox](symbol) what is a price
+- the [googl](symbol) what is a price
+- the [hp](symbol) what is a price
+- the [ibm](symbol) what is a price
+- the [jpm](symbol) what is a price
+- the [kmb](symbol) what is a price
+- the [ndaq](symbol) what is a price
 - a stock [amzn](symbol) what is a price
 - a stock [bk](symbol) what is a price
 - a stock [csco](symbol) what is a price
@@ -40575,6 +50463,18 @@
 - a ticker [jpm](symbol) what is a price
 - a ticker [kmb](symbol) what is a price
 - a ticker [ndaq](symbol) what is a price
+- a [amzn](symbol) what is a price
+- a [bk](symbol) what is a price
+- a [csco](symbol) what is a price
+- a [dow](symbol) what is a price
+- a [ebay](symbol) what is a price
+- a [fox](symbol) what is a price
+- a [googl](symbol) what is a price
+- a [hp](symbol) what is a price
+- a [ibm](symbol) what is a price
+- a [jpm](symbol) what is a price
+- a [kmb](symbol) what is a price
+- a [ndaq](symbol) what is a price
 - for stock [amzn](symbol) what is a price
 - for stock [bk](symbol) what is a price
 - for stock [csco](symbol) what is a price
@@ -40623,6 +50523,18 @@
 - for ticker [jpm](symbol) what is a price
 - for ticker [kmb](symbol) what is a price
 - for ticker [ndaq](symbol) what is a price
+- for  [amzn](symbol) what is a price
+- for  [bk](symbol) what is a price
+- for  [csco](symbol) what is a price
+- for  [dow](symbol) what is a price
+- for  [ebay](symbol) what is a price
+- for  [fox](symbol) what is a price
+- for  [googl](symbol) what is a price
+- for  [hp](symbol) what is a price
+- for  [ibm](symbol) what is a price
+- for  [jpm](symbol) what is a price
+- for  [kmb](symbol) what is a price
+- for  [ndaq](symbol) what is a price
 - for the stock [amzn](symbol) what is a price
 - for the stock [bk](symbol) what is a price
 - for the stock [csco](symbol) what is a price
@@ -40671,6 +50583,18 @@
 - for the ticker [jpm](symbol) what is a price
 - for the ticker [kmb](symbol) what is a price
 - for the ticker [ndaq](symbol) what is a price
+- for the [amzn](symbol) what is a price
+- for the [bk](symbol) what is a price
+- for the [csco](symbol) what is a price
+- for the [dow](symbol) what is a price
+- for the [ebay](symbol) what is a price
+- for the [fox](symbol) what is a price
+- for the [googl](symbol) what is a price
+- for the [hp](symbol) what is a price
+- for the [ibm](symbol) what is a price
+- for the [jpm](symbol) what is a price
+- for the [kmb](symbol) what is a price
+- for the [ndaq](symbol) what is a price
 - for a stock [amzn](symbol) what is a price
 - for a stock [bk](symbol) what is a price
 - for a stock [csco](symbol) what is a price
@@ -40719,6 +50643,18 @@
 - for a ticker [jpm](symbol) what is a price
 - for a ticker [kmb](symbol) what is a price
 - for a ticker [ndaq](symbol) what is a price
+- for a [amzn](symbol) what is a price
+- for a [bk](symbol) what is a price
+- for a [csco](symbol) what is a price
+- for a [dow](symbol) what is a price
+- for a [ebay](symbol) what is a price
+- for a [fox](symbol) what is a price
+- for a [googl](symbol) what is a price
+- for a [hp](symbol) what is a price
+- for a [ibm](symbol) what is a price
+- for a [jpm](symbol) what is a price
+- for a [kmb](symbol) what is a price
+- for a [ndaq](symbol) what is a price
 - stock [amzn](symbol) what's a price
 - stock [bk](symbol) what's a price
 - stock [csco](symbol) what's a price
@@ -40767,6 +50703,18 @@
 - ticker [jpm](symbol) what's a price
 - ticker [kmb](symbol) what's a price
 - ticker [ndaq](symbol) what's a price
+- [amzn](symbol) what's a price
+- [bk](symbol) what's a price
+- [csco](symbol) what's a price
+- [dow](symbol) what's a price
+- [ebay](symbol) what's a price
+- [fox](symbol) what's a price
+- [googl](symbol) what's a price
+- [hp](symbol) what's a price
+- [ibm](symbol) what's a price
+- [jpm](symbol) what's a price
+- [kmb](symbol) what's a price
+- [ndaq](symbol) what's a price
 - the stock [amzn](symbol) what's a price
 - the stock [bk](symbol) what's a price
 - the stock [csco](symbol) what's a price
@@ -40815,6 +50763,18 @@
 - the ticker [jpm](symbol) what's a price
 - the ticker [kmb](symbol) what's a price
 - the ticker [ndaq](symbol) what's a price
+- the [amzn](symbol) what's a price
+- the [bk](symbol) what's a price
+- the [csco](symbol) what's a price
+- the [dow](symbol) what's a price
+- the [ebay](symbol) what's a price
+- the [fox](symbol) what's a price
+- the [googl](symbol) what's a price
+- the [hp](symbol) what's a price
+- the [ibm](symbol) what's a price
+- the [jpm](symbol) what's a price
+- the [kmb](symbol) what's a price
+- the [ndaq](symbol) what's a price
 - a stock [amzn](symbol) what's a price
 - a stock [bk](symbol) what's a price
 - a stock [csco](symbol) what's a price
@@ -40863,6 +50823,18 @@
 - a ticker [jpm](symbol) what's a price
 - a ticker [kmb](symbol) what's a price
 - a ticker [ndaq](symbol) what's a price
+- a [amzn](symbol) what's a price
+- a [bk](symbol) what's a price
+- a [csco](symbol) what's a price
+- a [dow](symbol) what's a price
+- a [ebay](symbol) what's a price
+- a [fox](symbol) what's a price
+- a [googl](symbol) what's a price
+- a [hp](symbol) what's a price
+- a [ibm](symbol) what's a price
+- a [jpm](symbol) what's a price
+- a [kmb](symbol) what's a price
+- a [ndaq](symbol) what's a price
 - for stock [amzn](symbol) what's a price
 - for stock [bk](symbol) what's a price
 - for stock [csco](symbol) what's a price
@@ -40911,6 +50883,18 @@
 - for ticker [jpm](symbol) what's a price
 - for ticker [kmb](symbol) what's a price
 - for ticker [ndaq](symbol) what's a price
+- for  [amzn](symbol) what's a price
+- for  [bk](symbol) what's a price
+- for  [csco](symbol) what's a price
+- for  [dow](symbol) what's a price
+- for  [ebay](symbol) what's a price
+- for  [fox](symbol) what's a price
+- for  [googl](symbol) what's a price
+- for  [hp](symbol) what's a price
+- for  [ibm](symbol) what's a price
+- for  [jpm](symbol) what's a price
+- for  [kmb](symbol) what's a price
+- for  [ndaq](symbol) what's a price
 - for the stock [amzn](symbol) what's a price
 - for the stock [bk](symbol) what's a price
 - for the stock [csco](symbol) what's a price
@@ -40959,6 +50943,18 @@
 - for the ticker [jpm](symbol) what's a price
 - for the ticker [kmb](symbol) what's a price
 - for the ticker [ndaq](symbol) what's a price
+- for the [amzn](symbol) what's a price
+- for the [bk](symbol) what's a price
+- for the [csco](symbol) what's a price
+- for the [dow](symbol) what's a price
+- for the [ebay](symbol) what's a price
+- for the [fox](symbol) what's a price
+- for the [googl](symbol) what's a price
+- for the [hp](symbol) what's a price
+- for the [ibm](symbol) what's a price
+- for the [jpm](symbol) what's a price
+- for the [kmb](symbol) what's a price
+- for the [ndaq](symbol) what's a price
 - for a stock [amzn](symbol) what's a price
 - for a stock [bk](symbol) what's a price
 - for a stock [csco](symbol) what's a price
@@ -41007,6 +51003,18 @@
 - for a ticker [jpm](symbol) what's a price
 - for a ticker [kmb](symbol) what's a price
 - for a ticker [ndaq](symbol) what's a price
+- for a [amzn](symbol) what's a price
+- for a [bk](symbol) what's a price
+- for a [csco](symbol) what's a price
+- for a [dow](symbol) what's a price
+- for a [ebay](symbol) what's a price
+- for a [fox](symbol) what's a price
+- for a [googl](symbol) what's a price
+- for a [hp](symbol) what's a price
+- for a [ibm](symbol) what's a price
+- for a [jpm](symbol) what's a price
+- for a [kmb](symbol) what's a price
+- for a [ndaq](symbol) what's a price
 - stock [amzn](symbol) show a price
 - stock [bk](symbol) show a price
 - stock [csco](symbol) show a price
@@ -41055,6 +51063,18 @@
 - ticker [jpm](symbol) show a price
 - ticker [kmb](symbol) show a price
 - ticker [ndaq](symbol) show a price
+- [amzn](symbol) show a price
+- [bk](symbol) show a price
+- [csco](symbol) show a price
+- [dow](symbol) show a price
+- [ebay](symbol) show a price
+- [fox](symbol) show a price
+- [googl](symbol) show a price
+- [hp](symbol) show a price
+- [ibm](symbol) show a price
+- [jpm](symbol) show a price
+- [kmb](symbol) show a price
+- [ndaq](symbol) show a price
 - the stock [amzn](symbol) show a price
 - the stock [bk](symbol) show a price
 - the stock [csco](symbol) show a price
@@ -41103,6 +51123,18 @@
 - the ticker [jpm](symbol) show a price
 - the ticker [kmb](symbol) show a price
 - the ticker [ndaq](symbol) show a price
+- the [amzn](symbol) show a price
+- the [bk](symbol) show a price
+- the [csco](symbol) show a price
+- the [dow](symbol) show a price
+- the [ebay](symbol) show a price
+- the [fox](symbol) show a price
+- the [googl](symbol) show a price
+- the [hp](symbol) show a price
+- the [ibm](symbol) show a price
+- the [jpm](symbol) show a price
+- the [kmb](symbol) show a price
+- the [ndaq](symbol) show a price
 - a stock [amzn](symbol) show a price
 - a stock [bk](symbol) show a price
 - a stock [csco](symbol) show a price
@@ -41151,6 +51183,18 @@
 - a ticker [jpm](symbol) show a price
 - a ticker [kmb](symbol) show a price
 - a ticker [ndaq](symbol) show a price
+- a [amzn](symbol) show a price
+- a [bk](symbol) show a price
+- a [csco](symbol) show a price
+- a [dow](symbol) show a price
+- a [ebay](symbol) show a price
+- a [fox](symbol) show a price
+- a [googl](symbol) show a price
+- a [hp](symbol) show a price
+- a [ibm](symbol) show a price
+- a [jpm](symbol) show a price
+- a [kmb](symbol) show a price
+- a [ndaq](symbol) show a price
 - for stock [amzn](symbol) show a price
 - for stock [bk](symbol) show a price
 - for stock [csco](symbol) show a price
@@ -41199,6 +51243,18 @@
 - for ticker [jpm](symbol) show a price
 - for ticker [kmb](symbol) show a price
 - for ticker [ndaq](symbol) show a price
+- for  [amzn](symbol) show a price
+- for  [bk](symbol) show a price
+- for  [csco](symbol) show a price
+- for  [dow](symbol) show a price
+- for  [ebay](symbol) show a price
+- for  [fox](symbol) show a price
+- for  [googl](symbol) show a price
+- for  [hp](symbol) show a price
+- for  [ibm](symbol) show a price
+- for  [jpm](symbol) show a price
+- for  [kmb](symbol) show a price
+- for  [ndaq](symbol) show a price
 - for the stock [amzn](symbol) show a price
 - for the stock [bk](symbol) show a price
 - for the stock [csco](symbol) show a price
@@ -41247,6 +51303,18 @@
 - for the ticker [jpm](symbol) show a price
 - for the ticker [kmb](symbol) show a price
 - for the ticker [ndaq](symbol) show a price
+- for the [amzn](symbol) show a price
+- for the [bk](symbol) show a price
+- for the [csco](symbol) show a price
+- for the [dow](symbol) show a price
+- for the [ebay](symbol) show a price
+- for the [fox](symbol) show a price
+- for the [googl](symbol) show a price
+- for the [hp](symbol) show a price
+- for the [ibm](symbol) show a price
+- for the [jpm](symbol) show a price
+- for the [kmb](symbol) show a price
+- for the [ndaq](symbol) show a price
 - for a stock [amzn](symbol) show a price
 - for a stock [bk](symbol) show a price
 - for a stock [csco](symbol) show a price
@@ -41295,6 +51363,18 @@
 - for a ticker [jpm](symbol) show a price
 - for a ticker [kmb](symbol) show a price
 - for a ticker [ndaq](symbol) show a price
+- for a [amzn](symbol) show a price
+- for a [bk](symbol) show a price
+- for a [csco](symbol) show a price
+- for a [dow](symbol) show a price
+- for a [ebay](symbol) show a price
+- for a [fox](symbol) show a price
+- for a [googl](symbol) show a price
+- for a [hp](symbol) show a price
+- for a [ibm](symbol) show a price
+- for a [jpm](symbol) show a price
+- for a [kmb](symbol) show a price
+- for a [ndaq](symbol) show a price
 - stock [amzn](symbol) tell me
 - stock [bk](symbol) tell me
 - stock [csco](symbol) tell me
@@ -41343,6 +51423,18 @@
 - ticker [jpm](symbol) tell me
 - ticker [kmb](symbol) tell me
 - ticker [ndaq](symbol) tell me
+- [amzn](symbol) tell me
+- [bk](symbol) tell me
+- [csco](symbol) tell me
+- [dow](symbol) tell me
+- [ebay](symbol) tell me
+- [fox](symbol) tell me
+- [googl](symbol) tell me
+- [hp](symbol) tell me
+- [ibm](symbol) tell me
+- [jpm](symbol) tell me
+- [kmb](symbol) tell me
+- [ndaq](symbol) tell me
 - the stock [amzn](symbol) tell me
 - the stock [bk](symbol) tell me
 - the stock [csco](symbol) tell me
@@ -41391,6 +51483,18 @@
 - the ticker [jpm](symbol) tell me
 - the ticker [kmb](symbol) tell me
 - the ticker [ndaq](symbol) tell me
+- the [amzn](symbol) tell me
+- the [bk](symbol) tell me
+- the [csco](symbol) tell me
+- the [dow](symbol) tell me
+- the [ebay](symbol) tell me
+- the [fox](symbol) tell me
+- the [googl](symbol) tell me
+- the [hp](symbol) tell me
+- the [ibm](symbol) tell me
+- the [jpm](symbol) tell me
+- the [kmb](symbol) tell me
+- the [ndaq](symbol) tell me
 - a stock [amzn](symbol) tell me
 - a stock [bk](symbol) tell me
 - a stock [csco](symbol) tell me
@@ -41439,6 +51543,18 @@
 - a ticker [jpm](symbol) tell me
 - a ticker [kmb](symbol) tell me
 - a ticker [ndaq](symbol) tell me
+- a [amzn](symbol) tell me
+- a [bk](symbol) tell me
+- a [csco](symbol) tell me
+- a [dow](symbol) tell me
+- a [ebay](symbol) tell me
+- a [fox](symbol) tell me
+- a [googl](symbol) tell me
+- a [hp](symbol) tell me
+- a [ibm](symbol) tell me
+- a [jpm](symbol) tell me
+- a [kmb](symbol) tell me
+- a [ndaq](symbol) tell me
 - for stock [amzn](symbol) tell me
 - for stock [bk](symbol) tell me
 - for stock [csco](symbol) tell me
@@ -41487,6 +51603,18 @@
 - for ticker [jpm](symbol) tell me
 - for ticker [kmb](symbol) tell me
 - for ticker [ndaq](symbol) tell me
+- for  [amzn](symbol) tell me
+- for  [bk](symbol) tell me
+- for  [csco](symbol) tell me
+- for  [dow](symbol) tell me
+- for  [ebay](symbol) tell me
+- for  [fox](symbol) tell me
+- for  [googl](symbol) tell me
+- for  [hp](symbol) tell me
+- for  [ibm](symbol) tell me
+- for  [jpm](symbol) tell me
+- for  [kmb](symbol) tell me
+- for  [ndaq](symbol) tell me
 - for the stock [amzn](symbol) tell me
 - for the stock [bk](symbol) tell me
 - for the stock [csco](symbol) tell me
@@ -41535,6 +51663,18 @@
 - for the ticker [jpm](symbol) tell me
 - for the ticker [kmb](symbol) tell me
 - for the ticker [ndaq](symbol) tell me
+- for the [amzn](symbol) tell me
+- for the [bk](symbol) tell me
+- for the [csco](symbol) tell me
+- for the [dow](symbol) tell me
+- for the [ebay](symbol) tell me
+- for the [fox](symbol) tell me
+- for the [googl](symbol) tell me
+- for the [hp](symbol) tell me
+- for the [ibm](symbol) tell me
+- for the [jpm](symbol) tell me
+- for the [kmb](symbol) tell me
+- for the [ndaq](symbol) tell me
 - for a stock [amzn](symbol) tell me
 - for a stock [bk](symbol) tell me
 - for a stock [csco](symbol) tell me
@@ -41583,6 +51723,18 @@
 - for a ticker [jpm](symbol) tell me
 - for a ticker [kmb](symbol) tell me
 - for a ticker [ndaq](symbol) tell me
+- for a [amzn](symbol) tell me
+- for a [bk](symbol) tell me
+- for a [csco](symbol) tell me
+- for a [dow](symbol) tell me
+- for a [ebay](symbol) tell me
+- for a [fox](symbol) tell me
+- for a [googl](symbol) tell me
+- for a [hp](symbol) tell me
+- for a [ibm](symbol) tell me
+- for a [jpm](symbol) tell me
+- for a [kmb](symbol) tell me
+- for a [ndaq](symbol) tell me
 - stock [amzn](symbol) price tell me
 - stock [bk](symbol) price tell me
 - stock [csco](symbol) price tell me
@@ -41631,6 +51783,18 @@
 - ticker [jpm](symbol) price tell me
 - ticker [kmb](symbol) price tell me
 - ticker [ndaq](symbol) price tell me
+- [amzn](symbol) price tell me
+- [bk](symbol) price tell me
+- [csco](symbol) price tell me
+- [dow](symbol) price tell me
+- [ebay](symbol) price tell me
+- [fox](symbol) price tell me
+- [googl](symbol) price tell me
+- [hp](symbol) price tell me
+- [ibm](symbol) price tell me
+- [jpm](symbol) price tell me
+- [kmb](symbol) price tell me
+- [ndaq](symbol) price tell me
 - the stock [amzn](symbol) price tell me
 - the stock [bk](symbol) price tell me
 - the stock [csco](symbol) price tell me
@@ -41679,6 +51843,18 @@
 - the ticker [jpm](symbol) price tell me
 - the ticker [kmb](symbol) price tell me
 - the ticker [ndaq](symbol) price tell me
+- the [amzn](symbol) price tell me
+- the [bk](symbol) price tell me
+- the [csco](symbol) price tell me
+- the [dow](symbol) price tell me
+- the [ebay](symbol) price tell me
+- the [fox](symbol) price tell me
+- the [googl](symbol) price tell me
+- the [hp](symbol) price tell me
+- the [ibm](symbol) price tell me
+- the [jpm](symbol) price tell me
+- the [kmb](symbol) price tell me
+- the [ndaq](symbol) price tell me
 - a stock [amzn](symbol) price tell me
 - a stock [bk](symbol) price tell me
 - a stock [csco](symbol) price tell me
@@ -41727,6 +51903,18 @@
 - a ticker [jpm](symbol) price tell me
 - a ticker [kmb](symbol) price tell me
 - a ticker [ndaq](symbol) price tell me
+- a [amzn](symbol) price tell me
+- a [bk](symbol) price tell me
+- a [csco](symbol) price tell me
+- a [dow](symbol) price tell me
+- a [ebay](symbol) price tell me
+- a [fox](symbol) price tell me
+- a [googl](symbol) price tell me
+- a [hp](symbol) price tell me
+- a [ibm](symbol) price tell me
+- a [jpm](symbol) price tell me
+- a [kmb](symbol) price tell me
+- a [ndaq](symbol) price tell me
 - for stock [amzn](symbol) price tell me
 - for stock [bk](symbol) price tell me
 - for stock [csco](symbol) price tell me
@@ -41775,6 +51963,18 @@
 - for ticker [jpm](symbol) price tell me
 - for ticker [kmb](symbol) price tell me
 - for ticker [ndaq](symbol) price tell me
+- for  [amzn](symbol) price tell me
+- for  [bk](symbol) price tell me
+- for  [csco](symbol) price tell me
+- for  [dow](symbol) price tell me
+- for  [ebay](symbol) price tell me
+- for  [fox](symbol) price tell me
+- for  [googl](symbol) price tell me
+- for  [hp](symbol) price tell me
+- for  [ibm](symbol) price tell me
+- for  [jpm](symbol) price tell me
+- for  [kmb](symbol) price tell me
+- for  [ndaq](symbol) price tell me
 - for the stock [amzn](symbol) price tell me
 - for the stock [bk](symbol) price tell me
 - for the stock [csco](symbol) price tell me
@@ -41823,6 +52023,18 @@
 - for the ticker [jpm](symbol) price tell me
 - for the ticker [kmb](symbol) price tell me
 - for the ticker [ndaq](symbol) price tell me
+- for the [amzn](symbol) price tell me
+- for the [bk](symbol) price tell me
+- for the [csco](symbol) price tell me
+- for the [dow](symbol) price tell me
+- for the [ebay](symbol) price tell me
+- for the [fox](symbol) price tell me
+- for the [googl](symbol) price tell me
+- for the [hp](symbol) price tell me
+- for the [ibm](symbol) price tell me
+- for the [jpm](symbol) price tell me
+- for the [kmb](symbol) price tell me
+- for the [ndaq](symbol) price tell me
 - for a stock [amzn](symbol) price tell me
 - for a stock [bk](symbol) price tell me
 - for a stock [csco](symbol) price tell me
@@ -41871,6 +52083,18 @@
 - for a ticker [jpm](symbol) price tell me
 - for a ticker [kmb](symbol) price tell me
 - for a ticker [ndaq](symbol) price tell me
+- for a [amzn](symbol) price tell me
+- for a [bk](symbol) price tell me
+- for a [csco](symbol) price tell me
+- for a [dow](symbol) price tell me
+- for a [ebay](symbol) price tell me
+- for a [fox](symbol) price tell me
+- for a [googl](symbol) price tell me
+- for a [hp](symbol) price tell me
+- for a [ibm](symbol) price tell me
+- for a [jpm](symbol) price tell me
+- for a [kmb](symbol) price tell me
+- for a [ndaq](symbol) price tell me
 - stock [amzn](symbol) the price tell me
 - stock [bk](symbol) the price tell me
 - stock [csco](symbol) the price tell me
@@ -41919,6 +52143,18 @@
 - ticker [jpm](symbol) the price tell me
 - ticker [kmb](symbol) the price tell me
 - ticker [ndaq](symbol) the price tell me
+- [amzn](symbol) the price tell me
+- [bk](symbol) the price tell me
+- [csco](symbol) the price tell me
+- [dow](symbol) the price tell me
+- [ebay](symbol) the price tell me
+- [fox](symbol) the price tell me
+- [googl](symbol) the price tell me
+- [hp](symbol) the price tell me
+- [ibm](symbol) the price tell me
+- [jpm](symbol) the price tell me
+- [kmb](symbol) the price tell me
+- [ndaq](symbol) the price tell me
 - the stock [amzn](symbol) the price tell me
 - the stock [bk](symbol) the price tell me
 - the stock [csco](symbol) the price tell me
@@ -41967,6 +52203,18 @@
 - the ticker [jpm](symbol) the price tell me
 - the ticker [kmb](symbol) the price tell me
 - the ticker [ndaq](symbol) the price tell me
+- the [amzn](symbol) the price tell me
+- the [bk](symbol) the price tell me
+- the [csco](symbol) the price tell me
+- the [dow](symbol) the price tell me
+- the [ebay](symbol) the price tell me
+- the [fox](symbol) the price tell me
+- the [googl](symbol) the price tell me
+- the [hp](symbol) the price tell me
+- the [ibm](symbol) the price tell me
+- the [jpm](symbol) the price tell me
+- the [kmb](symbol) the price tell me
+- the [ndaq](symbol) the price tell me
 - a stock [amzn](symbol) the price tell me
 - a stock [bk](symbol) the price tell me
 - a stock [csco](symbol) the price tell me
@@ -42015,6 +52263,18 @@
 - a ticker [jpm](symbol) the price tell me
 - a ticker [kmb](symbol) the price tell me
 - a ticker [ndaq](symbol) the price tell me
+- a [amzn](symbol) the price tell me
+- a [bk](symbol) the price tell me
+- a [csco](symbol) the price tell me
+- a [dow](symbol) the price tell me
+- a [ebay](symbol) the price tell me
+- a [fox](symbol) the price tell me
+- a [googl](symbol) the price tell me
+- a [hp](symbol) the price tell me
+- a [ibm](symbol) the price tell me
+- a [jpm](symbol) the price tell me
+- a [kmb](symbol) the price tell me
+- a [ndaq](symbol) the price tell me
 - for stock [amzn](symbol) the price tell me
 - for stock [bk](symbol) the price tell me
 - for stock [csco](symbol) the price tell me
@@ -42063,6 +52323,18 @@
 - for ticker [jpm](symbol) the price tell me
 - for ticker [kmb](symbol) the price tell me
 - for ticker [ndaq](symbol) the price tell me
+- for  [amzn](symbol) the price tell me
+- for  [bk](symbol) the price tell me
+- for  [csco](symbol) the price tell me
+- for  [dow](symbol) the price tell me
+- for  [ebay](symbol) the price tell me
+- for  [fox](symbol) the price tell me
+- for  [googl](symbol) the price tell me
+- for  [hp](symbol) the price tell me
+- for  [ibm](symbol) the price tell me
+- for  [jpm](symbol) the price tell me
+- for  [kmb](symbol) the price tell me
+- for  [ndaq](symbol) the price tell me
 - for the stock [amzn](symbol) the price tell me
 - for the stock [bk](symbol) the price tell me
 - for the stock [csco](symbol) the price tell me
@@ -42111,6 +52383,18 @@
 - for the ticker [jpm](symbol) the price tell me
 - for the ticker [kmb](symbol) the price tell me
 - for the ticker [ndaq](symbol) the price tell me
+- for the [amzn](symbol) the price tell me
+- for the [bk](symbol) the price tell me
+- for the [csco](symbol) the price tell me
+- for the [dow](symbol) the price tell me
+- for the [ebay](symbol) the price tell me
+- for the [fox](symbol) the price tell me
+- for the [googl](symbol) the price tell me
+- for the [hp](symbol) the price tell me
+- for the [ibm](symbol) the price tell me
+- for the [jpm](symbol) the price tell me
+- for the [kmb](symbol) the price tell me
+- for the [ndaq](symbol) the price tell me
 - for a stock [amzn](symbol) the price tell me
 - for a stock [bk](symbol) the price tell me
 - for a stock [csco](symbol) the price tell me
@@ -42159,6 +52443,18 @@
 - for a ticker [jpm](symbol) the price tell me
 - for a ticker [kmb](symbol) the price tell me
 - for a ticker [ndaq](symbol) the price tell me
+- for a [amzn](symbol) the price tell me
+- for a [bk](symbol) the price tell me
+- for a [csco](symbol) the price tell me
+- for a [dow](symbol) the price tell me
+- for a [ebay](symbol) the price tell me
+- for a [fox](symbol) the price tell me
+- for a [googl](symbol) the price tell me
+- for a [hp](symbol) the price tell me
+- for a [ibm](symbol) the price tell me
+- for a [jpm](symbol) the price tell me
+- for a [kmb](symbol) the price tell me
+- for a [ndaq](symbol) the price tell me
 - stock [amzn](symbol) a price tell me
 - stock [bk](symbol) a price tell me
 - stock [csco](symbol) a price tell me
@@ -42207,6 +52503,18 @@
 - ticker [jpm](symbol) a price tell me
 - ticker [kmb](symbol) a price tell me
 - ticker [ndaq](symbol) a price tell me
+- [amzn](symbol) a price tell me
+- [bk](symbol) a price tell me
+- [csco](symbol) a price tell me
+- [dow](symbol) a price tell me
+- [ebay](symbol) a price tell me
+- [fox](symbol) a price tell me
+- [googl](symbol) a price tell me
+- [hp](symbol) a price tell me
+- [ibm](symbol) a price tell me
+- [jpm](symbol) a price tell me
+- [kmb](symbol) a price tell me
+- [ndaq](symbol) a price tell me
 - the stock [amzn](symbol) a price tell me
 - the stock [bk](symbol) a price tell me
 - the stock [csco](symbol) a price tell me
@@ -42255,6 +52563,18 @@
 - the ticker [jpm](symbol) a price tell me
 - the ticker [kmb](symbol) a price tell me
 - the ticker [ndaq](symbol) a price tell me
+- the [amzn](symbol) a price tell me
+- the [bk](symbol) a price tell me
+- the [csco](symbol) a price tell me
+- the [dow](symbol) a price tell me
+- the [ebay](symbol) a price tell me
+- the [fox](symbol) a price tell me
+- the [googl](symbol) a price tell me
+- the [hp](symbol) a price tell me
+- the [ibm](symbol) a price tell me
+- the [jpm](symbol) a price tell me
+- the [kmb](symbol) a price tell me
+- the [ndaq](symbol) a price tell me
 - a stock [amzn](symbol) a price tell me
 - a stock [bk](symbol) a price tell me
 - a stock [csco](symbol) a price tell me
@@ -42303,6 +52623,18 @@
 - a ticker [jpm](symbol) a price tell me
 - a ticker [kmb](symbol) a price tell me
 - a ticker [ndaq](symbol) a price tell me
+- a [amzn](symbol) a price tell me
+- a [bk](symbol) a price tell me
+- a [csco](symbol) a price tell me
+- a [dow](symbol) a price tell me
+- a [ebay](symbol) a price tell me
+- a [fox](symbol) a price tell me
+- a [googl](symbol) a price tell me
+- a [hp](symbol) a price tell me
+- a [ibm](symbol) a price tell me
+- a [jpm](symbol) a price tell me
+- a [kmb](symbol) a price tell me
+- a [ndaq](symbol) a price tell me
 - for stock [amzn](symbol) a price tell me
 - for stock [bk](symbol) a price tell me
 - for stock [csco](symbol) a price tell me
@@ -42351,6 +52683,18 @@
 - for ticker [jpm](symbol) a price tell me
 - for ticker [kmb](symbol) a price tell me
 - for ticker [ndaq](symbol) a price tell me
+- for  [amzn](symbol) a price tell me
+- for  [bk](symbol) a price tell me
+- for  [csco](symbol) a price tell me
+- for  [dow](symbol) a price tell me
+- for  [ebay](symbol) a price tell me
+- for  [fox](symbol) a price tell me
+- for  [googl](symbol) a price tell me
+- for  [hp](symbol) a price tell me
+- for  [ibm](symbol) a price tell me
+- for  [jpm](symbol) a price tell me
+- for  [kmb](symbol) a price tell me
+- for  [ndaq](symbol) a price tell me
 - for the stock [amzn](symbol) a price tell me
 - for the stock [bk](symbol) a price tell me
 - for the stock [csco](symbol) a price tell me
@@ -42399,6 +52743,18 @@
 - for the ticker [jpm](symbol) a price tell me
 - for the ticker [kmb](symbol) a price tell me
 - for the ticker [ndaq](symbol) a price tell me
+- for the [amzn](symbol) a price tell me
+- for the [bk](symbol) a price tell me
+- for the [csco](symbol) a price tell me
+- for the [dow](symbol) a price tell me
+- for the [ebay](symbol) a price tell me
+- for the [fox](symbol) a price tell me
+- for the [googl](symbol) a price tell me
+- for the [hp](symbol) a price tell me
+- for the [ibm](symbol) a price tell me
+- for the [jpm](symbol) a price tell me
+- for the [kmb](symbol) a price tell me
+- for the [ndaq](symbol) a price tell me
 - for a stock [amzn](symbol) a price tell me
 - for a stock [bk](symbol) a price tell me
 - for a stock [csco](symbol) a price tell me
@@ -42447,6 +52803,18 @@
 - for a ticker [jpm](symbol) a price tell me
 - for a ticker [kmb](symbol) a price tell me
 - for a ticker [ndaq](symbol) a price tell me
+- for a [amzn](symbol) a price tell me
+- for a [bk](symbol) a price tell me
+- for a [csco](symbol) a price tell me
+- for a [dow](symbol) a price tell me
+- for a [ebay](symbol) a price tell me
+- for a [fox](symbol) a price tell me
+- for a [googl](symbol) a price tell me
+- for a [hp](symbol) a price tell me
+- for a [ibm](symbol) a price tell me
+- for a [jpm](symbol) a price tell me
+- for a [kmb](symbol) a price tell me
+- for a [ndaq](symbol) a price tell me
 - stock [amzn](symbol) tell me about
 - stock [bk](symbol) tell me about
 - stock [csco](symbol) tell me about
@@ -42495,6 +52863,18 @@
 - ticker [jpm](symbol) tell me about
 - ticker [kmb](symbol) tell me about
 - ticker [ndaq](symbol) tell me about
+- [amzn](symbol) tell me about
+- [bk](symbol) tell me about
+- [csco](symbol) tell me about
+- [dow](symbol) tell me about
+- [ebay](symbol) tell me about
+- [fox](symbol) tell me about
+- [googl](symbol) tell me about
+- [hp](symbol) tell me about
+- [ibm](symbol) tell me about
+- [jpm](symbol) tell me about
+- [kmb](symbol) tell me about
+- [ndaq](symbol) tell me about
 - the stock [amzn](symbol) tell me about
 - the stock [bk](symbol) tell me about
 - the stock [csco](symbol) tell me about
@@ -42543,6 +52923,18 @@
 - the ticker [jpm](symbol) tell me about
 - the ticker [kmb](symbol) tell me about
 - the ticker [ndaq](symbol) tell me about
+- the [amzn](symbol) tell me about
+- the [bk](symbol) tell me about
+- the [csco](symbol) tell me about
+- the [dow](symbol) tell me about
+- the [ebay](symbol) tell me about
+- the [fox](symbol) tell me about
+- the [googl](symbol) tell me about
+- the [hp](symbol) tell me about
+- the [ibm](symbol) tell me about
+- the [jpm](symbol) tell me about
+- the [kmb](symbol) tell me about
+- the [ndaq](symbol) tell me about
 - a stock [amzn](symbol) tell me about
 - a stock [bk](symbol) tell me about
 - a stock [csco](symbol) tell me about
@@ -42591,6 +52983,18 @@
 - a ticker [jpm](symbol) tell me about
 - a ticker [kmb](symbol) tell me about
 - a ticker [ndaq](symbol) tell me about
+- a [amzn](symbol) tell me about
+- a [bk](symbol) tell me about
+- a [csco](symbol) tell me about
+- a [dow](symbol) tell me about
+- a [ebay](symbol) tell me about
+- a [fox](symbol) tell me about
+- a [googl](symbol) tell me about
+- a [hp](symbol) tell me about
+- a [ibm](symbol) tell me about
+- a [jpm](symbol) tell me about
+- a [kmb](symbol) tell me about
+- a [ndaq](symbol) tell me about
 - for stock [amzn](symbol) tell me about
 - for stock [bk](symbol) tell me about
 - for stock [csco](symbol) tell me about
@@ -42639,6 +53043,18 @@
 - for ticker [jpm](symbol) tell me about
 - for ticker [kmb](symbol) tell me about
 - for ticker [ndaq](symbol) tell me about
+- for  [amzn](symbol) tell me about
+- for  [bk](symbol) tell me about
+- for  [csco](symbol) tell me about
+- for  [dow](symbol) tell me about
+- for  [ebay](symbol) tell me about
+- for  [fox](symbol) tell me about
+- for  [googl](symbol) tell me about
+- for  [hp](symbol) tell me about
+- for  [ibm](symbol) tell me about
+- for  [jpm](symbol) tell me about
+- for  [kmb](symbol) tell me about
+- for  [ndaq](symbol) tell me about
 - for the stock [amzn](symbol) tell me about
 - for the stock [bk](symbol) tell me about
 - for the stock [csco](symbol) tell me about
@@ -42687,6 +53103,18 @@
 - for the ticker [jpm](symbol) tell me about
 - for the ticker [kmb](symbol) tell me about
 - for the ticker [ndaq](symbol) tell me about
+- for the [amzn](symbol) tell me about
+- for the [bk](symbol) tell me about
+- for the [csco](symbol) tell me about
+- for the [dow](symbol) tell me about
+- for the [ebay](symbol) tell me about
+- for the [fox](symbol) tell me about
+- for the [googl](symbol) tell me about
+- for the [hp](symbol) tell me about
+- for the [ibm](symbol) tell me about
+- for the [jpm](symbol) tell me about
+- for the [kmb](symbol) tell me about
+- for the [ndaq](symbol) tell me about
 - for a stock [amzn](symbol) tell me about
 - for a stock [bk](symbol) tell me about
 - for a stock [csco](symbol) tell me about
@@ -42735,6 +53163,18 @@
 - for a ticker [jpm](symbol) tell me about
 - for a ticker [kmb](symbol) tell me about
 - for a ticker [ndaq](symbol) tell me about
+- for a [amzn](symbol) tell me about
+- for a [bk](symbol) tell me about
+- for a [csco](symbol) tell me about
+- for a [dow](symbol) tell me about
+- for a [ebay](symbol) tell me about
+- for a [fox](symbol) tell me about
+- for a [googl](symbol) tell me about
+- for a [hp](symbol) tell me about
+- for a [ibm](symbol) tell me about
+- for a [jpm](symbol) tell me about
+- for a [kmb](symbol) tell me about
+- for a [ndaq](symbol) tell me about
 - stock [amzn](symbol) price tell me about
 - stock [bk](symbol) price tell me about
 - stock [csco](symbol) price tell me about
@@ -42783,6 +53223,18 @@
 - ticker [jpm](symbol) price tell me about
 - ticker [kmb](symbol) price tell me about
 - ticker [ndaq](symbol) price tell me about
+- [amzn](symbol) price tell me about
+- [bk](symbol) price tell me about
+- [csco](symbol) price tell me about
+- [dow](symbol) price tell me about
+- [ebay](symbol) price tell me about
+- [fox](symbol) price tell me about
+- [googl](symbol) price tell me about
+- [hp](symbol) price tell me about
+- [ibm](symbol) price tell me about
+- [jpm](symbol) price tell me about
+- [kmb](symbol) price tell me about
+- [ndaq](symbol) price tell me about
 - the stock [amzn](symbol) price tell me about
 - the stock [bk](symbol) price tell me about
 - the stock [csco](symbol) price tell me about
@@ -42831,6 +53283,18 @@
 - the ticker [jpm](symbol) price tell me about
 - the ticker [kmb](symbol) price tell me about
 - the ticker [ndaq](symbol) price tell me about
+- the [amzn](symbol) price tell me about
+- the [bk](symbol) price tell me about
+- the [csco](symbol) price tell me about
+- the [dow](symbol) price tell me about
+- the [ebay](symbol) price tell me about
+- the [fox](symbol) price tell me about
+- the [googl](symbol) price tell me about
+- the [hp](symbol) price tell me about
+- the [ibm](symbol) price tell me about
+- the [jpm](symbol) price tell me about
+- the [kmb](symbol) price tell me about
+- the [ndaq](symbol) price tell me about
 - a stock [amzn](symbol) price tell me about
 - a stock [bk](symbol) price tell me about
 - a stock [csco](symbol) price tell me about
@@ -42879,6 +53343,18 @@
 - a ticker [jpm](symbol) price tell me about
 - a ticker [kmb](symbol) price tell me about
 - a ticker [ndaq](symbol) price tell me about
+- a [amzn](symbol) price tell me about
+- a [bk](symbol) price tell me about
+- a [csco](symbol) price tell me about
+- a [dow](symbol) price tell me about
+- a [ebay](symbol) price tell me about
+- a [fox](symbol) price tell me about
+- a [googl](symbol) price tell me about
+- a [hp](symbol) price tell me about
+- a [ibm](symbol) price tell me about
+- a [jpm](symbol) price tell me about
+- a [kmb](symbol) price tell me about
+- a [ndaq](symbol) price tell me about
 - for stock [amzn](symbol) price tell me about
 - for stock [bk](symbol) price tell me about
 - for stock [csco](symbol) price tell me about
@@ -42927,6 +53403,18 @@
 - for ticker [jpm](symbol) price tell me about
 - for ticker [kmb](symbol) price tell me about
 - for ticker [ndaq](symbol) price tell me about
+- for  [amzn](symbol) price tell me about
+- for  [bk](symbol) price tell me about
+- for  [csco](symbol) price tell me about
+- for  [dow](symbol) price tell me about
+- for  [ebay](symbol) price tell me about
+- for  [fox](symbol) price tell me about
+- for  [googl](symbol) price tell me about
+- for  [hp](symbol) price tell me about
+- for  [ibm](symbol) price tell me about
+- for  [jpm](symbol) price tell me about
+- for  [kmb](symbol) price tell me about
+- for  [ndaq](symbol) price tell me about
 - for the stock [amzn](symbol) price tell me about
 - for the stock [bk](symbol) price tell me about
 - for the stock [csco](symbol) price tell me about
@@ -42975,6 +53463,18 @@
 - for the ticker [jpm](symbol) price tell me about
 - for the ticker [kmb](symbol) price tell me about
 - for the ticker [ndaq](symbol) price tell me about
+- for the [amzn](symbol) price tell me about
+- for the [bk](symbol) price tell me about
+- for the [csco](symbol) price tell me about
+- for the [dow](symbol) price tell me about
+- for the [ebay](symbol) price tell me about
+- for the [fox](symbol) price tell me about
+- for the [googl](symbol) price tell me about
+- for the [hp](symbol) price tell me about
+- for the [ibm](symbol) price tell me about
+- for the [jpm](symbol) price tell me about
+- for the [kmb](symbol) price tell me about
+- for the [ndaq](symbol) price tell me about
 - for a stock [amzn](symbol) price tell me about
 - for a stock [bk](symbol) price tell me about
 - for a stock [csco](symbol) price tell me about
@@ -43023,6 +53523,18 @@
 - for a ticker [jpm](symbol) price tell me about
 - for a ticker [kmb](symbol) price tell me about
 - for a ticker [ndaq](symbol) price tell me about
+- for a [amzn](symbol) price tell me about
+- for a [bk](symbol) price tell me about
+- for a [csco](symbol) price tell me about
+- for a [dow](symbol) price tell me about
+- for a [ebay](symbol) price tell me about
+- for a [fox](symbol) price tell me about
+- for a [googl](symbol) price tell me about
+- for a [hp](symbol) price tell me about
+- for a [ibm](symbol) price tell me about
+- for a [jpm](symbol) price tell me about
+- for a [kmb](symbol) price tell me about
+- for a [ndaq](symbol) price tell me about
 - stock [amzn](symbol) the price tell me about
 - stock [bk](symbol) the price tell me about
 - stock [csco](symbol) the price tell me about
@@ -43071,6 +53583,18 @@
 - ticker [jpm](symbol) the price tell me about
 - ticker [kmb](symbol) the price tell me about
 - ticker [ndaq](symbol) the price tell me about
+- [amzn](symbol) the price tell me about
+- [bk](symbol) the price tell me about
+- [csco](symbol) the price tell me about
+- [dow](symbol) the price tell me about
+- [ebay](symbol) the price tell me about
+- [fox](symbol) the price tell me about
+- [googl](symbol) the price tell me about
+- [hp](symbol) the price tell me about
+- [ibm](symbol) the price tell me about
+- [jpm](symbol) the price tell me about
+- [kmb](symbol) the price tell me about
+- [ndaq](symbol) the price tell me about
 - the stock [amzn](symbol) the price tell me about
 - the stock [bk](symbol) the price tell me about
 - the stock [csco](symbol) the price tell me about
@@ -43119,6 +53643,18 @@
 - the ticker [jpm](symbol) the price tell me about
 - the ticker [kmb](symbol) the price tell me about
 - the ticker [ndaq](symbol) the price tell me about
+- the [amzn](symbol) the price tell me about
+- the [bk](symbol) the price tell me about
+- the [csco](symbol) the price tell me about
+- the [dow](symbol) the price tell me about
+- the [ebay](symbol) the price tell me about
+- the [fox](symbol) the price tell me about
+- the [googl](symbol) the price tell me about
+- the [hp](symbol) the price tell me about
+- the [ibm](symbol) the price tell me about
+- the [jpm](symbol) the price tell me about
+- the [kmb](symbol) the price tell me about
+- the [ndaq](symbol) the price tell me about
 - a stock [amzn](symbol) the price tell me about
 - a stock [bk](symbol) the price tell me about
 - a stock [csco](symbol) the price tell me about
@@ -43167,6 +53703,18 @@
 - a ticker [jpm](symbol) the price tell me about
 - a ticker [kmb](symbol) the price tell me about
 - a ticker [ndaq](symbol) the price tell me about
+- a [amzn](symbol) the price tell me about
+- a [bk](symbol) the price tell me about
+- a [csco](symbol) the price tell me about
+- a [dow](symbol) the price tell me about
+- a [ebay](symbol) the price tell me about
+- a [fox](symbol) the price tell me about
+- a [googl](symbol) the price tell me about
+- a [hp](symbol) the price tell me about
+- a [ibm](symbol) the price tell me about
+- a [jpm](symbol) the price tell me about
+- a [kmb](symbol) the price tell me about
+- a [ndaq](symbol) the price tell me about
 - for stock [amzn](symbol) the price tell me about
 - for stock [bk](symbol) the price tell me about
 - for stock [csco](symbol) the price tell me about
@@ -43215,6 +53763,18 @@
 - for ticker [jpm](symbol) the price tell me about
 - for ticker [kmb](symbol) the price tell me about
 - for ticker [ndaq](symbol) the price tell me about
+- for  [amzn](symbol) the price tell me about
+- for  [bk](symbol) the price tell me about
+- for  [csco](symbol) the price tell me about
+- for  [dow](symbol) the price tell me about
+- for  [ebay](symbol) the price tell me about
+- for  [fox](symbol) the price tell me about
+- for  [googl](symbol) the price tell me about
+- for  [hp](symbol) the price tell me about
+- for  [ibm](symbol) the price tell me about
+- for  [jpm](symbol) the price tell me about
+- for  [kmb](symbol) the price tell me about
+- for  [ndaq](symbol) the price tell me about
 - for the stock [amzn](symbol) the price tell me about
 - for the stock [bk](symbol) the price tell me about
 - for the stock [csco](symbol) the price tell me about
@@ -43263,6 +53823,18 @@
 - for the ticker [jpm](symbol) the price tell me about
 - for the ticker [kmb](symbol) the price tell me about
 - for the ticker [ndaq](symbol) the price tell me about
+- for the [amzn](symbol) the price tell me about
+- for the [bk](symbol) the price tell me about
+- for the [csco](symbol) the price tell me about
+- for the [dow](symbol) the price tell me about
+- for the [ebay](symbol) the price tell me about
+- for the [fox](symbol) the price tell me about
+- for the [googl](symbol) the price tell me about
+- for the [hp](symbol) the price tell me about
+- for the [ibm](symbol) the price tell me about
+- for the [jpm](symbol) the price tell me about
+- for the [kmb](symbol) the price tell me about
+- for the [ndaq](symbol) the price tell me about
 - for a stock [amzn](symbol) the price tell me about
 - for a stock [bk](symbol) the price tell me about
 - for a stock [csco](symbol) the price tell me about
@@ -43311,6 +53883,18 @@
 - for a ticker [jpm](symbol) the price tell me about
 - for a ticker [kmb](symbol) the price tell me about
 - for a ticker [ndaq](symbol) the price tell me about
+- for a [amzn](symbol) the price tell me about
+- for a [bk](symbol) the price tell me about
+- for a [csco](symbol) the price tell me about
+- for a [dow](symbol) the price tell me about
+- for a [ebay](symbol) the price tell me about
+- for a [fox](symbol) the price tell me about
+- for a [googl](symbol) the price tell me about
+- for a [hp](symbol) the price tell me about
+- for a [ibm](symbol) the price tell me about
+- for a [jpm](symbol) the price tell me about
+- for a [kmb](symbol) the price tell me about
+- for a [ndaq](symbol) the price tell me about
 - stock [amzn](symbol) a price tell me about
 - stock [bk](symbol) a price tell me about
 - stock [csco](symbol) a price tell me about
@@ -43359,6 +53943,18 @@
 - ticker [jpm](symbol) a price tell me about
 - ticker [kmb](symbol) a price tell me about
 - ticker [ndaq](symbol) a price tell me about
+- [amzn](symbol) a price tell me about
+- [bk](symbol) a price tell me about
+- [csco](symbol) a price tell me about
+- [dow](symbol) a price tell me about
+- [ebay](symbol) a price tell me about
+- [fox](symbol) a price tell me about
+- [googl](symbol) a price tell me about
+- [hp](symbol) a price tell me about
+- [ibm](symbol) a price tell me about
+- [jpm](symbol) a price tell me about
+- [kmb](symbol) a price tell me about
+- [ndaq](symbol) a price tell me about
 - the stock [amzn](symbol) a price tell me about
 - the stock [bk](symbol) a price tell me about
 - the stock [csco](symbol) a price tell me about
@@ -43407,6 +54003,18 @@
 - the ticker [jpm](symbol) a price tell me about
 - the ticker [kmb](symbol) a price tell me about
 - the ticker [ndaq](symbol) a price tell me about
+- the [amzn](symbol) a price tell me about
+- the [bk](symbol) a price tell me about
+- the [csco](symbol) a price tell me about
+- the [dow](symbol) a price tell me about
+- the [ebay](symbol) a price tell me about
+- the [fox](symbol) a price tell me about
+- the [googl](symbol) a price tell me about
+- the [hp](symbol) a price tell me about
+- the [ibm](symbol) a price tell me about
+- the [jpm](symbol) a price tell me about
+- the [kmb](symbol) a price tell me about
+- the [ndaq](symbol) a price tell me about
 - a stock [amzn](symbol) a price tell me about
 - a stock [bk](symbol) a price tell me about
 - a stock [csco](symbol) a price tell me about
@@ -43455,6 +54063,18 @@
 - a ticker [jpm](symbol) a price tell me about
 - a ticker [kmb](symbol) a price tell me about
 - a ticker [ndaq](symbol) a price tell me about
+- a [amzn](symbol) a price tell me about
+- a [bk](symbol) a price tell me about
+- a [csco](symbol) a price tell me about
+- a [dow](symbol) a price tell me about
+- a [ebay](symbol) a price tell me about
+- a [fox](symbol) a price tell me about
+- a [googl](symbol) a price tell me about
+- a [hp](symbol) a price tell me about
+- a [ibm](symbol) a price tell me about
+- a [jpm](symbol) a price tell me about
+- a [kmb](symbol) a price tell me about
+- a [ndaq](symbol) a price tell me about
 - for stock [amzn](symbol) a price tell me about
 - for stock [bk](symbol) a price tell me about
 - for stock [csco](symbol) a price tell me about
@@ -43503,6 +54123,18 @@
 - for ticker [jpm](symbol) a price tell me about
 - for ticker [kmb](symbol) a price tell me about
 - for ticker [ndaq](symbol) a price tell me about
+- for  [amzn](symbol) a price tell me about
+- for  [bk](symbol) a price tell me about
+- for  [csco](symbol) a price tell me about
+- for  [dow](symbol) a price tell me about
+- for  [ebay](symbol) a price tell me about
+- for  [fox](symbol) a price tell me about
+- for  [googl](symbol) a price tell me about
+- for  [hp](symbol) a price tell me about
+- for  [ibm](symbol) a price tell me about
+- for  [jpm](symbol) a price tell me about
+- for  [kmb](symbol) a price tell me about
+- for  [ndaq](symbol) a price tell me about
 - for the stock [amzn](symbol) a price tell me about
 - for the stock [bk](symbol) a price tell me about
 - for the stock [csco](symbol) a price tell me about
@@ -43551,6 +54183,18 @@
 - for the ticker [jpm](symbol) a price tell me about
 - for the ticker [kmb](symbol) a price tell me about
 - for the ticker [ndaq](symbol) a price tell me about
+- for the [amzn](symbol) a price tell me about
+- for the [bk](symbol) a price tell me about
+- for the [csco](symbol) a price tell me about
+- for the [dow](symbol) a price tell me about
+- for the [ebay](symbol) a price tell me about
+- for the [fox](symbol) a price tell me about
+- for the [googl](symbol) a price tell me about
+- for the [hp](symbol) a price tell me about
+- for the [ibm](symbol) a price tell me about
+- for the [jpm](symbol) a price tell me about
+- for the [kmb](symbol) a price tell me about
+- for the [ndaq](symbol) a price tell me about
 - for a stock [amzn](symbol) a price tell me about
 - for a stock [bk](symbol) a price tell me about
 - for a stock [csco](symbol) a price tell me about
@@ -43599,6 +54243,18 @@
 - for a ticker [jpm](symbol) a price tell me about
 - for a ticker [kmb](symbol) a price tell me about
 - for a ticker [ndaq](symbol) a price tell me about
+- for a [amzn](symbol) a price tell me about
+- for a [bk](symbol) a price tell me about
+- for a [csco](symbol) a price tell me about
+- for a [dow](symbol) a price tell me about
+- for a [ebay](symbol) a price tell me about
+- for a [fox](symbol) a price tell me about
+- for a [googl](symbol) a price tell me about
+- for a [hp](symbol) a price tell me about
+- for a [ibm](symbol) a price tell me about
+- for a [jpm](symbol) a price tell me about
+- for a [kmb](symbol) a price tell me about
+- for a [ndaq](symbol) a price tell me about
 - stock [amzn](symbol) show me
 - stock [bk](symbol) show me
 - stock [csco](symbol) show me
@@ -43647,6 +54303,18 @@
 - ticker [jpm](symbol) show me
 - ticker [kmb](symbol) show me
 - ticker [ndaq](symbol) show me
+- [amzn](symbol) show me
+- [bk](symbol) show me
+- [csco](symbol) show me
+- [dow](symbol) show me
+- [ebay](symbol) show me
+- [fox](symbol) show me
+- [googl](symbol) show me
+- [hp](symbol) show me
+- [ibm](symbol) show me
+- [jpm](symbol) show me
+- [kmb](symbol) show me
+- [ndaq](symbol) show me
 - the stock [amzn](symbol) show me
 - the stock [bk](symbol) show me
 - the stock [csco](symbol) show me
@@ -43695,6 +54363,18 @@
 - the ticker [jpm](symbol) show me
 - the ticker [kmb](symbol) show me
 - the ticker [ndaq](symbol) show me
+- the [amzn](symbol) show me
+- the [bk](symbol) show me
+- the [csco](symbol) show me
+- the [dow](symbol) show me
+- the [ebay](symbol) show me
+- the [fox](symbol) show me
+- the [googl](symbol) show me
+- the [hp](symbol) show me
+- the [ibm](symbol) show me
+- the [jpm](symbol) show me
+- the [kmb](symbol) show me
+- the [ndaq](symbol) show me
 - a stock [amzn](symbol) show me
 - a stock [bk](symbol) show me
 - a stock [csco](symbol) show me
@@ -43743,6 +54423,18 @@
 - a ticker [jpm](symbol) show me
 - a ticker [kmb](symbol) show me
 - a ticker [ndaq](symbol) show me
+- a [amzn](symbol) show me
+- a [bk](symbol) show me
+- a [csco](symbol) show me
+- a [dow](symbol) show me
+- a [ebay](symbol) show me
+- a [fox](symbol) show me
+- a [googl](symbol) show me
+- a [hp](symbol) show me
+- a [ibm](symbol) show me
+- a [jpm](symbol) show me
+- a [kmb](symbol) show me
+- a [ndaq](symbol) show me
 - for stock [amzn](symbol) show me
 - for stock [bk](symbol) show me
 - for stock [csco](symbol) show me
@@ -43791,6 +54483,18 @@
 - for ticker [jpm](symbol) show me
 - for ticker [kmb](symbol) show me
 - for ticker [ndaq](symbol) show me
+- for  [amzn](symbol) show me
+- for  [bk](symbol) show me
+- for  [csco](symbol) show me
+- for  [dow](symbol) show me
+- for  [ebay](symbol) show me
+- for  [fox](symbol) show me
+- for  [googl](symbol) show me
+- for  [hp](symbol) show me
+- for  [ibm](symbol) show me
+- for  [jpm](symbol) show me
+- for  [kmb](symbol) show me
+- for  [ndaq](symbol) show me
 - for the stock [amzn](symbol) show me
 - for the stock [bk](symbol) show me
 - for the stock [csco](symbol) show me
@@ -43839,6 +54543,18 @@
 - for the ticker [jpm](symbol) show me
 - for the ticker [kmb](symbol) show me
 - for the ticker [ndaq](symbol) show me
+- for the [amzn](symbol) show me
+- for the [bk](symbol) show me
+- for the [csco](symbol) show me
+- for the [dow](symbol) show me
+- for the [ebay](symbol) show me
+- for the [fox](symbol) show me
+- for the [googl](symbol) show me
+- for the [hp](symbol) show me
+- for the [ibm](symbol) show me
+- for the [jpm](symbol) show me
+- for the [kmb](symbol) show me
+- for the [ndaq](symbol) show me
 - for a stock [amzn](symbol) show me
 - for a stock [bk](symbol) show me
 - for a stock [csco](symbol) show me
@@ -43887,6 +54603,18 @@
 - for a ticker [jpm](symbol) show me
 - for a ticker [kmb](symbol) show me
 - for a ticker [ndaq](symbol) show me
+- for a [amzn](symbol) show me
+- for a [bk](symbol) show me
+- for a [csco](symbol) show me
+- for a [dow](symbol) show me
+- for a [ebay](symbol) show me
+- for a [fox](symbol) show me
+- for a [googl](symbol) show me
+- for a [hp](symbol) show me
+- for a [ibm](symbol) show me
+- for a [jpm](symbol) show me
+- for a [kmb](symbol) show me
+- for a [ndaq](symbol) show me
 - stock [amzn](symbol) price show me
 - stock [bk](symbol) price show me
 - stock [csco](symbol) price show me
@@ -43935,6 +54663,18 @@
 - ticker [jpm](symbol) price show me
 - ticker [kmb](symbol) price show me
 - ticker [ndaq](symbol) price show me
+- [amzn](symbol) price show me
+- [bk](symbol) price show me
+- [csco](symbol) price show me
+- [dow](symbol) price show me
+- [ebay](symbol) price show me
+- [fox](symbol) price show me
+- [googl](symbol) price show me
+- [hp](symbol) price show me
+- [ibm](symbol) price show me
+- [jpm](symbol) price show me
+- [kmb](symbol) price show me
+- [ndaq](symbol) price show me
 - the stock [amzn](symbol) price show me
 - the stock [bk](symbol) price show me
 - the stock [csco](symbol) price show me
@@ -43983,6 +54723,18 @@
 - the ticker [jpm](symbol) price show me
 - the ticker [kmb](symbol) price show me
 - the ticker [ndaq](symbol) price show me
+- the [amzn](symbol) price show me
+- the [bk](symbol) price show me
+- the [csco](symbol) price show me
+- the [dow](symbol) price show me
+- the [ebay](symbol) price show me
+- the [fox](symbol) price show me
+- the [googl](symbol) price show me
+- the [hp](symbol) price show me
+- the [ibm](symbol) price show me
+- the [jpm](symbol) price show me
+- the [kmb](symbol) price show me
+- the [ndaq](symbol) price show me
 - a stock [amzn](symbol) price show me
 - a stock [bk](symbol) price show me
 - a stock [csco](symbol) price show me
@@ -44031,6 +54783,18 @@
 - a ticker [jpm](symbol) price show me
 - a ticker [kmb](symbol) price show me
 - a ticker [ndaq](symbol) price show me
+- a [amzn](symbol) price show me
+- a [bk](symbol) price show me
+- a [csco](symbol) price show me
+- a [dow](symbol) price show me
+- a [ebay](symbol) price show me
+- a [fox](symbol) price show me
+- a [googl](symbol) price show me
+- a [hp](symbol) price show me
+- a [ibm](symbol) price show me
+- a [jpm](symbol) price show me
+- a [kmb](symbol) price show me
+- a [ndaq](symbol) price show me
 - for stock [amzn](symbol) price show me
 - for stock [bk](symbol) price show me
 - for stock [csco](symbol) price show me
@@ -44079,6 +54843,18 @@
 - for ticker [jpm](symbol) price show me
 - for ticker [kmb](symbol) price show me
 - for ticker [ndaq](symbol) price show me
+- for  [amzn](symbol) price show me
+- for  [bk](symbol) price show me
+- for  [csco](symbol) price show me
+- for  [dow](symbol) price show me
+- for  [ebay](symbol) price show me
+- for  [fox](symbol) price show me
+- for  [googl](symbol) price show me
+- for  [hp](symbol) price show me
+- for  [ibm](symbol) price show me
+- for  [jpm](symbol) price show me
+- for  [kmb](symbol) price show me
+- for  [ndaq](symbol) price show me
 - for the stock [amzn](symbol) price show me
 - for the stock [bk](symbol) price show me
 - for the stock [csco](symbol) price show me
@@ -44127,6 +54903,18 @@
 - for the ticker [jpm](symbol) price show me
 - for the ticker [kmb](symbol) price show me
 - for the ticker [ndaq](symbol) price show me
+- for the [amzn](symbol) price show me
+- for the [bk](symbol) price show me
+- for the [csco](symbol) price show me
+- for the [dow](symbol) price show me
+- for the [ebay](symbol) price show me
+- for the [fox](symbol) price show me
+- for the [googl](symbol) price show me
+- for the [hp](symbol) price show me
+- for the [ibm](symbol) price show me
+- for the [jpm](symbol) price show me
+- for the [kmb](symbol) price show me
+- for the [ndaq](symbol) price show me
 - for a stock [amzn](symbol) price show me
 - for a stock [bk](symbol) price show me
 - for a stock [csco](symbol) price show me
@@ -44175,6 +54963,18 @@
 - for a ticker [jpm](symbol) price show me
 - for a ticker [kmb](symbol) price show me
 - for a ticker [ndaq](symbol) price show me
+- for a [amzn](symbol) price show me
+- for a [bk](symbol) price show me
+- for a [csco](symbol) price show me
+- for a [dow](symbol) price show me
+- for a [ebay](symbol) price show me
+- for a [fox](symbol) price show me
+- for a [googl](symbol) price show me
+- for a [hp](symbol) price show me
+- for a [ibm](symbol) price show me
+- for a [jpm](symbol) price show me
+- for a [kmb](symbol) price show me
+- for a [ndaq](symbol) price show me
 - stock [amzn](symbol) the price show me
 - stock [bk](symbol) the price show me
 - stock [csco](symbol) the price show me
@@ -44223,6 +55023,18 @@
 - ticker [jpm](symbol) the price show me
 - ticker [kmb](symbol) the price show me
 - ticker [ndaq](symbol) the price show me
+- [amzn](symbol) the price show me
+- [bk](symbol) the price show me
+- [csco](symbol) the price show me
+- [dow](symbol) the price show me
+- [ebay](symbol) the price show me
+- [fox](symbol) the price show me
+- [googl](symbol) the price show me
+- [hp](symbol) the price show me
+- [ibm](symbol) the price show me
+- [jpm](symbol) the price show me
+- [kmb](symbol) the price show me
+- [ndaq](symbol) the price show me
 - the stock [amzn](symbol) the price show me
 - the stock [bk](symbol) the price show me
 - the stock [csco](symbol) the price show me
@@ -44271,6 +55083,18 @@
 - the ticker [jpm](symbol) the price show me
 - the ticker [kmb](symbol) the price show me
 - the ticker [ndaq](symbol) the price show me
+- the [amzn](symbol) the price show me
+- the [bk](symbol) the price show me
+- the [csco](symbol) the price show me
+- the [dow](symbol) the price show me
+- the [ebay](symbol) the price show me
+- the [fox](symbol) the price show me
+- the [googl](symbol) the price show me
+- the [hp](symbol) the price show me
+- the [ibm](symbol) the price show me
+- the [jpm](symbol) the price show me
+- the [kmb](symbol) the price show me
+- the [ndaq](symbol) the price show me
 - a stock [amzn](symbol) the price show me
 - a stock [bk](symbol) the price show me
 - a stock [csco](symbol) the price show me
@@ -44319,6 +55143,18 @@
 - a ticker [jpm](symbol) the price show me
 - a ticker [kmb](symbol) the price show me
 - a ticker [ndaq](symbol) the price show me
+- a [amzn](symbol) the price show me
+- a [bk](symbol) the price show me
+- a [csco](symbol) the price show me
+- a [dow](symbol) the price show me
+- a [ebay](symbol) the price show me
+- a [fox](symbol) the price show me
+- a [googl](symbol) the price show me
+- a [hp](symbol) the price show me
+- a [ibm](symbol) the price show me
+- a [jpm](symbol) the price show me
+- a [kmb](symbol) the price show me
+- a [ndaq](symbol) the price show me
 - for stock [amzn](symbol) the price show me
 - for stock [bk](symbol) the price show me
 - for stock [csco](symbol) the price show me
@@ -44367,6 +55203,18 @@
 - for ticker [jpm](symbol) the price show me
 - for ticker [kmb](symbol) the price show me
 - for ticker [ndaq](symbol) the price show me
+- for  [amzn](symbol) the price show me
+- for  [bk](symbol) the price show me
+- for  [csco](symbol) the price show me
+- for  [dow](symbol) the price show me
+- for  [ebay](symbol) the price show me
+- for  [fox](symbol) the price show me
+- for  [googl](symbol) the price show me
+- for  [hp](symbol) the price show me
+- for  [ibm](symbol) the price show me
+- for  [jpm](symbol) the price show me
+- for  [kmb](symbol) the price show me
+- for  [ndaq](symbol) the price show me
 - for the stock [amzn](symbol) the price show me
 - for the stock [bk](symbol) the price show me
 - for the stock [csco](symbol) the price show me
@@ -44415,6 +55263,18 @@
 - for the ticker [jpm](symbol) the price show me
 - for the ticker [kmb](symbol) the price show me
 - for the ticker [ndaq](symbol) the price show me
+- for the [amzn](symbol) the price show me
+- for the [bk](symbol) the price show me
+- for the [csco](symbol) the price show me
+- for the [dow](symbol) the price show me
+- for the [ebay](symbol) the price show me
+- for the [fox](symbol) the price show me
+- for the [googl](symbol) the price show me
+- for the [hp](symbol) the price show me
+- for the [ibm](symbol) the price show me
+- for the [jpm](symbol) the price show me
+- for the [kmb](symbol) the price show me
+- for the [ndaq](symbol) the price show me
 - for a stock [amzn](symbol) the price show me
 - for a stock [bk](symbol) the price show me
 - for a stock [csco](symbol) the price show me
@@ -44463,6 +55323,18 @@
 - for a ticker [jpm](symbol) the price show me
 - for a ticker [kmb](symbol) the price show me
 - for a ticker [ndaq](symbol) the price show me
+- for a [amzn](symbol) the price show me
+- for a [bk](symbol) the price show me
+- for a [csco](symbol) the price show me
+- for a [dow](symbol) the price show me
+- for a [ebay](symbol) the price show me
+- for a [fox](symbol) the price show me
+- for a [googl](symbol) the price show me
+- for a [hp](symbol) the price show me
+- for a [ibm](symbol) the price show me
+- for a [jpm](symbol) the price show me
+- for a [kmb](symbol) the price show me
+- for a [ndaq](symbol) the price show me
 - stock [amzn](symbol) a price show me
 - stock [bk](symbol) a price show me
 - stock [csco](symbol) a price show me
@@ -44511,6 +55383,18 @@
 - ticker [jpm](symbol) a price show me
 - ticker [kmb](symbol) a price show me
 - ticker [ndaq](symbol) a price show me
+- [amzn](symbol) a price show me
+- [bk](symbol) a price show me
+- [csco](symbol) a price show me
+- [dow](symbol) a price show me
+- [ebay](symbol) a price show me
+- [fox](symbol) a price show me
+- [googl](symbol) a price show me
+- [hp](symbol) a price show me
+- [ibm](symbol) a price show me
+- [jpm](symbol) a price show me
+- [kmb](symbol) a price show me
+- [ndaq](symbol) a price show me
 - the stock [amzn](symbol) a price show me
 - the stock [bk](symbol) a price show me
 - the stock [csco](symbol) a price show me
@@ -44559,6 +55443,18 @@
 - the ticker [jpm](symbol) a price show me
 - the ticker [kmb](symbol) a price show me
 - the ticker [ndaq](symbol) a price show me
+- the [amzn](symbol) a price show me
+- the [bk](symbol) a price show me
+- the [csco](symbol) a price show me
+- the [dow](symbol) a price show me
+- the [ebay](symbol) a price show me
+- the [fox](symbol) a price show me
+- the [googl](symbol) a price show me
+- the [hp](symbol) a price show me
+- the [ibm](symbol) a price show me
+- the [jpm](symbol) a price show me
+- the [kmb](symbol) a price show me
+- the [ndaq](symbol) a price show me
 - a stock [amzn](symbol) a price show me
 - a stock [bk](symbol) a price show me
 - a stock [csco](symbol) a price show me
@@ -44607,6 +55503,18 @@
 - a ticker [jpm](symbol) a price show me
 - a ticker [kmb](symbol) a price show me
 - a ticker [ndaq](symbol) a price show me
+- a [amzn](symbol) a price show me
+- a [bk](symbol) a price show me
+- a [csco](symbol) a price show me
+- a [dow](symbol) a price show me
+- a [ebay](symbol) a price show me
+- a [fox](symbol) a price show me
+- a [googl](symbol) a price show me
+- a [hp](symbol) a price show me
+- a [ibm](symbol) a price show me
+- a [jpm](symbol) a price show me
+- a [kmb](symbol) a price show me
+- a [ndaq](symbol) a price show me
 - for stock [amzn](symbol) a price show me
 - for stock [bk](symbol) a price show me
 - for stock [csco](symbol) a price show me
@@ -44655,6 +55563,18 @@
 - for ticker [jpm](symbol) a price show me
 - for ticker [kmb](symbol) a price show me
 - for ticker [ndaq](symbol) a price show me
+- for  [amzn](symbol) a price show me
+- for  [bk](symbol) a price show me
+- for  [csco](symbol) a price show me
+- for  [dow](symbol) a price show me
+- for  [ebay](symbol) a price show me
+- for  [fox](symbol) a price show me
+- for  [googl](symbol) a price show me
+- for  [hp](symbol) a price show me
+- for  [ibm](symbol) a price show me
+- for  [jpm](symbol) a price show me
+- for  [kmb](symbol) a price show me
+- for  [ndaq](symbol) a price show me
 - for the stock [amzn](symbol) a price show me
 - for the stock [bk](symbol) a price show me
 - for the stock [csco](symbol) a price show me
@@ -44703,6 +55623,18 @@
 - for the ticker [jpm](symbol) a price show me
 - for the ticker [kmb](symbol) a price show me
 - for the ticker [ndaq](symbol) a price show me
+- for the [amzn](symbol) a price show me
+- for the [bk](symbol) a price show me
+- for the [csco](symbol) a price show me
+- for the [dow](symbol) a price show me
+- for the [ebay](symbol) a price show me
+- for the [fox](symbol) a price show me
+- for the [googl](symbol) a price show me
+- for the [hp](symbol) a price show me
+- for the [ibm](symbol) a price show me
+- for the [jpm](symbol) a price show me
+- for the [kmb](symbol) a price show me
+- for the [ndaq](symbol) a price show me
 - for a stock [amzn](symbol) a price show me
 - for a stock [bk](symbol) a price show me
 - for a stock [csco](symbol) a price show me
@@ -44751,6 +55683,18 @@
 - for a ticker [jpm](symbol) a price show me
 - for a ticker [kmb](symbol) a price show me
 - for a ticker [ndaq](symbol) a price show me
+- for a [amzn](symbol) a price show me
+- for a [bk](symbol) a price show me
+- for a [csco](symbol) a price show me
+- for a [dow](symbol) a price show me
+- for a [ebay](symbol) a price show me
+- for a [fox](symbol) a price show me
+- for a [googl](symbol) a price show me
+- for a [hp](symbol) a price show me
+- for a [ibm](symbol) a price show me
+- for a [jpm](symbol) a price show me
+- for a [kmb](symbol) a price show me
+- for a [ndaq](symbol) a price show me
 - stock [amzn](symbol) can i see
 - stock [bk](symbol) can i see
 - stock [csco](symbol) can i see
@@ -44799,6 +55743,18 @@
 - ticker [jpm](symbol) can i see
 - ticker [kmb](symbol) can i see
 - ticker [ndaq](symbol) can i see
+- [amzn](symbol) can i see
+- [bk](symbol) can i see
+- [csco](symbol) can i see
+- [dow](symbol) can i see
+- [ebay](symbol) can i see
+- [fox](symbol) can i see
+- [googl](symbol) can i see
+- [hp](symbol) can i see
+- [ibm](symbol) can i see
+- [jpm](symbol) can i see
+- [kmb](symbol) can i see
+- [ndaq](symbol) can i see
 - the stock [amzn](symbol) can i see
 - the stock [bk](symbol) can i see
 - the stock [csco](symbol) can i see
@@ -44847,6 +55803,18 @@
 - the ticker [jpm](symbol) can i see
 - the ticker [kmb](symbol) can i see
 - the ticker [ndaq](symbol) can i see
+- the [amzn](symbol) can i see
+- the [bk](symbol) can i see
+- the [csco](symbol) can i see
+- the [dow](symbol) can i see
+- the [ebay](symbol) can i see
+- the [fox](symbol) can i see
+- the [googl](symbol) can i see
+- the [hp](symbol) can i see
+- the [ibm](symbol) can i see
+- the [jpm](symbol) can i see
+- the [kmb](symbol) can i see
+- the [ndaq](symbol) can i see
 - a stock [amzn](symbol) can i see
 - a stock [bk](symbol) can i see
 - a stock [csco](symbol) can i see
@@ -44895,6 +55863,18 @@
 - a ticker [jpm](symbol) can i see
 - a ticker [kmb](symbol) can i see
 - a ticker [ndaq](symbol) can i see
+- a [amzn](symbol) can i see
+- a [bk](symbol) can i see
+- a [csco](symbol) can i see
+- a [dow](symbol) can i see
+- a [ebay](symbol) can i see
+- a [fox](symbol) can i see
+- a [googl](symbol) can i see
+- a [hp](symbol) can i see
+- a [ibm](symbol) can i see
+- a [jpm](symbol) can i see
+- a [kmb](symbol) can i see
+- a [ndaq](symbol) can i see
 - for stock [amzn](symbol) can i see
 - for stock [bk](symbol) can i see
 - for stock [csco](symbol) can i see
@@ -44943,6 +55923,18 @@
 - for ticker [jpm](symbol) can i see
 - for ticker [kmb](symbol) can i see
 - for ticker [ndaq](symbol) can i see
+- for  [amzn](symbol) can i see
+- for  [bk](symbol) can i see
+- for  [csco](symbol) can i see
+- for  [dow](symbol) can i see
+- for  [ebay](symbol) can i see
+- for  [fox](symbol) can i see
+- for  [googl](symbol) can i see
+- for  [hp](symbol) can i see
+- for  [ibm](symbol) can i see
+- for  [jpm](symbol) can i see
+- for  [kmb](symbol) can i see
+- for  [ndaq](symbol) can i see
 - for the stock [amzn](symbol) can i see
 - for the stock [bk](symbol) can i see
 - for the stock [csco](symbol) can i see
@@ -44991,6 +55983,18 @@
 - for the ticker [jpm](symbol) can i see
 - for the ticker [kmb](symbol) can i see
 - for the ticker [ndaq](symbol) can i see
+- for the [amzn](symbol) can i see
+- for the [bk](symbol) can i see
+- for the [csco](symbol) can i see
+- for the [dow](symbol) can i see
+- for the [ebay](symbol) can i see
+- for the [fox](symbol) can i see
+- for the [googl](symbol) can i see
+- for the [hp](symbol) can i see
+- for the [ibm](symbol) can i see
+- for the [jpm](symbol) can i see
+- for the [kmb](symbol) can i see
+- for the [ndaq](symbol) can i see
 - for a stock [amzn](symbol) can i see
 - for a stock [bk](symbol) can i see
 - for a stock [csco](symbol) can i see
@@ -45039,6 +56043,18 @@
 - for a ticker [jpm](symbol) can i see
 - for a ticker [kmb](symbol) can i see
 - for a ticker [ndaq](symbol) can i see
+- for a [amzn](symbol) can i see
+- for a [bk](symbol) can i see
+- for a [csco](symbol) can i see
+- for a [dow](symbol) can i see
+- for a [ebay](symbol) can i see
+- for a [fox](symbol) can i see
+- for a [googl](symbol) can i see
+- for a [hp](symbol) can i see
+- for a [ibm](symbol) can i see
+- for a [jpm](symbol) can i see
+- for a [kmb](symbol) can i see
+- for a [ndaq](symbol) can i see
 - stock [amzn](symbol) price can i see
 - stock [bk](symbol) price can i see
 - stock [csco](symbol) price can i see
@@ -45087,6 +56103,18 @@
 - ticker [jpm](symbol) price can i see
 - ticker [kmb](symbol) price can i see
 - ticker [ndaq](symbol) price can i see
+- [amzn](symbol) price can i see
+- [bk](symbol) price can i see
+- [csco](symbol) price can i see
+- [dow](symbol) price can i see
+- [ebay](symbol) price can i see
+- [fox](symbol) price can i see
+- [googl](symbol) price can i see
+- [hp](symbol) price can i see
+- [ibm](symbol) price can i see
+- [jpm](symbol) price can i see
+- [kmb](symbol) price can i see
+- [ndaq](symbol) price can i see
 - the stock [amzn](symbol) price can i see
 - the stock [bk](symbol) price can i see
 - the stock [csco](symbol) price can i see
@@ -45135,6 +56163,18 @@
 - the ticker [jpm](symbol) price can i see
 - the ticker [kmb](symbol) price can i see
 - the ticker [ndaq](symbol) price can i see
+- the [amzn](symbol) price can i see
+- the [bk](symbol) price can i see
+- the [csco](symbol) price can i see
+- the [dow](symbol) price can i see
+- the [ebay](symbol) price can i see
+- the [fox](symbol) price can i see
+- the [googl](symbol) price can i see
+- the [hp](symbol) price can i see
+- the [ibm](symbol) price can i see
+- the [jpm](symbol) price can i see
+- the [kmb](symbol) price can i see
+- the [ndaq](symbol) price can i see
 - a stock [amzn](symbol) price can i see
 - a stock [bk](symbol) price can i see
 - a stock [csco](symbol) price can i see
@@ -45183,6 +56223,18 @@
 - a ticker [jpm](symbol) price can i see
 - a ticker [kmb](symbol) price can i see
 - a ticker [ndaq](symbol) price can i see
+- a [amzn](symbol) price can i see
+- a [bk](symbol) price can i see
+- a [csco](symbol) price can i see
+- a [dow](symbol) price can i see
+- a [ebay](symbol) price can i see
+- a [fox](symbol) price can i see
+- a [googl](symbol) price can i see
+- a [hp](symbol) price can i see
+- a [ibm](symbol) price can i see
+- a [jpm](symbol) price can i see
+- a [kmb](symbol) price can i see
+- a [ndaq](symbol) price can i see
 - for stock [amzn](symbol) price can i see
 - for stock [bk](symbol) price can i see
 - for stock [csco](symbol) price can i see
@@ -45231,6 +56283,18 @@
 - for ticker [jpm](symbol) price can i see
 - for ticker [kmb](symbol) price can i see
 - for ticker [ndaq](symbol) price can i see
+- for  [amzn](symbol) price can i see
+- for  [bk](symbol) price can i see
+- for  [csco](symbol) price can i see
+- for  [dow](symbol) price can i see
+- for  [ebay](symbol) price can i see
+- for  [fox](symbol) price can i see
+- for  [googl](symbol) price can i see
+- for  [hp](symbol) price can i see
+- for  [ibm](symbol) price can i see
+- for  [jpm](symbol) price can i see
+- for  [kmb](symbol) price can i see
+- for  [ndaq](symbol) price can i see
 - for the stock [amzn](symbol) price can i see
 - for the stock [bk](symbol) price can i see
 - for the stock [csco](symbol) price can i see
@@ -45279,6 +56343,18 @@
 - for the ticker [jpm](symbol) price can i see
 - for the ticker [kmb](symbol) price can i see
 - for the ticker [ndaq](symbol) price can i see
+- for the [amzn](symbol) price can i see
+- for the [bk](symbol) price can i see
+- for the [csco](symbol) price can i see
+- for the [dow](symbol) price can i see
+- for the [ebay](symbol) price can i see
+- for the [fox](symbol) price can i see
+- for the [googl](symbol) price can i see
+- for the [hp](symbol) price can i see
+- for the [ibm](symbol) price can i see
+- for the [jpm](symbol) price can i see
+- for the [kmb](symbol) price can i see
+- for the [ndaq](symbol) price can i see
 - for a stock [amzn](symbol) price can i see
 - for a stock [bk](symbol) price can i see
 - for a stock [csco](symbol) price can i see
@@ -45327,6 +56403,18 @@
 - for a ticker [jpm](symbol) price can i see
 - for a ticker [kmb](symbol) price can i see
 - for a ticker [ndaq](symbol) price can i see
+- for a [amzn](symbol) price can i see
+- for a [bk](symbol) price can i see
+- for a [csco](symbol) price can i see
+- for a [dow](symbol) price can i see
+- for a [ebay](symbol) price can i see
+- for a [fox](symbol) price can i see
+- for a [googl](symbol) price can i see
+- for a [hp](symbol) price can i see
+- for a [ibm](symbol) price can i see
+- for a [jpm](symbol) price can i see
+- for a [kmb](symbol) price can i see
+- for a [ndaq](symbol) price can i see
 - stock [amzn](symbol) the price can i see
 - stock [bk](symbol) the price can i see
 - stock [csco](symbol) the price can i see
@@ -45375,6 +56463,18 @@
 - ticker [jpm](symbol) the price can i see
 - ticker [kmb](symbol) the price can i see
 - ticker [ndaq](symbol) the price can i see
+- [amzn](symbol) the price can i see
+- [bk](symbol) the price can i see
+- [csco](symbol) the price can i see
+- [dow](symbol) the price can i see
+- [ebay](symbol) the price can i see
+- [fox](symbol) the price can i see
+- [googl](symbol) the price can i see
+- [hp](symbol) the price can i see
+- [ibm](symbol) the price can i see
+- [jpm](symbol) the price can i see
+- [kmb](symbol) the price can i see
+- [ndaq](symbol) the price can i see
 - the stock [amzn](symbol) the price can i see
 - the stock [bk](symbol) the price can i see
 - the stock [csco](symbol) the price can i see
@@ -45423,6 +56523,18 @@
 - the ticker [jpm](symbol) the price can i see
 - the ticker [kmb](symbol) the price can i see
 - the ticker [ndaq](symbol) the price can i see
+- the [amzn](symbol) the price can i see
+- the [bk](symbol) the price can i see
+- the [csco](symbol) the price can i see
+- the [dow](symbol) the price can i see
+- the [ebay](symbol) the price can i see
+- the [fox](symbol) the price can i see
+- the [googl](symbol) the price can i see
+- the [hp](symbol) the price can i see
+- the [ibm](symbol) the price can i see
+- the [jpm](symbol) the price can i see
+- the [kmb](symbol) the price can i see
+- the [ndaq](symbol) the price can i see
 - a stock [amzn](symbol) the price can i see
 - a stock [bk](symbol) the price can i see
 - a stock [csco](symbol) the price can i see
@@ -45471,6 +56583,18 @@
 - a ticker [jpm](symbol) the price can i see
 - a ticker [kmb](symbol) the price can i see
 - a ticker [ndaq](symbol) the price can i see
+- a [amzn](symbol) the price can i see
+- a [bk](symbol) the price can i see
+- a [csco](symbol) the price can i see
+- a [dow](symbol) the price can i see
+- a [ebay](symbol) the price can i see
+- a [fox](symbol) the price can i see
+- a [googl](symbol) the price can i see
+- a [hp](symbol) the price can i see
+- a [ibm](symbol) the price can i see
+- a [jpm](symbol) the price can i see
+- a [kmb](symbol) the price can i see
+- a [ndaq](symbol) the price can i see
 - for stock [amzn](symbol) the price can i see
 - for stock [bk](symbol) the price can i see
 - for stock [csco](symbol) the price can i see
@@ -45519,6 +56643,18 @@
 - for ticker [jpm](symbol) the price can i see
 - for ticker [kmb](symbol) the price can i see
 - for ticker [ndaq](symbol) the price can i see
+- for  [amzn](symbol) the price can i see
+- for  [bk](symbol) the price can i see
+- for  [csco](symbol) the price can i see
+- for  [dow](symbol) the price can i see
+- for  [ebay](symbol) the price can i see
+- for  [fox](symbol) the price can i see
+- for  [googl](symbol) the price can i see
+- for  [hp](symbol) the price can i see
+- for  [ibm](symbol) the price can i see
+- for  [jpm](symbol) the price can i see
+- for  [kmb](symbol) the price can i see
+- for  [ndaq](symbol) the price can i see
 - for the stock [amzn](symbol) the price can i see
 - for the stock [bk](symbol) the price can i see
 - for the stock [csco](symbol) the price can i see
@@ -45567,6 +56703,18 @@
 - for the ticker [jpm](symbol) the price can i see
 - for the ticker [kmb](symbol) the price can i see
 - for the ticker [ndaq](symbol) the price can i see
+- for the [amzn](symbol) the price can i see
+- for the [bk](symbol) the price can i see
+- for the [csco](symbol) the price can i see
+- for the [dow](symbol) the price can i see
+- for the [ebay](symbol) the price can i see
+- for the [fox](symbol) the price can i see
+- for the [googl](symbol) the price can i see
+- for the [hp](symbol) the price can i see
+- for the [ibm](symbol) the price can i see
+- for the [jpm](symbol) the price can i see
+- for the [kmb](symbol) the price can i see
+- for the [ndaq](symbol) the price can i see
 - for a stock [amzn](symbol) the price can i see
 - for a stock [bk](symbol) the price can i see
 - for a stock [csco](symbol) the price can i see
@@ -45615,6 +56763,18 @@
 - for a ticker [jpm](symbol) the price can i see
 - for a ticker [kmb](symbol) the price can i see
 - for a ticker [ndaq](symbol) the price can i see
+- for a [amzn](symbol) the price can i see
+- for a [bk](symbol) the price can i see
+- for a [csco](symbol) the price can i see
+- for a [dow](symbol) the price can i see
+- for a [ebay](symbol) the price can i see
+- for a [fox](symbol) the price can i see
+- for a [googl](symbol) the price can i see
+- for a [hp](symbol) the price can i see
+- for a [ibm](symbol) the price can i see
+- for a [jpm](symbol) the price can i see
+- for a [kmb](symbol) the price can i see
+- for a [ndaq](symbol) the price can i see
 - stock [amzn](symbol) a price can i see
 - stock [bk](symbol) a price can i see
 - stock [csco](symbol) a price can i see
@@ -45663,6 +56823,18 @@
 - ticker [jpm](symbol) a price can i see
 - ticker [kmb](symbol) a price can i see
 - ticker [ndaq](symbol) a price can i see
+- [amzn](symbol) a price can i see
+- [bk](symbol) a price can i see
+- [csco](symbol) a price can i see
+- [dow](symbol) a price can i see
+- [ebay](symbol) a price can i see
+- [fox](symbol) a price can i see
+- [googl](symbol) a price can i see
+- [hp](symbol) a price can i see
+- [ibm](symbol) a price can i see
+- [jpm](symbol) a price can i see
+- [kmb](symbol) a price can i see
+- [ndaq](symbol) a price can i see
 - the stock [amzn](symbol) a price can i see
 - the stock [bk](symbol) a price can i see
 - the stock [csco](symbol) a price can i see
@@ -45711,6 +56883,18 @@
 - the ticker [jpm](symbol) a price can i see
 - the ticker [kmb](symbol) a price can i see
 - the ticker [ndaq](symbol) a price can i see
+- the [amzn](symbol) a price can i see
+- the [bk](symbol) a price can i see
+- the [csco](symbol) a price can i see
+- the [dow](symbol) a price can i see
+- the [ebay](symbol) a price can i see
+- the [fox](symbol) a price can i see
+- the [googl](symbol) a price can i see
+- the [hp](symbol) a price can i see
+- the [ibm](symbol) a price can i see
+- the [jpm](symbol) a price can i see
+- the [kmb](symbol) a price can i see
+- the [ndaq](symbol) a price can i see
 - a stock [amzn](symbol) a price can i see
 - a stock [bk](symbol) a price can i see
 - a stock [csco](symbol) a price can i see
@@ -45759,6 +56943,18 @@
 - a ticker [jpm](symbol) a price can i see
 - a ticker [kmb](symbol) a price can i see
 - a ticker [ndaq](symbol) a price can i see
+- a [amzn](symbol) a price can i see
+- a [bk](symbol) a price can i see
+- a [csco](symbol) a price can i see
+- a [dow](symbol) a price can i see
+- a [ebay](symbol) a price can i see
+- a [fox](symbol) a price can i see
+- a [googl](symbol) a price can i see
+- a [hp](symbol) a price can i see
+- a [ibm](symbol) a price can i see
+- a [jpm](symbol) a price can i see
+- a [kmb](symbol) a price can i see
+- a [ndaq](symbol) a price can i see
 - for stock [amzn](symbol) a price can i see
 - for stock [bk](symbol) a price can i see
 - for stock [csco](symbol) a price can i see
@@ -45807,6 +57003,18 @@
 - for ticker [jpm](symbol) a price can i see
 - for ticker [kmb](symbol) a price can i see
 - for ticker [ndaq](symbol) a price can i see
+- for  [amzn](symbol) a price can i see
+- for  [bk](symbol) a price can i see
+- for  [csco](symbol) a price can i see
+- for  [dow](symbol) a price can i see
+- for  [ebay](symbol) a price can i see
+- for  [fox](symbol) a price can i see
+- for  [googl](symbol) a price can i see
+- for  [hp](symbol) a price can i see
+- for  [ibm](symbol) a price can i see
+- for  [jpm](symbol) a price can i see
+- for  [kmb](symbol) a price can i see
+- for  [ndaq](symbol) a price can i see
 - for the stock [amzn](symbol) a price can i see
 - for the stock [bk](symbol) a price can i see
 - for the stock [csco](symbol) a price can i see
@@ -45855,6 +57063,18 @@
 - for the ticker [jpm](symbol) a price can i see
 - for the ticker [kmb](symbol) a price can i see
 - for the ticker [ndaq](symbol) a price can i see
+- for the [amzn](symbol) a price can i see
+- for the [bk](symbol) a price can i see
+- for the [csco](symbol) a price can i see
+- for the [dow](symbol) a price can i see
+- for the [ebay](symbol) a price can i see
+- for the [fox](symbol) a price can i see
+- for the [googl](symbol) a price can i see
+- for the [hp](symbol) a price can i see
+- for the [ibm](symbol) a price can i see
+- for the [jpm](symbol) a price can i see
+- for the [kmb](symbol) a price can i see
+- for the [ndaq](symbol) a price can i see
 - for a stock [amzn](symbol) a price can i see
 - for a stock [bk](symbol) a price can i see
 - for a stock [csco](symbol) a price can i see
@@ -45903,6 +57123,18 @@
 - for a ticker [jpm](symbol) a price can i see
 - for a ticker [kmb](symbol) a price can i see
 - for a ticker [ndaq](symbol) a price can i see
+- for a [amzn](symbol) a price can i see
+- for a [bk](symbol) a price can i see
+- for a [csco](symbol) a price can i see
+- for a [dow](symbol) a price can i see
+- for a [ebay](symbol) a price can i see
+- for a [fox](symbol) a price can i see
+- for a [googl](symbol) a price can i see
+- for a [hp](symbol) a price can i see
+- for a [ibm](symbol) a price can i see
+- for a [jpm](symbol) a price can i see
+- for a [kmb](symbol) a price can i see
+- for a [ndaq](symbol) a price can i see
 - stock [amzn](symbol) what is
 - stock [bk](symbol) what is
 - stock [csco](symbol) what is
@@ -45951,6 +57183,18 @@
 - ticker [jpm](symbol) what is
 - ticker [kmb](symbol) what is
 - ticker [ndaq](symbol) what is
+- [amzn](symbol) what is
+- [bk](symbol) what is
+- [csco](symbol) what is
+- [dow](symbol) what is
+- [ebay](symbol) what is
+- [fox](symbol) what is
+- [googl](symbol) what is
+- [hp](symbol) what is
+- [ibm](symbol) what is
+- [jpm](symbol) what is
+- [kmb](symbol) what is
+- [ndaq](symbol) what is
 - the stock [amzn](symbol) what is
 - the stock [bk](symbol) what is
 - the stock [csco](symbol) what is
@@ -45999,6 +57243,18 @@
 - the ticker [jpm](symbol) what is
 - the ticker [kmb](symbol) what is
 - the ticker [ndaq](symbol) what is
+- the [amzn](symbol) what is
+- the [bk](symbol) what is
+- the [csco](symbol) what is
+- the [dow](symbol) what is
+- the [ebay](symbol) what is
+- the [fox](symbol) what is
+- the [googl](symbol) what is
+- the [hp](symbol) what is
+- the [ibm](symbol) what is
+- the [jpm](symbol) what is
+- the [kmb](symbol) what is
+- the [ndaq](symbol) what is
 - a stock [amzn](symbol) what is
 - a stock [bk](symbol) what is
 - a stock [csco](symbol) what is
@@ -46047,6 +57303,18 @@
 - a ticker [jpm](symbol) what is
 - a ticker [kmb](symbol) what is
 - a ticker [ndaq](symbol) what is
+- a [amzn](symbol) what is
+- a [bk](symbol) what is
+- a [csco](symbol) what is
+- a [dow](symbol) what is
+- a [ebay](symbol) what is
+- a [fox](symbol) what is
+- a [googl](symbol) what is
+- a [hp](symbol) what is
+- a [ibm](symbol) what is
+- a [jpm](symbol) what is
+- a [kmb](symbol) what is
+- a [ndaq](symbol) what is
 - for stock [amzn](symbol) what is
 - for stock [bk](symbol) what is
 - for stock [csco](symbol) what is
@@ -46095,6 +57363,18 @@
 - for ticker [jpm](symbol) what is
 - for ticker [kmb](symbol) what is
 - for ticker [ndaq](symbol) what is
+- for  [amzn](symbol) what is
+- for  [bk](symbol) what is
+- for  [csco](symbol) what is
+- for  [dow](symbol) what is
+- for  [ebay](symbol) what is
+- for  [fox](symbol) what is
+- for  [googl](symbol) what is
+- for  [hp](symbol) what is
+- for  [ibm](symbol) what is
+- for  [jpm](symbol) what is
+- for  [kmb](symbol) what is
+- for  [ndaq](symbol) what is
 - for the stock [amzn](symbol) what is
 - for the stock [bk](symbol) what is
 - for the stock [csco](symbol) what is
@@ -46143,6 +57423,18 @@
 - for the ticker [jpm](symbol) what is
 - for the ticker [kmb](symbol) what is
 - for the ticker [ndaq](symbol) what is
+- for the [amzn](symbol) what is
+- for the [bk](symbol) what is
+- for the [csco](symbol) what is
+- for the [dow](symbol) what is
+- for the [ebay](symbol) what is
+- for the [fox](symbol) what is
+- for the [googl](symbol) what is
+- for the [hp](symbol) what is
+- for the [ibm](symbol) what is
+- for the [jpm](symbol) what is
+- for the [kmb](symbol) what is
+- for the [ndaq](symbol) what is
 - for a stock [amzn](symbol) what is
 - for a stock [bk](symbol) what is
 - for a stock [csco](symbol) what is
@@ -46191,6 +57483,18 @@
 - for a ticker [jpm](symbol) what is
 - for a ticker [kmb](symbol) what is
 - for a ticker [ndaq](symbol) what is
+- for a [amzn](symbol) what is
+- for a [bk](symbol) what is
+- for a [csco](symbol) what is
+- for a [dow](symbol) what is
+- for a [ebay](symbol) what is
+- for a [fox](symbol) what is
+- for a [googl](symbol) what is
+- for a [hp](symbol) what is
+- for a [ibm](symbol) what is
+- for a [jpm](symbol) what is
+- for a [kmb](symbol) what is
+- for a [ndaq](symbol) what is
 - stock [amzn](symbol) price what is
 - stock [bk](symbol) price what is
 - stock [csco](symbol) price what is
@@ -46239,6 +57543,18 @@
 - ticker [jpm](symbol) price what is
 - ticker [kmb](symbol) price what is
 - ticker [ndaq](symbol) price what is
+- [amzn](symbol) price what is
+- [bk](symbol) price what is
+- [csco](symbol) price what is
+- [dow](symbol) price what is
+- [ebay](symbol) price what is
+- [fox](symbol) price what is
+- [googl](symbol) price what is
+- [hp](symbol) price what is
+- [ibm](symbol) price what is
+- [jpm](symbol) price what is
+- [kmb](symbol) price what is
+- [ndaq](symbol) price what is
 - the stock [amzn](symbol) price what is
 - the stock [bk](symbol) price what is
 - the stock [csco](symbol) price what is
@@ -46287,6 +57603,18 @@
 - the ticker [jpm](symbol) price what is
 - the ticker [kmb](symbol) price what is
 - the ticker [ndaq](symbol) price what is
+- the [amzn](symbol) price what is
+- the [bk](symbol) price what is
+- the [csco](symbol) price what is
+- the [dow](symbol) price what is
+- the [ebay](symbol) price what is
+- the [fox](symbol) price what is
+- the [googl](symbol) price what is
+- the [hp](symbol) price what is
+- the [ibm](symbol) price what is
+- the [jpm](symbol) price what is
+- the [kmb](symbol) price what is
+- the [ndaq](symbol) price what is
 - a stock [amzn](symbol) price what is
 - a stock [bk](symbol) price what is
 - a stock [csco](symbol) price what is
@@ -46335,6 +57663,18 @@
 - a ticker [jpm](symbol) price what is
 - a ticker [kmb](symbol) price what is
 - a ticker [ndaq](symbol) price what is
+- a [amzn](symbol) price what is
+- a [bk](symbol) price what is
+- a [csco](symbol) price what is
+- a [dow](symbol) price what is
+- a [ebay](symbol) price what is
+- a [fox](symbol) price what is
+- a [googl](symbol) price what is
+- a [hp](symbol) price what is
+- a [ibm](symbol) price what is
+- a [jpm](symbol) price what is
+- a [kmb](symbol) price what is
+- a [ndaq](symbol) price what is
 - for stock [amzn](symbol) price what is
 - for stock [bk](symbol) price what is
 - for stock [csco](symbol) price what is
@@ -46383,6 +57723,18 @@
 - for ticker [jpm](symbol) price what is
 - for ticker [kmb](symbol) price what is
 - for ticker [ndaq](symbol) price what is
+- for  [amzn](symbol) price what is
+- for  [bk](symbol) price what is
+- for  [csco](symbol) price what is
+- for  [dow](symbol) price what is
+- for  [ebay](symbol) price what is
+- for  [fox](symbol) price what is
+- for  [googl](symbol) price what is
+- for  [hp](symbol) price what is
+- for  [ibm](symbol) price what is
+- for  [jpm](symbol) price what is
+- for  [kmb](symbol) price what is
+- for  [ndaq](symbol) price what is
 - for the stock [amzn](symbol) price what is
 - for the stock [bk](symbol) price what is
 - for the stock [csco](symbol) price what is
@@ -46431,6 +57783,18 @@
 - for the ticker [jpm](symbol) price what is
 - for the ticker [kmb](symbol) price what is
 - for the ticker [ndaq](symbol) price what is
+- for the [amzn](symbol) price what is
+- for the [bk](symbol) price what is
+- for the [csco](symbol) price what is
+- for the [dow](symbol) price what is
+- for the [ebay](symbol) price what is
+- for the [fox](symbol) price what is
+- for the [googl](symbol) price what is
+- for the [hp](symbol) price what is
+- for the [ibm](symbol) price what is
+- for the [jpm](symbol) price what is
+- for the [kmb](symbol) price what is
+- for the [ndaq](symbol) price what is
 - for a stock [amzn](symbol) price what is
 - for a stock [bk](symbol) price what is
 - for a stock [csco](symbol) price what is
@@ -46479,6 +57843,18 @@
 - for a ticker [jpm](symbol) price what is
 - for a ticker [kmb](symbol) price what is
 - for a ticker [ndaq](symbol) price what is
+- for a [amzn](symbol) price what is
+- for a [bk](symbol) price what is
+- for a [csco](symbol) price what is
+- for a [dow](symbol) price what is
+- for a [ebay](symbol) price what is
+- for a [fox](symbol) price what is
+- for a [googl](symbol) price what is
+- for a [hp](symbol) price what is
+- for a [ibm](symbol) price what is
+- for a [jpm](symbol) price what is
+- for a [kmb](symbol) price what is
+- for a [ndaq](symbol) price what is
 - stock [amzn](symbol) the price what is
 - stock [bk](symbol) the price what is
 - stock [csco](symbol) the price what is
@@ -46527,6 +57903,18 @@
 - ticker [jpm](symbol) the price what is
 - ticker [kmb](symbol) the price what is
 - ticker [ndaq](symbol) the price what is
+- [amzn](symbol) the price what is
+- [bk](symbol) the price what is
+- [csco](symbol) the price what is
+- [dow](symbol) the price what is
+- [ebay](symbol) the price what is
+- [fox](symbol) the price what is
+- [googl](symbol) the price what is
+- [hp](symbol) the price what is
+- [ibm](symbol) the price what is
+- [jpm](symbol) the price what is
+- [kmb](symbol) the price what is
+- [ndaq](symbol) the price what is
 - the stock [amzn](symbol) the price what is
 - the stock [bk](symbol) the price what is
 - the stock [csco](symbol) the price what is
@@ -46575,6 +57963,18 @@
 - the ticker [jpm](symbol) the price what is
 - the ticker [kmb](symbol) the price what is
 - the ticker [ndaq](symbol) the price what is
+- the [amzn](symbol) the price what is
+- the [bk](symbol) the price what is
+- the [csco](symbol) the price what is
+- the [dow](symbol) the price what is
+- the [ebay](symbol) the price what is
+- the [fox](symbol) the price what is
+- the [googl](symbol) the price what is
+- the [hp](symbol) the price what is
+- the [ibm](symbol) the price what is
+- the [jpm](symbol) the price what is
+- the [kmb](symbol) the price what is
+- the [ndaq](symbol) the price what is
 - a stock [amzn](symbol) the price what is
 - a stock [bk](symbol) the price what is
 - a stock [csco](symbol) the price what is
@@ -46623,6 +58023,18 @@
 - a ticker [jpm](symbol) the price what is
 - a ticker [kmb](symbol) the price what is
 - a ticker [ndaq](symbol) the price what is
+- a [amzn](symbol) the price what is
+- a [bk](symbol) the price what is
+- a [csco](symbol) the price what is
+- a [dow](symbol) the price what is
+- a [ebay](symbol) the price what is
+- a [fox](symbol) the price what is
+- a [googl](symbol) the price what is
+- a [hp](symbol) the price what is
+- a [ibm](symbol) the price what is
+- a [jpm](symbol) the price what is
+- a [kmb](symbol) the price what is
+- a [ndaq](symbol) the price what is
 - for stock [amzn](symbol) the price what is
 - for stock [bk](symbol) the price what is
 - for stock [csco](symbol) the price what is
@@ -46671,6 +58083,18 @@
 - for ticker [jpm](symbol) the price what is
 - for ticker [kmb](symbol) the price what is
 - for ticker [ndaq](symbol) the price what is
+- for  [amzn](symbol) the price what is
+- for  [bk](symbol) the price what is
+- for  [csco](symbol) the price what is
+- for  [dow](symbol) the price what is
+- for  [ebay](symbol) the price what is
+- for  [fox](symbol) the price what is
+- for  [googl](symbol) the price what is
+- for  [hp](symbol) the price what is
+- for  [ibm](symbol) the price what is
+- for  [jpm](symbol) the price what is
+- for  [kmb](symbol) the price what is
+- for  [ndaq](symbol) the price what is
 - for the stock [amzn](symbol) the price what is
 - for the stock [bk](symbol) the price what is
 - for the stock [csco](symbol) the price what is
@@ -46719,6 +58143,18 @@
 - for the ticker [jpm](symbol) the price what is
 - for the ticker [kmb](symbol) the price what is
 - for the ticker [ndaq](symbol) the price what is
+- for the [amzn](symbol) the price what is
+- for the [bk](symbol) the price what is
+- for the [csco](symbol) the price what is
+- for the [dow](symbol) the price what is
+- for the [ebay](symbol) the price what is
+- for the [fox](symbol) the price what is
+- for the [googl](symbol) the price what is
+- for the [hp](symbol) the price what is
+- for the [ibm](symbol) the price what is
+- for the [jpm](symbol) the price what is
+- for the [kmb](symbol) the price what is
+- for the [ndaq](symbol) the price what is
 - for a stock [amzn](symbol) the price what is
 - for a stock [bk](symbol) the price what is
 - for a stock [csco](symbol) the price what is
@@ -46767,6 +58203,18 @@
 - for a ticker [jpm](symbol) the price what is
 - for a ticker [kmb](symbol) the price what is
 - for a ticker [ndaq](symbol) the price what is
+- for a [amzn](symbol) the price what is
+- for a [bk](symbol) the price what is
+- for a [csco](symbol) the price what is
+- for a [dow](symbol) the price what is
+- for a [ebay](symbol) the price what is
+- for a [fox](symbol) the price what is
+- for a [googl](symbol) the price what is
+- for a [hp](symbol) the price what is
+- for a [ibm](symbol) the price what is
+- for a [jpm](symbol) the price what is
+- for a [kmb](symbol) the price what is
+- for a [ndaq](symbol) the price what is
 - stock [amzn](symbol) a price what is
 - stock [bk](symbol) a price what is
 - stock [csco](symbol) a price what is
@@ -46815,6 +58263,18 @@
 - ticker [jpm](symbol) a price what is
 - ticker [kmb](symbol) a price what is
 - ticker [ndaq](symbol) a price what is
+- [amzn](symbol) a price what is
+- [bk](symbol) a price what is
+- [csco](symbol) a price what is
+- [dow](symbol) a price what is
+- [ebay](symbol) a price what is
+- [fox](symbol) a price what is
+- [googl](symbol) a price what is
+- [hp](symbol) a price what is
+- [ibm](symbol) a price what is
+- [jpm](symbol) a price what is
+- [kmb](symbol) a price what is
+- [ndaq](symbol) a price what is
 - the stock [amzn](symbol) a price what is
 - the stock [bk](symbol) a price what is
 - the stock [csco](symbol) a price what is
@@ -46863,6 +58323,18 @@
 - the ticker [jpm](symbol) a price what is
 - the ticker [kmb](symbol) a price what is
 - the ticker [ndaq](symbol) a price what is
+- the [amzn](symbol) a price what is
+- the [bk](symbol) a price what is
+- the [csco](symbol) a price what is
+- the [dow](symbol) a price what is
+- the [ebay](symbol) a price what is
+- the [fox](symbol) a price what is
+- the [googl](symbol) a price what is
+- the [hp](symbol) a price what is
+- the [ibm](symbol) a price what is
+- the [jpm](symbol) a price what is
+- the [kmb](symbol) a price what is
+- the [ndaq](symbol) a price what is
 - a stock [amzn](symbol) a price what is
 - a stock [bk](symbol) a price what is
 - a stock [csco](symbol) a price what is
@@ -46911,6 +58383,18 @@
 - a ticker [jpm](symbol) a price what is
 - a ticker [kmb](symbol) a price what is
 - a ticker [ndaq](symbol) a price what is
+- a [amzn](symbol) a price what is
+- a [bk](symbol) a price what is
+- a [csco](symbol) a price what is
+- a [dow](symbol) a price what is
+- a [ebay](symbol) a price what is
+- a [fox](symbol) a price what is
+- a [googl](symbol) a price what is
+- a [hp](symbol) a price what is
+- a [ibm](symbol) a price what is
+- a [jpm](symbol) a price what is
+- a [kmb](symbol) a price what is
+- a [ndaq](symbol) a price what is
 - for stock [amzn](symbol) a price what is
 - for stock [bk](symbol) a price what is
 - for stock [csco](symbol) a price what is
@@ -46959,6 +58443,18 @@
 - for ticker [jpm](symbol) a price what is
 - for ticker [kmb](symbol) a price what is
 - for ticker [ndaq](symbol) a price what is
+- for  [amzn](symbol) a price what is
+- for  [bk](symbol) a price what is
+- for  [csco](symbol) a price what is
+- for  [dow](symbol) a price what is
+- for  [ebay](symbol) a price what is
+- for  [fox](symbol) a price what is
+- for  [googl](symbol) a price what is
+- for  [hp](symbol) a price what is
+- for  [ibm](symbol) a price what is
+- for  [jpm](symbol) a price what is
+- for  [kmb](symbol) a price what is
+- for  [ndaq](symbol) a price what is
 - for the stock [amzn](symbol) a price what is
 - for the stock [bk](symbol) a price what is
 - for the stock [csco](symbol) a price what is
@@ -47007,6 +58503,18 @@
 - for the ticker [jpm](symbol) a price what is
 - for the ticker [kmb](symbol) a price what is
 - for the ticker [ndaq](symbol) a price what is
+- for the [amzn](symbol) a price what is
+- for the [bk](symbol) a price what is
+- for the [csco](symbol) a price what is
+- for the [dow](symbol) a price what is
+- for the [ebay](symbol) a price what is
+- for the [fox](symbol) a price what is
+- for the [googl](symbol) a price what is
+- for the [hp](symbol) a price what is
+- for the [ibm](symbol) a price what is
+- for the [jpm](symbol) a price what is
+- for the [kmb](symbol) a price what is
+- for the [ndaq](symbol) a price what is
 - for a stock [amzn](symbol) a price what is
 - for a stock [bk](symbol) a price what is
 - for a stock [csco](symbol) a price what is
@@ -47055,6 +58563,18 @@
 - for a ticker [jpm](symbol) a price what is
 - for a ticker [kmb](symbol) a price what is
 - for a ticker [ndaq](symbol) a price what is
+- for a [amzn](symbol) a price what is
+- for a [bk](symbol) a price what is
+- for a [csco](symbol) a price what is
+- for a [dow](symbol) a price what is
+- for a [ebay](symbol) a price what is
+- for a [fox](symbol) a price what is
+- for a [googl](symbol) a price what is
+- for a [hp](symbol) a price what is
+- for a [ibm](symbol) a price what is
+- for a [jpm](symbol) a price what is
+- for a [kmb](symbol) a price what is
+- for a [ndaq](symbol) a price what is
 - stock [amzn](symbol) what's
 - stock [bk](symbol) what's
 - stock [csco](symbol) what's
@@ -47103,6 +58623,18 @@
 - ticker [jpm](symbol) what's
 - ticker [kmb](symbol) what's
 - ticker [ndaq](symbol) what's
+- [amzn](symbol) what's
+- [bk](symbol) what's
+- [csco](symbol) what's
+- [dow](symbol) what's
+- [ebay](symbol) what's
+- [fox](symbol) what's
+- [googl](symbol) what's
+- [hp](symbol) what's
+- [ibm](symbol) what's
+- [jpm](symbol) what's
+- [kmb](symbol) what's
+- [ndaq](symbol) what's
 - the stock [amzn](symbol) what's
 - the stock [bk](symbol) what's
 - the stock [csco](symbol) what's
@@ -47151,6 +58683,18 @@
 - the ticker [jpm](symbol) what's
 - the ticker [kmb](symbol) what's
 - the ticker [ndaq](symbol) what's
+- the [amzn](symbol) what's
+- the [bk](symbol) what's
+- the [csco](symbol) what's
+- the [dow](symbol) what's
+- the [ebay](symbol) what's
+- the [fox](symbol) what's
+- the [googl](symbol) what's
+- the [hp](symbol) what's
+- the [ibm](symbol) what's
+- the [jpm](symbol) what's
+- the [kmb](symbol) what's
+- the [ndaq](symbol) what's
 - a stock [amzn](symbol) what's
 - a stock [bk](symbol) what's
 - a stock [csco](symbol) what's
@@ -47199,6 +58743,18 @@
 - a ticker [jpm](symbol) what's
 - a ticker [kmb](symbol) what's
 - a ticker [ndaq](symbol) what's
+- a [amzn](symbol) what's
+- a [bk](symbol) what's
+- a [csco](symbol) what's
+- a [dow](symbol) what's
+- a [ebay](symbol) what's
+- a [fox](symbol) what's
+- a [googl](symbol) what's
+- a [hp](symbol) what's
+- a [ibm](symbol) what's
+- a [jpm](symbol) what's
+- a [kmb](symbol) what's
+- a [ndaq](symbol) what's
 - for stock [amzn](symbol) what's
 - for stock [bk](symbol) what's
 - for stock [csco](symbol) what's
@@ -47247,6 +58803,18 @@
 - for ticker [jpm](symbol) what's
 - for ticker [kmb](symbol) what's
 - for ticker [ndaq](symbol) what's
+- for  [amzn](symbol) what's
+- for  [bk](symbol) what's
+- for  [csco](symbol) what's
+- for  [dow](symbol) what's
+- for  [ebay](symbol) what's
+- for  [fox](symbol) what's
+- for  [googl](symbol) what's
+- for  [hp](symbol) what's
+- for  [ibm](symbol) what's
+- for  [jpm](symbol) what's
+- for  [kmb](symbol) what's
+- for  [ndaq](symbol) what's
 - for the stock [amzn](symbol) what's
 - for the stock [bk](symbol) what's
 - for the stock [csco](symbol) what's
@@ -47295,6 +58863,18 @@
 - for the ticker [jpm](symbol) what's
 - for the ticker [kmb](symbol) what's
 - for the ticker [ndaq](symbol) what's
+- for the [amzn](symbol) what's
+- for the [bk](symbol) what's
+- for the [csco](symbol) what's
+- for the [dow](symbol) what's
+- for the [ebay](symbol) what's
+- for the [fox](symbol) what's
+- for the [googl](symbol) what's
+- for the [hp](symbol) what's
+- for the [ibm](symbol) what's
+- for the [jpm](symbol) what's
+- for the [kmb](symbol) what's
+- for the [ndaq](symbol) what's
 - for a stock [amzn](symbol) what's
 - for a stock [bk](symbol) what's
 - for a stock [csco](symbol) what's
@@ -47343,6 +58923,18 @@
 - for a ticker [jpm](symbol) what's
 - for a ticker [kmb](symbol) what's
 - for a ticker [ndaq](symbol) what's
+- for a [amzn](symbol) what's
+- for a [bk](symbol) what's
+- for a [csco](symbol) what's
+- for a [dow](symbol) what's
+- for a [ebay](symbol) what's
+- for a [fox](symbol) what's
+- for a [googl](symbol) what's
+- for a [hp](symbol) what's
+- for a [ibm](symbol) what's
+- for a [jpm](symbol) what's
+- for a [kmb](symbol) what's
+- for a [ndaq](symbol) what's
 - stock [amzn](symbol) price what's
 - stock [bk](symbol) price what's
 - stock [csco](symbol) price what's
@@ -47391,6 +58983,18 @@
 - ticker [jpm](symbol) price what's
 - ticker [kmb](symbol) price what's
 - ticker [ndaq](symbol) price what's
+- [amzn](symbol) price what's
+- [bk](symbol) price what's
+- [csco](symbol) price what's
+- [dow](symbol) price what's
+- [ebay](symbol) price what's
+- [fox](symbol) price what's
+- [googl](symbol) price what's
+- [hp](symbol) price what's
+- [ibm](symbol) price what's
+- [jpm](symbol) price what's
+- [kmb](symbol) price what's
+- [ndaq](symbol) price what's
 - the stock [amzn](symbol) price what's
 - the stock [bk](symbol) price what's
 - the stock [csco](symbol) price what's
@@ -47439,6 +59043,18 @@
 - the ticker [jpm](symbol) price what's
 - the ticker [kmb](symbol) price what's
 - the ticker [ndaq](symbol) price what's
+- the [amzn](symbol) price what's
+- the [bk](symbol) price what's
+- the [csco](symbol) price what's
+- the [dow](symbol) price what's
+- the [ebay](symbol) price what's
+- the [fox](symbol) price what's
+- the [googl](symbol) price what's
+- the [hp](symbol) price what's
+- the [ibm](symbol) price what's
+- the [jpm](symbol) price what's
+- the [kmb](symbol) price what's
+- the [ndaq](symbol) price what's
 - a stock [amzn](symbol) price what's
 - a stock [bk](symbol) price what's
 - a stock [csco](symbol) price what's
@@ -47487,6 +59103,18 @@
 - a ticker [jpm](symbol) price what's
 - a ticker [kmb](symbol) price what's
 - a ticker [ndaq](symbol) price what's
+- a [amzn](symbol) price what's
+- a [bk](symbol) price what's
+- a [csco](symbol) price what's
+- a [dow](symbol) price what's
+- a [ebay](symbol) price what's
+- a [fox](symbol) price what's
+- a [googl](symbol) price what's
+- a [hp](symbol) price what's
+- a [ibm](symbol) price what's
+- a [jpm](symbol) price what's
+- a [kmb](symbol) price what's
+- a [ndaq](symbol) price what's
 - for stock [amzn](symbol) price what's
 - for stock [bk](symbol) price what's
 - for stock [csco](symbol) price what's
@@ -47535,6 +59163,18 @@
 - for ticker [jpm](symbol) price what's
 - for ticker [kmb](symbol) price what's
 - for ticker [ndaq](symbol) price what's
+- for  [amzn](symbol) price what's
+- for  [bk](symbol) price what's
+- for  [csco](symbol) price what's
+- for  [dow](symbol) price what's
+- for  [ebay](symbol) price what's
+- for  [fox](symbol) price what's
+- for  [googl](symbol) price what's
+- for  [hp](symbol) price what's
+- for  [ibm](symbol) price what's
+- for  [jpm](symbol) price what's
+- for  [kmb](symbol) price what's
+- for  [ndaq](symbol) price what's
 - for the stock [amzn](symbol) price what's
 - for the stock [bk](symbol) price what's
 - for the stock [csco](symbol) price what's
@@ -47583,6 +59223,18 @@
 - for the ticker [jpm](symbol) price what's
 - for the ticker [kmb](symbol) price what's
 - for the ticker [ndaq](symbol) price what's
+- for the [amzn](symbol) price what's
+- for the [bk](symbol) price what's
+- for the [csco](symbol) price what's
+- for the [dow](symbol) price what's
+- for the [ebay](symbol) price what's
+- for the [fox](symbol) price what's
+- for the [googl](symbol) price what's
+- for the [hp](symbol) price what's
+- for the [ibm](symbol) price what's
+- for the [jpm](symbol) price what's
+- for the [kmb](symbol) price what's
+- for the [ndaq](symbol) price what's
 - for a stock [amzn](symbol) price what's
 - for a stock [bk](symbol) price what's
 - for a stock [csco](symbol) price what's
@@ -47631,6 +59283,18 @@
 - for a ticker [jpm](symbol) price what's
 - for a ticker [kmb](symbol) price what's
 - for a ticker [ndaq](symbol) price what's
+- for a [amzn](symbol) price what's
+- for a [bk](symbol) price what's
+- for a [csco](symbol) price what's
+- for a [dow](symbol) price what's
+- for a [ebay](symbol) price what's
+- for a [fox](symbol) price what's
+- for a [googl](symbol) price what's
+- for a [hp](symbol) price what's
+- for a [ibm](symbol) price what's
+- for a [jpm](symbol) price what's
+- for a [kmb](symbol) price what's
+- for a [ndaq](symbol) price what's
 - stock [amzn](symbol) the price what's
 - stock [bk](symbol) the price what's
 - stock [csco](symbol) the price what's
@@ -47679,6 +59343,18 @@
 - ticker [jpm](symbol) the price what's
 - ticker [kmb](symbol) the price what's
 - ticker [ndaq](symbol) the price what's
+- [amzn](symbol) the price what's
+- [bk](symbol) the price what's
+- [csco](symbol) the price what's
+- [dow](symbol) the price what's
+- [ebay](symbol) the price what's
+- [fox](symbol) the price what's
+- [googl](symbol) the price what's
+- [hp](symbol) the price what's
+- [ibm](symbol) the price what's
+- [jpm](symbol) the price what's
+- [kmb](symbol) the price what's
+- [ndaq](symbol) the price what's
 - the stock [amzn](symbol) the price what's
 - the stock [bk](symbol) the price what's
 - the stock [csco](symbol) the price what's
@@ -47727,6 +59403,18 @@
 - the ticker [jpm](symbol) the price what's
 - the ticker [kmb](symbol) the price what's
 - the ticker [ndaq](symbol) the price what's
+- the [amzn](symbol) the price what's
+- the [bk](symbol) the price what's
+- the [csco](symbol) the price what's
+- the [dow](symbol) the price what's
+- the [ebay](symbol) the price what's
+- the [fox](symbol) the price what's
+- the [googl](symbol) the price what's
+- the [hp](symbol) the price what's
+- the [ibm](symbol) the price what's
+- the [jpm](symbol) the price what's
+- the [kmb](symbol) the price what's
+- the [ndaq](symbol) the price what's
 - a stock [amzn](symbol) the price what's
 - a stock [bk](symbol) the price what's
 - a stock [csco](symbol) the price what's
@@ -47775,6 +59463,18 @@
 - a ticker [jpm](symbol) the price what's
 - a ticker [kmb](symbol) the price what's
 - a ticker [ndaq](symbol) the price what's
+- a [amzn](symbol) the price what's
+- a [bk](symbol) the price what's
+- a [csco](symbol) the price what's
+- a [dow](symbol) the price what's
+- a [ebay](symbol) the price what's
+- a [fox](symbol) the price what's
+- a [googl](symbol) the price what's
+- a [hp](symbol) the price what's
+- a [ibm](symbol) the price what's
+- a [jpm](symbol) the price what's
+- a [kmb](symbol) the price what's
+- a [ndaq](symbol) the price what's
 - for stock [amzn](symbol) the price what's
 - for stock [bk](symbol) the price what's
 - for stock [csco](symbol) the price what's
@@ -47823,6 +59523,18 @@
 - for ticker [jpm](symbol) the price what's
 - for ticker [kmb](symbol) the price what's
 - for ticker [ndaq](symbol) the price what's
+- for  [amzn](symbol) the price what's
+- for  [bk](symbol) the price what's
+- for  [csco](symbol) the price what's
+- for  [dow](symbol) the price what's
+- for  [ebay](symbol) the price what's
+- for  [fox](symbol) the price what's
+- for  [googl](symbol) the price what's
+- for  [hp](symbol) the price what's
+- for  [ibm](symbol) the price what's
+- for  [jpm](symbol) the price what's
+- for  [kmb](symbol) the price what's
+- for  [ndaq](symbol) the price what's
 - for the stock [amzn](symbol) the price what's
 - for the stock [bk](symbol) the price what's
 - for the stock [csco](symbol) the price what's
@@ -47871,6 +59583,18 @@
 - for the ticker [jpm](symbol) the price what's
 - for the ticker [kmb](symbol) the price what's
 - for the ticker [ndaq](symbol) the price what's
+- for the [amzn](symbol) the price what's
+- for the [bk](symbol) the price what's
+- for the [csco](symbol) the price what's
+- for the [dow](symbol) the price what's
+- for the [ebay](symbol) the price what's
+- for the [fox](symbol) the price what's
+- for the [googl](symbol) the price what's
+- for the [hp](symbol) the price what's
+- for the [ibm](symbol) the price what's
+- for the [jpm](symbol) the price what's
+- for the [kmb](symbol) the price what's
+- for the [ndaq](symbol) the price what's
 - for a stock [amzn](symbol) the price what's
 - for a stock [bk](symbol) the price what's
 - for a stock [csco](symbol) the price what's
@@ -47919,6 +59643,18 @@
 - for a ticker [jpm](symbol) the price what's
 - for a ticker [kmb](symbol) the price what's
 - for a ticker [ndaq](symbol) the price what's
+- for a [amzn](symbol) the price what's
+- for a [bk](symbol) the price what's
+- for a [csco](symbol) the price what's
+- for a [dow](symbol) the price what's
+- for a [ebay](symbol) the price what's
+- for a [fox](symbol) the price what's
+- for a [googl](symbol) the price what's
+- for a [hp](symbol) the price what's
+- for a [ibm](symbol) the price what's
+- for a [jpm](symbol) the price what's
+- for a [kmb](symbol) the price what's
+- for a [ndaq](symbol) the price what's
 - stock [amzn](symbol) a price what's
 - stock [bk](symbol) a price what's
 - stock [csco](symbol) a price what's
@@ -47967,6 +59703,18 @@
 - ticker [jpm](symbol) a price what's
 - ticker [kmb](symbol) a price what's
 - ticker [ndaq](symbol) a price what's
+- [amzn](symbol) a price what's
+- [bk](symbol) a price what's
+- [csco](symbol) a price what's
+- [dow](symbol) a price what's
+- [ebay](symbol) a price what's
+- [fox](symbol) a price what's
+- [googl](symbol) a price what's
+- [hp](symbol) a price what's
+- [ibm](symbol) a price what's
+- [jpm](symbol) a price what's
+- [kmb](symbol) a price what's
+- [ndaq](symbol) a price what's
 - the stock [amzn](symbol) a price what's
 - the stock [bk](symbol) a price what's
 - the stock [csco](symbol) a price what's
@@ -48015,6 +59763,18 @@
 - the ticker [jpm](symbol) a price what's
 - the ticker [kmb](symbol) a price what's
 - the ticker [ndaq](symbol) a price what's
+- the [amzn](symbol) a price what's
+- the [bk](symbol) a price what's
+- the [csco](symbol) a price what's
+- the [dow](symbol) a price what's
+- the [ebay](symbol) a price what's
+- the [fox](symbol) a price what's
+- the [googl](symbol) a price what's
+- the [hp](symbol) a price what's
+- the [ibm](symbol) a price what's
+- the [jpm](symbol) a price what's
+- the [kmb](symbol) a price what's
+- the [ndaq](symbol) a price what's
 - a stock [amzn](symbol) a price what's
 - a stock [bk](symbol) a price what's
 - a stock [csco](symbol) a price what's
@@ -48063,6 +59823,18 @@
 - a ticker [jpm](symbol) a price what's
 - a ticker [kmb](symbol) a price what's
 - a ticker [ndaq](symbol) a price what's
+- a [amzn](symbol) a price what's
+- a [bk](symbol) a price what's
+- a [csco](symbol) a price what's
+- a [dow](symbol) a price what's
+- a [ebay](symbol) a price what's
+- a [fox](symbol) a price what's
+- a [googl](symbol) a price what's
+- a [hp](symbol) a price what's
+- a [ibm](symbol) a price what's
+- a [jpm](symbol) a price what's
+- a [kmb](symbol) a price what's
+- a [ndaq](symbol) a price what's
 - for stock [amzn](symbol) a price what's
 - for stock [bk](symbol) a price what's
 - for stock [csco](symbol) a price what's
@@ -48111,6 +59883,18 @@
 - for ticker [jpm](symbol) a price what's
 - for ticker [kmb](symbol) a price what's
 - for ticker [ndaq](symbol) a price what's
+- for  [amzn](symbol) a price what's
+- for  [bk](symbol) a price what's
+- for  [csco](symbol) a price what's
+- for  [dow](symbol) a price what's
+- for  [ebay](symbol) a price what's
+- for  [fox](symbol) a price what's
+- for  [googl](symbol) a price what's
+- for  [hp](symbol) a price what's
+- for  [ibm](symbol) a price what's
+- for  [jpm](symbol) a price what's
+- for  [kmb](symbol) a price what's
+- for  [ndaq](symbol) a price what's
 - for the stock [amzn](symbol) a price what's
 - for the stock [bk](symbol) a price what's
 - for the stock [csco](symbol) a price what's
@@ -48159,6 +59943,18 @@
 - for the ticker [jpm](symbol) a price what's
 - for the ticker [kmb](symbol) a price what's
 - for the ticker [ndaq](symbol) a price what's
+- for the [amzn](symbol) a price what's
+- for the [bk](symbol) a price what's
+- for the [csco](symbol) a price what's
+- for the [dow](symbol) a price what's
+- for the [ebay](symbol) a price what's
+- for the [fox](symbol) a price what's
+- for the [googl](symbol) a price what's
+- for the [hp](symbol) a price what's
+- for the [ibm](symbol) a price what's
+- for the [jpm](symbol) a price what's
+- for the [kmb](symbol) a price what's
+- for the [ndaq](symbol) a price what's
 - for a stock [amzn](symbol) a price what's
 - for a stock [bk](symbol) a price what's
 - for a stock [csco](symbol) a price what's
@@ -48207,6 +60003,18 @@
 - for a ticker [jpm](symbol) a price what's
 - for a ticker [kmb](symbol) a price what's
 - for a ticker [ndaq](symbol) a price what's
+- for a [amzn](symbol) a price what's
+- for a [bk](symbol) a price what's
+- for a [csco](symbol) a price what's
+- for a [dow](symbol) a price what's
+- for a [ebay](symbol) a price what's
+- for a [fox](symbol) a price what's
+- for a [googl](symbol) a price what's
+- for a [hp](symbol) a price what's
+- for a [ibm](symbol) a price what's
+- for a [jpm](symbol) a price what's
+- for a [kmb](symbol) a price what's
+- for a [ndaq](symbol) a price what's
 - stock [amzn](symbol) show
 - stock [bk](symbol) show
 - stock [csco](symbol) show
@@ -48255,6 +60063,18 @@
 - ticker [jpm](symbol) show
 - ticker [kmb](symbol) show
 - ticker [ndaq](symbol) show
+- [amzn](symbol) show
+- [bk](symbol) show
+- [csco](symbol) show
+- [dow](symbol) show
+- [ebay](symbol) show
+- [fox](symbol) show
+- [googl](symbol) show
+- [hp](symbol) show
+- [ibm](symbol) show
+- [jpm](symbol) show
+- [kmb](symbol) show
+- [ndaq](symbol) show
 - the stock [amzn](symbol) show
 - the stock [bk](symbol) show
 - the stock [csco](symbol) show
@@ -48303,6 +60123,18 @@
 - the ticker [jpm](symbol) show
 - the ticker [kmb](symbol) show
 - the ticker [ndaq](symbol) show
+- the [amzn](symbol) show
+- the [bk](symbol) show
+- the [csco](symbol) show
+- the [dow](symbol) show
+- the [ebay](symbol) show
+- the [fox](symbol) show
+- the [googl](symbol) show
+- the [hp](symbol) show
+- the [ibm](symbol) show
+- the [jpm](symbol) show
+- the [kmb](symbol) show
+- the [ndaq](symbol) show
 - a stock [amzn](symbol) show
 - a stock [bk](symbol) show
 - a stock [csco](symbol) show
@@ -48351,6 +60183,18 @@
 - a ticker [jpm](symbol) show
 - a ticker [kmb](symbol) show
 - a ticker [ndaq](symbol) show
+- a [amzn](symbol) show
+- a [bk](symbol) show
+- a [csco](symbol) show
+- a [dow](symbol) show
+- a [ebay](symbol) show
+- a [fox](symbol) show
+- a [googl](symbol) show
+- a [hp](symbol) show
+- a [ibm](symbol) show
+- a [jpm](symbol) show
+- a [kmb](symbol) show
+- a [ndaq](symbol) show
 - for stock [amzn](symbol) show
 - for stock [bk](symbol) show
 - for stock [csco](symbol) show
@@ -48399,6 +60243,18 @@
 - for ticker [jpm](symbol) show
 - for ticker [kmb](symbol) show
 - for ticker [ndaq](symbol) show
+- for  [amzn](symbol) show
+- for  [bk](symbol) show
+- for  [csco](symbol) show
+- for  [dow](symbol) show
+- for  [ebay](symbol) show
+- for  [fox](symbol) show
+- for  [googl](symbol) show
+- for  [hp](symbol) show
+- for  [ibm](symbol) show
+- for  [jpm](symbol) show
+- for  [kmb](symbol) show
+- for  [ndaq](symbol) show
 - for the stock [amzn](symbol) show
 - for the stock [bk](symbol) show
 - for the stock [csco](symbol) show
@@ -48447,6 +60303,18 @@
 - for the ticker [jpm](symbol) show
 - for the ticker [kmb](symbol) show
 - for the ticker [ndaq](symbol) show
+- for the [amzn](symbol) show
+- for the [bk](symbol) show
+- for the [csco](symbol) show
+- for the [dow](symbol) show
+- for the [ebay](symbol) show
+- for the [fox](symbol) show
+- for the [googl](symbol) show
+- for the [hp](symbol) show
+- for the [ibm](symbol) show
+- for the [jpm](symbol) show
+- for the [kmb](symbol) show
+- for the [ndaq](symbol) show
 - for a stock [amzn](symbol) show
 - for a stock [bk](symbol) show
 - for a stock [csco](symbol) show
@@ -48495,6 +60363,18 @@
 - for a ticker [jpm](symbol) show
 - for a ticker [kmb](symbol) show
 - for a ticker [ndaq](symbol) show
+- for a [amzn](symbol) show
+- for a [bk](symbol) show
+- for a [csco](symbol) show
+- for a [dow](symbol) show
+- for a [ebay](symbol) show
+- for a [fox](symbol) show
+- for a [googl](symbol) show
+- for a [hp](symbol) show
+- for a [ibm](symbol) show
+- for a [jpm](symbol) show
+- for a [kmb](symbol) show
+- for a [ndaq](symbol) show
 - stock [amzn](symbol) price show
 - stock [bk](symbol) price show
 - stock [csco](symbol) price show
@@ -48543,6 +60423,18 @@
 - ticker [jpm](symbol) price show
 - ticker [kmb](symbol) price show
 - ticker [ndaq](symbol) price show
+- [amzn](symbol) price show
+- [bk](symbol) price show
+- [csco](symbol) price show
+- [dow](symbol) price show
+- [ebay](symbol) price show
+- [fox](symbol) price show
+- [googl](symbol) price show
+- [hp](symbol) price show
+- [ibm](symbol) price show
+- [jpm](symbol) price show
+- [kmb](symbol) price show
+- [ndaq](symbol) price show
 - the stock [amzn](symbol) price show
 - the stock [bk](symbol) price show
 - the stock [csco](symbol) price show
@@ -48591,6 +60483,18 @@
 - the ticker [jpm](symbol) price show
 - the ticker [kmb](symbol) price show
 - the ticker [ndaq](symbol) price show
+- the [amzn](symbol) price show
+- the [bk](symbol) price show
+- the [csco](symbol) price show
+- the [dow](symbol) price show
+- the [ebay](symbol) price show
+- the [fox](symbol) price show
+- the [googl](symbol) price show
+- the [hp](symbol) price show
+- the [ibm](symbol) price show
+- the [jpm](symbol) price show
+- the [kmb](symbol) price show
+- the [ndaq](symbol) price show
 - a stock [amzn](symbol) price show
 - a stock [bk](symbol) price show
 - a stock [csco](symbol) price show
@@ -48639,6 +60543,18 @@
 - a ticker [jpm](symbol) price show
 - a ticker [kmb](symbol) price show
 - a ticker [ndaq](symbol) price show
+- a [amzn](symbol) price show
+- a [bk](symbol) price show
+- a [csco](symbol) price show
+- a [dow](symbol) price show
+- a [ebay](symbol) price show
+- a [fox](symbol) price show
+- a [googl](symbol) price show
+- a [hp](symbol) price show
+- a [ibm](symbol) price show
+- a [jpm](symbol) price show
+- a [kmb](symbol) price show
+- a [ndaq](symbol) price show
 - for stock [amzn](symbol) price show
 - for stock [bk](symbol) price show
 - for stock [csco](symbol) price show
@@ -48687,6 +60603,18 @@
 - for ticker [jpm](symbol) price show
 - for ticker [kmb](symbol) price show
 - for ticker [ndaq](symbol) price show
+- for  [amzn](symbol) price show
+- for  [bk](symbol) price show
+- for  [csco](symbol) price show
+- for  [dow](symbol) price show
+- for  [ebay](symbol) price show
+- for  [fox](symbol) price show
+- for  [googl](symbol) price show
+- for  [hp](symbol) price show
+- for  [ibm](symbol) price show
+- for  [jpm](symbol) price show
+- for  [kmb](symbol) price show
+- for  [ndaq](symbol) price show
 - for the stock [amzn](symbol) price show
 - for the stock [bk](symbol) price show
 - for the stock [csco](symbol) price show
@@ -48735,6 +60663,18 @@
 - for the ticker [jpm](symbol) price show
 - for the ticker [kmb](symbol) price show
 - for the ticker [ndaq](symbol) price show
+- for the [amzn](symbol) price show
+- for the [bk](symbol) price show
+- for the [csco](symbol) price show
+- for the [dow](symbol) price show
+- for the [ebay](symbol) price show
+- for the [fox](symbol) price show
+- for the [googl](symbol) price show
+- for the [hp](symbol) price show
+- for the [ibm](symbol) price show
+- for the [jpm](symbol) price show
+- for the [kmb](symbol) price show
+- for the [ndaq](symbol) price show
 - for a stock [amzn](symbol) price show
 - for a stock [bk](symbol) price show
 - for a stock [csco](symbol) price show
@@ -48783,6 +60723,18 @@
 - for a ticker [jpm](symbol) price show
 - for a ticker [kmb](symbol) price show
 - for a ticker [ndaq](symbol) price show
+- for a [amzn](symbol) price show
+- for a [bk](symbol) price show
+- for a [csco](symbol) price show
+- for a [dow](symbol) price show
+- for a [ebay](symbol) price show
+- for a [fox](symbol) price show
+- for a [googl](symbol) price show
+- for a [hp](symbol) price show
+- for a [ibm](symbol) price show
+- for a [jpm](symbol) price show
+- for a [kmb](symbol) price show
+- for a [ndaq](symbol) price show
 - stock [amzn](symbol) the price show
 - stock [bk](symbol) the price show
 - stock [csco](symbol) the price show
@@ -48831,6 +60783,18 @@
 - ticker [jpm](symbol) the price show
 - ticker [kmb](symbol) the price show
 - ticker [ndaq](symbol) the price show
+- [amzn](symbol) the price show
+- [bk](symbol) the price show
+- [csco](symbol) the price show
+- [dow](symbol) the price show
+- [ebay](symbol) the price show
+- [fox](symbol) the price show
+- [googl](symbol) the price show
+- [hp](symbol) the price show
+- [ibm](symbol) the price show
+- [jpm](symbol) the price show
+- [kmb](symbol) the price show
+- [ndaq](symbol) the price show
 - the stock [amzn](symbol) the price show
 - the stock [bk](symbol) the price show
 - the stock [csco](symbol) the price show
@@ -48879,6 +60843,18 @@
 - the ticker [jpm](symbol) the price show
 - the ticker [kmb](symbol) the price show
 - the ticker [ndaq](symbol) the price show
+- the [amzn](symbol) the price show
+- the [bk](symbol) the price show
+- the [csco](symbol) the price show
+- the [dow](symbol) the price show
+- the [ebay](symbol) the price show
+- the [fox](symbol) the price show
+- the [googl](symbol) the price show
+- the [hp](symbol) the price show
+- the [ibm](symbol) the price show
+- the [jpm](symbol) the price show
+- the [kmb](symbol) the price show
+- the [ndaq](symbol) the price show
 - a stock [amzn](symbol) the price show
 - a stock [bk](symbol) the price show
 - a stock [csco](symbol) the price show
@@ -48927,6 +60903,18 @@
 - a ticker [jpm](symbol) the price show
 - a ticker [kmb](symbol) the price show
 - a ticker [ndaq](symbol) the price show
+- a [amzn](symbol) the price show
+- a [bk](symbol) the price show
+- a [csco](symbol) the price show
+- a [dow](symbol) the price show
+- a [ebay](symbol) the price show
+- a [fox](symbol) the price show
+- a [googl](symbol) the price show
+- a [hp](symbol) the price show
+- a [ibm](symbol) the price show
+- a [jpm](symbol) the price show
+- a [kmb](symbol) the price show
+- a [ndaq](symbol) the price show
 - for stock [amzn](symbol) the price show
 - for stock [bk](symbol) the price show
 - for stock [csco](symbol) the price show
@@ -48975,6 +60963,18 @@
 - for ticker [jpm](symbol) the price show
 - for ticker [kmb](symbol) the price show
 - for ticker [ndaq](symbol) the price show
+- for  [amzn](symbol) the price show
+- for  [bk](symbol) the price show
+- for  [csco](symbol) the price show
+- for  [dow](symbol) the price show
+- for  [ebay](symbol) the price show
+- for  [fox](symbol) the price show
+- for  [googl](symbol) the price show
+- for  [hp](symbol) the price show
+- for  [ibm](symbol) the price show
+- for  [jpm](symbol) the price show
+- for  [kmb](symbol) the price show
+- for  [ndaq](symbol) the price show
 - for the stock [amzn](symbol) the price show
 - for the stock [bk](symbol) the price show
 - for the stock [csco](symbol) the price show
@@ -49023,6 +61023,18 @@
 - for the ticker [jpm](symbol) the price show
 - for the ticker [kmb](symbol) the price show
 - for the ticker [ndaq](symbol) the price show
+- for the [amzn](symbol) the price show
+- for the [bk](symbol) the price show
+- for the [csco](symbol) the price show
+- for the [dow](symbol) the price show
+- for the [ebay](symbol) the price show
+- for the [fox](symbol) the price show
+- for the [googl](symbol) the price show
+- for the [hp](symbol) the price show
+- for the [ibm](symbol) the price show
+- for the [jpm](symbol) the price show
+- for the [kmb](symbol) the price show
+- for the [ndaq](symbol) the price show
 - for a stock [amzn](symbol) the price show
 - for a stock [bk](symbol) the price show
 - for a stock [csco](symbol) the price show
@@ -49071,6 +61083,18 @@
 - for a ticker [jpm](symbol) the price show
 - for a ticker [kmb](symbol) the price show
 - for a ticker [ndaq](symbol) the price show
+- for a [amzn](symbol) the price show
+- for a [bk](symbol) the price show
+- for a [csco](symbol) the price show
+- for a [dow](symbol) the price show
+- for a [ebay](symbol) the price show
+- for a [fox](symbol) the price show
+- for a [googl](symbol) the price show
+- for a [hp](symbol) the price show
+- for a [ibm](symbol) the price show
+- for a [jpm](symbol) the price show
+- for a [kmb](symbol) the price show
+- for a [ndaq](symbol) the price show
 - stock [amzn](symbol) a price show
 - stock [bk](symbol) a price show
 - stock [csco](symbol) a price show
@@ -49119,6 +61143,18 @@
 - ticker [jpm](symbol) a price show
 - ticker [kmb](symbol) a price show
 - ticker [ndaq](symbol) a price show
+- [amzn](symbol) a price show
+- [bk](symbol) a price show
+- [csco](symbol) a price show
+- [dow](symbol) a price show
+- [ebay](symbol) a price show
+- [fox](symbol) a price show
+- [googl](symbol) a price show
+- [hp](symbol) a price show
+- [ibm](symbol) a price show
+- [jpm](symbol) a price show
+- [kmb](symbol) a price show
+- [ndaq](symbol) a price show
 - the stock [amzn](symbol) a price show
 - the stock [bk](symbol) a price show
 - the stock [csco](symbol) a price show
@@ -49167,6 +61203,18 @@
 - the ticker [jpm](symbol) a price show
 - the ticker [kmb](symbol) a price show
 - the ticker [ndaq](symbol) a price show
+- the [amzn](symbol) a price show
+- the [bk](symbol) a price show
+- the [csco](symbol) a price show
+- the [dow](symbol) a price show
+- the [ebay](symbol) a price show
+- the [fox](symbol) a price show
+- the [googl](symbol) a price show
+- the [hp](symbol) a price show
+- the [ibm](symbol) a price show
+- the [jpm](symbol) a price show
+- the [kmb](symbol) a price show
+- the [ndaq](symbol) a price show
 - a stock [amzn](symbol) a price show
 - a stock [bk](symbol) a price show
 - a stock [csco](symbol) a price show
@@ -49215,6 +61263,18 @@
 - a ticker [jpm](symbol) a price show
 - a ticker [kmb](symbol) a price show
 - a ticker [ndaq](symbol) a price show
+- a [amzn](symbol) a price show
+- a [bk](symbol) a price show
+- a [csco](symbol) a price show
+- a [dow](symbol) a price show
+- a [ebay](symbol) a price show
+- a [fox](symbol) a price show
+- a [googl](symbol) a price show
+- a [hp](symbol) a price show
+- a [ibm](symbol) a price show
+- a [jpm](symbol) a price show
+- a [kmb](symbol) a price show
+- a [ndaq](symbol) a price show
 - for stock [amzn](symbol) a price show
 - for stock [bk](symbol) a price show
 - for stock [csco](symbol) a price show
@@ -49263,6 +61323,18 @@
 - for ticker [jpm](symbol) a price show
 - for ticker [kmb](symbol) a price show
 - for ticker [ndaq](symbol) a price show
+- for  [amzn](symbol) a price show
+- for  [bk](symbol) a price show
+- for  [csco](symbol) a price show
+- for  [dow](symbol) a price show
+- for  [ebay](symbol) a price show
+- for  [fox](symbol) a price show
+- for  [googl](symbol) a price show
+- for  [hp](symbol) a price show
+- for  [ibm](symbol) a price show
+- for  [jpm](symbol) a price show
+- for  [kmb](symbol) a price show
+- for  [ndaq](symbol) a price show
 - for the stock [amzn](symbol) a price show
 - for the stock [bk](symbol) a price show
 - for the stock [csco](symbol) a price show
@@ -49311,6 +61383,18 @@
 - for the ticker [jpm](symbol) a price show
 - for the ticker [kmb](symbol) a price show
 - for the ticker [ndaq](symbol) a price show
+- for the [amzn](symbol) a price show
+- for the [bk](symbol) a price show
+- for the [csco](symbol) a price show
+- for the [dow](symbol) a price show
+- for the [ebay](symbol) a price show
+- for the [fox](symbol) a price show
+- for the [googl](symbol) a price show
+- for the [hp](symbol) a price show
+- for the [ibm](symbol) a price show
+- for the [jpm](symbol) a price show
+- for the [kmb](symbol) a price show
+- for the [ndaq](symbol) a price show
 - for a stock [amzn](symbol) a price show
 - for a stock [bk](symbol) a price show
 - for a stock [csco](symbol) a price show
@@ -49359,6 +61443,18 @@
 - for a ticker [jpm](symbol) a price show
 - for a ticker [kmb](symbol) a price show
 - for a ticker [ndaq](symbol) a price show
+- for a [amzn](symbol) a price show
+- for a [bk](symbol) a price show
+- for a [csco](symbol) a price show
+- for a [dow](symbol) a price show
+- for a [ebay](symbol) a price show
+- for a [fox](symbol) a price show
+- for a [googl](symbol) a price show
+- for a [hp](symbol) a price show
+- for a [ibm](symbol) a price show
+- for a [jpm](symbol) a price show
+- for a [kmb](symbol) a price show
+- for a [ndaq](symbol) a price show
 
 
 ## intent: show_compare

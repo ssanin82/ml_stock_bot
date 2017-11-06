@@ -60,6 +60,7 @@ class ActionShowPrice(Action):
             if sym in df.symbol.unique():
                 img = generate_price_plot(sym)
                 dispatcher.utter_response({"text": "Here you go!", "image": img})
+                plt.show()  # TODO remove later
             else:
                 dispatcher.utter_message("No price for symbol %s" % sym)
         else:
@@ -94,6 +95,7 @@ class ActionShowCompare(Action):
                     dispatcher.utter_message("I have no information about symbol %s" % sym2)
             else:
                 img = generate_compare_plot([sym1, sym2])
+                plt.show()  # TODO remove later
                 dispatcher.utter_response({"text": "Done!", "image": img})
         return []
 
@@ -202,7 +204,7 @@ def _generate_show_stocks(df):
     chunks.append([("%s %s %s [%s](symbol)" % (prep, a, w, s)).strip()
                    for prep in ["", "for"]
                    for a in articles
-                   for w in ["stock", "symbol", "instrument", "ticker"]
+                   for w in ["stock", "symbol", "instrument", "ticker", ""]
                    for s in df.symbol.unique()])
     return _permute_chunks(chunks)
 
