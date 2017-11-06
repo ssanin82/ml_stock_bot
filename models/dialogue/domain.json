@@ -4,6 +4,7 @@
     "intent_show_price",
     "intent_show_compare",
     "intent_list_stocks",
+    "intent_exit",
     "entity_stock",
     "entity_symbol",
     "entity_symbol_compare",
@@ -14,9 +15,11 @@
     "prev_utter_default",
     "prev_utter_greet",
     "prev_utter_restart",
+    "prev_utter_goodbye",
     "prev_action_ask_howcanhelp",
     "prev_action_list_stocks",
     "prev_action_show_price",
-    "prev_action_show_compare"
+    "prev_action_show_compare",
+    "prev_action_exit"
   ]
 }

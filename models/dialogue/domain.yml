@@ -3,10 +3,12 @@ actions:
 - utter_default
 - utter_greet
 - utter_restart
+- utter_goodbye
 - action_ask_howcanhelp
 - bot.ActionListStocks
 - bot.ActionShowPrice
 - bot.ActionShowCompare
+- bot.ActionExit
 config:
   store_entities_as_slots: true
 entities:
@@ -18,6 +20,7 @@ intents:
 - show_price
 - show_compare
 - list_stocks
+- exit
 slots:
   symbol:
     type: text
@@ -46,6 +49,17 @@ templates:
   - text: What did you mean?
   - text: It's not clear. Please, type your request differently
   - text: What was that again?
+  utter_goodbye:
+  - text: Good bye!
+  - text: So long!
+  - text: See you later!
+  - text: I'll miss you!
+  - text: Have a nice day!
+  - text: Nice talking to you!
+  - text: Ok, bye!
+  - text: Bye bye!
+  - text: See you next time!
+  - text: Stick around!
   utter_greet:
   - text: Good day!
   - text: Hello!
@@ -58,7 +72,14 @@ templates:
   - text: I'm listening
   - text: Ready to serve you!
   utter_restart:
-  - text: Is there anything more that I can help with?
+  - text: Is there anything else that I can help you with?
   - text: Ask me more
   - text: Any more questions?
+  - text: More help?
+  - text: Something else?
+  - text: What else?
+  - text: Try something else
+  - text: I'm ready again
+  - text: Any other help?
+  - text: Ready to answer more
 topics: []

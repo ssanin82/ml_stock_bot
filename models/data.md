@@ -11,6 +11,17 @@
 - good day
 - dear sir
 
+## intent:exit
+- bye
+- exit
+- quit
+- good bye
+- goodbye
+- bye bye
+- so long
+- break
+- stop
+
 ## intent:list_stocks
 - list instruments
 - show me instruments

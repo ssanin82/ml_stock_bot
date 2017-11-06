@@ -1,12 +1,3 @@
-"""
-Test utterances
-----------------
-* hi
-* show price GOOGL
-* compare prices GOOGL AMZN
-* list stocks
-"""
-
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
@@ -42,6 +33,18 @@ sns.set()
 
 def new_image_name():
     return 'plot_%d.png' % int(time.time() * 1000)
+
+
+class ActionExit(Action):
+    def name(self):
+        return 'action_exit'
+
+    def resets_topic(self):
+        return True
+
+    def run(self, dispatcher, tracker, domain):
+        exit()
+        return []
 
 
 class ActionShowPrice(Action):
@@ -125,7 +128,7 @@ class TrainPolicy(KerasPolicy):
         from keras.layers import LSTM, Activation, Masking, Dense
         from keras.models import Sequential
 
-        n_hidden = 32  # size of hidden layer in LSTM
+        n_hidden = 300  # size of hidden layer in LSTM
         # Build Model
         batch_shape = (None, max_history_len, num_features)
 
@@ -134,9 +137,7 @@ class TrainPolicy(KerasPolicy):
         model.add(LSTM(n_hidden, batch_input_shape=batch_shape))
         model.add(Dense(input_dim=n_hidden, output_dim=num_actions))
         model.add(Activation('softmax'))
-        model.compile(loss='categorical_crossentropy',
-                      optimizer='adam',
-                      metrics=['accuracy'])
+        model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 
         logger.debug(model.summary())
         return model
@@ -145,9 +146,10 @@ class TrainPolicy(KerasPolicy):
 def train_dialogue(domain_file="domain.yml",
                    model_path="models/dialogue",
                    training_data_file="models/stories.md"):
-    agent = Agent(domain_file, policies=[MemoizationPolicy(), TrainPolicy()])
+    # agent = Agent(domain_file, policies=[MemoizationPolicy(), TrainPolicy()])
+    agent = Agent(domain_file, policies=[TrainPolicy()])
     agent.train(training_data_file,
-                max_history=1,
+                max_history=3,
                 epochs=500,
                 batch_size=50,
                 augmentation_factor=50,
@@ -270,6 +272,8 @@ def generate_compare_plot(syms):
 
 
 def generate_stories():
+    stories = []
+
     blocks = [["* _greet", "   - utter_greet", "   - action_ask_howcanhelp"],
               ["* _show_price", "   - action_show_price", "   - utter_restart"],
               ["* _show_compare", "   - action_show_compare", "   - utter_restart"],
@@ -300,13 +304,24 @@ def generate_stories():
             ixs_permuted.append(x)
         else:
             ixs_permuted.extend(permutations(x))
-    counter = 0
-    lines = []
     for x in ixs_permuted:
-        counter += 1
-        lines.append("## story_%s" % counter)
+        lines = []
         for blk in x:
             lines.extend(blocks[blk])
+        stories.append(lines)
+
+    block = ["* exit", "   - utter_goodbye", "   - action_exit"]
+    for i in range(len(stories)):
+        story = stories[i][:]
+        story.extend(block)
+        stories.append(story)
+
+    lines = []
+    counter = 0
+    for story in stories:
+        counter += 1
+        lines.append("## story_%s" % counter)
+        lines.extend(story)
         lines.append("")
     models_dir = "./models"
     if not os.path.exists(models_dir):
@@ -320,8 +335,8 @@ class BotServer(RasaCoreServer):
 
 
 if __name__ == '__main__':
-    # logging.basicConfig(level="DEBUG")
-    logging.basicConfig(level="INFO")
+    logging.basicConfig(level="DEBUG")
+    # logging.basicConfig(level="INFO")
     parser = argparse.ArgumentParser(description='starts the bot')
     parser.add_argument('task', help="what the bot should do - e.g. run or train?")
     task = parser.parse_args().task

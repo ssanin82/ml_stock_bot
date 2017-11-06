@@ -9,6 +9,7 @@ intents:
  - show_price
  - show_compare
  - list_stocks
+ - exit
 
 entities:
  - stock
@@ -60,12 +61,25 @@ templates:
     - "I'm ready again"
     - "Any other help?"
     - "Ready to answer more"
+  utter_goodbye:
+    - "Good bye!"
+    - "So long!"
+    - "See you later!"
+    - "I'll miss you!"
+    - "Have a nice day!"
+    - "Nice talking to you!"
+    - "Ok, bye!"
+    - "Bye bye!"
+    - "See you next time!"
+    - "Stick around!"
 
 actions:
   - utter_default
   - utter_greet
   - utter_restart
+  - utter_goodbye
   - action_ask_howcanhelp
   - bot.ActionListStocks
   - bot.ActionShowPrice
   - bot.ActionShowCompare
+  - bot.ActionExit

@@ -2,5 +2,5 @@
   "pipeline": "spacy_sklearn",
   "path" : "./models",
   "project": "nlu",
-  "data" : "./data/data.json"
+  "data" : "./models/data.md"
 }
