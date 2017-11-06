@@ -142,11 +142,13 @@ class TrainPolicy(KerasPolicy):
         return model
 
 
-def train_dialogue(domain_file="domain.yml", model_path="models/dialogue", training_data_file="data/stories.md"):
+def train_dialogue(domain_file="domain.yml",
+                   model_path="models/dialogue",
+                   training_data_file="models/stories.md"):
     agent = Agent(domain_file, policies=[MemoizationPolicy(), TrainPolicy()])
     agent.train(training_data_file,
                 max_history=1,
-                epochs=300,
+                epochs=500,
                 batch_size=50,
                 augmentation_factor=50,
                 validation_split=0.2)
@@ -267,6 +269,51 @@ def generate_compare_plot(syms):
     return img
 
 
+def generate_stories():
+    blocks = [["* _greet", "   - utter_greet", "   - action_ask_howcanhelp"],
+              ["* _show_price", "   - action_show_price", "   - utter_restart"],
+              ["* _show_compare", "   - action_show_compare", "   - utter_restart"],
+              ["* _list_stocks", "   - action_list_stocks", "   - utter_restart"]]
+    bin_arr = []
+    bin_str = [0] * len(blocks)
+    for i in range(0, 2 ** len(blocks)):
+        bin_arr.append("".join(map(str, bin_str))[::-1])
+        bin_str[0] += 1
+        # Iterate through entire array if there carrying
+        for j in range(0, len(bin_str) - 1):
+            if bin_str[j] == 2:
+                bin_str[j] = 0
+                bin_str[j + 1] += 1
+                continue
+            else:
+                break
+    ixs = []
+    for b in reversed(bin_arr[1:]):
+        t = []
+        for i in range(len(blocks)):
+            if '1' == b[i]:
+                t.append(i)
+        ixs.append(t)
+    ixs_permuted = []
+    for x in ixs:
+        if len(x) < 2:
+            ixs_permuted.append(x)
+        else:
+            ixs_permuted.extend(permutations(x))
+    counter = 0
+    lines = []
+    for x in ixs_permuted:
+        counter += 1
+        lines.append("## story_%s" % counter)
+        for blk in x:
+            lines.extend(blocks[blk])
+        lines.append("")
+    models_dir = "./models"
+    if not os.path.exists(models_dir):
+        os.makedirs(models_dir)
+    open(os.path.join(models_dir, 'stories.md'), 'w').write('\n'.join(lines))
+
+
 class BotServer(RasaCoreServer):
     def __init__(self, model_directory, nlu_model, verbose, log_file):
         super(BotServer, self).__init__(model_directory, nlu_model, verbose, log_file)
@@ -288,6 +335,8 @@ if __name__ == '__main__':
         run()
     elif "generate-data" == task:
         generate_data(load_price_data())
+    elif "generate-stories" == task:
+        generate_stories()
     elif "server" == task:
         port = 8888
         rasa = BotServer('./models/dialogue', './models/nlu/default/current', True, "./bot.log")

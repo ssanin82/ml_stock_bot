@@ -50,9 +50,16 @@ templates:
     - "Need some help?"
     - "Ready to answer"
   utter_restart:
-    - "Is there anything more that I can help with?"
+    - "Is there anything else that I can help you with?"
     - "Ask me more"
     - "Any more questions?"
+    - "More help?"
+    - "Something else?"
+    - "What else?"
+    - "Try something else"
+    - "I'm ready again"
+    - "Any other help?"
+    - "Ready to answer more"
 
 actions:
   - utter_default

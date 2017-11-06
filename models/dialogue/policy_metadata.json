@@ -1,9 +1,9 @@
 {
   "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "rasa_core": "0.7.3",
   "max_history": 1,
   "policy_names": [
     "rasa_core.policies.memoization.MemoizationPolicy",
     "__main__.TrainPolicy"
-  ],
-  "rasa_core": "0.7.3"
+  ]
 }
