@@ -6,15 +6,19 @@ from utils import *
 
 domain = yaml.load(open('domain.yml').read())
 
+online = True
+
 
 def send_out(msg):
     print("Replying: %s" % msg)
-    #requests.patch('http://hedga.herokuapp.com/bot/', json={"result": msg})
+    if online:
+        requests.patch('http://hedga.herokuapp.com/bot/', json={"result": msg})
 
 
 def send_image(img):
     print("Sending image file: %s" % img)
-    requests.post('http://hedga.herokuapp.com/bot/', files={'media': open(img, 'rb')})
+    if online:
+        requests.post('http://hedga.herokuapp.com/bot/', files={'media': open(img, 'rb')})
 
 
 def print_action(action):
@@ -24,21 +28,22 @@ def print_action(action):
 
 send_out('Listening...')
 while True:
-    """
-    while True:
-        r = requests.get("http://hedga.herokuapp.com/bot/dequeue/")
-        try:
-            jsn = r.json()
-        except Exception as e:
-            print(e)
-            continue
-        print(jsn)
-        if "sentence" in jsn:
-            break
-        time.sleep(0.2)
-    query = jsn["sentence"]
-    """
-    query = input()
+    if online:
+        while True:
+            print("polling...")
+            r = requests.get("http://hedga.herokuapp.com/bot/dequeue/")
+            try:
+                jsn = r.json()
+            except Exception as e:
+                print(e)
+                continue
+            print(jsn)
+            if "sentence" in jsn:
+                break
+            time.sleep(0.5)
+        query = jsn["sentence"]
+    else:
+        query = input()
     r = requests.post('http://localhost:8888/conversations/default/parse', json={"query": query})
 
     jsn = r.json()
@@ -65,8 +70,10 @@ while True:
                 if sym in df.symbol.unique():
                     img = generate_price_plot(sym)
                     send_out("Showing price for %s" % sym)
-                    plt.show()  # TODO remove later
-                    # send_image(img)
+                    if not online:
+                        plt.show()
+                    else:
+                        send_image(img)
                 else:
                     send_out("No price for symbol %s" % sym)
             else:
@@ -93,8 +100,10 @@ while True:
                 else:
                     img = generate_compare_plot([sym1, sym2])
                     send_out("Comparing prices for %s and %s" % (sym1, sym2))
-                    plt.show()  # TODO remove later
-                    # send_image(img)
+                    if not online:
+                        plt.show()
+                    else:
+                        send_image(img)
             print_action('action_ask_howcanhelp')
         elif 'list_stocks' == intent_name:
             df = load_price_data()
