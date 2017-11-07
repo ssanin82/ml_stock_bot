@@ -175,11 +175,6 @@ def run(serve_forever=True):
     return agent
 
 
-class BotServer(RasaCoreServer):
-    def __init__(self, model_directory, nlu_model, verbose, log_file):
-        super(BotServer, self).__init__(model_directory, nlu_model, verbose, log_file)
-
-
 if __name__ == '__main__':
     logging.basicConfig(level="INFO")
     parser = argparse.ArgumentParser(description='starts the bot')
@@ -202,7 +197,7 @@ if __name__ == '__main__':
         generate_stories()
     elif "server" == task:
         port = 8888
-        rasa = BotServer('./models/dialogue', './models/nlu/default/current', True, "./bot.log")
+        rasa = RasaCoreServer('./models/dialogue', './models/nlu/default/current', True, "./bot.log")
         logger.info("Started http server on port %s" % port)
         rasa.app.run("0.0.0.0", port)
     else:
