@@ -10,7 +10,6 @@ intents:
  - show_compare
  - list_stocks
  - exit
- - out_of_scope
 
 entities:
  - stock

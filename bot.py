@@ -16,7 +16,7 @@ from rasa_core.agent import Agent
 from rasa_core.channels.console import ConsoleInputChannel
 from rasa_core.interpreter import RasaNLUInterpreter
 from rasa_core.policies.keras_policy import KerasPolicy
-# from rasa_core.policies.memoization import MemoizationPolicy
+from rasa_core.policies.memoization import MemoizationPolicy
 from rasa_core.server import RasaCoreServer
 
 logger = logging.getLogger(__name__)
@@ -133,8 +133,8 @@ class TrainPolicy(KerasPolicy):
 def train_dialogue(domain_file="domain.yml",
                    model_path="models/dialogue",
                    training_data_file="models/stories.md"):
-    # agent = Agent(domain_file, policies=[MemoizationPolicy(), TrainPolicy()])
-    agent = Agent(domain_file, policies=[TrainPolicy()])
+    agent = Agent(domain_file, policies=[MemoizationPolicy(), TrainPolicy()])
+    # agent = Agent(domain_file, policies=[TrainPolicy()])
     agent.train(training_data_file,
                 max_history=3,
                 epochs=500,
@@ -181,8 +181,7 @@ class BotServer(RasaCoreServer):
 
 
 if __name__ == '__main__':
-    logging.basicConfig(level="DEBUG")
-    # logging.basicConfig(level="INFO")
+    logging.basicConfig(level="INFO")
     parser = argparse.ArgumentParser(description='starts the bot')
     parser.add_argument('task', help="what the bot should do - e.g. run or train?")
     task = parser.parse_args().task
@@ -193,6 +192,9 @@ if __name__ == '__main__':
     elif "train-dialogue" == task:
         train_dialogue()
     elif "run" == task:
+        run()
+    elif "run-debug" == task:  # TODO separate flag
+        logging.basicConfig(level="DEBUG")
         run()
     elif "generate-data" == task:
         generate_data(load_price_data())
