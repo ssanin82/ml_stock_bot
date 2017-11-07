@@ -10,6 +10,8 @@ intents:
  - show_compare
  - list_stocks
  - exit
+ - name
+ - age
 
 entities:
  - stock
@@ -72,6 +74,18 @@ templates:
     - "Bye bye!"
     - "See you next time!"
     - "Stick around!"
+  utter_name:
+    - "I am Stock Bot"
+    - "My name is Stock Bot"
+    - "Stock Bot"
+    - "Stock Bot at your service"
+    - "Stock Bot is my name"
+  utter_age:
+    - "I am 5 minutes old"
+    - "I'm not too old"
+    - "I'm younger than you"
+    - "I'm very young"
+    - "Do you want me to die already?"
 
 actions:
   - utter_default
@@ -83,3 +97,5 @@ actions:
   - bot.ActionShowPrice
   - bot.ActionShowCompare
   - bot.ActionExit
+  - utter_name
+  - utter_age

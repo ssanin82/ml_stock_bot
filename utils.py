@@ -73,8 +73,7 @@ def generate_data(df):
 def load_price_data(syms=None):
     # items = ['symbol'] + (['open', 'close', 'low', 'high'] if not items else items)
     items = ['symbol', 'open']  # XXX only 1 price for now
-    syms = ["AMZN", "BK", "CSCO", "DOW", "EBAY", "FOX",
-            "GOOGL", "HP", "IBM", "JPM", "KMB", "NDAQ"] if not syms else syms
+    syms = ["AMZN", "BK", "EBAY", "GOOGL"] if not syms else syms
     assert(isinstance(syms, list) or isinstance(syms, set) or isinstance(syms, tuple))
     df = pd.read_csv('./stock_data/prices.csv')
     df = df.loc[df['symbol'].isin(syms)].filter(items=(['date'] + items)).head(100)  # XXX 100 last values

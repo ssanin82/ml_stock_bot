@@ -23,12 +23,18 @@ while True:
 
     jsn = r.json()
 
-    if jsn['tracker']['latest_message']['intent']['confidence'] < 0.9:
+    if jsn['tracker']['latest_message']['intent']['confidence'] < 0.85:
         print_action('utter_default')
     else:
         intent_name = jsn['tracker']['latest_message']['intent']['name']
         if 'greet' == intent_name:
             print_action('utter_greet')
+            print_action('action_ask_howcanhelp')
+        elif 'name' == intent_name:
+            print_action('utter_name')
+            print_action('action_ask_howcanhelp')
+        if 'age' == intent_name:
+            print_action('utter_age')
             print_action('action_ask_howcanhelp')
         elif 'show_price' == intent_name:
             sym = jsn['tracker']['slots']['symbol']
