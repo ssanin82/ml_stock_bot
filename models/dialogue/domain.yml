@@ -21,6 +21,7 @@ intents:
 - show_compare
 - list_stocks
 - exit
+- out_of_scope
 slots:
   symbol:
     type: text
@@ -68,7 +69,7 @@ templates:
   - text: Greetings!
   - text: Welcome!
   - text: Long time no see!
-  - text: Come talk to me!
+  - text: Talk to me!
   - text: I'm listening
   - text: Ready to serve you!
   utter_restart:

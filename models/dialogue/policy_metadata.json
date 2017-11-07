@@ -1,8 +1,8 @@
 {
-  "max_history": 3,
   "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
   "policy_names": [
     "__main__.TrainPolicy"
   ],
-  "rasa_core": "0.7.3"
+  "rasa_core": "0.7.3",
+  "max_history": 3
 }

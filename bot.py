@@ -1,3 +1,5 @@
+# Example of passing intents to the bot directly: _show_compare[symbol=AMZN,symbol_compare=BK]
+
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
@@ -16,12 +18,14 @@ import time
 from itertools import permutations
 
 from rasa_core.actions import Action
+# from rasa_core.actions.action import UtterAction
 from rasa_core.agent import Agent
 from rasa_core.channels.console import ConsoleInputChannel
 from rasa_core.interpreter import RasaNLUInterpreter
 from rasa_core.policies.keras_policy import KerasPolicy
-from rasa_core.policies.memoization import MemoizationPolicy
+# from rasa_core.policies.memoization import MemoizationPolicy
 from rasa_core.server import RasaCoreServer
+from rasa_core.processor import MessageProcessor
 
 logger = logging.getLogger(__name__)
 pd.set_option('display.height', 1000)
@@ -177,8 +181,33 @@ def message_preprocessor(msg):
     return msg
 
 
+def on_circuit_break(tracker, dispatcher):
+    pass  # XXX not sure if we need it for now. It is called when max_number_of_predictions is exceeded
+
+
+class CarefulMessageProcessor(MessageProcessor):
+    def handle_message(self, message):
+        return super(CarefulMessageProcessor, self).handle_message(message)
+        #tracker = self._get_tracker(message.sender_id)
+        #if tracker.latest_message.intent.get("confidence") > 0.9:
+        #    return super(CarefulMessageProcessor, self).handle_message(message)
+        #else:
+        #    return {"next_action": None,
+        #            "info": "I did not understand.",
+        #            "tracker": tracker.current_state()}
+
+
+class BotAgent(Agent):
+    def _create_processor(self, preprocessor=None):
+        self._ensure_agent_is_prepared()
+        return CarefulMessageProcessor(self.interpreter, self.policy_ensemble, self.domain, self.tracker_store,
+                                       max_number_of_predictions=2,  # XXX enough for this simple bot
+                                       message_preprocessor=preprocessor,
+                                       on_circuit_break=on_circuit_break)
+
+
 def run(serve_forever=True):
-    agent = Agent.load("models/dialogue", interpreter=RasaNLUInterpreter("models/nlu/default/current"))
+    agent = BotAgent.load("models/dialogue", interpreter=RasaNLUInterpreter("models/nlu/default/current"))
     if serve_forever:
         agent.handle_channel(ConsoleInputChannel(), message_preprocessor)
     return agent

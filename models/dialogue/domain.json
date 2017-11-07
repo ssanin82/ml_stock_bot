@@ -5,6 +5,7 @@
     "intent_show_compare",
     "intent_list_stocks",
     "intent_exit",
+    "intent_out_of_scope",
     "entity_stock",
     "entity_symbol",
     "entity_symbol_compare",

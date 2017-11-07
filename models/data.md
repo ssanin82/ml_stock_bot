@@ -61468,7 +61468,7 @@
 - for a [ndaq](symbol) a price show
 
 
-## intent: show_compare
+## intent:show_compare
 - compare instruments [amzn](symbol) [amzn](symbol_compare)
 - compare stocks [amzn](symbol) [amzn](symbol_compare)
 - compare symbols [amzn](symbol) [amzn](symbol_compare)

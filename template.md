@@ -30,6 +30,6 @@
 {% for s in list_show_stocks %}- {{s}}
 {% endfor %}
 
-## intent: show_compare
+## intent:show_compare
 {% for s in list_compare_stocks %}- {{s}}
 {% endfor %}

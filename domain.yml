@@ -10,6 +10,7 @@ intents:
  - show_compare
  - list_stocks
  - exit
+ - out_of_scope
 
 entities:
  - stock
@@ -36,7 +37,7 @@ templates:
     - "Greetings!"
     - "Welcome!"
     - "Long time no see!"
-    - "Come talk to me!"
+    - "Talk to me!"
     - "I'm listening"
     - "Ready to serve you!"
   action_ask_howcanhelp:
