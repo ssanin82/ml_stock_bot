@@ -1,14 +1,6 @@
 {
-  "hp": "HP",
-  "kmb": "KMB",
-  "bk": "BK",
-  "fox": "FOX",
-  "amzn": "AMZN",
-  "dow": "DOW",
-  "ndaq": "NDAQ",
-  "csco": "CSCO",
-  "jpm": "JPM",
-  "googl": "GOOGL",
   "ebay": "EBAY",
-  "ibm": "IBM"
+  "googl": "GOOGL",
+  "amzn": "AMZN",
+  "msft": "MSFT"
 }

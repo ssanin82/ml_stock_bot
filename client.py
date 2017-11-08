@@ -6,7 +6,7 @@ from utils import *
 
 domain = yaml.load(open('domain.yml').read())
 
-online = False
+online = True
 
 
 def send_out(_id, msgs, img=None):
@@ -88,7 +88,7 @@ while True:
                 if not sym1:
                     lines.append("First symbol not found.")
                 if not sym2:
-                    lines.append("Second symbol not found.")
+                    lines.append("Second symbol not found (first symbol is %s)." % sym1)
             else:
                 sym1, sym2 = sym1.upper(), sym2.upper()
                 df = load_price_data()

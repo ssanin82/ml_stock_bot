@@ -39,7 +39,10 @@ def _generate_show_stocks(df):
     articles = ["", "the", "a"]
     chunks = list()
     chunks.append(["tell me", "tell me about", "show me", "can i see", "what is", "what's", "show"])
-    chunks.append([""] + [("%s %s price" % (a, adj)).strip() for a in articles for adj in ["", "last"]])
+    chunks.append([""] + [("%s %s price%s" % (a, adj, suf)).strip()
+                          for a in articles
+                          for adj in ["", "last"]
+                          for suf in ["", "s"]])
     chunks.append([("%s %s %s [%s](symbol)" % (prep, a, w, s)).strip()
                    for prep in ["", "for"]
                    for a in articles
@@ -50,13 +53,20 @@ def _generate_show_stocks(df):
 
 def _generate_cmp_stocks(df):
     chunks = list()
-    chunks.append(["compare"])
+    chunks.append(["compare", "show me comparison", "show me comparison for"])
     chunks.append(["instruments", "stocks", "symbols", "tickers"])
     chunks.append([("[%s](symbol) %s [%s](symbol_compare)" % (s1, conj, s2)).strip()
                    for s1 in df.symbol.unique()
                    for conj in ["", "and", "with", "vs", "versus", "over"]
                    for s2 in df.symbol.unique()])
-    return _permute_chunks(chunks)
+    res = _permute_chunks(chunks)
+    cmp = ["compare", "show me comparison", "show me comparison for"]
+    inst = ["instrument", "stock", "symbol", "ticker", ""]
+    chunks = [("%s %s [%s](symbol) %s %s [%s](symbol_compare)" % (c, i1, s1, conj, i2, s2)).strip()
+              for c in cmp for i1 in inst for s1 in df.symbol.unique()
+              for conj in ["", "and", "with", "vs", "versus", "over"]
+              for i2 in inst for s2 in df.symbol.unique()]
+    return res + chunks
 
 
 def generate_data(df):
