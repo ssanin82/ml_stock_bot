@@ -18,6 +18,7 @@ from rasa_core.interpreter import RasaNLUInterpreter
 from rasa_core.policies.keras_policy import KerasPolicy
 from rasa_core.policies.memoization import MemoizationPolicy
 from rasa_core.server import RasaCoreServer
+from rasa_nlu.server import check_cors
 
 logger = logging.getLogger(__name__)
 
@@ -175,6 +176,18 @@ def run(serve_forever=True):
     return agent
 
 
+class ResettingServer(RasaCoreServer):
+    def __init__(self, model_directory, nlu_model, verbose, log_file):
+        super(ResettingServer, self).__init__(model_directory, nlu_model, verbose, log_file)
+
+    @RasaCoreServer.app.route("/conversations/reset_slots", methods=['GET', 'POST', 'OPTIONS'])
+    @check_cors
+    def reset_slots(self, request):
+        t = self.agent.tracker_store.get_or_create_tracker('default')  # XXX default only for now
+        for slot in t.slots.values():
+            slot.reset()
+
+
 if __name__ == '__main__':
     logging.basicConfig(level="INFO")
     parser = argparse.ArgumentParser(description='starts the bot')
@@ -197,7 +210,7 @@ if __name__ == '__main__':
         generate_stories()
     elif "server" == task:
         port = 8888
-        rasa = RasaCoreServer('./models/dialogue', './models/nlu/default/current', True, "./bot.log")
+        rasa = ResettingServer('./models/dialogue', './models/nlu/default/current', True, "./bot.log")
         logger.info("Started http server on port %s" % port)
         rasa.app.run("0.0.0.0", port)
     else:

@@ -12,6 +12,7 @@ intents:
  - exit
  - name
  - age
+ - feeling
 
 entities:
  - stock
@@ -22,7 +23,7 @@ templates:
   utter_default:
     - "Not quite clear yet, but please go on..."
     - "I do not understand. Please be clear."
-    - "Not sure about what you just said."
+    - "Not sure about what you've just said."
     - "Can you please clarify?"
     - "I missed the point. Please rephrase your question."
     - "Failed to understand. Try again please."
@@ -51,7 +52,7 @@ templates:
     - "Ask please."
     - "Anything you're interested in?"
     - "Need some help?"
-    - "Ready to answer"
+    - "Ready to answer."
   utter_restart:
     - "Is there anything else that I can help you with?"
     - "Ask me more."
@@ -77,15 +78,30 @@ templates:
   utter_name:
     - "I am Stock Bot."
     - "My name is Stock Bot."
-    - "Stock Bot."
+    - "Stock Bot is my name."
     - "Stock Bot at your service."
     - "Stock Bot is my name."
+    - "Arnold Schwarzenegger"
+    - "Michael Jackson"
+    - "Donald Trump"
+    - "Kim Jong-un"
   utter_age:
     - "I am 5 minutes old."
     - "I'm not too old."
     - "I'm younger than you."
     - "I'm very young."
     - "Do you want me to die already?"
+  utter_feeling:
+    - "I'm good."
+    - "I'm ok."
+    - "I'm fine. Thank you!"
+    - "Better than ever."
+    - "I feel good."
+    - "Not bad."
+    - "Very well."
+    - "I'm happy."
+    - "I feel awesome."
+    - "I am doing fine."
 
 actions:
   - utter_default
@@ -99,3 +115,4 @@ actions:
   - bot.ActionExit
   - utter_name
   - utter_age
+  - utter_feeling

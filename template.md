@@ -80,3 +80,25 @@
 - were you born long ago
 - tell me when you were born
 - tell me whether you are young or old
+
+## intent:feeling
+- how are you
+- are you ok
+- how do you feel
+- do you feel good
+- do you feel fine
+- do you feel ok
+- are you fine
+- are you ok
+- how are you doing
+- how do you do
+- what's up
+- tell me how you feel
+- what is your mood
+- is your mood ok
+- is your mood fine
+- is your mood good
+- tell me are you ok
+- tell me are you good
+- tell me are you fine
+- are you doing good

@@ -21,16 +21,17 @@ def new_image_name():
 def _permute_chunks(chunks):
     assert len(chunks) == 3
     return [' '.join([c1, c2, c3]).replace('  ', ' ').strip().lower()
-            for p in permutations([0, 1, 2])
+            # for p in permutations([0, 1, 2])
+            for p in [[0, 1, 2]]
             for c3 in chunks[p[2]] for c2 in chunks[p[1]] for c1 in chunks[p[0]]]
 
 
 def _generate_list_stocks():
     articles = ["", "the"]
-    syms_synonyms = ["instruments", "stocks", "symbols", "tickers", "what you got", "what you have", "inventory",
-                     "items"]
+    syms_synonyms = ["instruments", "stocks", "symbols", "tickers", "what you got", "what you have",
+                     "inventory", "items"]
     action = ["list", "show me", "i want to see", "i want you to show me", "show me", "please list", "what are",
-              "what are the", "can i see", "how about"]
+              "what are the", "can i see", "how about", "give me"]
     return _permute_chunks([action, articles, syms_synonyms])
 
 
@@ -38,7 +39,7 @@ def _generate_show_stocks(df):
     articles = ["", "the", "a"]
     chunks = list()
     chunks.append(["tell me", "tell me about", "show me", "can i see", "what is", "what's", "show"])
-    chunks.append([""] + [("%s price" % a).strip() for a in articles])
+    chunks.append([""] + [("%s %s price" % (a, adj)).strip() for a in articles for adj in ["", "last"]])
     chunks.append([("%s %s %s [%s](symbol)" % (prep, a, w, s)).strip()
                    for prep in ["", "for"]
                    for a in articles
@@ -73,7 +74,7 @@ def generate_data(df):
 def load_price_data(syms=None):
     # items = ['symbol'] + (['open', 'close', 'low', 'high'] if not items else items)
     items = ['symbol', 'open']  # XXX only 1 price for now
-    syms = ["AMZN", "BK", "EBAY", "GOOGL"] if not syms else syms
+    syms = ["AMZN", "MSFT", "EBAY", "GOOGL"] if not syms else syms
     assert(isinstance(syms, list) or isinstance(syms, set) or isinstance(syms, tuple))
     df = pd.read_csv('./stock_data/prices.csv')
     df = df.loc[df['symbol'].isin(syms)].filter(items=(['date'] + items)).head(100)  # XXX 100 last values

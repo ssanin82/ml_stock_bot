@@ -6,16 +6,7 @@ from utils import *
 
 domain = yaml.load(open('domain.yml').read())
 
-online = True
-
-"""
-#requests.patch('http://hedga.herokuapp.com/bot/api/requests/54/', json={"result": ['123', '456']})
-#requests.patch('http://hedga.herokuapp.com/bot/api/requests/54/', json={"result": '456'})
-requests.request('PATCH', 'http://hedga.herokuapp.com/bot/api/requests/3/',
-                 files = {'file': open('static/img.png', 'rb')},
-                 data={"result": 'answer12346'})
-sys.exit(1)
-"""
+online = False
 
 
 def send_out(_id, msgs, img=None):
@@ -35,16 +26,12 @@ def action_to_repl(action):
 
 
 print('Listening...')
-_id = 0
-while _id < 65:
-#while True:
-    #_id = -1
-    _id += 1
+while True:
+    _id = -1
     if online:
         while True:
             print("polling...")
-            #r = requests.get("http://hedga.herokuapp.com/bot/dequeue")
-            r = requests.get("http://hedga.herokuapp.com/bot/api/requests/%d/" % _id)
+            r = requests.get("http://hedga.herokuapp.com/bot/dequeue")
             try:
                 jsn = r.json()
             except Exception as e:
@@ -58,6 +45,8 @@ while _id < 65:
         _id = jsn['id']
     else:
         query = input()
+    # TODO does this resetting really work? Try "show stock AMZN" followed by "show stock zzzzzz"
+    requests.get('http://localhost:8888/conversations/reset_slots')
     r = requests.post('http://localhost:8888/conversations/default/parse', json={"query": query})
 
     jsn = r.json()
@@ -70,8 +59,10 @@ while _id < 65:
             send_out(_id, [action_to_repl('utter_greet'), action_to_repl('action_ask_howcanhelp')])
         elif 'name' == intent_name:
             send_out(_id, [action_to_repl('utter_name'), action_to_repl('action_ask_howcanhelp')])
-        if 'age' == intent_name:
+        elif 'age' == intent_name:
             send_out(_id, [action_to_repl('utter_age'), action_to_repl('action_ask_howcanhelp')])
+        elif 'feeling' == intent_name:
+            send_out(_id, [action_to_repl('utter_feeling'), action_to_repl('action_ask_howcanhelp')])
         elif 'show_price' == intent_name:
             img, lines = None, []
             sym = jsn['tracker']['slots']['symbol']
