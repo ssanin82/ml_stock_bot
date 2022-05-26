@@ -94,7 +94,7 @@ spacy==1.9.0
 Sphinx==1.6.5
 sphinxcontrib-websupport==1.0.1
 tabulate==0.8.1
-tensorflow==1.1.0
+tensorflow==2.7.2
 tensorflow-tensorboard==0.4.0rc2
 termcolor==1.1.0
 testpath==0.3.1
