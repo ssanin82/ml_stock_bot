@@ -31,7 +31,7 @@ gevent==1.2.1
 graphviz==0.7.1
 greenlet==0.4.12
 h5py==2.7.0
-html5lib==0.9999999
+html5lib==0.99999999
 hyperlink==17.3.1
 idna==2.6
 imagesize==0.7.1
